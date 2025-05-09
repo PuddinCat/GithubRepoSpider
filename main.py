@@ -1,0 +1,39 @@
+import httpx
+import os
+from datetime import datetime
+import asyncio
+
+# Replace with your GitHub personal access token
+GITHUB_TOKEN = os.environ["GITHUB_API_TOKEN"]
+GITHUB_API_URL = "https://api.github.com/search/repositories"
+
+
+async def search_github_repositories(query, sort="stars", order="desc"):
+    headers = {
+        "Authorization": f"token {GITHUB_TOKEN}",
+        "Accept": "application/vnd.github.v3+json",
+    }
+    params = {"q": query, "sort": sort, "order": order}
+    async with httpx.AsyncClient() as client:
+        resp = await client.get(GITHUB_API_URL, headers=headers, params=params)
+        if resp.status_code == 200:
+            return resp.json()
+        else:
+            print(f"Error: {resp.status_code}, {resp.text}")
+            return None
+
+
+async def main():
+    query = input("Enter search query: ")
+    results = await search_github_repositories(query)
+    if results:
+        for repo in results.get("items", []):
+            created_at = datetime.strptime(repo["created_at"], "%Y-%m-%dT%H:%M:%SZ")
+            print(
+                f"Name: {repo['name']}, Stars: {repo['stargazers_count']}, "
+                f"URL: {repo['html_url']}, Created At: {created_at}"
+            )
+
+
+if __name__ == "__main__":
+    asyncio.run(main())
