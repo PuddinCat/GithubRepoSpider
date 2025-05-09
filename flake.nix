@@ -26,7 +26,7 @@
         in
         {
           default = pkgs.mkShellNoCC {
-            venvDir = ".venv";
+            venvDir = "/tmp/venv-githubrepospider";
 
             postShellHook = ''
               venvVersionWarn() {
