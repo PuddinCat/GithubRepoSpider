@@ -48,6 +48,7 @@
               python.pkgs.venvShellHook
               python.pkgs.pip
               python.pkgs.httpx
+              python.pkgs.jsonschema
             ];
           };
         });
