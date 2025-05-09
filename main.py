@@ -93,8 +93,19 @@ async def main():
     found_repos.update(new_repos)
 
     repos_content = ""
-    for repo_id, repo in new_repos.items():
+    three_days_ago = datetime.now() - timedelta(days=3)
+    sorted_repos = sorted(
+        found_repos.items(),
+        key=lambda item: datetime.strptime(
+            item[1]["repo_data"]["created_at"], "%Y-%m-%dT%H:%M:%SZ"
+        ),
+        reverse=True,
+    )
+    for repo_id, repo in sorted_repos:
         repo_data = repo["repo_data"]
+        created_at = datetime.strptime(repo_data["created_at"], "%Y-%m-%dT%H:%M:%SZ")
+        if created_at <= three_days_ago:
+            continue
         repos_content += f"## {repo_id}\n\n"
         repos_content += f"**介绍:** {repo_data['description']}\n\n"
         repos_content += f"**地址:** {repo_data['html_url']}\n\n"
