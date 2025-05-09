@@ -41,8 +41,9 @@ async def main():
         for repo in results["items"]:
             created_at = datetime.strptime(repo["created_at"], "%Y-%m-%dT%H:%M:%SZ")
             print(
-                f"Name: {repo['name']}, Stars: {repo['stargazers_count']}, "
-                f"URL: {repo['html_url']}, Created At: {created_at}"
+                f"Name: {repo['name']}, Author: {repo['owner']['login']}, "
+                f"Stars: {repo['stargazers_count']}, Created At: {created_at}, "
+                f"Description: {repo['description']}"
             )
 
 
