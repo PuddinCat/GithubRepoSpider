@@ -144,6 +144,7 @@ async def main():
         if created_at <= three_days_ago:
             continue
         repos_content += f"## {repo_id}\n\n"
+        repos_content += f"**关键字** {repo['keyword']}\n\n"
         repos_content += f"**介绍:** {repo_data['description']}\n\n"
         repos_content += f"**地址:** {repo_data['html_url']}\n\n"
         repos_content += "---\n\n"
