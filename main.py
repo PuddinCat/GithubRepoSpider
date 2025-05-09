@@ -1,16 +1,25 @@
-import os
+from pathlib import Path
 from datetime import datetime, timedelta
 import asyncio
+import os
+import json
 
 import jsonschema
 import httpx
 
 from search_response_scheme import JSON_SCHEMA
+from typing import TypedDict, List, Dict, Any
 
 
 # Replace with your GitHub personal access token
 GITHUB_TOKEN = os.environ["GITHUB_API_TOKEN"]
 GITHUB_API_URL = "https://api.github.com/search/repositories"
+
+
+class FoundRepo(TypedDict):
+    repo_id: str
+    repo_data: Dict[str, Any]
+    keyword: str
 
 
 async def search_github_repositories(query, sort="stars", order="desc", pages=5):
@@ -53,27 +62,54 @@ async def search_github_repositories(query, sort="stars", order="desc", pages=5)
 
 
 async def main():
+
+    found_repos: Dict[str, FoundRepo] = {}
+    if Path("found_repos.json").exists():
+        found_repos = json.loads(Path("found_repos.json").read_text(encoding="utf-8"))
+
     keywords = [
         "CVE-2025",
     ]
-    created_time_since = (datetime.now() - timedelta(days=2)).strftime("%Y-%m-%d")
+    created_time_since = (datetime.now() - timedelta(days=5)).strftime("%Y-%m-%d")
     search_results = await asyncio.gather(
         *[
             search_github_repositories(f"{keyword} created:>{created_time_since}")
             for keyword in keywords
         ]
     )
-    for keyword, repos in zip(keywords, search_results):
-        if not repos:
-            print(f"Search {keyword} failed")
-            continue
-        for repo in repos:
-            created_at = datetime.strptime(repo["created_at"], "%Y-%m-%dT%H:%M:%SZ")
-            print(
-                f"Name: {repo['name']}, Author: {repo['owner']['login']}, "
-                f"Stars: {repo['stargazers_count']}, Created At: {created_at}, "
-                f"Description: {repo['description']}"
-            )
+
+    new_repos_list: List[FoundRepo] = [
+        {
+            "repo_id": f"{repo['owner']['login']}/{repo['name']}",
+            "repo_data": repo,
+            "keyword": keyword,
+        }
+        for keyword, repos in zip(keywords, search_results)
+        if repos
+        for repo in repos
+        if f"{repo['owner']['login']}/{repo['name']}" not in found_repos
+    ]
+    new_repos = {repo["repo_id"]: repo for repo in new_repos_list}
+    found_repos.update(new_repos)
+
+    repos_content = ""
+    for repo_id, repo in new_repos.items():
+        repo_data = repo["repo_data"]
+        repos_content += f"## {repo_id}\n\n"
+        repos_content += f"**介绍:** {repo_data['description']}\n\n"
+        repos_content += f"**地址:** {repo_data['html_url']}\n\n"
+        repos_content += "---\n\n"
+
+    readme_content = (
+        Path("readme_template.md")
+        .read_text(encoding="utf-8")
+        .format(repos=repos_content)
+    )
+
+    Path("README.md").write_text(readme_content, encoding="utf-8")
+
+    with open("found_repos.json", "w", encoding="utf-8") as json_file:
+        json.dump(found_repos, json_file, indent=4, ensure_ascii=False)
 
 
 if __name__ == "__main__":
