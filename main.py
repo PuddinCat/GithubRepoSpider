@@ -3,17 +3,23 @@ from datetime import datetime, timedelta
 import asyncio
 import os
 import json
+import time
+import random
 
 import jsonschema
 import httpx
 
-from search_response_scheme import JSON_SCHEMA
+from const import JSON_SCHEMA, KEYWORDS
 from typing import TypedDict, List, Dict, Any
 
 
 # Replace with your GitHub personal access token
 GITHUB_TOKEN = os.environ["GITHUB_API_TOKEN"]
 GITHUB_API_URL = "https://api.github.com/search/repositories"
+
+MIN_REQUEST_INTERVAL = 0.1
+last_request_time_lock = asyncio.Lock()
+last_request_time = 0
 
 
 class FoundRepo(TypedDict):
@@ -22,7 +28,39 @@ class FoundRepo(TypedDict):
     keyword: str
 
 
-async def search_github_repositories(query, sort="stars", order="desc", pages=5):
+async def query_github(
+    client: httpx.AsyncClient,
+    headers: dict,
+    query: str,
+    sort: str,
+    order: str,
+    page: int,
+):
+    global last_request_time
+    while True:
+        duration = time.perf_counter() - last_request_time
+        if duration < MIN_REQUEST_INTERVAL:
+            await asyncio.sleep(MIN_REQUEST_INTERVAL - duration)
+            continue
+
+        async with last_request_time_lock:
+            last_request_time = time.perf_counter()
+            break
+
+    return await client.get(
+        GITHUB_API_URL,
+        headers=headers,
+        params={
+            "q": query,
+            "sort": sort,
+            "order": order,
+            "page": page,
+            "per_page": 30,
+        },
+    )
+
+
+async def search_github_repositories(query, sort="stars", order="desc", pages=3):
     headers = {
         "Authorization": f"token {GITHUB_TOKEN}",
         "Accept": "application/vnd.github.v3+json",
@@ -31,16 +69,13 @@ async def search_github_repositories(query, sort="stars", order="desc", pages=5)
     async with httpx.AsyncClient() as client:
         resps = await asyncio.gather(
             *[
-                client.get(
-                    GITHUB_API_URL,
+                query_github(
+                    client=client,
                     headers=headers,
-                    params={
-                        "q": query,
-                        "sort": sort,
-                        "order": order,
-                        "page": page,
-                        "per_page": 30,
-                    },
+                    query=query,
+                    sort=sort,
+                    order=order,
+                    page=page,
                 )
                 for page in range(1, pages + 1)
             ]
@@ -67,9 +102,8 @@ async def main():
     if Path("found_repos.json").exists():
         found_repos = json.loads(Path("found_repos.json").read_text(encoding="utf-8"))
 
-    keywords = [
-        "CVE-2025",
-    ]
+    keywords = random.sample(KEYWORDS, 5)
+
     created_time_since = (datetime.now() - timedelta(days=5)).strftime("%Y-%m-%d")
     search_results = await asyncio.gather(
         *[
