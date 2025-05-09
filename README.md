@@ -4,11 +4,59 @@
 
 ## 最新仓库
 
-## RoyalMew/GoGuardian-Bypass
+## Abhi-123-new/Red-Team-Vs-Blue-Team-AI-Simulation
+
+**介绍:** AI-Driven Red Team vs Blue Team AI simulation tool
+
+**地址:** https://github.com/Abhi-123-new/Red-Team-Vs-Blue-Team-AI-Simulation
+
+---
+
+## DeathOFive/CVE-SCAN-IT
+
+**介绍:** I know that it is a pain in the butt, but aligning this code with your payload via duckyscript 3.0 will make you and your IT usb a superpower, checking for known malware/spyware in seconds!
+
+**地址:** https://github.com/DeathOFive/CVE-SCAN-IT
+
+---
+
+## Aiyakami/CVE-1
 
 **介绍:** None
 
-**地址:** https://github.com/RoyalMew/GoGuardian-Bypass
+**地址:** https://github.com/Aiyakami/CVE-1
+
+---
+
+## steveopen1/FieldExtractor-X
+
+**介绍:** 这是一款支持多源数据整合的工具，可批量处理 CSV/XLSX 文件，通过自定义字段映射、数据清洗和去重功能，将不同数据源的同类字段自动归类并提取为独立 TXT 文件，适用于渗透测试、信息收集等场景。
+
+**地址:** https://github.com/steveopen1/FieldExtractor-X
+
+---
+
+## Kuhmpel/poc
+
+**介绍:** None
+
+**地址:** https://github.com/Kuhmpel/poc
+
+---
+
+## amandeep-2004/lightweight-anti-cheat-PoC
+
+**介绍:** None
+
+**地址:** https://github.com/amandeep-2004/lightweight-anti-cheat-PoC
+
+---
+
+## Lokidres/webshells
+
+**介绍:** None
+
+**地址:** https://github.com/Lokidres/webshells
 
 ---
 
@@ -20,11 +68,35 @@
 
 ---
 
+## demoouh855/pocouh855
+
+**介绍:** None
+
+**地址:** https://github.com/demoouh855/pocouh855
+
+---
+
+## s2phoenix/POCBankService
+
+**介绍:** None
+
+**地址:** https://github.com/s2phoenix/POCBankService
+
+---
+
 ## vyyvvuvvuvuvyuvvuvyuvy/burp-clicker-game
 
 **介绍:** burrrrrrpprpprrp!!!!!!!!!!!!!!!!!
 
 **地址:** https://github.com/vyyvvuvvuvuvyuvvuvyuvy/burp-clicker-game
+
+---
+
+## webzzaa/cvetest
+
+**介绍:** cve说明
+
+**地址:** https://github.com/webzzaa/cvetest
 
 ---
 
@@ -36,11 +108,35 @@
 
 ---
 
-## sandraiftpk/prfnechkrn
+## fyysikkokilta/fk-web
 
-**介绍:** Unlock seamless Netflix access with our fast, reliable proxy checker! Instantly verify proxies for smooth streaming, bypass geo-blocks, and enjoy your favorite shows anywhere—get started now!
+**介绍:** PoC for a new website of the Guild of Physics
 
-**地址:** https://github.com/sandraiftpk/prfnechkrn
+**地址:** https://github.com/fyysikkokilta/fk-web
+
+---
+
+## aofvalley/poc-databricks-entraid-howto
+
+**介绍:** None
+
+**地址:** https://github.com/aofvalley/poc-databricks-entraid-howto
+
+---
+
+## shinobijon/BlueTeamNotes
+
+**介绍:** Security Analyst Notes
+
+**地址:** https://github.com/shinobijon/BlueTeamNotes
+
+---
+
+## yousifwalid/Apache-Kafka
+
+**介绍:** POC  
+
+**地址:** https://github.com/yousifwalid/Apache-Kafka
 
 ---
 
@@ -52,11 +148,11 @@
 
 ---
 
-## Radir4k2/Burpsuite-extension-to-analyze-HTTP-request-with-AI
+## TJlinx/cve
 
 **介绍:** None
 
-**地址:** https://github.com/Radir4k2/Burpsuite-extension-to-analyze-HTTP-request-with-AI
+**地址:** https://github.com/TJlinx/cve
 
 ---
 
@@ -68,6 +164,14 @@
 
 ---
 
+## Radir4k2/Burpsuite-extension-to-analyze-HTTP-request-with-AI
+
+**介绍:** None
+
+**地址:** https://github.com/Radir4k2/Burpsuite-extension-to-analyze-HTTP-request-with-AI
+
+---
+
 ## larbi67/WAF-XSS-Bypass
 
 **介绍:** A curated list of obfuscation and encoding techniques used to evade Web Application Firewalls (WAF) in Cross-Site Scripting (XSS) attacks. Includes real-world examples, payload structures, and bypass strategies for red teamers, pentesters, and security researchers.
@@ -76,27 +180,51 @@
 
 ---
 
-## XeondoBypass/XeondoBypass
+## DuongHaoNika/mcp-elasticsearch-cve
 
-**介绍:** Config files for my GitHub profile.
+**介绍:** None
 
-**地址:** https://github.com/XeondoBypass/XeondoBypass
-
----
-
-## SeedOfYggdrasil/bypass_throttle
-
-**介绍:** Bypass mobile hotspot throttle (proof of concept) 
-
-**地址:** https://github.com/SeedOfYggdrasil/bypass_throttle
+**地址:** https://github.com/DuongHaoNika/mcp-elasticsearch-cve
 
 ---
 
-## Ciwjsivic/403-bypass
+## chenshiyi007/orange-sec-kit
 
-**介绍:** do not use for iligal work 
+**介绍:** 一站式漏洞处置，助力安全工作者高效解决漏洞验证与报告交付
 
-**地址:** https://github.com/Ciwjsivic/403-bypass
+**地址:** https://github.com/chenshiyi007/orange-sec-kit
+
+---
+
+## vinodbhatt83/innvestai
+
+**介绍:** POC
+
+**地址:** https://github.com/vinodbhatt83/innvestai
+
+---
+
+## paulchi-intel/mcp-server-igcl-poc
+
+**介绍:** A PoC of MCP Server for IGCL
+
+**地址:** https://github.com/paulchi-intel/mcp-server-igcl-poc
+
+---
+
+## syaifulandy/CVE-2024-38475
+
+**介绍:** CVE-2024-38475 Scanner using FFUF + Seclists
+
+**地址:** https://github.com/syaifulandy/CVE-2024-38475
+
+---
+
+## hl0nely/NSSA
+
+**介绍:** 毕业设计之基于时间序列的网络战场安全态势预测的设计与实现
+
+**地址:** https://github.com/hl0nely/NSSA
 
 ---
 
@@ -116,43 +244,59 @@
 
 ---
 
-## tall1dis/Luna-Executor
+## xishir/cve-mcp-server
 
-**介绍:** Lunar Executor is a tool for executing custom scripts within Roblox, providing users with the ability to exploit and modify game features.
+**介绍:** A Model Context Protocol server providing CVE vulnerability information query capabilities. This server enables LLMs to query detailed information for specific CVE IDs, retrieving data from MITRE's CVE database.
 
-**地址:** https://github.com/tall1dis/Luna-Executor
-
----
-
-## QingfengBetter/rs_pass_all
-
-**介绍:** 瑞数加密通杀方案，免去补环境，通杀瑞数当前以及未来版本；
-
-**地址:** https://github.com/QingfengBetter/rs_pass_all
+**地址:** https://github.com/xishir/cve-mcp-server
 
 ---
 
-## l0sha1n/FiveM-External-Cheat
-
-**介绍:** FiveM External cheat, offers various features like aimbot, triggerbot, exploits, and customizable settings, enhancing the gameplay experience. It is completely undetectable.
-
-**地址:** https://github.com/l0sha1n/FiveM-External-Cheat
-
----
-
-## Abhi-123-new/ARYA
-
-**介绍:** RED TEAM VS BLUE TEAM AI SIMULATION TOOL
-
-**地址:** https://github.com/Abhi-123-new/ARYA
-
----
-
-## eman225511/browser-bypass
+## HamzaSahin61/TrustyKeymaster-Shellcode-Persistence-Exploit
 
 **介绍:** None
 
-**地址:** https://github.com/eman225511/browser-bypass
+**地址:** https://github.com/HamzaSahin61/TrustyKeymaster-Shellcode-Persistence-Exploit
+
+---
+
+## ShreyaGavali/PocketNotes
+
+**介绍:** None
+
+**地址:** https://github.com/ShreyaGavali/PocketNotes
+
+---
+
+## GOVINDARAJLE/CVE
+
+**介绍:** None
+
+**地址:** https://github.com/GOVINDARAJLE/CVE
+
+---
+
+## spica5/cve-record2
+
+**介绍:** None
+
+**地址:** https://github.com/spica5/cve-record2
+
+---
+
+## d2ev/poc
+
+**介绍:** None
+
+**地址:** https://github.com/d2ev/poc
+
+---
+
+## LucianoJohnPucci/PocketPM
+
+**介绍:** Project Mgmt Ai App Rev1
+
+**地址:** https://github.com/LucianoJohnPucci/PocketPM
 
 ---
 
@@ -161,6 +305,14 @@
 **介绍:** Security testing project using DVWA, Burp Suite, SQLMap
 
 **地址:** https://github.com/indefiniteabhi/FUTURE_CS_01
+
+---
+
+## sphinx-notes/poc
+
+**介绍:** Proof of concepts of some ideas about extending Sphinx
+
+**地址:** https://github.com/sphinx-notes/poc
 
 ---
 
@@ -188,6 +340,22 @@
 
 ---
 
+## CentyLab/PocketPD_HW
+
+**介绍:** Hardware repo for PocketPD
+
+**地址:** https://github.com/CentyLab/PocketPD_HW
+
+---
+
+## shraeder/PocketDimension
+
+**介绍:** A spigot plugin for storing junk blocks in an easy to use inventory
+
+**地址:** https://github.com/shraeder/PocketDimension
+
+---
+
 ## sathi2/Batch-Malware-Builder-FUD-Crypter-AV-UAC-Bypass
 
 **介绍:** Crypter hides malware with encryption, often providing FUD features. Tools like crypter FUD or batch FUD ensure undetected execution. Obfuscation bypasses antivirus and Windows Defender. Batch malware, trojans, and stealers are built using specialized tools.
@@ -196,19 +364,43 @@
 
 ---
 
-## eman225511/Bypass2
+## iGGbondTC/cve
 
 **介绍:** None
 
-**地址:** https://github.com/eman225511/Bypass2
+**地址:** https://github.com/iGGbondTC/cve
 
 ---
 
-## melvin123gp/westbound-bypass-hub
+## WuYanneko/CVE
 
 **介绍:** None
 
-**地址:** https://github.com/melvin123gp/westbound-bypass-hub
+**地址:** https://github.com/WuYanneko/CVE
+
+---
+
+## KTN1990/CVE-2024-13513
+
+**介绍:** Oliver POS – A WooCommerce Point of Sale (POS) <= 2.4.2.3 - Sensitive Information Exposure to Privilege Escalation
+
+**地址:** https://github.com/KTN1990/CVE-2024-13513
+
+---
+
+## jyjungpb/RMS-POC
+
+**介绍:** RMS-POC
+
+**地址:** https://github.com/jyjungpb/RMS-POC
+
+---
+
+## wifirapist/Hvvf
+
+**介绍:** None
+
+**地址:** https://github.com/wifirapist/Hvvf
 
 ---
 
@@ -228,27 +420,27 @@
 
 ---
 
-## ahmed2007gg/telegram_bypass_bot
+## Lynk4/Exploit-Development
 
-**介绍:** None
+**介绍:** 🛠️ Exploit Development: This repository is a curated collection of low-level exploit examples and shellcode execution techniques. It is designed for cybersecurity researchers, reverse engineers, and students interested in understanding how raw shellcode is constructed, injected, and executed in real environments.
 
-**地址:** https://github.com/ahmed2007gg/telegram_bypass_bot
-
----
-
-## eman225511/Bypass
-
-**介绍:** None
-
-**地址:** https://github.com/eman225511/Bypass
+**地址:** https://github.com/Lynk4/Exploit-Development
 
 ---
 
-## thangdevalone/cursor-bypass
+## Shinigami81/KQL-Blue-Team-Hunting-Analysis-Cheat-Sheet
 
-**介绍:** None
+**介绍:** A simple cheat sheet of KQL for blue team
 
-**地址:** https://github.com/thangdevalone/cursor-bypass
+**地址:** https://github.com/Shinigami81/KQL-Blue-Team-Hunting-Analysis-Cheat-Sheet
+
+---
+
+## ianrelecker/CVE-Processor
+
+**介绍:** A vulnerability management and reporting system that fetches data from the National Vulnerability Database (NVD) API, processes it, and generates detailed security reports using AI. The system has been refactored into a serverless architecture using Azure Functions.
+
+**地址:** https://github.com/ianrelecker/CVE-Processor
 
 ---
 
@@ -260,59 +452,11 @@
 
 ---
 
-## m00ndiety/Anti-cheat-bypass-v2
+## SetropLeo/POC-SOCKET
 
-**介绍:** None
+**介绍:** [POC] SOCKET.IO
 
-**地址:** https://github.com/m00ndiety/Anti-cheat-bypass-v2
-
----
-
-## AlwaysAError/Fork-Of-bytexenon
-
-**介绍:** This is a fork of bytexenon 's guild generating server. This is simply updated to the latest rate limit settings and does not have my rate limit bypass or enforce beta test.
-
-**地址:** https://github.com/AlwaysAError/Fork-Of-bytexenon
-
----
-
-## Achraf012/exploit-rebuilds-achraf
-
-**介绍:** Weekly rebuilds of real smart contract exploits using Foundry. Learn from actual bugs, with tests, fixes, and explanations. Follow along and level up your Web3 security skills
-
-**地址:** https://github.com/Achraf012/exploit-rebuilds-achraf
-
----
-
-## iam-dhruvv/bypass1
-
-**介绍:** None
-
-**地址:** https://github.com/iam-dhruvv/bypass1
-
----
-
-## yousufcodemaster/Windows-Login-Screen-Bypass
-
-**介绍:** Windows-Login-Screen-Bypass without any password reset or getting logged out of any app specially whatsapp
-
-**地址:** https://github.com/yousufcodemaster/Windows-Login-Screen-Bypass
-
----
-
-## natedemoss/Contribution-chart-exploit
-
-**介绍:** Education purposes only
-
-**地址:** https://github.com/natedemoss/Contribution-chart-exploit
-
----
-
-## balazsbencs/attiny-pedal-bypass
-
-**介绍:** None
-
-**地址:** https://github.com/balazsbencs/attiny-pedal-bypass
+**地址:** https://github.com/SetropLeo/POC-SOCKET
 
 ---
 
@@ -324,27 +468,27 @@
 
 ---
 
-## gustavokurtz/phantom-buster-bypass
+## Mebrahem1/poc
 
 **介绍:** None
 
-**地址:** https://github.com/gustavokurtz/phantom-buster-bypass
+**地址:** https://github.com/Mebrahem1/poc
 
 ---
 
-## iam-dhruvv/bypass-
+## yuli-ferna/poc
 
 **介绍:** None
 
-**地址:** https://github.com/iam-dhruvv/bypass-
+**地址:** https://github.com/yuli-ferna/poc
 
 ---
 
-## Walvy404/bypass-walvy
+## avikadam/pocs
 
-**介绍:** None
+**介绍:** pocs
 
-**地址:** https://github.com/Walvy404/bypass-walvy
+**地址:** https://github.com/avikadam/pocs
 
 ---
 
@@ -356,51 +500,35 @@
 
 ---
 
-## Soldy/exploit-collection
+## srvinu/buildervault-nyx
 
-**介绍:** None
+**介绍:** buildervault poc
 
-**地址:** https://github.com/Soldy/exploit-collection
-
----
-
-## ShriBhagawat/RootBypass
-
-**介绍:** None
-
-**地址:** https://github.com/ShriBhagawat/RootBypass
+**地址:** https://github.com/srvinu/buildervault-nyx
 
 ---
 
-## NamaClau/Custom-Multiple-Bypass
+## CS-O/cvent
 
 **介绍:** None
 
-**地址:** https://github.com/NamaClau/Custom-Multiple-Bypass
+**地址:** https://github.com/CS-O/cvent
 
 ---
 
-## potatokingz/BypassFamilyLink
+## pestafford/patchbrief
 
-**介绍:** None
+**介绍:** Automated CVE briefing with remediation steps
 
-**地址:** https://github.com/potatokingz/BypassFamilyLink
-
----
-
-## avx-rmane/protobuf-orion
-
-**介绍:** This repo contains Burp Suite extension for manipulating protobuf data. 
-
-**地址:** https://github.com/avx-rmane/protobuf-orion
+**地址:** https://github.com/pestafford/patchbrief
 
 ---
 
-## abtalha/Login-page-bypass-
+## ssssota/typed-imports-unknown-modules
 
-**介绍:** None
+**介绍:** PoC
 
-**地址:** https://github.com/abtalha/Login-page-bypass-
+**地址:** https://github.com/ssssota/typed-imports-unknown-modules
 
 ---
 
@@ -420,11 +548,27 @@
 
 ---
 
-## HazoKu/UAC-Bypass-FUD
+## MarkJhon-Obias/webshell
 
-**介绍:** UAC bypass, Elevate, Persistence methods
+**介绍:** None
 
-**地址:** https://github.com/HazoKu/UAC-Bypass-FUD
+**地址:** https://github.com/MarkJhon-Obias/webshell
+
+---
+
+## tfasanya79/siem-log-analysis-lab
+
+**介绍:** End-to-end SIEM setup and Blue Team automation using Wazuh, Winlogbeat, Linux logs, and scripting tools.
+
+**地址:** https://github.com/tfasanya79/siem-log-analysis-lab
+
+---
+
+## susan232/CVE-EXERCISE
+
+**介绍:** None
+
+**地址:** https://github.com/susan232/CVE-EXERCISE
 
 ---
 
@@ -436,11 +580,35 @@
 
 ---
 
+## adminnerr/php_shell
+
+**介绍:** php webshell&file_manager
+
+**地址:** https://github.com/adminnerr/php_shell
+
+---
+
+## egorburahek/Hakatun-s_cvest
+
+**介绍:** None
+
+**地址:** https://github.com/egorburahek/Hakatun-s_cvest
+
+---
+
 ## cybersleuth2/AI_RedTeam
 
 **介绍:** None
 
 **地址:** https://github.com/cybersleuth2/AI_RedTeam
+
+---
+
+## luisfabiosm/POC-MyBank
+
+**介绍:** Projeto de Teste de uns conceitos e uso do Template de API
+
+**地址:** https://github.com/luisfabiosm/POC-MyBank
 
 ---
 
@@ -452,6 +620,14 @@
 
 ---
 
+## n0d0n/CVE-2024-6648
+
+**介绍:** None
+
+**地址:** https://github.com/n0d0n/CVE-2024-6648
+
+---
+
 ## Xor290/Bypass-AV
 
 **介绍:** ce programme est une chaine de bypass pour Bypass la plus part des antivirus comme Windows Defender Kaspersky MalwareBytes etc
@@ -460,27 +636,83 @@
 
 ---
 
-## qadagishvili/fe-bypassor
+## RyelHunter/poc
 
 **介绍:** None
 
-**地址:** https://github.com/qadagishvili/fe-bypassor
+**地址:** https://github.com/RyelHunter/poc
 
 ---
 
-## qadagishvili/Fe-bypass
+## dominiksipowicz/poc-turbo-schadcn-multi-zone
 
-**介绍:** this script cntains obfuscated scripts
+**介绍:** None
 
-**地址:** https://github.com/qadagishvili/Fe-bypass
+**地址:** https://github.com/dominiksipowicz/poc-turbo-schadcn-multi-zone
 
 ---
 
-## r10sle/Luna-Executor
+## OzgurCanErdogan/POCredisOM
 
-**介绍:** Lunar Executor is a tool for executing custom scripts within Roblox, providing users with the ability to exploit and modify game features.
+**介绍:** None
 
-**地址:** https://github.com/r10sle/Luna-Executor
+**地址:** https://github.com/OzgurCanErdogan/POCredisOM
+
+---
+
+## jarednexgent/Leetshell
+
+**介绍:** Position-independent polymorphic shellcode generator
+
+**地址:** https://github.com/jarednexgent/Leetshell
+
+---
+
+## qfcy/dllinject-tool
+
+**介绍:** A Windows DLL injection tool based on C++ and Qt 6.9, compiled with MinGW 14.2. 一个基于C++和Qt 6.9的Windows DLL注入工具，使用MinGW 14.2编译。
+
+**地址:** https://github.com/qfcy/dllinject-tool
+
+---
+
+## shiv200004/poc
+
+**介绍:** None
+
+**地址:** https://github.com/shiv200004/poc
+
+---
+
+## ashish-um/pocketLYF
+
+**介绍:** None
+
+**地址:** https://github.com/ashish-um/pocketLYF
+
+---
+
+## adminnerr/php_File_Manager
+
+**介绍:** php_File_Manager&php webshell
+
+**地址:** https://github.com/adminnerr/php_File_Manager
+
+---
+
+## cogreanu/cve-finder
+
+**介绍:** None
+
+**地址:** https://github.com/cogreanu/cve-finder
+
+---
+
+## xmoezzz/cve_json_to_csv
+
+**介绍:** None
+
+**地址:** https://github.com/xmoezzz/cve_json_to_csv
 
 ---
 
@@ -516,19 +748,43 @@
 
 ---
 
-## trvqhuy/evn-gateway
-
-**介绍:** An end-to-end solution for bypassing EVN Vietnam's CAPTCHA and automating electricity data integration with Home Assistant – fully deployable on free-tier cloud.
-
-**地址:** https://github.com/trvqhuy/evn-gateway
-
----
-
 ## scarletborder/YingJiXiangYing
 
 **介绍:** 应急响应报告,代码存储
 
 **地址:** https://github.com/scarletborder/YingJiXiangYing
+
+---
+
+## ruiangeStudio/wechat-official
+
+**介绍:** 这是一个用于处理微信公众号消息和事件的Node.js服务端应用。本服务实现了微信公众平台的服务器配置验证、消息接收与处理等基础功能，并集成了OpenAI接口实现智能聊天回复，为微信公众号提供全面的后端支持。
+
+**地址:** https://github.com/ruiangeStudio/wechat-official
+
+---
+
+## Aamir843/poc2025
+
+**介绍:** None
+
+**地址:** https://github.com/Aamir843/poc2025
+
+---
+
+## zdn200dali/-
+
+**介绍:** 网上正规靠谱创联沙巴体育博彩平台最新官方验证唯一平台网站376838.com下载最新版本的官方APP。该平台提供体育博彩、真人视讯、电子游戏、棋牌、彩票等多种娱乐服务。用户可通过访问官网，注册账号并下载APP，赢得了全球玩家的一致信任。立即访问创联娱乐官网，免费注册账号，下载APP开启全新娱乐赢家！开始游戏体验。APP下载方式：1访问官网：在浏览器中输入376838.com。下载APP：在官网首页或导航栏找到“APP下载”或类似选项，点击进入下载页面。客服联系方式（飞机）：@lc15688注意：未能确认是否为官方账号，请务必小心验证诈骗
+
+**地址:** https://github.com/zdn200dali/-
+
+---
+
+## armanulmomin/Soc-Analyst-Learning-Path
+
+**介绍:** SOC Analyst Practice (LetsDefend) — A personal cybersecurity lab documenting hands-on Blue Team training through the LetsDefend SOC Analyst learning path, including real-world alert analysis, incident response, and threat detection exercises.
+
+**地址:** https://github.com/armanulmomin/Soc-Analyst-Learning-Path
 
 ---
 
@@ -540,11 +796,27 @@
 
 ---
 
-## 6ickzone/EvasionSniper
+## srcx404/CVE-2024-39719
 
-**介绍:** Brutal SQLi payload Sniper with WAF bypass technique
+**介绍:** None
 
-**地址:** https://github.com/6ickzone/EvasionSniper
+**地址:** https://github.com/srcx404/CVE-2024-39719
+
+---
+
+## EncryptedHelloKitty/MALSIS-CVE
+
+**介绍:** Automated Malware Behavior Analysis Tool
+
+**地址:** https://github.com/EncryptedHelloKitty/MALSIS-CVE
+
+---
+
+## nasonawa/local-quay
+
+**介绍:** This repository provides simple Docker Compose files that can be used to deploy local Quay registries for Proof of Concept (POC) and testing purposes.
+
+**地址:** https://github.com/nasonawa/local-quay
 
 ---
 
@@ -556,11 +828,11 @@
 
 ---
 
-## rav3sh1/Monotone-HWID-Spoofer
+## BBO513/CVE-2023-7231
 
-**介绍:** Custom Created Hardware ID Spoofer to Bypass Hardware or IP Bans
+**介绍:** PoC and Disclosure for CVE-2023-7231 – Memcached Gopher RCE chain
 
-**地址:** https://github.com/rav3sh1/Monotone-HWID-Spoofer
+**地址:** https://github.com/BBO513/CVE-2023-7231
 
 ---
 
@@ -572,6 +844,22 @@
 
 ---
 
+## oy-hepark-cj/poc
+
+**介绍:** None
+
+**地址:** https://github.com/oy-hepark-cj/poc
+
+---
+
+## Arjun-NG/Threat-detection-with-Wazuh
+
+**介绍:** A practical Threat Detection & Response lab using Wazuh, Suricata, and Syslog for centralized log analysis, network-based threat detection, and malware simulation. Ideal for blue team training, SIEM exploration, and incident response practice.
+
+**地址:** https://github.com/Arjun-NG/Threat-detection-with-Wazuh
+
+---
+
 ## djjohnson565/CUPS-Exploit
 
 **介绍:** Heap-based buffer overflow example based on CVE-2023-4504
@@ -580,59 +868,27 @@
 
 ---
 
-## Mooshay105/DuoHartsBypass
+## ryoo0930/CVE-Insight
 
-**介绍:** None
+**介绍:** JBNU 2025 DataBase Team Project
 
-**地址:** https://github.com/Mooshay105/DuoHartsBypass
-
----
-
-## cybermuhdupa/bypass-android
-
-**介绍:** None
-
-**地址:** https://github.com/cybermuhdupa/bypass-android
+**地址:** https://github.com/ryoo0930/CVE-Insight
 
 ---
 
-## Mphanto-m/GoGuardian-Bypass-cbb81
+## trulyursdelv/pocketdb
 
-**介绍:** None
+**介绍:** Telegra.ph as a pocket database. ⚡
 
-**地址:** https://github.com/Mphanto-m/GoGuardian-Bypass-cbb81
-
----
-
-## Mphanto-m/GoGuardian-Bypass
-
-**介绍:** None
-
-**地址:** https://github.com/Mphanto-m/GoGuardian-Bypass
+**地址:** https://github.com/trulyursdelv/pocketdb
 
 ---
 
-## naoh67/GoGuardian-Bypass
+## h31md4llr/libjpeg_cve-2018-19664
 
 **介绍:** None
 
-**地址:** https://github.com/naoh67/GoGuardian-Bypass
-
----
-
-## EarthAngel666/x-middleware-exploit
-
-**介绍:** x-middleware exploit for next.js CVE-2023–46298 cache poisoning and CVE-2025-29927 bypass
-
-**地址:** https://github.com/EarthAngel666/x-middleware-exploit
-
----
-
-## YerikBaltazar/GoGuardian-Bypass
-
-**介绍:** None
-
-**地址:** https://github.com/YerikBaltazar/GoGuardian-Bypass
+**地址:** https://github.com/h31md4llr/libjpeg_cve-2018-19664
 
 ---
 
@@ -652,6 +908,22 @@
 
 ---
 
+## sifaconer/POC
+
+**介绍:** POC
+
+**地址:** https://github.com/sifaconer/POC
+
+---
+
+## DelspoN/CVE-2024-57376
+
+**介绍:** CVE-2024-57376 exploit
+
+**地址:** https://github.com/DelspoN/CVE-2024-57376
+
+---
+
 ## bencjohns/xm-hire-me
 
 **介绍:** Made with love and Red Bull - for the Edge and recruiting team :)
@@ -668,11 +940,11 @@
 
 ---
 
-## 0DY290/0xGUIDScanner
+## moften/Symfony-CVE-Scanner-PoC-
 
-**介绍:** Burp Suite Pro extension for finding insecure UUIDs (predictable, reversible, or MAC-based) in HTTP flows
+**介绍:**  CVE-2021-21424 - CRLF Injection - CVE-2021-41268 - Host Header Injection - CVE-2022-24894 - WebProfiler abierto - CVE-2019-10909 - Directory Traversal
 
-**地址:** https://github.com/0DY290/0xGUIDScanner
+**地址:** https://github.com/moften/Symfony-CVE-Scanner-PoC-
 
 ---
 
@@ -692,11 +964,11 @@
 
 ---
 
-## guymakegames/BreakerZero_PasswordCracker_v1.0-qp
+## gaetanodigrazia/poc
 
-**介绍:** Advanced red team password and hash cracking toolkit built for educational and ethical professional use.
+**介绍:** None
 
-**地址:** https://github.com/guymakegames/BreakerZero_PasswordCracker_v1.0-qp
+**地址:** https://github.com/gaetanodigrazia/poc
 
 ---
 
@@ -708,11 +980,11 @@
 
 ---
 
-## ThaiG2Pro/bypass-clickjacking-attack.github.io
+## arimlabs/agent-hijacking-poc
 
 **介绍:** None
 
-**地址:** https://github.com/ThaiG2Pro/bypass-clickjacking-attack.github.io
+**地址:** https://github.com/arimlabs/agent-hijacking-poc
 
 ---
 
@@ -721,6 +993,14 @@
 **介绍:** None
 
 **地址:** https://github.com/1Altruist/CVE-2025-46271-Reverse-Shell-PoC
+
+---
+
+## shivaprasad329/PlaywrightPOC_Center
+
+**介绍:** None
+
+**地址:** https://github.com/shivaprasad329/PlaywrightPOC_Center
 
 ---
 
@@ -740,43 +1020,35 @@
 
 ---
 
-## souhailsadat/GTFO2Root
-
-**介绍:** Automated Linux privilege escalation via GTFOBins — find and exploit SUID and Capabilities binaries to pop a root shell instantly.
-
-**地址:** https://github.com/souhailsadat/GTFO2Root
-
----
-
-## fletunner1376/Celery-Executor-download
-
-**介绍:** Welcome to the official GitHub repository for Celery Executor, the leading free Roblox script executor for Windows in 2025. Celery offers fast, stable, and secure Lua script execution with Byfron bypass, making it the top choice for Roblox players and developers. Download now to enhance your gameplay with custom scripts and advanced tools! 🥦🌟
-
-**地址:** https://github.com/fletunner1376/Celery-Executor-download
-
----
-
-## RiverXD142/GoGuardian-Bypass
+## Nerajankc/cybersecurity_cve
 
 **介绍:** None
 
-**地址:** https://github.com/RiverXD142/GoGuardian-Bypass
+**地址:** https://github.com/Nerajankc/cybersecurity_cve
 
 ---
 
-## DIGITALRAJAN22M/AnonLFI
+## jackieclzheng/webshell_debug
 
-**介绍:** AnonLFI – A lightweight and intuitive Python tool designed for automated detection and exploitation of Local File Inclusion (LFI) vulnerabilities in web applications. Built for bug bounty hunters, security researchers, and ethical hackers, AnonLFI streamlines LFI testing with rich terminal UI, smart detection, 
+**介绍:** webshell_debug
 
-**地址:** https://github.com/DIGITALRAJAN22M/AnonLFI
+**地址:** https://github.com/jackieclzheng/webshell_debug
 
 ---
 
-## Krshnasys/Bypass
+## JustSadSock/pocketGStrategy
 
 **介绍:** None
 
-**地址:** https://github.com/Krshnasys/Bypass
+**地址:** https://github.com/JustSadSock/pocketGStrategy
+
+---
+
+## shreechandansamal/PocketSprite
+
+**介绍:** None
+
+**地址:** https://github.com/shreechandansamal/PocketSprite
 
 ---
 
@@ -796,22 +1068,6 @@
 
 ---
 
-## kingdudely/Bypass-Roblox-Ban-API
-
-**介绍:** None
-
-**地址:** https://github.com/kingdudely/Bypass-Roblox-Ban-API
-
----
-
-## saneklee285/xeno-executor-roblox-2025
-
-**介绍:** Xeno Executor - Free Roblox Script Executor for 2025. Run LuaU scripts, enhance gameplay, and bypass limitations. Keyless, safe, and fast!
-
-**地址:** https://github.com/saneklee285/xeno-executor-roblox-2025
-
----
-
 ## mLniumm/CVE-2025-28074
 
 **介绍:** None
@@ -828,6 +1084,30 @@
 
 ---
 
+## SketchyBach/Wazuh-Lab
+
+**介绍:** Hands-on Wazuh SIEM cloud lab for log analysis, detection, and blue team learning
+
+**地址:** https://github.com/SketchyBach/Wazuh-Lab
+
+---
+
+## macOnGit/amplify-webshell
+
+**介绍:** Serverless version of Webshell
+
+**地址:** https://github.com/macOnGit/amplify-webshell
+
+---
+
+## AngelGBDev/TEST_CAPEXCEL
+
+**介绍:** app poc 
+
+**地址:** https://github.com/AngelGBDev/TEST_CAPEXCEL
+
+---
+
 ## Anike-x/CVE-2025-45250
 
 **介绍:** None
@@ -836,19 +1116,51 @@
 
 ---
 
-## mafiosowow/DeadRailsAntiCheatBypass
+## Antoine-ADAM/ctf_webshell
 
 **介绍:** None
 
-**地址:** https://github.com/mafiosowow/DeadRailsAntiCheatBypass
+**地址:** https://github.com/Antoine-ADAM/ctf_webshell
 
 ---
 
-## IllIlI-Synapsy-IllIlI/Admin-Bypass
+## IoTS-P/CVEs
 
-**介绍:** Drag any file that needs admin into this file and you will access it without needing admin consent.
+**介绍:** CVE Descriptions
 
-**地址:** https://github.com/IllIlI-Synapsy-IllIlI/Admin-Bypass
+**地址:** https://github.com/IoTS-P/CVEs
+
+---
+
+## neinja007/Pocket-Escape
+
+**介绍:** None
+
+**地址:** https://github.com/neinja007/Pocket-Escape
+
+---
+
+## 0x90verflow/Hell-Symphony
+
+**介绍:** A malware designed to bypass Windows Defender using any kind of msfvenom shellcode.
+
+**地址:** https://github.com/0x90verflow/Hell-Symphony
+
+---
+
+## ICS-etienne/blue_team_lab
+
+**介绍:** Projet de lab d'exercie blue team sur une infrastructure as code
+
+**地址:** https://github.com/ICS-etienne/blue_team_lab
+
+---
+
+## jgamblin/EPSS-MCP
+
+**介绍:** MultiStep MCP That Returns CVE Information With EPSS Score
+
+**地址:** https://github.com/jgamblin/EPSS-MCP
 
 ---
 
@@ -860,19 +1172,51 @@
 
 ---
 
-## 0xmrjoex1/XWormExploit
+## venkyGeek/carbonquest
 
-**介绍:** It's RCE Bug to give you powershell command control
+**介绍:** POC
 
-**地址:** https://github.com/0xmrjoex1/XWormExploit
+**地址:** https://github.com/venkyGeek/carbonquest
 
 ---
 
-## callmekaii/UltraSurf-SchoolBypass
+## VenomBHz/blueprint-lock-bot
 
-**介绍:** None
+**介绍:** Lock and unlock files, check locked files. To be used with your team on projects like Unreal.
 
-**地址:** https://github.com/callmekaii/UltraSurf-SchoolBypass
+**地址:** https://github.com/VenomBHz/blueprint-lock-bot
+
+---
+
+## FARI-brussels/demo-heatmap-poc
+
+**介绍:** demo-heatmap-poc
+
+**地址:** https://github.com/FARI-brussels/demo-heatmap-poc
+
+---
+
+## autumsam/h1POC
+
+**介绍:** POC
+
+**地址:** https://github.com/autumsam/h1POC
+
+---
+
+## DaoshuReal/UAC-Elevation-CVE
+
+**介绍:** Unpatched UAC Elevation CVE
+
+**地址:** https://github.com/DaoshuReal/UAC-Elevation-CVE
+
+---
+
+## sleepyG8/Fiber-based-Injection
+
+**介绍:** A full working POC of Fiber-based Injection 
+
+**地址:** https://github.com/sleepyG8/Fiber-based-Injection
 
 ---
 
@@ -884,6 +1228,46 @@
 
 ---
 
+## genie-engineering/codesphere
+
+**介绍:** Codesphere POC
+
+**地址:** https://github.com/genie-engineering/codesphere
+
+---
+
+## devcoderassistance/poc
+
+**介绍:** None
+
+**地址:** https://github.com/devcoderassistance/poc
+
+---
+
+## Pruthvi-P29/PocTemplates
+
+**介绍:** For POC
+
+**地址:** https://github.com/Pruthvi-P29/PocTemplates
+
+---
+
+## RandomRobbieBF/CVE-2024-13800
+
+**介绍:** Popup Plugin For WordPress - ConvertPlus <= 3.5.30 - Missing Authorization to Authenticated (Subscriber+) Limited Options Update
+
+**地址:** https://github.com/RandomRobbieBF/CVE-2024-13800
+
+---
+
+## yuJunOk/cloud-api-platform
+
+**介绍:** 一个提供API接口调用的微服务平台，用户可以登录注册，开通接口权限后，可以发布和调用接口，并且每次调用可以提供统计次数。管理员可以发布下线接口，接入接口，可视化接口的调用情况、数据。
+
+**地址:** https://github.com/yuJunOk/cloud-api-platform
+
+---
+
 ## 0xgh057r3c0n/CVE-2025-31125
 
 **介绍:** Vite WASM Import Path Traversal 🛡️
@@ -892,11 +1276,35 @@
 
 ---
 
-## veilRedeemer/bypassQoSKoreatelecomISP
+## Deepak11python/POC_TERRAFORM
 
-**介绍:** KT GiGA 인터넷의 일일 150GB QoS제한 우회 팁
+**介绍:** TERRAFORM GCP POC
 
-**地址:** https://github.com/veilRedeemer/bypassQoSKoreatelecomISP
+**地址:** https://github.com/Deepak11python/POC_TERRAFORM
+
+---
+
+## srcx404/CVE-2024-39722
+
+**介绍:** None
+
+**地址:** https://github.com/srcx404/CVE-2024-39722
+
+---
+
+## tjeerdJongejan/poc
+
+**介绍:** Proof of concept SPM
+
+**地址:** https://github.com/tjeerdJongejan/poc
+
+---
+
+## at-en/cve-web
+
+**介绍:** None
+
+**地址:** https://github.com/at-en/cve-web
 
 ---
 
@@ -908,11 +1316,19 @@
 
 ---
 
-## HeZeBang/Sheerid-China-Bypass
+## adminnerr/cve
 
 **介绍:** None
 
-**地址:** https://github.com/HeZeBang/Sheerid-China-Bypass
+**地址:** https://github.com/adminnerr/cve
+
+---
+
+## sarat1703/dfir-labs
+
+**介绍:** Documenting my learning in Digital Forensics and Incident Response (DFIR), Blue Teaming, and cybersecurity fundamentals.
+
+**地址:** https://github.com/sarat1703/dfir-labs
 
 ---
 
@@ -956,6 +1372,38 @@
 
 ---
 
+## KOwolves/BUPT_SCSS_undergraduate_courses
+
+**介绍:** 北邮网络空间安全学院本科生课程资料
+
+**地址:** https://github.com/KOwolves/BUPT_SCSS_undergraduate_courses
+
+---
+
+## yhy7612/cve-02
+
+**介绍:** None
+
+**地址:** https://github.com/yhy7612/cve-02
+
+---
+
+## JJustis/CVESearch
+
+**介绍:** A simple python http server with cve blog that auto generates!
+
+**地址:** https://github.com/JJustis/CVESearch
+
+---
+
+## LipeOzyy/CVE-2017-14980_syncbreeze_10.0.28_bof
+
+**介绍:** None
+
+**地址:** https://github.com/LipeOzyy/CVE-2017-14980_syncbreeze_10.0.28_bof
+
+---
+
 ## rudraforweb/Pen-Testers
 
 **介绍:** Red team. This is a school project, simulating collaboration.
@@ -964,35 +1412,11 @@
 
 ---
 
-## abrewer251/CVE-2025-1974_IngressNightmare_PoC
+## cyberchancer/linux_in-memory_shellcode-detonation_PoC
 
-**介绍:** None
+**介绍:** A minimalist Linux x86_64 loader that allocates RWX memory and executes raw shellcode entirely in memory, no disk artifacts, no staging files.
 
-**地址:** https://github.com/abrewer251/CVE-2025-1974_IngressNightmare_PoC
-
----
-
-## afandiazmi/openwrt-ttl-bypass
-
-**介绍:** None
-
-**地址:** https://github.com/afandiazmi/openwrt-ttl-bypass
-
----
-
-## natanmacielc/macos-bypass-mdm
-
-**介绍:** None
-
-**地址:** https://github.com/natanmacielc/macos-bypass-mdm
-
----
-
-## melvin123gp/Bypass-fr
-
-**介绍:** None
-
-**地址:** https://github.com/melvin123gp/Bypass-fr
+**地址:** https://github.com/cyberchancer/linux_in-memory_shellcode-detonation_PoC
 
 ---
 

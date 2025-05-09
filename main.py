@@ -16,7 +16,7 @@ from typing import TypedDict, List, Dict, Any
 GITHUB_TOKEN = (
     os.environ["GITHUB_TOKEN"]
     if "GITHUB_TOKEN" in os.environ
-    else os.environ["GITHUB_API_TOKEN"]
+    else None
 )
 GITHUB_API_URL = "https://api.github.com/search/repositories"
 
@@ -65,7 +65,7 @@ async def query_github(
 
 async def search_github_repositories(query, sort="stars", order="desc", pages=1):
     headers = {
-        "Authorization": f"token {GITHUB_TOKEN}",
+        # "Authorization": f"token {GITHUB_TOKEN}",
         "Accept": "application/vnd.github.v3+json",
     }
     all_results = {"items": []}
