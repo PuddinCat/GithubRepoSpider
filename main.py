@@ -126,7 +126,7 @@ async def send_repo_messages(bot: telegram.Bot, repos: List[FoundRepo]):
             )
         except telegram.error.RetryAfter:
             print("rate limit")
-            await asyncio.sleep(20)
+            await asyncio.sleep(5)
             continue
         except telegram.error.TimedOut:
             continue
