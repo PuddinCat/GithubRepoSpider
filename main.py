@@ -1,5 +1,6 @@
 from pathlib import Path
 from datetime import datetime, timedelta
+from traceback import print_exc
 import asyncio
 import os
 import json
@@ -8,17 +9,22 @@ import random
 
 import jsonschema
 import httpx
+import telegram
 
 from const import JSON_SCHEMA, KEYWORDS
 from typing import TypedDict, List, Dict, Any
 
 
-GITHUB_TOKEN = (
-    os.environ["GITHUB_TOKEN"]
-    if "GITHUB_TOKEN" in os.environ
-    else None
-)
+GITHUB_TOKEN = os.environ["GITHUB_TOKEN"] if "GITHUB_TOKEN" in os.environ else None
 GITHUB_API_URL = "https://api.github.com/search/repositories"
+TELEGRAM_BOT_API = os.environ["TELEGRAM_BOT_TOKEN"]
+
+TELEGARM_BOT_TEMPLATE = """\
+GitHub又有新仓库了! #{keyword}
+
+介绍: {desc}
+链接: {url}
+"""
 
 MIN_REQUEST_INTERVAL = 0.1
 last_request_time_lock = asyncio.Lock()
@@ -99,6 +105,44 @@ async def search_github_repositories(query, sort="stars", order="desc", pages=1)
     return all_results
 
 
+async def send_repo_messages(bot: telegram.Bot, repos: List[FoundRepo]):
+    telegram_sent_repos = set()
+    if Path("telegram_sent_repos.json").exists():
+        telegram_sent_repos = set(
+            json.loads(Path("telegram_sent_repos.json").read_text(encoding="utf-8"))
+        )
+
+    for repo in repos:
+        if repo["repo_id"] in telegram_sent_repos:
+            continue
+        try:
+            await bot.send_message(
+                chat_id="@puddin_github_sec_repo",
+                text=TELEGARM_BOT_TEMPLATE.format(
+                    keyword=repo["keyword"].replace(" ", "_"),
+                    desc=repo["repo_data"]["description"],
+                    url=repo["repo_data"]["html_url"],
+                ),
+            )
+        except telegram.error.RetryAfter:
+            print("rate limit")
+            await asyncio.sleep(20)
+            continue
+        except telegram.error.TimedOut:
+            continue
+        except telegram.error.TelegramError:
+            print_exc()
+            continue
+        except Exception:
+            print_exc()
+            continue
+
+        telegram_sent_repos.add(repo["repo_id"])
+        Path("telegram_sent_repos.json").write_text(
+            json.dumps(list(telegram_sent_repos)), encoding="utf-8"
+        )
+
+
 async def main():
 
     found_repos: Dict[str, FoundRepo] = {}
@@ -148,6 +192,16 @@ async def main():
         repos_content += f"**介绍:** {repo_data['description']}\n\n"
         repos_content += f"**地址:** {repo_data['html_url']}\n\n"
         repos_content += "---\n\n"
+
+    await send_repo_messages(
+        telegram.Bot(TELEGRAM_BOT_API),
+        [
+            repo
+            for repo_id, repo in sorted_repos
+            if datetime.strptime(repo_data["created_at"], "%Y-%m-%dT%H:%M:%SZ")
+            < three_days_ago
+        ],
+    )
 
     readme_content = (
         Path("readme_template.md")

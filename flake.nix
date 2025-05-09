@@ -49,6 +49,7 @@
               python.pkgs.pip
               python.pkgs.httpx
               python.pkgs.jsonschema
+              python.pkgs.python-telegram-bot
             ];
           };
         });
