@@ -13,8 +13,11 @@ from const import JSON_SCHEMA, KEYWORDS
 from typing import TypedDict, List, Dict, Any
 
 
-# Replace with your GitHub personal access token
-GITHUB_TOKEN = os.environ["GITHUB_API_TOKEN"]
+GITHUB_TOKEN = (
+    os.environ["GITHUB_TOKEN"]
+    if "GITHUB_TOKEN" in os.environ
+    else os.environ["GITHUB_API_TOKEN"]
+)
 GITHUB_API_URL = "https://api.github.com/search/repositories"
 
 MIN_REQUEST_INTERVAL = 0.1
@@ -55,12 +58,12 @@ async def query_github(
             "sort": sort,
             "order": order,
             "page": page,
-            "per_page": 30,
+            "per_page": 100,
         },
     )
 
 
-async def search_github_repositories(query, sort="stars", order="desc", pages=3):
+async def search_github_repositories(query, sort="stars", order="desc", pages=1):
     headers = {
         "Authorization": f"token {GITHUB_TOKEN}",
         "Accept": "application/vnd.github.v3+json",
@@ -102,7 +105,7 @@ async def main():
     if Path("found_repos.json").exists():
         found_repos = json.loads(Path("found_repos.json").read_text(encoding="utf-8"))
 
-    keywords = random.sample(KEYWORDS, 5)
+    keywords = random.sample(KEYWORDS, 10)
 
     created_time_since = (datetime.now() - timedelta(days=5)).strftime("%Y-%m-%d")
     search_results = await asyncio.gather(
