@@ -450,7 +450,6 @@ KEYWORDS = [
     "bypass AntiVirus",
     "bypass av",
     "bypassav",
-    "Bypass",
     "Cobalt Strike",
     "Computer Forensics",
     "CVE",
