@@ -16,6 +16,16 @@
 
 ---
 
+## Fenguopeng/network-security-bucket
+
+**关键字** 网络安全
+
+**介绍:** 这是一个专注于 网络安全工具 的 Scoop Bucket，收集和维护了多款开源及常用的安全测试、渗透测试、CTF辅助工具，方便快速安装和管理。
+
+**地址:** https://github.com/Fenguopeng/network-security-bucket
+
+---
+
 ## ClausiusFan/CVE
 
 **关键字** CVE
@@ -43,6 +53,16 @@
 **介绍:** This is an IoT security audit project. Here, I systematically gather device information, uncover known vulnerabilities such as CVEs (Common Vulnerabilities and Exposures), and explore potential zero-day vulnerabilities through custom test cases.
 
 **地址:** https://github.com/mahinjust/IoT-Device-Security-Auditing
+
+---
+
+## BovidJang/BCA-CTF-Tools
+
+**关键字** 网络安全
+
+**介绍:** BCA CTF Tools是一款多功能网络安全工具箱，具有一键解码/文件识别等功能，且在持续更新中
+
+**地址:** https://github.com/BovidJang/BCA-CTF-Tools
 
 ---
 
@@ -2973,16 +2993,6 @@
 **介绍:** None
 
 **地址:** https://github.com/Antoine-ADAM/ctf_webshell
-
----
-
-## oratt00/Windows-PE
-
-**关键字** Exploit
-
-**介绍:** Windows Exploits and tools
-
-**地址:** https://github.com/oratt00/Windows-PE
 
 ---
 
