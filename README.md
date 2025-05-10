@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## 1325qwer/api-jmx-generator
+
+**关键字** 注入
+
+**介绍:** 一个自动化工具：上传 Postman 接口文档，一键生成 JMeter .jmx 脚本，支持参数注入、Header、提取器、变量关联等功能
+
+**地址:** https://github.com/1325qwer/api-jmx-generator
+
+---
+
 ## ReaJason/CVE-2024-28752
 
 **关键字** CVE
@@ -3073,16 +3083,6 @@
 **介绍:** CSV Mass Importer <= 1.2 - Admin+ Arbitrary File Upload
 
 **地址:** https://github.com/Nxploited/CVE-2025-4190
-
----
-
-## genie-engineering/codesphere
-
-**关键字** POC
-
-**介绍:** Codesphere POC
-
-**地址:** https://github.com/genie-engineering/codesphere
 
 ---
 
