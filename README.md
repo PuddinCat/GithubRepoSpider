@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## MikeTheHash/RawShellcodeToByteArray
+
+**关键字** shellcode
+
+**介绍:** A little python script to pass from "\x90\x0f" to "0x90, 0x0f" etc...
+
+**地址:** https://github.com/MikeTheHash/RawShellcodeToByteArray
+
+---
+
 ## CorgiSideExploits/Custom-Exploit
 
 **关键字** Exploit
