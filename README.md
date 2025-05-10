@@ -26,6 +26,16 @@
 
 ---
 
+## Caddyshack2175/go2postman
+
+**关键字** burp
+
+**介绍:** A Go tool that converts cURL a file of commands or a directory of Burp Suite XML files into Postman Collections.
+
+**地址:** https://github.com/Caddyshack2175/go2postman
+
+---
+
 ## AbdulNafay8102004/vuln-scanner-and-cve-info-TOOLS
 
 **关键字** CVE
@@ -93,6 +103,16 @@
 **介绍:** None
 
 **地址:** https://github.com/dimasma0305/Java-Exploit-Tools
+
+---
+
+## Nizar-Aderbaz/WebStrike-Lab-CyberDefenders
+
+**关键字** Blue Team
+
+**介绍:** "Analysis and solutions for the WebStrike Blue Team Lab challenges from CyberDefenders, focusing on network forensics and incident response."
+
+**地址:** https://github.com/Nizar-Aderbaz/WebStrike-Lab-CyberDefenders
 
 ---
 
@@ -253,6 +273,16 @@
 **介绍:** None
 
 **地址:** https://github.com/TomatenHead/0-Day-Exploit
+
+---
+
+## ayaank37/blueteam
+
+**关键字** Blue Team
+
+**介绍:** Blue team project
+
+**地址:** https://github.com/ayaank37/blueteam
 
 ---
 
@@ -473,6 +503,16 @@
 **介绍:** None
 
 **地址:** https://github.com/quanauq/ClassPathXmlApplicationContext_RCE
+
+---
+
+## kakasarkar/blue-devil
+
+**关键字** Blue Team
+
+**介绍:** Blue-devil is a lightweight, open-source tool designed to streamline project management for small teams. It offers intuitive task tracking and simple collaboration features to enhance productivity and communication.
+
+**地址:** https://github.com/kakasarkar/blue-devil
 
 ---
 
@@ -3093,16 +3133,6 @@
 **介绍:** Popup Plugin For WordPress - ConvertPlus <= 3.5.30 - Missing Authorization to Authenticated (Subscriber+) Limited Options Update
 
 **地址:** https://github.com/RandomRobbieBF/CVE-2024-13800
-
----
-
-## yuJunOk/cloud-api-platform
-
-**关键字** 注入
-
-**介绍:** 一个提供API接口调用的微服务平台，用户可以登录注册，开通接口权限后，可以发布和调用接口，并且每次调用可以提供统计次数。管理员可以发布下线接口，接入接口，可视化接口的调用情况、数据。
-
-**地址:** https://github.com/yuJunOk/cloud-api-platform
 
 ---
 
