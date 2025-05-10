@@ -6,6 +6,46 @@
 
 ## 最新仓库
 
+## acortes2/coquitoh4ck3r
+
+**关键字** Red Team
+
+**介绍:** Red Team Payload Installer Script 
+
+**地址:** https://github.com/acortes2/coquitoh4ck3r
+
+---
+
+## ClausiusFan/CVE
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/ClausiusFan/CVE
+
+---
+
+## Kaal-Misconfig/BindedKaal
+
+**关键字** Red Team
+
+**介绍:** BindedKaal is a powerful tool designed to seamlessly bind payloads with PDF files, enabling advanced penetration testing and red team operations. With stealth and efficiency at its core, BindedKaal helps security professionals simulate real-world attack vectors while maintaining the appearance of legitimate documents
+
+**地址:** https://github.com/Kaal-Misconfig/BindedKaal
+
+---
+
+## mahinjust/IoT-Device-Security-Auditing
+
+**关键字** CVE
+
+**介绍:** This is an IoT security audit project. Here, I systematically gather device information, uncover known vulnerabilities such as CVEs (Common Vulnerabilities and Exposures), and explore potential zero-day vulnerabilities through custom test cases.
+
+**地址:** https://github.com/mahinjust/IoT-Device-Security-Auditing
+
+---
+
 ## BovidJang/File-content-search-script
 
 **关键字** 漏洞检测
@@ -2953,96 +2993,6 @@
 **介绍:** CVE Descriptions
 
 **地址:** https://github.com/IoTS-P/CVEs
-
----
-
-## neinja007/Pocket-Escape
-
-**关键字** POC
-
-**介绍:** None
-
-**地址:** https://github.com/neinja007/Pocket-Escape
-
----
-
-## 0x90verflow/Hell-Symphony
-
-**关键字** shellcode
-
-**介绍:** A malware designed to bypass Windows Defender using any kind of msfvenom shellcode.
-
-**地址:** https://github.com/0x90verflow/Hell-Symphony
-
----
-
-## ICS-etienne/blue_team_lab
-
-**关键字** Blue Team
-
-**介绍:** Projet de lab d'exercie blue team sur une infrastructure as code
-
-**地址:** https://github.com/ICS-etienne/blue_team_lab
-
----
-
-## jgamblin/EPSS-MCP
-
-**关键字** CVE
-
-**介绍:** MultiStep MCP That Returns CVE Information With EPSS Score
-
-**地址:** https://github.com/jgamblin/EPSS-MCP
-
----
-
-## oratt00/Linux-PE
-
-**关键字** Exploit
-
-**介绍:** Linux related tools and PE exploits
-
-**地址:** https://github.com/oratt00/Linux-PE
-
----
-
-## Sratet/CVE-2025-25014
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/Sratet/CVE-2025-25014
-
----
-
-## 0xmrjoex1/XWormExploit
-
-**关键字** Exploit
-
-**介绍:** It's RCE Bug to give you powershell command control
-
-**地址:** https://github.com/0xmrjoex1/XWormExploit
-
----
-
-## leizonh/PocProjetA
-
-**关键字** POC
-
-**介绍:** None
-
-**地址:** https://github.com/leizonh/PocProjetA
-
----
-
-## venkyGeek/carbonquest
-
-**关键字** POC
-
-**介绍:** POC
-
-**地址:** https://github.com/venkyGeek/carbonquest
 
 ---
 
