@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## ramana1410/Bluestock_teamproject
+
+**关键字** Blue Team
+
+**介绍:** None
+
+**地址:** https://github.com/ramana1410/Bluestock_teamproject
+
+---
+
+## glazai/BlackBox-Attack-Triage-Lab
+
+**关键字** Blue Team
+
+**介绍:** Simulate real-world attacks on a vulnerable machine using Kali Linux, and perform blue team triage through log analysis and incident reporting
+
+**地址:** https://github.com/glazai/BlackBox-Attack-Triage-Lab
+
+---
+
 ## acortes2/coquitoh4ck3r
 
 **关键字** Red Team
@@ -2973,26 +2993,6 @@
 **介绍:** R2.06 - Exploitation d'une base de données
 
 **地址:** https://github.com/PAarmand/R2.06
-
----
-
-## Anike-x/CVE-2025-45250
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/Anike-x/CVE-2025-45250
-
----
-
-## Antoine-ADAM/ctf_webshell
-
-**关键字** webshell
-
-**介绍:** None
-
-**地址:** https://github.com/Antoine-ADAM/ctf_webshell
 
 ---
 
