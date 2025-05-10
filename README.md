@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## lirantal/CVE-2024-21532-PoC-ggit
+
+**关键字** CVE
+
+**介绍:** CVE-2024-21532 PoC ggit
+
+**地址:** https://github.com/lirantal/CVE-2024-21532-PoC-ggit
+
+---
+
+## Sratet/CVE-2025-20188
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/Sratet/CVE-2025-20188
+
+---
+
 ## ramana1410/Bluestock_teamproject
 
 **关键字** Blue Team
@@ -13,6 +33,16 @@
 **介绍:** None
 
 **地址:** https://github.com/ramana1410/Bluestock_teamproject
+
+---
+
+## congdong007/CVE-2025-29306_poc
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/congdong007/CVE-2025-29306_poc
 
 ---
 
@@ -33,6 +63,16 @@
 **介绍:** Red Team Payload Installer Script 
 
 **地址:** https://github.com/acortes2/coquitoh4ck3r
+
+---
+
+## Mo9802/Burps
+
+**关键字** burp
+
+**介绍:** Howdy fellas
+
+**地址:** https://github.com/Mo9802/Burps
 
 ---
 
