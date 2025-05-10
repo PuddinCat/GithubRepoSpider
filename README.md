@@ -2996,24 +2996,4 @@
 
 ---
 
-## V0idA2tronaut/Red-Team
-
-**关键字** Red Team
-
-**介绍:** None
-
-**地址:** https://github.com/V0idA2tronaut/Red-Team
-
----
-
-## moften/CVE-2022-41741-742-Nginx-Vulnerability-Scanner
-
-**关键字** CVE
-
-**介绍:** CVE-2022-41741/742 Nginx Vulnerability Scanner
-
-**地址:** https://github.com/moften/CVE-2022-41741-742-Nginx-Vulnerability-Scanner
-
----
-
 
