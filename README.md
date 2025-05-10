@@ -26,6 +26,16 @@
 
 ---
 
+## FrosTy04/RedTeam
+
+**关键字** Red Team
+
+**介绍:** This project is a **deliberately vulnerable web application** built for ethical hacking and penetration testing practice. It simulates the **OWASP Top 10 vulnerabilities** and includes a `/roadmap` to guide beginners into becoming full-stack pentesters.
+
+**地址:** https://github.com/FrosTy04/RedTeam
+
+---
+
 ## niancao010/Webshells
 
 **关键字** webshell
@@ -33,6 +43,16 @@
 **介绍:** None
 
 **地址:** https://github.com/niancao010/Webshells
+
+---
+
+## manojxshrestha/Cobalt-Strike
+
+**关键字** Cobalt Strike
+
+**介绍:** None
+
+**地址:** https://github.com/manojxshrestha/Cobalt-Strike
 
 ---
 
@@ -73,6 +93,16 @@
 **介绍:** CVE-2025-21307
 
 **地址:** https://github.com/git-account7/CVE-2025-21307
+
+---
+
+## mbhatt1/dBPF
+
+**关键字** Red Team
+
+**介绍:** Diabolial eBPF: Linux Red Team Field Manual 
+
+**地址:** https://github.com/mbhatt1/dBPF
 
 ---
 
@@ -123,6 +153,16 @@
 **介绍:** "Analysis and solutions for the WebStrike Blue Team Lab challenges from CyberDefenders, focusing on network forensics and incident response."
 
 **地址:** https://github.com/Nizar-Aderbaz/WebStrike-Lab-CyberDefenders
+
+---
+
+## anonymus12341/XNUKES-Tool
+
+**关键字** Red Team
+
+**介绍:** 🔥 XNUKES - Automated Reconnaissance Framework for Red Teams.
+
+**地址:** https://github.com/anonymus12341/XNUKES-Tool
 
 ---
 
@@ -3023,66 +3063,6 @@
 **介绍:** demo-heatmap-poc
 
 **地址:** https://github.com/FARI-brussels/demo-heatmap-poc
-
----
-
-## Xscenery/News-analytics-system
-
-**关键字** 提权
-
-**介绍:** 本系统是一个基于Flask构建的新闻大数据分析平台，集成了数据采集、存储、清洗、分析和可视化功能。系统提供实时新闻热点分析、情感分析、事件时间线追踪等功能，并支持多角色用户权限管理。
-
-**地址:** https://github.com/Xscenery/News-analytics-system
-
----
-
-## autumsam/h1POC
-
-**关键字** POC
-
-**介绍:** POC
-
-**地址:** https://github.com/autumsam/h1POC
-
----
-
-## DaoshuReal/UAC-Elevation-CVE
-
-**关键字** CVE
-
-**介绍:** Unpatched UAC Elevation CVE
-
-**地址:** https://github.com/DaoshuReal/UAC-Elevation-CVE
-
----
-
-## Lanisera/GIT_RCE_CAPTAIN
-
-**关键字** RCE
-
-**介绍:** None
-
-**地址:** https://github.com/Lanisera/GIT_RCE_CAPTAIN
-
----
-
-## sleepyG8/Fiber-based-Injection
-
-**关键字** POC
-
-**介绍:** A full working POC of Fiber-based Injection 
-
-**地址:** https://github.com/sleepyG8/Fiber-based-Injection
-
----
-
-## Nxploited/CVE-2025-4190
-
-**关键字** CVE
-
-**介绍:** CSV Mass Importer <= 1.2 - Admin+ Arbitrary File Upload
-
-**地址:** https://github.com/Nxploited/CVE-2025-4190
 
 ---
 
