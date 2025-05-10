@@ -36,6 +36,16 @@
 
 ---
 
+## VarshiniRM/Windows-Exploitation-
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/VarshiniRM/Windows-Exploitation-
+
+---
+
 ## ndr-repo/CVE-2017-5487
 
 **关键字** CVE
@@ -143,6 +153,16 @@
 **介绍:** None
 
 **地址:** https://github.com/ramana1410/Bluestock_teamproject
+
+---
+
+## PeronGH/comp343-revision
+
+**关键字** Computer Forensics
+
+**介绍:** Revision Notes for COMP343 Computer Forensics at the University of Liverpool. 
+
+**地址:** https://github.com/PeronGH/comp343-revision
 
 ---
 
@@ -2993,66 +3013,6 @@
 **介绍:** None
 
 **地址:** https://github.com/atomicpo0p/jwt-key-exploit
-
----
-
-## Nerajankc/cybersecurity_cve
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/Nerajankc/cybersecurity_cve
-
----
-
-## jackieclzheng/webshell_debug
-
-**关键字** webshell
-
-**介绍:** webshell_debug
-
-**地址:** https://github.com/jackieclzheng/webshell_debug
-
----
-
-## JustSadSock/pocketGStrategy
-
-**关键字** POC
-
-**介绍:** None
-
-**地址:** https://github.com/JustSadSock/pocketGStrategy
-
----
-
-## ramsai3031/Hybrid-Intrusion-Detection-System-for-FTP-Exploits-
-
-**关键字** Exploit
-
-**介绍:** Designed  a hybrid Intrusion Detection System (IDS) combining Isolation Forest for static anomaly detection and  LSTM for sequential analysis of FTP traffic. 
-
-**地址:** https://github.com/ramsai3031/Hybrid-Intrusion-Detection-System-for-FTP-Exploits-
-
----
-
-## shreechandansamal/PocketSprite
-
-**关键字** POC
-
-**介绍:** None
-
-**地址:** https://github.com/shreechandansamal/PocketSprite
-
----
-
-## ekonuma/thepoc-javafx
-
-**关键字** POC
-
-**介绍:** The POC - All in one POC project using Java FX
-
-**地址:** https://github.com/ekonuma/thepoc-javafx
 
 ---
 
