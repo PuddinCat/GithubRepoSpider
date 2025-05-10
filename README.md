@@ -6,6 +6,66 @@
 
 ## 最新仓库
 
+## CorgiSideExploits/Custom-Exploit
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/CorgiSideExploits/Custom-Exploit
+
+---
+
+## madhunica-balasubramanian/CVE-Scanner
+
+**关键字** CVE
+
+**介绍:** LLM powered Python application combining CVE vulnerability scanner and remediation recommender
+
+**地址:** https://github.com/madhunica-balasubramanian/CVE-Scanner
+
+---
+
+## sug4r-wr41th/CVE-2025-31324
+
+**关键字** CVE
+
+**介绍:** SAP NetWeaver Visual Composer Metadata Uploader 7.50 CVE-2025-31324 PoC
+
+**地址:** https://github.com/sug4r-wr41th/CVE-2025-31324
+
+---
+
+## kkcyber989/Network-Exploitation
+
+**关键字** Exploit
+
+**介绍:** A hands-on wireless network exploitation project built using Kali Linux tools. This project demonstrates how to capture WPA2 handshakes, crack Wi-Fi passwords, decrypt traffic, and analyze packets using Wireshark.
+
+**地址:** https://github.com/kkcyber989/Network-Exploitation
+
+---
+
+## slaimmials/Exploits
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/slaimmials/Exploits
+
+---
+
+## RafaelCodefx/Motor-Busca-de-CVEs
+
+**关键字** CVE
+
+**介绍:** Um motor de busca de vulnerabilidades comuns em versoes de software.
+
+**地址:** https://github.com/RafaelCodefx/Motor-Busca-de-CVEs
+
+---
+
 ## wanyue3027/CVE
 
 **关键字** CVE
@@ -2923,16 +2983,6 @@
 **介绍:** Exploitation report of the Samba Trans2Open vulnerability (CVE-2003-0201), including tools used, exploitation steps, and protection techniques to secure systems.
 
 **地址:** https://github.com/Bakr-Ht/samba-trans2open-exploit-report
-
----
-
-## arimlabs/agent-hijacking-poc
-
-**关键字** POC
-
-**介绍:** None
-
-**地址:** https://github.com/arimlabs/agent-hijacking-poc
 
 ---
 
