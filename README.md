@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## BovidJang/File-content-search-script
+
+**关键字** 漏洞检测
+
+**介绍:** 不知道报错/某功能代码具体在文件中哪个位置时可以快速查找，适用于模板修改/漏洞检测等场景
+
+**地址:** https://github.com/BovidJang/File-content-search-script
+
+---
+
 ## 1325qwer/api-jmx-generator
 
 **关键字** 注入
@@ -3033,36 +3043,6 @@
 **介绍:** POC
 
 **地址:** https://github.com/venkyGeek/carbonquest
-
----
-
-## idilmy/ip-camera-exploitation
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/idilmy/ip-camera-exploitation
-
----
-
-## VenomBHz/blueprint-lock-bot
-
-**关键字** Blue Team
-
-**介绍:** Lock and unlock files, check locked files. To be used with your team on projects like Unreal.
-
-**地址:** https://github.com/VenomBHz/blueprint-lock-bot
-
----
-
-## FARI-brussels/demo-heatmap-poc
-
-**关键字** POC
-
-**介绍:** demo-heatmap-poc
-
-**地址:** https://github.com/FARI-brussels/demo-heatmap-poc
 
 ---
 
