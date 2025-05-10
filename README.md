@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## Nxploited/CVE-2025-32583
+
+**关键字** CVE
+
+**介绍:**  WordPress PDF 2 Post Plugin <= 2.4.0 is vulnerable to Remote Code Execution (RCE) +Subscriber
+
+**地址:** https://github.com/Nxploited/CVE-2025-32583
+
+---
+
 ## MikeTheHash/RawShellcodeToByteArray
 
 **关键字** shellcode
@@ -13,6 +23,16 @@
 **介绍:** A little python script to pass from "\x90\x0f" to "0x90, 0x0f" etc...
 
 **地址:** https://github.com/MikeTheHash/RawShellcodeToByteArray
+
+---
+
+## PardhuSreeRushiVarma20060119/ExploitSpace-Repo
+
+**关键字** Exploit
+
+**介绍:** Exploitation Repository/Directory 
+
+**地址:** https://github.com/PardhuSreeRushiVarma20060119/ExploitSpace-Repo
 
 ---
 
@@ -53,6 +73,16 @@
 **介绍:** A hands-on wireless network exploitation project built using Kali Linux tools. This project demonstrates how to capture WPA2 handshakes, crack Wi-Fi passwords, decrypt traffic, and analyze packets using Wireshark.
 
 **地址:** https://github.com/kkcyber989/Network-Exploitation
+
+---
+
+## CyberbyKayvon/Network-Exploitation
+
+**关键字** Exploit
+
+**介绍:** A hands-on wireless network exploitation project built using Kali Linux tools. This project demonstrates how to capture WPA2 handshakes, crack Wi-Fi passwords, decrypt traffic, and analyze packets using Wireshark.
+
+**地址:** https://github.com/CyberbyKayvon/Network-Exploitation
 
 ---
 
@@ -2963,26 +2993,6 @@
 **介绍:** Ultimate Before After Image Slider & Gallery – BEAF <= 4.6.10 - Authenticated (Admin+) Arbitrary File Upload via beaf_options_save
 
 **地址:** https://github.com/d0n601/CVE-2025-47549
-
----
-
-## gaetanodigrazia/poc
-
-**关键字** POC
-
-**介绍:** None
-
-**地址:** https://github.com/gaetanodigrazia/poc
-
----
-
-## andrewalvrz/Buffer-Overflow-Exploit
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/andrewalvrz/Buffer-Overflow-Exploit
 
 ---
 
