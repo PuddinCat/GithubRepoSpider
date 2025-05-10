@@ -4,6 +4,136 @@
 
 ## 最新仓库
 
+## ReaJason/CVE-2024-28752
+
+**关键字** CVE
+
+**介绍:** Apache CXF SSRF CVE-2024-28752
+
+**地址:** https://github.com/ReaJason/CVE-2024-28752
+
+---
+
+## niancao010/Webshells
+
+**关键字** webshell
+
+**介绍:** None
+
+**地址:** https://github.com/niancao010/Webshells
+
+---
+
+## AbdulNafay8102004/vuln-scanner-and-cve-info-TOOLS
+
+**关键字** CVE
+
+**介绍:** This project has actually two tools: 1 -> Allow us to scan local host for vulnerabilitie and store them ,  2 -> Take input as CVE-id and display full details of that CVE
+
+**地址:** https://github.com/AbdulNafay8102004/vuln-scanner-and-cve-info-TOOLS
+
+---
+
+## AbdulNafay8102004/vuln-scanner-and-cve-info-tool
+
+**关键字** CVE
+
+**介绍:** This project has actually two tools
+
+**地址:** https://github.com/AbdulNafay8102004/vuln-scanner-and-cve-info-tool
+
+---
+
+## git-account7/CVE-2025-21307
+
+**关键字** CVE
+
+**介绍:** CVE-2025-21307
+
+**地址:** https://github.com/git-account7/CVE-2025-21307
+
+---
+
+## qyh-qyh-qyh/HITSZ-net-system_safety-2025
+
+**关键字** 网络安全
+
+**介绍:** 2025哈工大（深圳）网络与系统安全实验
+
+**地址:** https://github.com/qyh-qyh-qyh/HITSZ-net-system_safety-2025
+
+---
+
+## AzizamerAlmubayedh/CVE-search
+
+**关键字** CVE
+
+**介绍:** this repository contains the code used for the Quantum-Accelerated CVE search
+
+**地址:** https://github.com/AzizamerAlmubayedh/CVE-search
+
+---
+
+## patther1/SkriptGG
+
+**关键字** Exploit
+
+**介绍:** Offrant le meilleur menu de mods FiveM, RageMP, Alt-V, GTA V non détecté pour le PvP et avec des exploits jamais vus auparavant et plus de triches de jeu multijoueur.
+
+**地址:** https://github.com/patther1/SkriptGG
+
+---
+
+## dimasma0305/Java-Exploit-Tools
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/dimasma0305/Java-Exploit-Tools
+
+---
+
+## tharindu-L/burp-security-report-portswigger
+
+**关键字** burp
+
+**介绍:** None
+
+**地址:** https://github.com/tharindu-L/burp-security-report-portswigger
+
+---
+
+## Zephyr236/exploitdb_dork
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/Zephyr236/exploitdb_dork
+
+---
+
+## n1xsec/Roblox-Exploit
+
+**关键字** Exploit
+
+**介绍:** Roblox Anti-Cheat System / Anti Exploiting System
+
+**地址:** https://github.com/n1xsec/Roblox-Exploit
+
+---
+
+## yanhaizhe/gitee
+
+**关键字** 信息收集
+
+**介绍:** 收集和整理GitHub仓库信息
+
+**地址:** https://github.com/yanhaizhe/gitee
+
+---
+
 ## tharindu-L/burp-security-report-juiceshop
 
 **关键字** burp
@@ -14,6 +144,16 @@
 
 ---
 
+## sleepie666/w0rm-zer0
+
+**关键字** Red Team
+
+**介绍:** a fully funtional uncensored offline and online red team chatbot using GNU Parallel to make it run fast, no need to install... super fast and learns!!! all in a 7.7 kb file you can use anywhere
+
+**地址:** https://github.com/sleepie666/w0rm-zer0
+
+---
+
 ## xgspesm7np/xgs-rcem
 
 **关键字** RCE
@@ -21,6 +161,16 @@
 **介绍:** VeChain
 
 **地址:** https://github.com/xgspesm7np/xgs-rcem
+
+---
+
+## kojoavlesi/cybersecurity-portfolio-kojo
+
+**关键字** Red Team
+
+**介绍:** My hands-on cybersecurity project portfolio covering SOC, Blue Team, Red Team, and CCNA labs.
+
+**地址:** https://github.com/kojoavlesi/cybersecurity-portfolio-kojo
 
 ---
 
@@ -591,6 +741,16 @@
 **介绍:** 由中国认知战研究中心（壳吉桔/KeJiJu/KJJ）发起，本仓库致力于认知战（Cognitive Warfare）的理论研究、实践探索与技术分享。壳吉桔（KJJ）作为全球领先的认知战战略与战术服务商，被誉为中国官方唯一指定的认知战作战服务商，为政府、安全机构及私人军事机构提供以下服务： 认知战战略与战术  认知战感知与攻击  认知战防御与情报  认知战战情分析  本仓库涵盖认知战装备（工具与技术）、战术（策略与方法）、战情（案例与趋势）等内容，旨在推动认知战领域的知识共享、创新与协作。欢迎全球研究者、从业者共同贡献！
 
 **地址:** https://github.com/kejiju/CognitiveWarfareHub
+
+---
+
+## XenonBlack999/red-team
+
+**关键字** Red Team
+
+**介绍:** None
+
+**地址:** https://github.com/XenonBlack999/red-team
 
 ---
 
@@ -2791,6 +2951,156 @@
 **介绍:** None
 
 **地址:** https://github.com/idilmy/ip-camera-exploitation
+
+---
+
+## VenomBHz/blueprint-lock-bot
+
+**关键字** Blue Team
+
+**介绍:** Lock and unlock files, check locked files. To be used with your team on projects like Unreal.
+
+**地址:** https://github.com/VenomBHz/blueprint-lock-bot
+
+---
+
+## FARI-brussels/demo-heatmap-poc
+
+**关键字** POC
+
+**介绍:** demo-heatmap-poc
+
+**地址:** https://github.com/FARI-brussels/demo-heatmap-poc
+
+---
+
+## Xscenery/News-analytics-system
+
+**关键字** 提权
+
+**介绍:** 本系统是一个基于Flask构建的新闻大数据分析平台，集成了数据采集、存储、清洗、分析和可视化功能。系统提供实时新闻热点分析、情感分析、事件时间线追踪等功能，并支持多角色用户权限管理。
+
+**地址:** https://github.com/Xscenery/News-analytics-system
+
+---
+
+## autumsam/h1POC
+
+**关键字** POC
+
+**介绍:** POC
+
+**地址:** https://github.com/autumsam/h1POC
+
+---
+
+## DaoshuReal/UAC-Elevation-CVE
+
+**关键字** CVE
+
+**介绍:** Unpatched UAC Elevation CVE
+
+**地址:** https://github.com/DaoshuReal/UAC-Elevation-CVE
+
+---
+
+## Lanisera/GIT_RCE_CAPTAIN
+
+**关键字** RCE
+
+**介绍:** None
+
+**地址:** https://github.com/Lanisera/GIT_RCE_CAPTAIN
+
+---
+
+## sleepyG8/Fiber-based-Injection
+
+**关键字** POC
+
+**介绍:** A full working POC of Fiber-based Injection 
+
+**地址:** https://github.com/sleepyG8/Fiber-based-Injection
+
+---
+
+## Nxploited/CVE-2025-4190
+
+**关键字** CVE
+
+**介绍:** CSV Mass Importer <= 1.2 - Admin+ Arbitrary File Upload
+
+**地址:** https://github.com/Nxploited/CVE-2025-4190
+
+---
+
+## genie-engineering/codesphere
+
+**关键字** POC
+
+**介绍:** Codesphere POC
+
+**地址:** https://github.com/genie-engineering/codesphere
+
+---
+
+## devcoderassistance/poc
+
+**关键字** POC
+
+**介绍:** None
+
+**地址:** https://github.com/devcoderassistance/poc
+
+---
+
+## Lanisera/Git_RCE_HOOK
+
+**关键字** RCE
+
+**介绍:** None
+
+**地址:** https://github.com/Lanisera/Git_RCE_HOOK
+
+---
+
+## LincolnArantes/Exploits
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/LincolnArantes/Exploits
+
+---
+
+## Pruthvi-P29/PocTemplates
+
+**关键字** POC
+
+**介绍:** For POC
+
+**地址:** https://github.com/Pruthvi-P29/PocTemplates
+
+---
+
+## RandomRobbieBF/CVE-2024-13800
+
+**关键字** CVE
+
+**介绍:** Popup Plugin For WordPress - ConvertPlus <= 3.5.30 - Missing Authorization to Authenticated (Subscriber+) Limited Options Update
+
+**地址:** https://github.com/RandomRobbieBF/CVE-2024-13800
+
+---
+
+## yuJunOk/cloud-api-platform
+
+**关键字** 注入
+
+**介绍:** 一个提供API接口调用的微服务平台，用户可以登录注册，开通接口权限后，可以发布和调用接口，并且每次调用可以提供统计次数。管理员可以发布下线接口，接入接口，可视化接口的调用情况、数据。
+
+**地址:** https://github.com/yuJunOk/cloud-api-platform
 
 ---
 
