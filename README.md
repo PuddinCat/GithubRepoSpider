@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## MrRAF404/ftp-exploit-encryption-steganography-project
+
+**关键字** Exploit
+
+**介绍:** A cybersecurity lab demonstrating FTP exploitation with Metasploit, RSA encryption, and steganography for secure file transfer.
+
+**地址:** https://github.com/MrRAF404/ftp-exploit-encryption-steganography-project
+
+---
+
 ## lirantal/CVE-2024-21532-PoC-ggit
 
 **关键字** CVE
@@ -16,6 +26,16 @@
 
 ---
 
+## bubblegum7771/ArkExploit-Hack
+
+**关键字** Exploit
+
+**介绍:** Top Rated Lost Ark Hacks: Free 2025 Download for Windows🛡️
+
+**地址:** https://github.com/bubblegum7771/ArkExploit-Hack
+
+---
+
 ## Sratet/CVE-2025-20188
 
 **关键字** CVE
@@ -23,6 +43,46 @@
 **介绍:** None
 
 **地址:** https://github.com/Sratet/CVE-2025-20188
+
+---
+
+## openginer/PDF-EXPLOIT
+
+**关键字** Exploit
+
+**介绍:** Advanced PDF exploit builder
+
+**地址:** https://github.com/openginer/PDF-EXPLOIT
+
+---
+
+## Assem-Ch7/web-attack-cheat-sheet
+
+**关键字** Exploit
+
+**介绍:** Web_Attack_Cheat_Sheet.pdf is a concise reference for web penetration testing. It covers tools, techniques, and payloads for recon, scanning, exploitation, and post-exploitation — ideal for ethical hackers and security learners.
+
+**地址:** https://github.com/Assem-Ch7/web-attack-cheat-sheet
+
+---
+
+## Zalgo-Dev/Web-Methods
+
+**关键字** Exploit
+
+**介绍:** My exploits for web
+
+**地址:** https://github.com/Zalgo-Dev/Web-Methods
+
+---
+
+## kenshi-ucl/LINUX-PRIV_ESCALATION-Exploitation-
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/kenshi-ucl/LINUX-PRIV_ESCALATION-Exploitation-
 
 ---
 
