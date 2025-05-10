@@ -126,6 +126,16 @@
 
 ---
 
+## SecuredByAnushree/cybersecurity-study-repo
+
+**关键字** Blue Team
+
+**介绍:** A comprehensive repository of cybersecurity resources, including notes, tools, labs, and personal research. This collection spans critical areas such as threat detection, incident response, vulnerability assessment, offensive security, and blue team operations. Perfect for learners and professionals aiming to enhance their skills in both defensive
+
+**地址:** https://github.com/SecuredByAnushree/cybersecurity-study-repo
+
+---
+
 ## lirantal/CVE-2024-21533-PoC-ggit
 
 **关键字** CVE
@@ -2963,26 +2973,6 @@
 **介绍:** None
 
 **地址:** https://github.com/andrewalvrz/Buffer-Overflow-Exploit
-
----
-
-## SecOpsElite/Hybrid_Sub
-
-**关键字** Red Team
-
-**介绍:** Hybrid_Sub is a powerful, cross-platform subdomain enumeration framework built with Python and Go, designed for ethical hackers, red teamers, and bug bounty professionals—combining passive reconnaissance, active brute-force, wildcard DNS filtering, and API-driven plugin support into one fully automated and extensible toolkit.
-
-**地址:** https://github.com/SecOpsElite/Hybrid_Sub
-
----
-
-## Bakr-Ht/samba-trans2open-exploit-report
-
-**关键字** Exploit
-
-**介绍:** Exploitation report of the Samba Trans2Open vulnerability (CVE-2003-0201), including tools used, exploitation steps, and protection techniques to secure systems.
-
-**地址:** https://github.com/Bakr-Ht/samba-trans2open-exploit-report
 
 ---
 
