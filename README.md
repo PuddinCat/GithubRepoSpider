@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## blue-pho3nix/penetration-testing-bchecks
+
+**关键字** burp
+
+**介绍:** Burp Suite BChecks for Pentesting
+
+**地址:** https://github.com/blue-pho3nix/penetration-testing-bchecks
+
+---
+
 ## Nxploited/CVE-2025-32583
 
 **关键字** CVE
@@ -66,6 +76,16 @@
 
 ---
 
+## agus-ps/Burp2Jmx
+
+**关键字** burp
+
+**介绍:** None
+
+**地址:** https://github.com/agus-ps/Burp2Jmx
+
+---
+
 ## kkcyber989/Network-Exploitation
 
 **关键字** Exploit
@@ -83,6 +103,16 @@
 **介绍:** A hands-on wireless network exploitation project built using Kali Linux tools. This project demonstrates how to capture WPA2 handshakes, crack Wi-Fi passwords, decrypt traffic, and analyze packets using Wireshark.
 
 **地址:** https://github.com/CyberbyKayvon/Network-Exploitation
+
+---
+
+## karandevxploit/karandevxploit.md
+
+**关键字** burp
+
+**介绍:** ### Hi there, I'm Karan Yadav 👋  - 🔭 I’m currently working on: Full Stack Projects + AI Apps + Bug Bounty - 🌱 I’m currently learning: Next.js, TensorFlow, Burp Suite - 💬 Ask me about: Web Dev, Security, Machine Learning - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/karanyadav) - ⚡ Fun fact: I break & fix apps for fun! 
+
+**地址:** https://github.com/karandevxploit/karandevxploit.md
 
 ---
 
@@ -2963,36 +2993,6 @@
 **介绍:**  CVE-2021-21424 - CRLF Injection - CVE-2021-41268 - Host Header Injection - CVE-2022-24894 - WebProfiler abierto - CVE-2019-10909 - Directory Traversal
 
 **地址:** https://github.com/moften/Symfony-CVE-Scanner-PoC-
-
----
-
-## gaetanodigrazia/pocBookingConsumer
-
-**关键字** POC
-
-**介绍:** None
-
-**地址:** https://github.com/gaetanodigrazia/pocBookingConsumer
-
----
-
-## d0n601/CVE-2025-47550
-
-**关键字** CVE
-
-**介绍:** Instantio - Wordpress Plugin <= 3.3.16 - Authenticated (Admin+) Arbitrary File Upload via ins_options_save
-
-**地址:** https://github.com/d0n601/CVE-2025-47550
-
----
-
-## d0n601/CVE-2025-47549
-
-**关键字** CVE
-
-**介绍:** Ultimate Before After Image Slider & Gallery – BEAF <= 4.6.10 - Authenticated (Admin+) Arbitrary File Upload via beaf_options_save
-
-**地址:** https://github.com/d0n601/CVE-2025-47549
 
 ---
 
