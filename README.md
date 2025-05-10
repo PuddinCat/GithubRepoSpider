@@ -2976,24 +2976,4 @@
 
 ---
 
-## sachiyash/Red-Team-vs-Blue-Team-AI-Simulations
-
-**关键字** Blue Team
-
-**介绍:** AI-driven Red Team vs Blue Team cybersecurity simulation tool
-
-**地址:** https://github.com/sachiyash/Red-Team-vs-Blue-Team-AI-Simulations
-
----
-
-## souhailsadat/GTFO2Root
-
-**关键字** Exploit
-
-**介绍:** Automated Linux privilege escalation via GTFOBins — find and exploit SUID and Capabilities binaries to pop a root shell instantly.
-
-**地址:** https://github.com/souhailsadat/GTFO2Root
-
----
-
 
