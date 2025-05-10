@@ -455,8 +455,6 @@ KEYWORDS = [
     "CVE",
     "Exploit",
     "getshell",
-    "hvv",
-    "POC",
     "RCE",
     "Red Team",
     "shellcode",
