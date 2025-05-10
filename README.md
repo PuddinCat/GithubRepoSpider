@@ -3016,24 +3016,4 @@
 
 ---
 
-## ZeroTrace-00/Octalyn-Forensic-Toolkit
-
-**关键字** Red Team
-
-**介绍:** Advanced C++ toolkit for forensic data extraction and session analysis. Supports browsers, messaging apps, gaming platforms, VPNs, and wallet environments. Ideal for red team simulations and credential management research, and real-time logging via Telegram
-
-**地址:** https://github.com/ZeroTrace-00/Octalyn-Forensic-Toolkit
-
----
-
-## Arabasta/Izanami
-
-**关键字** Exploit
-
-**介绍:** Puppet exploit
-
-**地址:** https://github.com/Arabasta/Izanami
-
----
-
 
