@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## kaif9711/Comprehensive-Penetration-Testing-on-Publisher-Linux-System-
+
+**关键字** RCE
+
+**介绍:** Penetration testing of a vulnerable Linux-based Publisher VM using Nmap, OpenVAS, SPIP RCE, and privilege escalation techniques with tools like Burp Suite, Hydra, and Metasploit.
+
+**地址:** https://github.com/kaif9711/Comprehensive-Penetration-Testing-on-Publisher-Linux-System-
+
+---
+
+## elshadghg325/CVE_scraper
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/elshadghg325/CVE_scraper
+
+---
+
 ## blue-pho3nix/penetration-testing-bchecks
 
 **关键字** burp
@@ -13,6 +33,16 @@
 **介绍:** Burp Suite BChecks for Pentesting
 
 **地址:** https://github.com/blue-pho3nix/penetration-testing-bchecks
+
+---
+
+## 0xSusp3ct/libmodbus-cve-poc
+
+**关键字** CVE
+
+**介绍:**  PoC for buffer overflow in modbus_send_raw_request_tid() - libmodbus
+
+**地址:** https://github.com/0xSusp3ct/libmodbus-cve-poc
 
 ---
 
