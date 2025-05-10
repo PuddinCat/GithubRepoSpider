@@ -6,6 +6,46 @@
 
 ## 最新仓库
 
+## wanyue3027/CVE
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/wanyue3027/CVE
+
+---
+
+## Yucaerin/CVE-2025-4403
+
+**关键字** CVE
+
+**介绍:** Drag and Drop Multiple File Upload for WooCommerce <= 1.1.6 - Unauthenticated Arbitrary File Upload via upload Function
+
+**地址:** https://github.com/Yucaerin/CVE-2025-4403
+
+---
+
+## Eduardo-hardvester/CVE-2025-24813
+
+**关键字** CVE
+
+**介绍:** Remote Code Execution (RCE) vulnerability in Apache Tomcat.
+
+**地址:** https://github.com/Eduardo-hardvester/CVE-2025-24813
+
+---
+
+## ndr-repo/CVE-2017-5487
+
+**关键字** CVE
+
+**介绍:** PoC for CVE-2017-5487 - WordPress User Enumeration via REST
+
+**地址:** https://github.com/ndr-repo/CVE-2017-5487
+
+---
+
 ## MrRAF404/ftp-exploit-encryption-steganography-project
 
 **关键字** Exploit
@@ -13,6 +53,16 @@
 **介绍:** A cybersecurity lab demonstrating FTP exploitation with Metasploit, RSA encryption, and steganography for secure file transfer.
 
 **地址:** https://github.com/MrRAF404/ftp-exploit-encryption-steganography-project
+
+---
+
+## lirantal/CVE-2024-21533-PoC-ggit
+
+**关键字** CVE
+
+**介绍:** CVE-2024-21533 PoC ggit
+
+**地址:** https://github.com/lirantal/CVE-2024-21533-PoC-ggit
 
 ---
 
@@ -3003,16 +3053,6 @@
 **介绍:** The POC - All in one POC project using Java FX
 
 **地址:** https://github.com/ekonuma/thepoc-javafx
-
----
-
-## MCP-Mirror/Cyreslab-AI_burpsuite-mcp-server
-
-**关键字** burp
-
-**介绍:** Mirror of https://github.com/Cyreslab-AI/burpsuite-mcp-server
-
-**地址:** https://github.com/MCP-Mirror/Cyreslab-AI_burpsuite-mcp-server
 
 ---
 
