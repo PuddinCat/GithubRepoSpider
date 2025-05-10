@@ -166,6 +166,16 @@
 
 ---
 
+## ThinkCyberProjects/target
+
+**关键字** Red Team
+
+**介绍:** Lightweight tool for red teams to store, enumerate, and quickly switch between target IPs during offensive engagements.
+
+**地址:** https://github.com/ThinkCyberProjects/target
+
+---
+
 ## congdong007/CVE-2025-29306_poc
 
 **关键字** CVE
@@ -2983,36 +2993,6 @@
 **介绍:** Automated Linux privilege escalation via GTFOBins — find and exploit SUID and Capabilities binaries to pop a root shell instantly.
 
 **地址:** https://github.com/souhailsadat/GTFO2Root
-
----
-
-## JustAnotherBitt/Buffer-Overflow-Exploit
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/JustAnotherBitt/Buffer-Overflow-Exploit
-
----
-
-## DIGITALRAJAN22M/AnonLFI
-
-**关键字** Exploit
-
-**介绍:** AnonLFI – A lightweight and intuitive Python tool designed for automated detection and exploitation of Local File Inclusion (LFI) vulnerabilities in web applications. Built for bug bounty hunters, security researchers, and ethical hackers, AnonLFI streamlines LFI testing with rich terminal UI, smart detection, 
-
-**地址:** https://github.com/DIGITALRAJAN22M/AnonLFI
-
----
-
-## atomicpo0p/jwt-key-exploit
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/atomicpo0p/jwt-key-exploit
 
 ---
 
