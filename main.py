@@ -143,6 +143,19 @@ async def send_repo_messages(bot: telegram.Bot, repos: List[FoundRepo]):
         )
 
 
+async def is_valuable_repo(client: httpx.AsyncClient, repo: Dict[str, Any]) -> bool:
+    contributors_url = repo.get("contributors_url")
+    if not contributors_url:
+        return False
+
+    response = await client.get(contributors_url)
+    if response.status_code != 200:
+        return False
+
+    contributors = response.json()
+    return len(contributors) > 0
+
+
 async def main():
 
     found_repos: Dict[str, FoundRepo] = {}
@@ -170,6 +183,17 @@ async def main():
         for repo in repos
         if f"{repo['owner']['login']}/{repo['name']}" not in found_repos
     ]
+
+    async with httpx.AsyncClient() as client:
+        repo_valuable_results = [
+            is_valuable_repo(client, repo["repo_data"]) for repo in new_repos_list
+        ]
+        new_repos_list = [
+            repo
+            for repo, is_repo_valuable in zip(new_repos_list, repo_valuable_results)
+            if is_repo_valuable
+        ]
+
     new_repos = {repo["repo_id"]: repo for repo in new_repos_list}
     found_repos.update(new_repos)
 
@@ -193,7 +217,6 @@ async def main():
         repos_content += f"**地址:** {repo_data['html_url']}\n\n"
         repos_content += "---\n\n"
 
-
     with open("found_repos.json", "w", encoding="utf-8") as json_file:
         json.dump(found_repos, json_file, indent=4, ensure_ascii=False)
 
@@ -214,7 +237,6 @@ async def main():
     )
 
     Path("README.md").write_text(readme_content, encoding="utf-8")
-
 
 
 if __name__ == "__main__":
