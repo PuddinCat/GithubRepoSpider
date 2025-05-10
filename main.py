@@ -193,6 +193,10 @@ async def main():
         repos_content += f"**地址:** {repo_data['html_url']}\n\n"
         repos_content += "---\n\n"
 
+
+    with open("found_repos.json", "w", encoding="utf-8") as json_file:
+        json.dump(found_repos, json_file, indent=4, ensure_ascii=False)
+
     await send_repo_messages(
         telegram.Bot(TELEGRAM_BOT_API),
         [
@@ -211,8 +215,6 @@ async def main():
 
     Path("README.md").write_text(readme_content, encoding="utf-8")
 
-    with open("found_repos.json", "w", encoding="utf-8") as json_file:
-        json.dump(found_repos, json_file, indent=4, ensure_ascii=False)
 
 
 if __name__ == "__main__":

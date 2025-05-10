@@ -4,6 +4,396 @@
 
 ## 最新仓库
 
+## tharindu-L/burp-security-report-juiceshop
+
+**关键字** burp
+
+**介绍:** Educational Burp Suite security scan report on OWASP Juice Shop. Demonstrates vulnerability scanning and reporting.
+
+**地址:** https://github.com/tharindu-L/burp-security-report-juiceshop
+
+---
+
+## xgspesm7np/xgs-rcem
+
+**关键字** RCE
+
+**介绍:** VeChain
+
+**地址:** https://github.com/xgspesm7np/xgs-rcem
+
+---
+
+## zerodayblitz/NetSuite-network-exploitation-tool
+
+**关键字** Exploit
+
+**介绍:** Cross-platform automated network scanning, fingerprinting, and exploitation suite with Metasploit integration and reporting.
+
+**地址:** https://github.com/zerodayblitz/NetSuite-network-exploitation-tool
+
+---
+
+## shetos1991/ahmedsalah87-exploit
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/shetos1991/ahmedsalah87-exploit
+
+---
+
+## kelchnerzeus67/Exploit-Crab
+
+**关键字** Exploit
+
+**介绍:** Free and Proven Crab Game Hack Download for Windows in 2025🛡️
+
+**地址:** https://github.com/kelchnerzeus67/Exploit-Crab
+
+---
+
+## kelchnerhen26/D2-Exploit
+
+**关键字** Exploit
+
+**介绍:** Get Destiny 2 Cheat Pack 2025: Free Download for Windows Gaming🌟
+
+**地址:** https://github.com/kelchnerhen26/D2-Exploit
+
+---
+
+## backarrow72/GMod-Exploit
+
+**关键字** Exploit
+
+**介绍:** How to Download and Install Garry Mod Hacks on Windows in 2025 📥
+
+**地址:** https://github.com/backarrow72/GMod-Exploit
+
+---
+
+## prostobest3253/Frame-Exploit
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/prostobest3253/Frame-Exploit
+
+---
+
+## sinrinbarabashka/WZ3-Exploit-Tool
+
+**关键字** Exploit
+
+**介绍:** Download the Ultimate Call of Duty Warzone 3 Hack for Windows 2025 Now!🔥
+
+**地址:** https://github.com/sinrinbarabashka/WZ3-Exploit-Tool
+
+---
+
+## TomatenHead/0-Day-Exploit
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/TomatenHead/0-Day-Exploit
+
+---
+
+## FreeXR/exploits
+
+**关键字** Exploit
+
+**介绍:** Information on known exploits
+
+**地址:** https://github.com/FreeXR/exploits
+
+---
+
+## Nxploited/CVE-2025-3605
+
+**关键字** CVE
+
+**介绍:**  WordPress Frontend Login and Registration Blocks Plugin <= 1.0.7 is vulnerable to Privilege Escalation 
+
+**地址:** https://github.com/Nxploited/CVE-2025-3605
+
+---
+
+## jk-mayne/burp-annotator
+
+**关键字** burp
+
+**介绍:** An extension for BurpSuite to automatically annotate requests based on scanning history
+
+**地址:** https://github.com/jk-mayne/burp-annotator
+
+---
+
+## damianos-pappas/poc
+
+**关键字** POC
+
+**介绍:** poc
+
+**地址:** https://github.com/damianos-pappas/poc
+
+---
+
+## yousufislam191/company-interview-evaluator
+
+**关键字** Red Team
+
+**介绍:** A curated guide for software engineers to evaluate a company’s engineering practices during job interviews. Includes key questions, red flags, and good signs related to SDLC, codebase quality, team culture, testing, and developer experience.
+
+**地址:** https://github.com/yousufislam191/company-interview-evaluator
+
+---
+
+## Bengschor/bengschor.github.io
+
+**关键字** POC
+
+**介绍:** POC chatbot
+
+**地址:** https://github.com/Bengschor/bengschor.github.io
+
+---
+
+## PrahunanKK/CVE
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/PrahunanKK/CVE
+
+---
+
+## xirtam2669/Kentico-Xperience-before-13.0.178---XSS-POC
+
+**关键字** CVE
+
+**介绍:** PoC for CVE-2025-2748 - Unauthenticated ZIP file upload with embedded SVG for XSS
+
+**地址:** https://github.com/xirtam2669/Kentico-Xperience-before-13.0.178---XSS-POC
+
+---
+
+## diego22993/pocPwAutomation
+
+**关键字** POC
+
+**介绍:** None
+
+**地址:** https://github.com/diego22993/pocPwAutomation
+
+---
+
+## The-Pocket/PocketFlow-Tutorial-Danganronpa-Simulator
+
+**关键字** POC
+
+**介绍:** The Ultimate AI Experiment: Danganronpa Simulator
+
+**地址:** https://github.com/The-Pocket/PocketFlow-Tutorial-Danganronpa-Simulator
+
+---
+
+## Faheem-Musthafa/Beginner-to-Expert-Payloads-Exploits-Cheat-Sheet
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/Faheem-Musthafa/Beginner-to-Expert-Payloads-Exploits-Cheat-Sheet
+
+---
+
+## nttaam/cors-exploit
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/nttaam/cors-exploit
+
+---
+
+## Poorna192/Web-application-security-testing-using-Burp-Suite
+
+**关键字** burp
+
+**介绍:** None
+
+**地址:** https://github.com/Poorna192/Web-application-security-testing-using-Burp-Suite
+
+---
+
+## wzard4980/Survarium-Exploit
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/wzard4980/Survarium-Exploit
+
+---
+
+## LilGuiGui/Partial-Analysis-KI-UEU
+
+**关键字** burp
+
+**介绍:** Repositori hasil ZAP / BURP
+
+**地址:** https://github.com/LilGuiGui/Partial-Analysis-KI-UEU
+
+---
+
+## rubakmaxwell64/Survarium-Exploit
+
+**关键字** Exploit
+
+**介绍:** Survarium Hack Tool 2025: Secure Download for Windows Users💻
+
+**地址:** https://github.com/rubakmaxwell64/Survarium-Exploit
+
+---
+
+## wzard4980/Exploit-Finals
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/wzard4980/Exploit-Finals
+
+---
+
+## chicken7009/Zero-Zone-Exploit
+
+**关键字** Exploit
+
+**介绍:** Safe and Secure Zenless Zone Zero Hack: Free 2025 Download🚀
+
+**地址:** https://github.com/chicken7009/Zero-Zone-Exploit
+
+---
+
+## Varshaa28/Exploiting-SMB-Vulnerability
+
+**关键字** Exploit
+
+**介绍:** SMB (Server Message Block) is a network file sharing protocol used by Windows systems (and also Linux via Samba) to share files, printers, and serial ports. Vulnerabilities in SMB can be highly critical, allowing attackers to perform remote code execution, information disclosure, or even full system compromise.
+
+**地址:** https://github.com/Varshaa28/Exploiting-SMB-Vulnerability
+
+---
+
+## djhaosjustskill/SpiritExploiter
+
+**关键字** Exploit
+
+**介绍:** Ultimate Phasmophobia Trainer Hack Download for Windows 2025⚡
+
+**地址:** https://github.com/djhaosjustskill/SpiritExploiter
+
+---
+
+## south3327/AxieExploit-Pro
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/south3327/AxieExploit-Pro
+
+---
+
+## quanauq/ClassPathXmlApplicationContext_RCE
+
+**关键字** RCE
+
+**介绍:** None
+
+**地址:** https://github.com/quanauq/ClassPathXmlApplicationContext_RCE
+
+---
+
+## prasannadolas/red-team-simulator
+
+**关键字** Red Team
+
+**介绍:** None
+
+**地址:** https://github.com/prasannadolas/red-team-simulator
+
+---
+
+## FlopperOnTTv/HackStarterPack-M5StickCPlus2
+
+**关键字** Exploit
+
+**介绍:** A beginner-friendly hacking toolkit for the M5Stick C Plus 2. This educational repo includes curated IR signals, Sub-GHz protocols, BadUSB/BLE scripts, evil portal templates, wiring diagrams, and hands-on tutorials to help you explore, understand, and defend against modern exploits. For educational use only.
+
+**地址:** https://github.com/FlopperOnTTv/HackStarterPack-M5StickCPlus2
+
+---
+
+## reverse-chaos-engineering/foundation
+
+**关键字** RCE
+
+**介绍:** Describe RCE foundations and principles
+
+**地址:** https://github.com/reverse-chaos-engineering/foundation
+
+---
+
+## renatovalezin/genai-pix-api
+
+**关键字** POC
+
+**介绍:** Gen AI PoC
+
+**地址:** https://github.com/renatovalezin/genai-pix-api
+
+---
+
+## Hloredea/ExploiterObbyScript
+
+**关键字** Exploit
+
+**介绍:** I'm bored! >‸ <
+
+**地址:** https://github.com/Hloredea/ExploiterObbyScript
+
+---
+
+## Xcaiji6/CS-AutoPostChain
+
+**关键字** 后渗透
+
+**介绍:** 基于 OPSEC 的 CobaltStrike 后渗透自动化链
+
+**地址:** https://github.com/Xcaiji6/CS-AutoPostChain
+
+---
+
+## MustaCH/PocketChefBE
+
+**关键字** POC
+
+**介绍:** None
+
+**地址:** https://github.com/MustaCH/PocketChefBE
+
+---
+
 ## Abhi-123-new/Red-Team-Vs-Blue-Team-AI-Simulation
 
 **关键字** Red Team
@@ -24,6 +414,46 @@
 
 ---
 
+## mehmetagcakaya/time-in-my-pocket
+
+**关键字** POC
+
+**介绍:** ⏱️ Smart micro time manager powered by AI — helping you turn idle minutes into meaningful moments.
+
+**地址:** https://github.com/mehmetagcakaya/time-in-my-pocket
+
+---
+
+## Lokidres/exploits-archive
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/Lokidres/exploits-archive
+
+---
+
+## xzhiyouu62/rce
+
+**关键字** RCE
+
+**介绍:** None
+
+**地址:** https://github.com/xzhiyouu62/rce
+
+---
+
+## PuddinCat/GithubRepoSpider
+
+**关键字** 网络安全
+
+**介绍:** 监控Github最新网络安全相关的仓库...
+
+**地址:** https://github.com/PuddinCat/GithubRepoSpider
+
+---
+
 ## Aiyakami/CVE-1
 
 **关键字** CVE
@@ -31,6 +461,16 @@
 **介绍:** None
 
 **地址:** https://github.com/Aiyakami/CVE-1
+
+---
+
+## SSkLIPST/SolaraExecutor
+
+**关键字** Exploit
+
+**介绍:** Best Solara Executor | The Free Exploit For PC! & Byfron Bypass 99% | Free Download in 2025!
+
+**地址:** https://github.com/SSkLIPST/SolaraExecutor
 
 ---
 
@@ -71,6 +511,16 @@
 **介绍:** None
 
 **地址:** https://github.com/Lokidres/webshells
+
+---
+
+## speedyfriend433/XNUVuln
+
+**关键字** Exploit
+
+**介绍:** experimental project with new mdc exploit
+
+**地址:** https://github.com/speedyfriend433/XNUVuln
 
 ---
 
@@ -134,6 +584,16 @@
 
 ---
 
+## kejiju/CognitiveWarfareHub
+
+**关键字** 攻防
+
+**介绍:** 由中国认知战研究中心（壳吉桔/KeJiJu/KJJ）发起，本仓库致力于认知战（Cognitive Warfare）的理论研究、实践探索与技术分享。壳吉桔（KJJ）作为全球领先的认知战战略与战术服务商，被誉为中国官方唯一指定的认知战作战服务商，为政府、安全机构及私人军事机构提供以下服务： 认知战战略与战术  认知战感知与攻击  认知战防御与情报  认知战战情分析  本仓库涵盖认知战装备（工具与技术）、战术（策略与方法）、战情（案例与趋势）等内容，旨在推动认知战领域的知识共享、创新与协作。欢迎全球研究者、从业者共同贡献！
+
+**地址:** https://github.com/kejiju/CognitiveWarfareHub
+
+---
+
 ## fyysikkokilta/fk-web
 
 **关键字** POC
@@ -151,6 +611,36 @@
 **介绍:** None
 
 **地址:** https://github.com/aofvalley/poc-databricks-entraid-howto
+
+---
+
+## CWE-CVE-Benchmark/CWE-CVE-Benchmark.github.io
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/CWE-CVE-Benchmark/CWE-CVE-Benchmark.github.io
+
+---
+
+## YoungNipper/Spectral-spatial-sparse-unmixing-with-superpixel-oriented-graph-Laplacian
+
+**关键字** 提权
+
+**介绍:** 本文章提出了超像素导向图拉普拉斯稀疏光谱-空间混合像元分解（SGLapS3U）方法，使用超像素分割算法SLIC提取图像中的均匀区域，然后应用图拉普拉斯正则化来减少相同类型混合像素的丰度差异，从而有效利用空间相关性。并引入谱-空间加权因子来增强丰度矩阵的行稀疏性，同时保持图像的连续性，避免超像素分割可能导致的不准确混合结果。
+
+**地址:** https://github.com/YoungNipper/Spectral-spatial-sparse-unmixing-with-superpixel-oriented-graph-Laplacian
+
+---
+
+## Kaal-Misconfig/ShadedKaal
+
+**关键字** Exploit
+
+**介绍:** Just another offensive security tool, but one that actually works. Built this after getting tired of the bloated alternatives that take forever to run. It's terminal-based because GUIs are unnecessary overhead. Does recon, subdomain takeovers, and exploit testing without the extra crap. Nothing fancy, just effective
+
+**地址:** https://github.com/Kaal-Misconfig/ShadedKaal
 
 ---
 
@@ -174,6 +664,26 @@
 
 ---
 
+## kh0r0t0/ultra-exploit
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/kh0r0t0/ultra-exploit
+
+---
+
+## DedsecTeam-BlackHat/Poleposph
+
+**关键字** CVE
+
+**介绍:** Tools for scan CVE-2024-25600 - WordPress Bricks Builder Remote Code Execution (RCE) 
+
+**地址:** https://github.com/DedsecTeam-BlackHat/Poleposph
+
+---
+
 ## donnaawhfu/prbsqteou
 
 **关键字** burp
@@ -194,6 +704,36 @@
 
 ---
 
+## Iskandeur/ilo-ike
+
+**关键字** Exploit
+
+**介绍:** Policy Puppetry Prompt Injection Exploit
+
+**地址:** https://github.com/Iskandeur/ilo-ike
+
+---
+
+## Blinko1987/F6107-AIS-Root-exploit
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/Blinko1987/F6107-AIS-Root-exploit
+
+---
+
+## tabascochunky9919/v8-Pro-Insurgency-Exploits
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/tabascochunky9919/v8-Pro-Insurgency-Exploits
+
+---
+
 ## AsyncWizard93/AVG-Antivirus-Bypass-Crack
 
 **关键字** bypass av
@@ -211,6 +751,16 @@
 **介绍:** None
 
 **地址:** https://github.com/Radir4k2/Burpsuite-extension-to-analyze-HTTP-request-with-AI
+
+---
+
+## AthouNourane/EXPLOITATION_BD_SAE
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/AthouNourane/EXPLOITATION_BD_SAE
 
 ---
 
@@ -304,6 +854,16 @@
 
 ---
 
+## vijaya-durga-k/Final-project-
+
+**关键字** Exploit
+
+**介绍:** Cloud raider - Art of Aws exploitation 
+
+**地址:** https://github.com/vijaya-durga-k/Final-project-
+
+---
+
 ## xishir/cve-mcp-server
 
 **关键字** CVE
@@ -311,6 +871,36 @@
 **介绍:** A Model Context Protocol server providing CVE vulnerability information query capabilities. This server enables LLMs to query detailed information for specific CVE IDs, retrieving data from MITRE's CVE database.
 
 **地址:** https://github.com/xishir/cve-mcp-server
+
+---
+
+## tall1dis/Luna-Executor
+
+**关键字** Exploit
+
+**介绍:** Lunar Executor is a tool for executing custom scripts within Roblox, providing users with the ability to exploit and modify game features.
+
+**地址:** https://github.com/tall1dis/Luna-Executor
+
+---
+
+## QingfengBetter/rs_pass_all
+
+**关键字** 免杀
+
+**介绍:** 瑞数加密通杀方案，免去补环境，通杀瑞数当前以及未来版本；
+
+**地址:** https://github.com/QingfengBetter/rs_pass_all
+
+---
+
+## l0sha1n/FiveM-External-Cheat
+
+**关键字** Exploit
+
+**介绍:** FiveM External cheat, offers various features like aimbot, triggerbot, exploits, and customizable settings, enhancing the gameplay experience. It is completely undetectable.
+
+**地址:** https://github.com/l0sha1n/FiveM-External-Cheat
 
 ---
 
@@ -324,6 +914,16 @@
 
 ---
 
+## arjun-btp/CUS_ONBOARD_POC
+
+**关键字** POC
+
+**介绍:** Customer Onboarding PoC
+
+**地址:** https://github.com/arjun-btp/CUS_ONBOARD_POC
+
+---
+
 ## ShreyaGavali/PocketNotes
 
 **关键字** POC
@@ -331,6 +931,26 @@
 **介绍:** None
 
 **地址:** https://github.com/ShreyaGavali/PocketNotes
+
+---
+
+## Vasanth1012/HRMS-System-
+
+**关键字** POC
+
+**介绍:** POC HRMS System 
+
+**地址:** https://github.com/Vasanth1012/HRMS-System-
+
+---
+
+## CloudsWeight/kev_catalog
+
+**关键字** Exploit
+
+**介绍:** Search the CISA Known Exploited Vulnerabilities Catalog from cli
+
+**地址:** https://github.com/CloudsWeight/kev_catalog
 
 ---
 
@@ -361,6 +981,26 @@
 **介绍:** None
 
 **地址:** https://github.com/d2ev/poc
+
+---
+
+## ekkk849/Predicting-the-Exploit-Availability-for-CVEs-WITH-REGRESSION-AND-CLASSIFICATION-MODELS
+
+**关键字** CVE
+
+**介绍:** This is jupyter file.
+
+**地址:** https://github.com/ekkk849/Predicting-the-Exploit-Availability-for-CVEs-WITH-REGRESSION-AND-CLASSIFICATION-MODELS
+
+---
+
+## DevGreick/VulnHunter
+
+**关键字** CVE
+
+**介绍:** Offline CVE scanner for project dependencies. 
+
+**地址:** https://github.com/DevGreick/VulnHunter
 
 ---
 
@@ -414,6 +1054,16 @@
 
 ---
 
+## mr-adult/web-exploit-demo-site
+
+**关键字** Exploit
+
+**介绍:** A site that demos a few commonly found web-based security exploits.
+
+**地址:** https://github.com/mr-adult/web-exploit-demo-site
+
+---
+
 ## absholi7ly/CVE-2025-27533-Exploit-for-Apache-ActiveMQ
 
 **关键字** CVE
@@ -451,6 +1101,16 @@
 **介绍:** Crypter hides malware with encryption, often providing FUD features. Tools like crypter FUD or batch FUD ensure undetected execution. Obfuscation bypasses antivirus and Windows Defender. Batch malware, trojans, and stealers are built using specialized tools.
 
 **地址:** https://github.com/sathi2/Batch-Malware-Builder-FUD-Crypter-AV-UAC-Bypass
+
+---
+
+## Almandev/Sub-folderFetcher
+
+**关键字** CVE
+
+**介绍:** A script to download specific Vulhub repository folder (kibana/CVE-2018-17246) from GitHub.
+
+**地址:** https://github.com/Almandev/Sub-folderFetcher
 
 ---
 
@@ -504,6 +1164,66 @@
 
 ---
 
+## arisloco/apple-rewards-pocket
+
+**关键字** POC
+
+**介绍:** None
+
+**地址:** https://github.com/arisloco/apple-rewards-pocket
+
+---
+
+## monavi77/PocketGig666
+
+**关键字** POC
+
+**介绍:** None
+
+**地址:** https://github.com/monavi77/PocketGig666
+
+---
+
+## chickenbutt322/exploits
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/chickenbutt322/exploits
+
+---
+
+## adsf1234-hacker/exploits-8cb16
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/adsf1234-hacker/exploits-8cb16
+
+---
+
+## adsf1234-hacker/exploits
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/adsf1234-hacker/exploits
+
+---
+
+## exploitenomah/exploitenomah.com
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/exploitenomah/exploitenomah.com
+
+---
+
 ## x224x/GhostLink
 
 **关键字** Red Team
@@ -514,6 +1234,16 @@
 
 ---
 
+## BOUDADOualid/aws-services
+
+**关键字** Exploit
+
+**介绍:** tuto pour les exploitation des services aws
+
+**地址:** https://github.com/BOUDADOualid/aws-services
+
+---
+
 ## hassanmajaro/keylogger
 
 **关键字** Red Team
@@ -521,6 +1251,16 @@
 **介绍:** Educational Python keylogger for Red-Team simulation
 
 **地址:** https://github.com/hassanmajaro/keylogger
+
+---
+
+## OleksandrVovchenko/JavaMCtoPocketMCProxy
+
+**关键字** POC
+
+**介绍:** Not yet fully functioning proxy server for entering the MCPE 0.8.1 server from version 1.8.9 Java Edition.
+
+**地址:** https://github.com/OleksandrVovchenko/JavaMCtoPocketMCProxy
 
 ---
 
@@ -554,6 +1294,16 @@
 
 ---
 
+## tiemio/RCE-PoC-CVE-2021-25646
+
+**关键字** CVE
+
+**介绍:** A proof-of-concept for the CVE-2021-25646, which allows for Command Injection
+
+**地址:** https://github.com/tiemio/RCE-PoC-CVE-2021-25646
+
+---
+
 ## turekt/BurpHistory2Pcap
 
 **关键字** burp
@@ -574,6 +1324,26 @@
 
 ---
 
+## Achraf012/exploit-rebuilds-achraf
+
+**关键字** Exploit
+
+**介绍:** Weekly rebuilds of real smart contract exploits using Foundry. Learn from actual bugs, with tests, fixes, and explanations. Follow along and level up your Web3 security skills
+
+**地址:** https://github.com/Achraf012/exploit-rebuilds-achraf
+
+---
+
+## natedemoss/Contribution-chart-exploit
+
+**关键字** Exploit
+
+**介绍:** Education purposes only
+
+**地址:** https://github.com/natedemoss/Contribution-chart-exploit
+
+---
+
 ## Star-Guardian341/eJPT-Prep
 
 **关键字** Red Team
@@ -581,6 +1351,36 @@
 **介绍:** Welcome to my Red Team learning journey. This repository documents my hands-on progress through the [TryHackMe](https://tryhackme.com) Junior Penetration Tester learning path as I prepare for the eJPT (eLearnSecurity Junior Penetration Tester) certification.
 
 **地址:** https://github.com/Star-Guardian341/eJPT-Prep
+
+---
+
+## fligt/dromen-van-open-access
+
+**关键字** RCE
+
+**介绍:** Enkele ambtelijke gedachten over het open access beschikbaar maken van RCE publicaties
+
+**地址:** https://github.com/fligt/dromen-van-open-access
+
+---
+
+## wanmaverig95/v10-axie-ronin-exploits
+
+**关键字** Exploit
+
+**介绍:** Axie Infinity Latest Hack 2025 - Get Free Energy & AXS
+
+**地址:** https://github.com/wanmaverig95/v10-axie-ronin-exploits
+
+---
+
+## chippenwigle15/v7-Neverlose-MC-Exploit
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/chippenwigle15/v7-Neverlose-MC-Exploit
 
 ---
 
@@ -624,6 +1424,26 @@
 
 ---
 
+## Soldy/exploit-collection
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/Soldy/exploit-collection
+
+---
+
+## QvqhOfficial/exploits-f88c9
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/QvqhOfficial/exploits-f88c9
+
+---
+
 ## srvinu/buildervault-nyx
 
 **关键字** POC
@@ -631,6 +1451,26 @@
 **介绍:** buildervault poc
 
 **地址:** https://github.com/srvinu/buildervault-nyx
+
+---
+
+## PavelCyr/ZOP_PocketTraveler
+
+**关键字** POC
+
+**介绍:** ZOP tretak
+
+**地址:** https://github.com/PavelCyr/ZOP_PocketTraveler
+
+---
+
+## aaquib64/PocketPilot_Client
+
+**关键字** POC
+
+**介绍:** None
+
+**地址:** https://github.com/aaquib64/PocketPilot_Client
 
 ---
 
@@ -644,6 +1484,26 @@
 
 ---
 
+## akgamerz790/local-access
+
+**关键字** Exploit
+
+**介绍:** localization access to exploit
+
+**地址:** https://github.com/akgamerz790/local-access
+
+---
+
+## pyrg0/web-vuln-to-rce
+
+**关键字** RCE
+
+**介绍:** None
+
+**地址:** https://github.com/pyrg0/web-vuln-to-rce
+
+---
+
 ## pestafford/patchbrief
 
 **关键字** CVE
@@ -651,6 +1511,16 @@
 **介绍:** Automated CVE briefing with remediation steps
 
 **地址:** https://github.com/pestafford/patchbrief
+
+---
+
+## mambawodoventor/Dead-Rails
+
+**关键字** Exploit
+
+**介绍:** Dead Rails - Cheat, Trainer, Exploit Tool (2025)
+
+**地址:** https://github.com/mambawodoventor/Dead-Rails
 
 ---
 
@@ -664,6 +1534,26 @@
 
 ---
 
+## aaquib64/PocketPilot_Server
+
+**关键字** POC
+
+**介绍:** None
+
+**地址:** https://github.com/aaquib64/PocketPilot_Server
+
+---
+
+## Be-Innova/CVE-2021-42392-exploit-lab
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/Be-Innova/CVE-2021-42392-exploit-lab
+
+---
+
 ## cybersecurityteampk/evilginx3-phishlets-2025
 
 **关键字** Red Team
@@ -671,6 +1561,16 @@
 **介绍:** Latest Evilginx Phishlets Collection | Updated 2025 | For Red Team & Ethical Hacking
 
 **地址:** https://github.com/cybersecurityteampk/evilginx3-phishlets-2025
+
+---
+
+## dto-btn/mcp-server-demo
+
+**关键字** POC
+
+**介绍:** Demo PoC MCP server to be used in other PoC
+
+**地址:** https://github.com/dto-btn/mcp-server-demo
 
 ---
 
@@ -704,6 +1604,16 @@
 
 ---
 
+## Ashwin478393/znlinux
+
+**关键字** 提权
+
+**介绍:** 一个神一般的linux全架构全漏洞提权程序
+
+**地址:** https://github.com/Ashwin478393/znlinux
+
+---
+
 ## susan232/CVE-EXERCISE
 
 **关键字** CVE
@@ -721,6 +1631,16 @@
 **介绍:** Red Team stuff
 
 **地址:** https://github.com/speedbunny/red-team
+
+---
+
+## rafiaksd/windows_exploit_suggester_python_update
+
+**关键字** Exploit
+
+**介绍:** From https://github.com/AonCyberLabs/Windows-Exploit-Suggester/blob/master/windows-exploit-suggester.py
+
+**地址:** https://github.com/rafiaksd/windows_exploit_suggester_python_update
 
 ---
 
@@ -764,6 +1684,16 @@
 
 ---
 
+## Frostbyte327/exploits
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/Frostbyte327/exploits
+
+---
+
 ## Xor290/Bypass-AV-2-with-api
 
 **关键字** shellcode
@@ -791,6 +1721,16 @@
 **介绍:** ce programme est une chaine de bypass pour Bypass la plus part des antivirus comme Windows Defender Kaspersky MalwareBytes etc
 
 **地址:** https://github.com/Xor290/Bypass-AV
+
+---
+
+## gatzby-git/ctf-exploit
+
+**关键字** Exploit
+
+**介绍:** homework
+
+**地址:** https://github.com/gatzby-git/ctf-exploit
 
 ---
 
@@ -824,6 +1764,16 @@
 
 ---
 
+## Ephraim67/Hacking-Art-Exploitation
+
+**关键字** Exploit
+
+**介绍:** Hacking: The Art of Exploitation
+
+**地址:** https://github.com/Ephraim67/Hacking-Art-Exploitation
+
+---
+
 ## jarednexgent/Leetshell
 
 **关键字** shellcode
@@ -831,6 +1781,16 @@
 **介绍:** Position-independent polymorphic shellcode generator
 
 **地址:** https://github.com/jarednexgent/Leetshell
+
+---
+
+## Suzuroku/Unity2D-TowerDefense
+
+**关键字** 攻防
+
+**介绍:** 這是一款簡單的 2D 塔防遊戲，玩家需在兩波瓢蟲的進攻中守護餅乾不被吃掉。每當有瓢蟲成功接觸餅乾，將扣除一點生命值，累計三次即遊戲結束。玩家可透過佈置防禦單位，阻止瓢蟲靠近餅乾。　　　[用途 : 作品集]
+
+**地址:** https://github.com/Suzuroku/Unity2D-TowerDefense
 
 ---
 
@@ -864,6 +1824,16 @@
 
 ---
 
+## paulsud/azure-static-webapp-exploit
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/paulsud/azure-static-webapp-exploit
+
+---
+
 ## adminnerr/php_File_Manager
 
 **关键字** webshell
@@ -871,6 +1841,16 @@
 **介绍:** php_File_Manager&php webshell
 
 **地址:** https://github.com/adminnerr/php_File_Manager
+
+---
+
+## punyconspir/cisco-ios-xe-implant-scanner
+
+**关键字** CVE
+
+**介绍:** A go-exploit to scan for implanted Cisco IOS XE Systems cve-2023-20198, go-exploit
+
+**地址:** https://github.com/punyconspir/cisco-ios-xe-implant-scanner
 
 ---
 
@@ -891,6 +1871,56 @@
 **介绍:** None
 
 **地址:** https://github.com/xmoezzz/cve_json_to_csv
+
+---
+
+## dgtalbug/minikube-pilot
+
+**关键字** POC
+
+**介绍:** Minikube & Promotheus POC
+
+**地址:** https://github.com/dgtalbug/minikube-pilot
+
+---
+
+## shra-one-11/simple-vuln-scanner
+
+**关键字** CVE
+
+**介绍:** A basic vulnerability scanner that checks for open ports and CVEs.
+
+**地址:** https://github.com/shra-one-11/simple-vuln-scanner
+
+---
+
+## ohiduli05/Open-Window-Abuse-via-postMessage-Exploit
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/ohiduli05/Open-Window-Abuse-via-postMessage-Exploit
+
+---
+
+## Flock137/EM-ATK
+
+**关键字** Exploit
+
+**介绍:** Class Presentation on Electromagnetic Exploitation 
+
+**地址:** https://github.com/Flock137/EM-ATK
+
+---
+
+## r10sle/Luna-Executor
+
+**关键字** Exploit
+
+**介绍:** Lunar Executor is a tool for executing custom scripts within Roblox, providing users with the ability to exploit and modify game features.
+
+**地址:** https://github.com/r10sle/Luna-Executor
 
 ---
 
@@ -994,6 +2024,16 @@
 
 ---
 
+## Fauzan-Aldi/CTF-Flag-Automation-On-The-AD-Platform
+
+**关键字** Exploit
+
+**介绍:** Implementing Automation for Exploits and Flag Submission on AD CTF
+
+**地址:** https://github.com/Fauzan-Aldi/CTF-Flag-Automation-On-The-AD-Platform
+
+---
+
 ## srcx404/CVE-2024-39719
 
 **关键字** CVE
@@ -1001,6 +2041,26 @@
 **介绍:** None
 
 **地址:** https://github.com/srcx404/CVE-2024-39719
+
+---
+
+## DedsecTeam-BlackHat/WordPress-Exploit
+
+**关键字** Exploit
+
+**介绍:** Tools for wordpress Exploit 
+
+**地址:** https://github.com/DedsecTeam-BlackHat/WordPress-Exploit
+
+---
+
+## Fauzan-Aldi/Log4j-_Vulnerability
+
+**关键字** CVE
+
+**介绍:** The Web Is Vulnerable to CVE-2021-44228
+
+**地址:** https://github.com/Fauzan-Aldi/Log4j-_Vulnerability
 
 ---
 
@@ -1021,6 +2081,36 @@
 **介绍:** This repository provides simple Docker Compose files that can be used to deploy local Quay registries for Proof of Concept (POC) and testing purposes.
 
 **地址:** https://github.com/nasonawa/local-quay
+
+---
+
+## DedsecTeam-BlackHat/Dedsec_PHPunit
+
+**关键字** CVE
+
+**介绍:** Tools for scan CVE Laravel PHP Unit 2017
+
+**地址:** https://github.com/DedsecTeam-BlackHat/Dedsec_PHPunit
+
+---
+
+## wunanxin/N600R_CVE_poc
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/wunanxin/N600R_CVE_poc
+
+---
+
+## Akinrinademayowa1/Exploitraphics.com
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/Akinrinademayowa1/Exploitraphics.com
 
 ---
 
@@ -1084,6 +2174,26 @@
 
 ---
 
+## hellohellorizzyskib/exploits
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/hellohellorizzyskib/exploits
+
+---
+
+## MaybeIcan1/ZR-LeetcodeNote
+
+**关键字** 提权
+
+**介绍:** 用来记录一些自己刷题时的笔记与心得（包括看到别人好的思想的摘录，若有侵权提前致歉并会删除）
+
+**地址:** https://github.com/MaybeIcan1/ZR-LeetcodeNote
+
+---
+
 ## ryoo0930/CVE-Insight
 
 **关键字** CVE
@@ -1104,6 +2214,16 @@
 
 ---
 
+## zaquanamin-94/databrick
+
+**关键字** POC
+
+**介绍:** PoC for databrick
+
+**地址:** https://github.com/zaquanamin-94/databrick
+
+---
+
 ## h31md4llr/libjpeg_cve-2018-19664
 
 **关键字** CVE
@@ -1111,6 +2231,16 @@
 **介绍:** None
 
 **地址:** https://github.com/h31md4llr/libjpeg_cve-2018-19664
+
+---
+
+## EarthAngel666/x-middleware-exploit
+
+**关键字** CVE
+
+**介绍:** x-middleware exploit for next.js CVE-2023–46298 cache poisoning and CVE-2025-29927 bypass
+
+**地址:** https://github.com/EarthAngel666/x-middleware-exploit
 
 ---
 
@@ -1144,6 +2274,16 @@
 
 ---
 
+## 1414010425/RedMIK30S-rce
+
+**关键字** RCE
+
+**介绍:** k30s
+
+**地址:** https://github.com/1414010425/RedMIK30S-rce
+
+---
+
 ## DelspoN/CVE-2024-57376
 
 **关键字** CVE
@@ -1174,6 +2314,16 @@
 
 ---
 
+## moften/CVE-2022-41741-742-Nginx-Vulnerability-Scanner
+
+**关键字** CVE
+
+**介绍:** CVE-2022-41741/742 Nginx Vulnerability Scanner
+
+**地址:** https://github.com/moften/CVE-2022-41741-742-Nginx-Vulnerability-Scanner
+
+---
+
 ## moften/Symfony-CVE-Scanner-PoC-
 
 **关键字** CVE
@@ -1181,6 +2331,16 @@
 **介绍:**  CVE-2021-21424 - CRLF Injection - CVE-2021-41268 - Host Header Injection - CVE-2022-24894 - WebProfiler abierto - CVE-2019-10909 - Directory Traversal
 
 **地址:** https://github.com/moften/Symfony-CVE-Scanner-PoC-
+
+---
+
+## gaetanodigrazia/pocBookingConsumer
+
+**关键字** POC
+
+**介绍:** None
+
+**地址:** https://github.com/gaetanodigrazia/pocBookingConsumer
 
 ---
 
@@ -1214,6 +2374,16 @@
 
 ---
 
+## andrewalvrz/Buffer-Overflow-Exploit
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/andrewalvrz/Buffer-Overflow-Exploit
+
+---
+
 ## SecOpsElite/Hybrid_Sub
 
 **关键字** Red Team
@@ -1221,6 +2391,16 @@
 **介绍:** Hybrid_Sub is a powerful, cross-platform subdomain enumeration framework built with Python and Go, designed for ethical hackers, red teamers, and bug bounty professionals—combining passive reconnaissance, active brute-force, wildcard DNS filtering, and API-driven plugin support into one fully automated and extensible toolkit.
 
 **地址:** https://github.com/SecOpsElite/Hybrid_Sub
+
+---
+
+## Bakr-Ht/samba-trans2open-exploit-report
+
+**关键字** Exploit
+
+**介绍:** Exploitation report of the Samba Trans2Open vulnerability (CVE-2003-0201), including tools used, exploitation steps, and protection techniques to secure systems.
+
+**地址:** https://github.com/Bakr-Ht/samba-trans2open-exploit-report
 
 ---
 
@@ -1241,6 +2421,16 @@
 **介绍:** None
 
 **地址:** https://github.com/1Altruist/CVE-2025-46271-Reverse-Shell-PoC
+
+---
+
+## MustaCH/PocketChefApp
+
+**关键字** POC
+
+**介绍:** None
+
+**地址:** https://github.com/MustaCH/PocketChefApp
 
 ---
 
@@ -1274,6 +2464,46 @@
 
 ---
 
+## souhailsadat/GTFO2Root
+
+**关键字** Exploit
+
+**介绍:** Automated Linux privilege escalation via GTFOBins — find and exploit SUID and Capabilities binaries to pop a root shell instantly.
+
+**地址:** https://github.com/souhailsadat/GTFO2Root
+
+---
+
+## JustAnotherBitt/Buffer-Overflow-Exploit
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/JustAnotherBitt/Buffer-Overflow-Exploit
+
+---
+
+## DIGITALRAJAN22M/AnonLFI
+
+**关键字** Exploit
+
+**介绍:** AnonLFI – A lightweight and intuitive Python tool designed for automated detection and exploitation of Local File Inclusion (LFI) vulnerabilities in web applications. Built for bug bounty hunters, security researchers, and ethical hackers, AnonLFI streamlines LFI testing with rich terminal UI, smart detection, 
+
+**地址:** https://github.com/DIGITALRAJAN22M/AnonLFI
+
+---
+
+## atomicpo0p/jwt-key-exploit
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/atomicpo0p/jwt-key-exploit
+
+---
+
 ## Nerajankc/cybersecurity_cve
 
 **关键字** CVE
@@ -1304,6 +2534,16 @@
 
 ---
 
+## ramsai3031/Hybrid-Intrusion-Detection-System-for-FTP-Exploits-
+
+**关键字** Exploit
+
+**介绍:** Designed  a hybrid Intrusion Detection System (IDS) combining Isolation Forest for static anomaly detection and  LSTM for sequential analysis of FTP traffic. 
+
+**地址:** https://github.com/ramsai3031/Hybrid-Intrusion-Detection-System-for-FTP-Exploits-
+
+---
+
 ## shreechandansamal/PocketSprite
 
 **关键字** POC
@@ -1311,6 +2551,16 @@
 **介绍:** None
 
 **地址:** https://github.com/shreechandansamal/PocketSprite
+
+---
+
+## ekonuma/thepoc-javafx
+
+**关键字** POC
+
+**介绍:** The POC - All in one POC project using Java FX
+
+**地址:** https://github.com/ekonuma/thepoc-javafx
 
 ---
 
@@ -1331,6 +2581,16 @@
 **介绍:** Advanced C++ toolkit for forensic data extraction and session analysis. Supports browsers, messaging apps, gaming platforms, VPNs, and wallet environments. Ideal for red team simulations and credential management research, and real-time logging via Telegram
 
 **地址:** https://github.com/ZeroTrace-00/Octalyn-Forensic-Toolkit
+
+---
+
+## Arabasta/Izanami
+
+**关键字** Exploit
+
+**介绍:** Puppet exploit
+
+**地址:** https://github.com/Arabasta/Izanami
 
 ---
 
@@ -1384,6 +2644,16 @@
 
 ---
 
+## PAarmand/R2.06
+
+**关键字** Exploit
+
+**介绍:** R2.06 - Exploitation d'une base de données
+
+**地址:** https://github.com/PAarmand/R2.06
+
+---
+
 ## Anike-x/CVE-2025-45250
 
 **关键字** CVE
@@ -1401,6 +2671,16 @@
 **介绍:** None
 
 **地址:** https://github.com/Antoine-ADAM/ctf_webshell
+
+---
+
+## oratt00/Windows-PE
+
+**关键字** Exploit
+
+**介绍:** Windows Exploits and tools
+
+**地址:** https://github.com/oratt00/Windows-PE
 
 ---
 
@@ -1454,6 +2734,16 @@
 
 ---
 
+## oratt00/Linux-PE
+
+**关键字** Exploit
+
+**介绍:** Linux related tools and PE exploits
+
+**地址:** https://github.com/oratt00/Linux-PE
+
+---
+
 ## Sratet/CVE-2025-25014
 
 **关键字** CVE
@@ -1461,6 +2751,26 @@
 **介绍:** None
 
 **地址:** https://github.com/Sratet/CVE-2025-25014
+
+---
+
+## 0xmrjoex1/XWormExploit
+
+**关键字** Exploit
+
+**介绍:** It's RCE Bug to give you powershell command control
+
+**地址:** https://github.com/0xmrjoex1/XWormExploit
+
+---
+
+## leizonh/PocProjetA
+
+**关键字** POC
+
+**介绍:** None
+
+**地址:** https://github.com/leizonh/PocProjetA
 
 ---
 
@@ -1474,313 +2784,13 @@
 
 ---
 
-## VenomBHz/blueprint-lock-bot
+## idilmy/ip-camera-exploitation
 
-**关键字** Blue Team
-
-**介绍:** Lock and unlock files, check locked files. To be used with your team on projects like Unreal.
-
-**地址:** https://github.com/VenomBHz/blueprint-lock-bot
-
----
-
-## FARI-brussels/demo-heatmap-poc
-
-**关键字** POC
-
-**介绍:** demo-heatmap-poc
-
-**地址:** https://github.com/FARI-brussels/demo-heatmap-poc
-
----
-
-## autumsam/h1POC
-
-**关键字** POC
-
-**介绍:** POC
-
-**地址:** https://github.com/autumsam/h1POC
-
----
-
-## DaoshuReal/UAC-Elevation-CVE
-
-**关键字** CVE
-
-**介绍:** Unpatched UAC Elevation CVE
-
-**地址:** https://github.com/DaoshuReal/UAC-Elevation-CVE
-
----
-
-## sleepyG8/Fiber-based-Injection
-
-**关键字** POC
-
-**介绍:** A full working POC of Fiber-based Injection 
-
-**地址:** https://github.com/sleepyG8/Fiber-based-Injection
-
----
-
-## Nxploited/CVE-2025-4190
-
-**关键字** CVE
-
-**介绍:** CSV Mass Importer <= 1.2 - Admin+ Arbitrary File Upload
-
-**地址:** https://github.com/Nxploited/CVE-2025-4190
-
----
-
-## genie-engineering/codesphere
-
-**关键字** POC
-
-**介绍:** Codesphere POC
-
-**地址:** https://github.com/genie-engineering/codesphere
-
----
-
-## devcoderassistance/poc
-
-**关键字** POC
+**关键字** Exploit
 
 **介绍:** None
 
-**地址:** https://github.com/devcoderassistance/poc
-
----
-
-## Pruthvi-P29/PocTemplates
-
-**关键字** POC
-
-**介绍:** For POC
-
-**地址:** https://github.com/Pruthvi-P29/PocTemplates
-
----
-
-## RandomRobbieBF/CVE-2024-13800
-
-**关键字** CVE
-
-**介绍:** Popup Plugin For WordPress - ConvertPlus <= 3.5.30 - Missing Authorization to Authenticated (Subscriber+) Limited Options Update
-
-**地址:** https://github.com/RandomRobbieBF/CVE-2024-13800
-
----
-
-## yuJunOk/cloud-api-platform
-
-**关键字** 注入
-
-**介绍:** 一个提供API接口调用的微服务平台，用户可以登录注册，开通接口权限后，可以发布和调用接口，并且每次调用可以提供统计次数。管理员可以发布下线接口，接入接口，可视化接口的调用情况、数据。
-
-**地址:** https://github.com/yuJunOk/cloud-api-platform
-
----
-
-## Am1azi3ng/BT_SuperTools
-
-**关键字** 蓝队
-
-**介绍:** 蓝队IP封禁Tools工具
-
-**地址:** https://github.com/Am1azi3ng/BT_SuperTools
-
----
-
-## 0xgh057r3c0n/CVE-2025-31125
-
-**关键字** CVE
-
-**介绍:** Vite WASM Import Path Traversal 🛡️
-
-**地址:** https://github.com/0xgh057r3c0n/CVE-2025-31125
-
----
-
-## Deepak11python/POC_TERRAFORM
-
-**关键字** POC
-
-**介绍:** TERRAFORM GCP POC
-
-**地址:** https://github.com/Deepak11python/POC_TERRAFORM
-
----
-
-## srcx404/CVE-2024-39722
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/srcx404/CVE-2024-39722
-
----
-
-## tjeerdJongejan/poc
-
-**关键字** POC
-
-**介绍:** Proof of concept SPM
-
-**地址:** https://github.com/tjeerdJongejan/poc
-
----
-
-## at-en/cve-web
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/at-en/cve-web
-
----
-
-## NULLTRACE0X/CVE-2025-31324
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/NULLTRACE0X/CVE-2025-31324
-
----
-
-## adminnerr/cve
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/adminnerr/cve
-
----
-
-## sarat1703/dfir-labs
-
-**关键字** Blue Team
-
-**介绍:** Documenting my learning in Digital Forensics and Incident Response (DFIR), Blue Teaming, and cybersecurity fundamentals.
-
-**地址:** https://github.com/sarat1703/dfir-labs
-
----
-
-## AsimCr/POC_Collecter_Bot
-
-**关键字** CVE
-
-**介绍:** Automated CVE POC collector with a Telegram bot interface for searching, tracking, and receiving alerts on new exploit proofs-of-concept.
-
-**地址:** https://github.com/AsimCr/POC_Collecter_Bot
-
----
-
-## Haluka92/CVE-2025-47423
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/Haluka92/CVE-2025-47423
-
----
-
-## absholi7ly/CVE-2025-27007-OttoKit-exploit
-
-**关键字** CVE
-
-**介绍:** exploiting CVE-2025-27007, a critical unauthenticated privilege escalation vulnerability in the OttoKit (formerly SureTriggers) WordPress plugin
-
-**地址:** https://github.com/absholi7ly/CVE-2025-27007-OttoKit-exploit
-
----
-
-## Schvenn/Caesar
-
-**关键字** Red Team
-
-**介绍:** A basic text obfuscation tool designed for Red Team testing, with some practical end-user functionality in mind.
-
-**地址:** https://github.com/Schvenn/Caesar
-
----
-
-## Greshow/jGsToolbox
-
-**关键字** burp
-
-**介绍:** burp插件：实现aes和unicode
-
-**地址:** https://github.com/Greshow/jGsToolbox
-
----
-
-## KOwolves/BUPT_SCSS_undergraduate_courses
-
-**关键字** 网络安全
-
-**介绍:** 北邮网络空间安全学院本科生课程资料
-
-**地址:** https://github.com/KOwolves/BUPT_SCSS_undergraduate_courses
-
----
-
-## yhy7612/cve-02
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/yhy7612/cve-02
-
----
-
-## JJustis/CVESearch
-
-**关键字** CVE
-
-**介绍:** A simple python http server with cve blog that auto generates!
-
-**地址:** https://github.com/JJustis/CVESearch
-
----
-
-## LipeOzyy/CVE-2017-14980_syncbreeze_10.0.28_bof
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/LipeOzyy/CVE-2017-14980_syncbreeze_10.0.28_bof
-
----
-
-## rudraforweb/Pen-Testers
-
-**关键字** Red Team
-
-**介绍:** Red team. This is a school project, simulating collaboration.
-
-**地址:** https://github.com/rudraforweb/Pen-Testers
-
----
-
-## cyberchancer/linux_in-memory_shellcode-detonation_PoC
-
-**关键字** shellcode
-
-**介绍:** A minimalist Linux x86_64 loader that allocates RWX memory and executes raw shellcode entirely in memory, no disk artifacts, no staging files.
-
-**地址:** https://github.com/cyberchancer/linux_in-memory_shellcode-detonation_PoC
+**地址:** https://github.com/idilmy/ip-camera-exploitation
 
 ---
 
