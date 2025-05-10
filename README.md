@@ -2986,14 +2986,4 @@
 
 ---
 
-## IoTS-P/CVEs
-
-**关键字** CVE
-
-**介绍:** CVE Descriptions
-
-**地址:** https://github.com/IoTS-P/CVEs
-
----
-
 
