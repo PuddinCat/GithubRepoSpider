@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## MHRezaie/exploit
+
+**关键字** Exploit
+
+**介绍:** Exploit Repo
+
+**地址:** https://github.com/MHRezaie/exploit
+
+---
+
 ## felipevasc/CVEForger
 
 **关键字** CVE
@@ -13,6 +23,36 @@
 **介绍:** CVE Forger
 
 **地址:** https://github.com/felipevasc/CVEForger
+
+---
+
+## AdityaBhatt3010/Bug-Bounty-Race-Exploiting-Race-Conditions-for-Infinite-Discounts
+
+**关键字** Exploit
+
+**介绍:** Race Condition Vulnerability hands on experience to apply discount coupons multiple times and bypass intended pricing logic.
+
+**地址:** https://github.com/AdityaBhatt3010/Bug-Bounty-Race-Exploiting-Race-Conditions-for-Infinite-Discounts
+
+---
+
+## LvL23HT/Red-Team-Toolkit-Categorized-Offensive-Security-Tools
+
+**关键字** Red Team
+
+**介绍:** Red Team operations simulate real-world cyberattacks to assess and improve organizational defenses. Below is a curated and categorized toolkit commonly used by professional red teamers and ethical hackers.
+
+**地址:** https://github.com/LvL23HT/Red-Team-Toolkit-Categorized-Offensive-Security-Tools
+
+---
+
+## akmal-cyb/Red-Team-Web-Recon-Tool
+
+**关键字** Red Team
+
+**介绍:** A web-based red team tool for automated reconnaissance. Scans target URLs for SQL Injection, XSS, open ports, and SSL certificate issues. Supports custom payload injection and uses BeautifulSoup to discover vulnerable input fields.
+
+**地址:** https://github.com/akmal-cyb/Red-Team-Web-Recon-Tool
 
 ---
 
@@ -2703,106 +2743,6 @@
 **介绍:** None
 
 **地址:** https://github.com/cybersleuth2/AI_RedTeam
-
----
-
-## luisfabiosm/POC-MyBank
-
-**关键字** POC
-
-**介绍:** Projeto de Teste de uns conceitos e uso do Template de API
-
-**地址:** https://github.com/luisfabiosm/POC-MyBank
-
----
-
-## Frostbyte327/exploits
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/Frostbyte327/exploits
-
----
-
-## Xor290/Bypass-AV-2-with-api
-
-**关键字** shellcode
-
-**介绍:** Cette chaine de bypass utilise une api écrit en python et qui change les ports pour transmettre le shellcode au malware + utilisation de VirtualAllocExNuma + xor encode shellcode
-
-**地址:** https://github.com/Xor290/Bypass-AV-2-with-api
-
----
-
-## n0d0n/CVE-2024-6648
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/n0d0n/CVE-2024-6648
-
----
-
-## Xor290/Bypass-AV
-
-**关键字** bypass av
-
-**介绍:** ce programme est une chaine de bypass pour Bypass la plus part des antivirus comme Windows Defender Kaspersky MalwareBytes etc
-
-**地址:** https://github.com/Xor290/Bypass-AV
-
----
-
-## gatzby-git/ctf-exploit
-
-**关键字** Exploit
-
-**介绍:** homework
-
-**地址:** https://github.com/gatzby-git/ctf-exploit
-
----
-
-## RyelHunter/poc
-
-**关键字** POC
-
-**介绍:** None
-
-**地址:** https://github.com/RyelHunter/poc
-
----
-
-## dominiksipowicz/poc-turbo-schadcn-multi-zone
-
-**关键字** POC
-
-**介绍:** None
-
-**地址:** https://github.com/dominiksipowicz/poc-turbo-schadcn-multi-zone
-
----
-
-## OzgurCanErdogan/POCredisOM
-
-**关键字** POC
-
-**介绍:** None
-
-**地址:** https://github.com/OzgurCanErdogan/POCredisOM
-
----
-
-## Ephraim67/Hacking-Art-Exploitation
-
-**关键字** Exploit
-
-**介绍:** Hacking: The Art of Exploitation
-
-**地址:** https://github.com/Ephraim67/Hacking-Art-Exploitation
 
 ---
 
