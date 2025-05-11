@@ -16,6 +16,16 @@
 
 ---
 
+## Mobinshahidi/BurpsuitePro-fedora
+
+**关键字** burp
+
+**介绍:** None
+
+**地址:** https://github.com/Mobinshahidi/BurpsuitePro-fedora
+
+---
+
 ## tan7z/infomation
 
 **关键字** 信息收集
@@ -2683,36 +2693,6 @@
 **介绍:** None
 
 **地址:** https://github.com/Be-Innova/CVE-2021-42392-exploit-lab
-
----
-
-## cybersecurityteampk/evilginx3-phishlets-2025
-
-**关键字** Red Team
-
-**介绍:** Latest Evilginx Phishlets Collection | Updated 2025 | For Red Team & Ethical Hacking
-
-**地址:** https://github.com/cybersecurityteampk/evilginx3-phishlets-2025
-
----
-
-## dto-btn/mcp-server-demo
-
-**关键字** POC
-
-**介绍:** Demo PoC MCP server to be used in other PoC
-
-**地址:** https://github.com/dto-btn/mcp-server-demo
-
----
-
-## freeide/SilentButDeadly
-
-**关键字** Red Team
-
-**介绍:** SilentButDeadly represents a significant advancement over tools like EDRSilencer and Blackout, offering a more comprehensive, OPSEC-friendly approach to EDR bypass for red team operations.
-
-**地址:** https://github.com/freeide/SilentButDeadly
 
 ---
 
