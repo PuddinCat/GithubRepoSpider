@@ -2986,24 +2986,4 @@
 
 ---
 
-## Akinrinademayowa1/Exploitraphics.com
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/Akinrinademayowa1/Exploitraphics.com
-
----
-
-## shannccc/burpsuiteplugs
-
-**关键字** burp
-
-**介绍:** burpsuite插件汇总
-
-**地址:** https://github.com/shannccc/burpsuiteplugs
-
----
-
 
