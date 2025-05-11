@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## intrud3rX777/Burp-Subdomain-Extractor
+
+**关键字** burp
+
+**介绍:** None
+
+**地址:** https://github.com/intrud3rX777/Burp-Subdomain-Extractor
+
+---
+
 ## hnking-star/FlySecAgent
 
 **关键字** 漏洞利用
@@ -2913,66 +2923,6 @@
 **介绍:** 网上正规靠谱创联沙巴体育博彩平台最新官方验证唯一平台网站376838.com下载最新版本的官方APP。该平台提供体育博彩、真人视讯、电子游戏、棋牌、彩票等多种娱乐服务。用户可通过访问官网，注册账号并下载APP，赢得了全球玩家的一致信任。立即访问创联娱乐官网，免费注册账号，下载APP开启全新娱乐赢家！开始游戏体验。APP下载方式：1访问官网：在浏览器中输入376838.com。下载APP：在官网首页或导航栏找到“APP下载”或类似选项，点击进入下载页面。客服联系方式（飞机）：@lc15688注意：未能确认是否为官方账号，请务必小心验证诈骗
 
 **地址:** https://github.com/zdn200dali/-
-
----
-
-## armanulmomin/Soc-Analyst-Learning-Path
-
-**关键字** Blue Team
-
-**介绍:** SOC Analyst Practice (LetsDefend) — A personal cybersecurity lab documenting hands-on Blue Team training through the LetsDefend SOC Analyst learning path, including real-world alert analysis, incident response, and threat detection exercises.
-
-**地址:** https://github.com/armanulmomin/Soc-Analyst-Learning-Path
-
----
-
-## honestcorrupt/Dark__Web__site-Hosting-Demo
-
-**关键字** Blue Team
-
-**介绍:** Educational demo: how a dark web (.onion) site is hosted, how it's tied to uptime, and the risks of ephemeral hosting. For red team/blue team training only.
-
-**地址:** https://github.com/honestcorrupt/Dark__Web__site-Hosting-Demo
-
----
-
-## Fauzan-Aldi/CTF-Flag-Automation-On-The-AD-Platform
-
-**关键字** Exploit
-
-**介绍:** Implementing Automation for Exploits and Flag Submission on AD CTF
-
-**地址:** https://github.com/Fauzan-Aldi/CTF-Flag-Automation-On-The-AD-Platform
-
----
-
-## srcx404/CVE-2024-39719
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/srcx404/CVE-2024-39719
-
----
-
-## DedsecTeam-BlackHat/WordPress-Exploit
-
-**关键字** Exploit
-
-**介绍:** Tools for wordpress Exploit 
-
-**地址:** https://github.com/DedsecTeam-BlackHat/WordPress-Exploit
-
----
-
-## Fauzan-Aldi/Log4j-_Vulnerability
-
-**关键字** CVE
-
-**介绍:** The Web Is Vulnerable to CVE-2021-44228
-
-**地址:** https://github.com/Fauzan-Aldi/Log4j-_Vulnerability
 
 ---
 
