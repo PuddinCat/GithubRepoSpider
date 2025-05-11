@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## chatgpt-gpt4/ChatGPT_China_CN
+
+**关键字** 免杀
+
+**介绍:** 【5月12日】国内ChatGPT中文版直连：免费无限GPT-4o绘图，通杀o1/o3/DeepSeek全系列！
+
+**地址:** https://github.com/chatgpt-gpt4/ChatGPT_China_CN
+
+---
+
 ## tan7z/infomation
 
 **关键字** 信息收集
@@ -2703,46 +2713,6 @@
 **介绍:** SilentButDeadly represents a significant advancement over tools like EDRSilencer and Blackout, offering a more comprehensive, OPSEC-friendly approach to EDR bypass for red team operations.
 
 **地址:** https://github.com/freeide/SilentButDeadly
-
----
-
-## MarkJhon-Obias/webshell
-
-**关键字** webshell
-
-**介绍:** None
-
-**地址:** https://github.com/MarkJhon-Obias/webshell
-
----
-
-## tfasanya79/siem-log-analysis-lab
-
-**关键字** Blue Team
-
-**介绍:** End-to-end SIEM setup and Blue Team automation using Wazuh, Winlogbeat, Linux logs, and scripting tools.
-
-**地址:** https://github.com/tfasanya79/siem-log-analysis-lab
-
----
-
-## Ashwin478393/znlinux
-
-**关键字** 提权
-
-**介绍:** 一个神一般的linux全架构全漏洞提权程序
-
-**地址:** https://github.com/Ashwin478393/znlinux
-
----
-
-## susan232/CVE-EXERCISE
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/susan232/CVE-EXERCISE
 
 ---
 
