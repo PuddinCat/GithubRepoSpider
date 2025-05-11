@@ -3046,24 +3046,4 @@
 
 ---
 
-## MaybeIcan1/ZR-LeetcodeNote
-
-**关键字** 提权
-
-**介绍:** 用来记录一些自己刷题时的笔记与心得（包括看到别人好的思想的摘录，若有侵权提前致歉并会删除）
-
-**地址:** https://github.com/MaybeIcan1/ZR-LeetcodeNote
-
----
-
-## ryoo0930/CVE-Insight
-
-**关键字** CVE
-
-**介绍:** JBNU 2025 DataBase Team Project
-
-**地址:** https://github.com/ryoo0930/CVE-Insight
-
----
-
 
