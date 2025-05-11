@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## shpaw415/CVE-2020-24913-exploit
+
+**关键字** Exploit
+
+**介绍:** automated SQL injection for QCubed profile.php file
+
+**地址:** https://github.com/shpaw415/CVE-2020-24913-exploit
+
+---
+
+## dilleron508/sea-of-thieves-exploit
+
+**关键字** Exploit
+
+**介绍:** Download Sea of Thieves Hack Free
+
+**地址:** https://github.com/dilleron508/sea-of-thieves-exploit
+
+---
+
 ## Phaneeeee/web-application-pen-testing-project
 
 **关键字** burp
@@ -23,6 +43,16 @@
 **介绍:** Cyber Security Risk Assessment Platform
 
 **地址:** https://github.com/alexoh2bd/Project_CVE
+
+---
+
+## its-mr-monday/sRDI-CPP
+
+**关键字** shellcode
+
+**介绍:** A C++ Implementation of sRDI, in which you may generate PIE shellcode from a native DLL, the tool is designed to run on Windows or Linux
+
+**地址:** https://github.com/its-mr-monday/sRDI-CPP
 
 ---
 
@@ -2593,46 +2623,6 @@
 **介绍:** None
 
 **地址:** https://github.com/monavi77/PocketGig666
-
----
-
-## chickenbutt322/exploits
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/chickenbutt322/exploits
-
----
-
-## adsf1234-hacker/exploits-8cb16
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/adsf1234-hacker/exploits-8cb16
-
----
-
-## adsf1234-hacker/exploits
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/adsf1234-hacker/exploits
-
----
-
-## exploitenomah/exploitenomah.com
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/exploitenomah/exploitenomah.com
 
 ---
 
