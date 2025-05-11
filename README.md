@@ -2656,24 +2656,4 @@
 
 ---
 
-## tiemio/RCE-PoC-CVE-2021-25646
-
-**关键字** CVE
-
-**介绍:** A proof-of-concept for the CVE-2021-25646, which allows for Command Injection
-
-**地址:** https://github.com/tiemio/RCE-PoC-CVE-2021-25646
-
----
-
-## turekt/BurpHistory2Pcap
-
-**关键字** burp
-
-**介绍:** Burp extension that enables export of selected traffic in Burp HTTP History tab to a PCAP file.
-
-**地址:** https://github.com/turekt/BurpHistory2Pcap
-
----
-
 
