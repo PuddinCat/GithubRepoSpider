@@ -71,9 +71,10 @@ async def query_github(
 
 async def search_github_repositories(query, sort="stars", order="desc", pages=1):
     headers = {
-        # "Authorization": f"token {GITHUB_TOKEN}",
         "Accept": "application/vnd.github.v3+json",
     }
+    if GITHUB_TOKEN:
+        headers["Authorization"] = f"token {GITHUB_TOKEN}"
     all_results = {"items": []}
     async with httpx.AsyncClient() as client:
         resps = await asyncio.gather(
