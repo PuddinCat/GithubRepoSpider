@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## lull-y-miyazaki/spring-team-red
+
+**关键字** Red Team
+
+**介绍:** None
+
+**地址:** https://github.com/lull-y-miyazaki/spring-team-red
+
+---
+
+## Schatten-42/MyCVE
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/Schatten-42/MyCVE
+
+---
+
 ## PolarisXSec/CVE-2024-21413
 
 **关键字** CVE
@@ -36,6 +56,26 @@
 
 ---
 
+## techleadevelopers/sql-exploited-swaps-finance
+
+**关键字** Exploit
+
+**介绍:** Swap API Exploted Framework - Este é um framework avançado para testar vulnerabilidades em swaps de criptomoedas simples, como o PixSwap. Ele utiliza técnicas modernas de fuzzing, enumeração de endpoints, spoofing de headers e manipulação de APIs para identificar falhas de segurança.
+
+**地址:** https://github.com/techleadevelopers/sql-exploited-swaps-finance
+
+---
+
+## Chetanproduction23/company-interview-evaluator
+
+**关键字** Red Team
+
+**介绍:** A curated guide for software engineers to evaluate a company’s engineering practices during job interviews. Includes key questions, red flags, and good signs related to SDLC, codebase quality, team culture, testing, and developer experience.
+
+**地址:** https://github.com/Chetanproduction23/company-interview-evaluator
+
+---
+
 ## cakescats/airborn-IOS-CVE-2025-24252
 
 **关键字** CVE
@@ -43,6 +83,16 @@
 **介绍:** iOS Airborne vulnerabilities log artifact extractor from LogArchive CVE-2025-24252
 
 **地址:** https://github.com/cakescats/airborn-IOS-CVE-2025-24252
+
+---
+
+## DeveloperDeltaScript/MicaExploits
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/DeveloperDeltaScript/MicaExploits
 
 ---
 
@@ -63,6 +113,16 @@
 **介绍:** Basic customization app using CVE-2025-24203. Patched in iOS 18.4.
 
 **地址:** https://github.com/Ravibr87/dirtyZero
+
+---
+
+## notryhardnysson694/Prison-Life-Script-Roblox
+
+**关键字** Exploit
+
+**介绍:** Best OP New Roblox Prison Life Scripts and Exploits 2025 - Free GUI Admin Commands Download
+
+**地址:** https://github.com/notryhardnysson694/Prison-Life-Script-Roblox
 
 ---
 
@@ -96,6 +156,26 @@
 
 ---
 
+## zerodayjn/bugbountycoinbase_dev
+
+**关键字** Exploit
+
+**介绍:** coinbase code exploit bug bounty
+
+**地址:** https://github.com/zerodayjn/bugbountycoinbase_dev
+
+---
+
+## zerodayjn/bugbountycoinbase
+
+**关键字** Exploit
+
+**介绍:** coinbase code exploit bug bounty
+
+**地址:** https://github.com/zerodayjn/bugbountycoinbase
+
+---
+
 ## Nxploited/CVE-2025-32583
 
 **关键字** CVE
@@ -123,6 +203,16 @@
 **介绍:** Exploitation Repository/Directory 
 
 **地址:** https://github.com/PardhuSreeRushiVarma20060119/ExploitSpace-Repo
+
+---
+
+## micmerritt/red-team-data-lab
+
+**关键字** Red Team
+
+**介绍:** Hands-on adversary-emulation & data-analytics projects while finishing PhD (2025-2026)
+
+**地址:** https://github.com/micmerritt/red-team-data-lab
 
 ---
 
@@ -213,6 +303,16 @@
 **介绍:** None
 
 **地址:** https://github.com/slaimmials/Exploits
+
+---
+
+## Elebekenny/siem-detection-lab
+
+**关键字** Red Team
+
+**介绍:** A red team attack chain simulation with SIEM log detection and threat hunting via MITRE ATT&CK
+
+**地址:** https://github.com/Elebekenny/siem-detection-lab
 
 ---
 
