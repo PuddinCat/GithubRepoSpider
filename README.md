@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## 4420q/FiveM-External-Cheat
+
+**关键字** Exploit
+
+**介绍:** FiveM External cheat, offers various features like aimbot, triggerbot, exploits, and customizable settings, enhancing the gameplay experience. It is completely undetectable.
+
+**地址:** https://github.com/4420q/FiveM-External-Cheat
+
+---
+
 ## Im0nk3yar0und/esp-webshell
 
 **关键字** webshell
@@ -76,6 +86,16 @@
 
 ---
 
+## LiPume/WE-YOLO
+
+**关键字** 注入
+
+**介绍:** 计算机视觉科研入门级，跑通yolov11+小波卷积与注意力机制改进，用于检测儿童下颌骨骨折线
+
+**地址:** https://github.com/LiPume/WE-YOLO
+
+---
+
 ## Rishi176-ai/ReadTeam-vs-BlueTeam
 
 **关键字** Blue Team
@@ -113,6 +133,26 @@
 **介绍:** None
 
 **地址:** https://github.com/Shikiso/BinaryExploitation
+
+---
+
+## snu-mllab/GuidedQuant
+
+**关键字** Exploit
+
+**介绍:** Official PyTorch implementation of "GuidedQuant: Large Language Model Quantization via Exploiting End Loss Guidance" (ICML'25)
+
+**地址:** https://github.com/snu-mllab/GuidedQuant
+
+---
+
+## KnCRJVirX/DLLInjector
+
+**关键字** 注入
+
+**介绍:** 简易DLL注入器 ，个人学习DLL注入原理用
+
+**地址:** https://github.com/KnCRJVirX/DLLInjector
 
 ---
 
@@ -513,6 +553,16 @@
 **介绍:** None
 
 **地址:** https://github.com/elshadghg325/CVE_scraper
+
+---
+
+## alpernae/NotesPlus
+
+**关键字** burp
+
+**介绍:** Notes+ is a Burp Suite extension designed to provide a seamless note-taking experience directly within Burp Suite. It allows security testers and developers to efficiently create, manage, and organize their findings, observations, and thoughts using Markdown, with a live HTML preview.
+
+**地址:** https://github.com/alpernae/NotesPlus
 
 ---
 
@@ -2613,56 +2663,6 @@
 **介绍:** Welcome to my Red Team learning journey. This repository documents my hands-on progress through the [TryHackMe](https://tryhackme.com) Junior Penetration Tester learning path as I prepare for the eJPT (eLearnSecurity Junior Penetration Tester) certification.
 
 **地址:** https://github.com/Star-Guardian341/eJPT-Prep
-
----
-
-## fligt/dromen-van-open-access
-
-**关键字** RCE
-
-**介绍:** Enkele ambtelijke gedachten over het open access beschikbaar maken van RCE publicaties
-
-**地址:** https://github.com/fligt/dromen-van-open-access
-
----
-
-## wanmaverig95/v10-axie-ronin-exploits
-
-**关键字** Exploit
-
-**介绍:** Axie Infinity Latest Hack 2025 - Get Free Energy & AXS
-
-**地址:** https://github.com/wanmaverig95/v10-axie-ronin-exploits
-
----
-
-## chippenwigle15/v7-Neverlose-MC-Exploit
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/chippenwigle15/v7-Neverlose-MC-Exploit
-
----
-
-## Mebrahem1/poc
-
-**关键字** POC
-
-**介绍:** None
-
-**地址:** https://github.com/Mebrahem1/poc
-
----
-
-## yuli-ferna/poc
-
-**关键字** POC
-
-**介绍:** None
-
-**地址:** https://github.com/yuli-ferna/poc
 
 ---
 
