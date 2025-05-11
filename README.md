@@ -2966,14 +2966,4 @@
 
 ---
 
-## trulyursdelv/pocketdb
-
-**关键字** POC
-
-**介绍:** Telegra.ph as a pocket database. ⚡
-
-**地址:** https://github.com/trulyursdelv/pocketdb
-
----
-
 
