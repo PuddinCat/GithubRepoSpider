@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## Im0nk3yar0und/esp-webshell
+
+**关键字** webshell
+
+**介绍:** A secure SMS-controlled relay system using ESP-07 (ESP8266) and SIM800L, enhanced with a web-based terminal (WebShell) styled with the Gruvbox theme.
+
+**地址:** https://github.com/Im0nk3yar0und/esp-webshell
+
+---
+
+## syaifulandy/Nuclei-Template-CVE-2023-42793.yaml
+
+**关键字** CVE
+
+**介绍:** Windows & linux support
+
+**地址:** https://github.com/syaifulandy/Nuclei-Template-CVE-2023-42793.yaml
+
+---
+
 ## SujalMeghwal/PowerOpsToolKit
 
 **关键字** Red Team
@@ -13,6 +33,26 @@
 **介绍:** Offensive PowerShell toolkit for red teams and internal assessments — WMI, recon, lateral movement, and access testing at scale.
 
 **地址:** https://github.com/SujalMeghwal/PowerOpsToolKit
+
+---
+
+## CX-D3ath/Burpsuite-Professional
+
+**关键字** burp
+
+**介绍:** None
+
+**地址:** https://github.com/CX-D3ath/Burpsuite-Professional
+
+---
+
+## Rajnish878/Bluestock_L4_team1
+
+**关键字** Blue Team
+
+**介绍:** None
+
+**地址:** https://github.com/Rajnish878/Bluestock_L4_team1
 
 ---
 
@@ -53,6 +93,16 @@
 **介绍:** None
 
 **地址:** https://github.com/Rishi176-ai/RedTeam-vs-BlueTeam
+
+---
+
+## betulssahin/CVE-2025-0411-7-Zip-Mark-of-the-Web-Bypass
+
+**关键字** CVE
+
+**介绍:** CVE-2025-0411 7-Zip Mark-of-the-Web Bypass
+
+**地址:** https://github.com/betulssahin/CVE-2025-0411-7-Zip-Mark-of-the-Web-Bypass
 
 ---
 
@@ -2613,36 +2663,6 @@
 **介绍:** None
 
 **地址:** https://github.com/yuli-ferna/poc
-
----
-
-## avikadam/pocs
-
-**关键字** POC
-
-**介绍:** pocs
-
-**地址:** https://github.com/avikadam/pocs
-
----
-
-## wilbourne-labs/WordlistImporter
-
-**关键字** burp
-
-**介绍:** A Burp extension, written in Python, which allows seamless importing of wordlists hosted on the Internet directly into Burp Suite.
-
-**地址:** https://github.com/wilbourne-labs/WordlistImporter
-
----
-
-## Soldy/exploit-collection
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/Soldy/exploit-collection
 
 ---
 
