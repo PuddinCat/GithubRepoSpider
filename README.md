@@ -6,6 +6,36 @@
 
 ## 最新仓库
 
+## SujalMeghwal/PowerOpsToolKit
+
+**关键字** Red Team
+
+**介绍:** Offensive PowerShell toolkit for red teams and internal assessments — WMI, recon, lateral movement, and access testing at scale.
+
+**地址:** https://github.com/SujalMeghwal/PowerOpsToolKit
+
+---
+
+## RobertoLozano1/CVEquipo2
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/RobertoLozano1/CVEquipo2
+
+---
+
+## prasannadolas/red-team-simulation
+
+**关键字** Red Team
+
+**介绍:** None
+
+**地址:** https://github.com/prasannadolas/red-team-simulation
+
+---
+
 ## Rishi176-ai/ReadTeam-vs-BlueTeam
 
 **关键字** Blue Team
@@ -43,6 +73,16 @@
 **介绍:** None
 
 **地址:** https://github.com/Mobinshahidi/BurpsuitePro-fedora
+
+---
+
+## rxnredxenon/RED-XENON
+
+**关键字** Red Team
+
+**介绍:** RED XENON is a FreeFire Esports team from Bangladesh 
+
+**地址:** https://github.com/rxnredxenon/RED-XENON
 
 ---
 
