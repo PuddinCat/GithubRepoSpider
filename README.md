@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## PolarisXSec/CVE-2024-21413
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/PolarisXSec/CVE-2024-21413
+
+---
+
 ## Furbreeze/burp_piper_ollama
 
 **关键字** burp
@@ -16,6 +26,26 @@
 
 ---
 
+## farooqabdulla/cve-wd
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/farooqabdulla/cve-wd
+
+---
+
+## cakescats/airborn-IOS-CVE-2025-24252
+
+**关键字** CVE
+
+**介绍:** iOS Airborne vulnerabilities log artifact extractor from LogArchive CVE-2025-24252
+
+**地址:** https://github.com/cakescats/airborn-IOS-CVE-2025-24252
+
+---
+
 ## kaif9711/Comprehensive-Penetration-Testing-on-Publisher-Linux-System-
 
 **关键字** RCE
@@ -23,6 +53,16 @@
 **介绍:** Penetration testing of a vulnerable Linux-based Publisher VM using Nmap, OpenVAS, SPIP RCE, and privilege escalation techniques with tools like Burp Suite, Hydra, and Metasploit.
 
 **地址:** https://github.com/kaif9711/Comprehensive-Penetration-Testing-on-Publisher-Linux-System-
+
+---
+
+## Ravibr87/dirtyZero
+
+**关键字** CVE
+
+**介绍:** Basic customization app using CVE-2025-24203. Patched in iOS 18.4.
+
+**地址:** https://github.com/Ravibr87/dirtyZero
 
 ---
 
@@ -103,6 +143,16 @@
 **介绍:** LLM powered Python application combining CVE vulnerability scanner and remediation recommender
 
 **地址:** https://github.com/madhunica-balasubramanian/CVE-Scanner
+
+---
+
+## BlueDiamond2021/iOS-CVE-2025-24203-Paths
+
+**关键字** CVE
+
+**介绍:** Random paths for use with CVE-2025-24203
+
+**地址:** https://github.com/BlueDiamond2021/iOS-CVE-2025-24203-Paths
 
 ---
 
@@ -393,6 +443,16 @@
 **介绍:** Howdy fellas
 
 **地址:** https://github.com/Mo9802/Burps
+
+---
+
+## abdulr77mn/Mosquitto-CVE-Proof-of-Concept-TOCTOU-and-Symlink-Vulnerability-
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/abdulr77mn/Mosquitto-CVE-Proof-of-Concept-TOCTOU-and-Symlink-Vulnerability-
 
 ---
 
