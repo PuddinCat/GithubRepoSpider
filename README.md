@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## Furbreeze/burp_piper_ollama
+
+**关键字** burp
+
+**介绍:** None
+
+**地址:** https://github.com/Furbreeze/burp_piper_ollama
+
+---
+
 ## kaif9711/Comprehensive-Penetration-Testing-on-Publisher-Linux-System-
 
 **关键字** RCE
@@ -2903,96 +2913,6 @@
 **介绍:** Telegra.ph as a pocket database. ⚡
 
 **地址:** https://github.com/trulyursdelv/pocketdb
-
----
-
-## zaquanamin-94/databrick
-
-**关键字** POC
-
-**介绍:** PoC for databrick
-
-**地址:** https://github.com/zaquanamin-94/databrick
-
----
-
-## h31md4llr/libjpeg_cve-2018-19664
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/h31md4llr/libjpeg_cve-2018-19664
-
----
-
-## EarthAngel666/x-middleware-exploit
-
-**关键字** CVE
-
-**介绍:** x-middleware exploit for next.js CVE-2023–46298 cache poisoning and CVE-2025-29927 bypass
-
-**地址:** https://github.com/EarthAngel666/x-middleware-exploit
-
----
-
-## nairuzabulhul/nuclei-template-cve-2025-31324-check
-
-**关键字** CVE
-
-**介绍:** sap-netweaver-cve-2025-31324-check
-
-**地址:** https://github.com/nairuzabulhul/nuclei-template-cve-2025-31324-check
-
----
-
-## PJLesevic/LLM-Cognitive-Red-Teaming
-
-**关键字** Red Team
-
-**介绍:** The First Iteration of Biomimetic AI Red Teaming
-
-**地址:** https://github.com/PJLesevic/LLM-Cognitive-Red-Teaming
-
----
-
-## sifaconer/POC
-
-**关键字** POC
-
-**介绍:** POC
-
-**地址:** https://github.com/sifaconer/POC
-
----
-
-## 1414010425/RedMIK30S-rce
-
-**关键字** RCE
-
-**介绍:** k30s
-
-**地址:** https://github.com/1414010425/RedMIK30S-rce
-
----
-
-## DelspoN/CVE-2024-57376
-
-**关键字** CVE
-
-**介绍:** CVE-2024-57376 exploit
-
-**地址:** https://github.com/DelspoN/CVE-2024-57376
-
----
-
-## bencjohns/xm-hire-me
-
-**关键字** Red Team
-
-**介绍:** Made with love and Red Bull - for the Edge and recruiting team :)
-
-**地址:** https://github.com/bencjohns/xm-hire-me
 
 ---
 
