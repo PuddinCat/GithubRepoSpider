@@ -16,6 +16,36 @@
 
 ---
 
+## mbadanoiu/CVE-2025-31644
+
+**关键字** CVE
+
+**介绍:** CVE-2025-31644: Command Injection in Appliance mode in F5 BIG-IP
+
+**地址:** https://github.com/mbadanoiu/CVE-2025-31644
+
+---
+
+## nighthawkk/Binary-Kernel-Android-Exploitation-Roadmap
+
+**关键字** Exploit
+
+**介绍:** binary/kernel/android exploitation roadmap
+
+**地址:** https://github.com/nighthawkk/Binary-Kernel-Android-Exploitation-Roadmap
+
+---
+
+## trantathung2004/cybersec-homework-vulnerabilities-exploits
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/trantathung2004/cybersec-homework-vulnerabilities-exploits
+
+---
+
 ## intrud3rX777/Burp-Subdomain-Extractor
 
 **关键字** burp
@@ -33,6 +63,16 @@
 **介绍:** FlySecAgent 是一款先进的网络安全智能助手，构建于强大的大语言模型和灵活的 MCP (Model-Controller-Plugin) 架构之上。它旨在通过自然语言交互，为网络安全专业人员和爱好者提供全面的支持。FlySecAgent 不仅能够执行渗透测试任务、查询最新的安全漏洞信息、分析复杂的流量数据包，还能利用集成的知识库进行上下文感知的增强回答，确保信息的准确性和深度。通过 MCP 服务器，FlySecAgent 可以无缝调用各种外部安全工具（如 Nmap, Gobuster, Metasploit 等），从而扩展其能力边界，应对多样化的安全挑战。无论是进行主动防御、事件响应还是安全研究，FlySecAgent 都能成为您得力的助手。
 
 **地址:** https://github.com/hnking-star/FlySecAgent
+
+---
+
+## Nurdich/RFS
+
+**关键字** 免杀
+
+**介绍:** `Raw Files Server`（简称 RFS）是一个支持 HTTP/自定义TCP 协议双栈的文件分发服务端，适用于内网文件分发、免杀落地等场景。
+
+**地址:** https://github.com/Nurdich/RFS
 
 ---
 
@@ -56,6 +96,16 @@
 
 ---
 
+## lull-team-dev/spring-team-blue
+
+**关键字** Blue Team
+
+**介绍:** None
+
+**地址:** https://github.com/lull-team-dev/spring-team-blue
+
+---
+
 ## lull-y-miyazaki/spring-team-red
 
 **关键字** Red Team
@@ -73,6 +123,16 @@
 **介绍:** None
 
 **地址:** https://github.com/spring-team-red/spring-team-red
+
+---
+
+## lull-team-dev/spring-team-red
+
+**关键字** Red Team
+
+**介绍:** None
+
+**地址:** https://github.com/lull-team-dev/spring-team-red
 
 ---
 
@@ -1966,6 +2026,16 @@
 
 ---
 
+## lastnameradeon/SearchToolkit
+
+**关键字** Red Team
+
+**介绍:** SearchToolkit is advanced collection of tools, hardwares, resources and cheatsheets useful for Pentester, Red Teamer,  Bug Hunter, Forensics, LAW enforcement etc.
+
+**地址:** https://github.com/lastnameradeon/SearchToolkit
+
+---
+
 ## Mattb709/HELLCAT-Practical-Initial-Access-Guide-for-Red-Teams
 
 **关键字** Red Team
@@ -2843,76 +2913,6 @@
 **介绍:** Class Presentation on Electromagnetic Exploitation 
 
 **地址:** https://github.com/Flock137/EM-ATK
-
----
-
-## r10sle/Luna-Executor
-
-**关键字** Exploit
-
-**介绍:** Lunar Executor is a tool for executing custom scripts within Roblox, providing users with the ability to exploit and modify game features.
-
-**地址:** https://github.com/r10sle/Luna-Executor
-
----
-
-## karenekmku/avphptvpn
-
-**关键字** bypass av
-
-**介绍:** Unlock unlimited secure browsing with Avira Phantom VPN MOD APK! Enjoy lightning-fast, anonymous internet access, bypass geo-restrictions, and protect your privacy effortlessly. Download now for FREE!
-
-**地址:** https://github.com/karenekmku/avphptvpn
-
----
-
-## karenekmku/avggpplvpn
-
-**关键字** bypass av
-
-**介绍:** Unlock ultimate online privacy with AVG VPN MOD APK! Enjoy lightning-fast, unlimited VPN access for free. Stay secure, anonymous, and bypass restrictions effortlessly. Download now for unbeatable internet freedom!
-
-**地址:** https://github.com/karenekmku/avggpplvpn
-
----
-
-## karenekmku/avgsecsvpn
-
-**关键字** bypass av
-
-**介绍:** Unlock ultra-fast, private browsing with AVG SecureDNS MOD APK! Bypass restrictions, block trackers, and enhance security effortlessly. Download now for a safer, smoother internet experience!
-
-**地址:** https://github.com/karenekmku/avgsecsvpn
-
----
-
-## karenekmku/avslvlinvpn
-
-**关键字** bypass av
-
-**介绍:** Unlock unlimited secure browsing with Avast SecureLine VPN MOD APK! Enjoy lightning-fast, private internet access and bypass geo-restrictions instantly. Download now for ultimate online freedom and protection!
-
-**地址:** https://github.com/karenekmku/avslvlinvpn
-
----
-
-## scarletborder/YingJiXiangYing
-
-**关键字** 应急响应
-
-**介绍:** 应急响应报告,代码存储
-
-**地址:** https://github.com/scarletborder/YingJiXiangYing
-
----
-
-## ruiangeStudio/wechat-official
-
-**关键字** 信息收集
-
-**介绍:** 这是一个用于处理微信公众号消息和事件的Node.js服务端应用。本服务实现了微信公众平台的服务器配置验证、消息接收与处理等基础功能，并集成了OpenAI接口实现智能聊天回复，为微信公众号提供全面的后端支持。
-
-**地址:** https://github.com/ruiangeStudio/wechat-official
 
 ---
 
