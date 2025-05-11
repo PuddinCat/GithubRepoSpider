@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## Phaneeeee/web-application-pen-testing-project
+
+**关键字** burp
+
+**介绍:** This project demonstrates network reconnaissance and web app testing using Nmap and Burp Suite. It includes scanning open ports, identifying services, and testing for SQL Injection and XSS vulnerabilities in DVWA. The goal is to simulate real-world penetration testing scenarios.
+
+**地址:** https://github.com/Phaneeeee/web-application-pen-testing-project
+
+---
+
 ## m-ahmed-elbeskeri/Starguard
 
 **关键字** Red Team
@@ -2613,26 +2623,6 @@
 **介绍:** Educational Python keylogger for Red-Team simulation
 
 **地址:** https://github.com/hassanmajaro/keylogger
-
----
-
-## OleksandrVovchenko/JavaMCtoPocketMCProxy
-
-**关键字** POC
-
-**介绍:** Not yet fully functioning proxy server for entering the MCPE 0.8.1 server from version 1.8.9 Java Edition.
-
-**地址:** https://github.com/OleksandrVovchenko/JavaMCtoPocketMCProxy
-
----
-
-## Lynk4/Exploit-Development
-
-**关键字** shellcode
-
-**介绍:** 🛠️ Exploit Development: This repository is a curated collection of low-level exploit examples and shellcode execution techniques. It is designed for cybersecurity researchers, reverse engineers, and students interested in understanding how raw shellcode is constructed, injected, and executed in real environments.
-
-**地址:** https://github.com/Lynk4/Exploit-Development
 
 ---
 
