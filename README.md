@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## Rishi176-ai/ReadTeam-vs-BlueTeam
+
+**关键字** Blue Team
+
+**介绍:** AI driven red team vs blue team AI simulation tool
+
+**地址:** https://github.com/Rishi176-ai/ReadTeam-vs-BlueTeam
+
+---
+
+## Rishi176-ai/RedTeam-vs-BlueTeam
+
+**关键字** Blue Team
+
+**介绍:** None
+
+**地址:** https://github.com/Rishi176-ai/RedTeam-vs-BlueTeam
+
+---
+
 ## chatgpt-gpt4/ChatGPT_China_CN
 
 **关键字** 免杀
@@ -2583,66 +2603,6 @@
 **介绍:** None
 
 **地址:** https://github.com/QvqhOfficial/exploits-f88c9
-
----
-
-## srvinu/buildervault-nyx
-
-**关键字** POC
-
-**介绍:** buildervault poc
-
-**地址:** https://github.com/srvinu/buildervault-nyx
-
----
-
-## PavelCyr/ZOP_PocketTraveler
-
-**关键字** POC
-
-**介绍:** ZOP tretak
-
-**地址:** https://github.com/PavelCyr/ZOP_PocketTraveler
-
----
-
-## aaquib64/PocketPilot_Client
-
-**关键字** POC
-
-**介绍:** None
-
-**地址:** https://github.com/aaquib64/PocketPilot_Client
-
----
-
-## CS-O/cvent
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/CS-O/cvent
-
----
-
-## akgamerz790/local-access
-
-**关键字** Exploit
-
-**介绍:** localization access to exploit
-
-**地址:** https://github.com/akgamerz790/local-access
-
----
-
-## pyrg0/web-vuln-to-rce
-
-**关键字** RCE
-
-**介绍:** None
-
-**地址:** https://github.com/pyrg0/web-vuln-to-rce
 
 ---
 
