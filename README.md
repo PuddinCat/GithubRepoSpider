@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## aulauniversal/Psfree-Lapso-Ps4-Ps5-Exploit-POC
+
+**关键字** Exploit
+
+**介绍:** Psfree Lapso Ps4/Ps5 Exploit POC based by abc Exploit
+
+**地址:** https://github.com/aulauniversal/Psfree-Lapso-Ps4-Ps5-Exploit-POC
+
+---
+
 ## 4420q/FiveM-External-Cheat
 
 **关键字** Exploit
@@ -13,6 +23,16 @@
 **介绍:** FiveM External cheat, offers various features like aimbot, triggerbot, exploits, and customizable settings, enhancing the gameplay experience. It is completely undetectable.
 
 **地址:** https://github.com/4420q/FiveM-External-Cheat
+
+---
+
+## ruiRun0916/skills-introduction-to-github
+
+**关键字** 绕过
+
+**介绍:** Exercise:其实呢，关于这个所谓的模块，也不知道该从何说起才好。说它是个模块吧，可这“模块”二字实在太过笼统了。它到底是个什么样子的模块呢？大的小的？方的圆的？是塑料材质的，还是金属打造的？又或者是看不见摸不着的虚拟模块？也不清楚它为什么叫模块，叫别的名字不行吗？叫这个名字对它自身来说有什么特殊含义吗？而且，它在这儿被叫做模块，那在别的地方会不会有不一样的称呼呢？真的很难说清啊，也不知道说这些有没有什么用，反正就是感觉围绕这个“这是一个模块”，能想好多好多没什么实际意义的事儿，却又好像也不知道到底该怎么深入说下去 ，就这么翻来覆去地琢磨这些没头没脑的想法，也不知道琢磨出个啥结果来。
+
+**地址:** https://github.com/ruiRun0916/skills-introduction-to-github
 
 ---
 
