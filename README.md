@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## tan7z/infomation
+
+**关键字** 信息收集
+
+**介绍:** python语言结合tkinter开发的点鼠标可用信息收集工具,python版本3.1.2,使用需额外添加个人相应字典
+
+**地址:** https://github.com/tan7z/infomation
+
+---
+
+## tan7z/-
+
+**关键字** 信息收集
+
+**介绍:** python语言结合tkinter开发的点鼠标可用信息收集工具,python版本3.1.2,使用需额外添加个人相应字典
+
+**地址:** https://github.com/tan7z/-
+
+---
+
 ## MHRezaie/exploit
 
 **关键字** Exploit
@@ -36,6 +56,16 @@
 
 ---
 
+## akmal-cyb/SSH-Log-Analyzer
+
+**关键字** Blue Team
+
+**介绍:** A web-based SSH log analyzer for Blue Teams that detects brute-force attacks, classifies threat levels, shows geolocation of attackers, and exports detailed CSV reports. Future support planned for firewall, web server, and IDS logs.
+
+**地址:** https://github.com/akmal-cyb/SSH-Log-Analyzer
+
+---
+
 ## LvL23HT/Red-Team-Toolkit-Categorized-Offensive-Security-Tools
 
 **关键字** Red Team
@@ -46,6 +76,16 @@
 
 ---
 
+## eusebio31337ciberseguridad/Ghidra-reverse-shell
+
+**关键字** RCE
+
+**介绍:** Ejecución remota de código (RCE) utilizando el backdoor oculto en la herramienta Ghidra (SRE) a través del protocolo de comunicación JDWP.  Proyecto del área de ciberseguridad y análisis de malware.
+
+**地址:** https://github.com/eusebio31337ciberseguridad/Ghidra-reverse-shell
+
+---
+
 ## akmal-cyb/Red-Team-Web-Recon-Tool
 
 **关键字** Red Team
@@ -53,6 +93,16 @@
 **介绍:** A web-based red team tool for automated reconnaissance. Scans target URLs for SQL Injection, XSS, open ports, and SSL certificate issues. Supports custom payload injection and uses BeautifulSoup to discover vulnerable input fields.
 
 **地址:** https://github.com/akmal-cyb/Red-Team-Web-Recon-Tool
+
+---
+
+## sckchcm-g/rce
+
+**关键字** RCE
+
+**介绍:** None
+
+**地址:** https://github.com/sckchcm-g/rce
 
 ---
 
