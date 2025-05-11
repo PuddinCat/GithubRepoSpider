@@ -16,6 +16,36 @@
 
 ---
 
+## alexoh2bd/Project_CVE
+
+**关键字** CVE
+
+**介绍:** Cyber Security Risk Assessment Platform
+
+**地址:** https://github.com/alexoh2bd/Project_CVE
+
+---
+
+## fatkz/CVE-2025-24813
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/fatkz/CVE-2025-24813
+
+---
+
+## Klematisy/cvector
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/Klematisy/cvector
+
+---
+
 ## m-ahmed-elbeskeri/Starguard
 
 **关键字** Red Team
@@ -33,6 +63,16 @@
 **介绍:** Psfree Lapso Ps4/Ps5 Exploit POC based by abc Exploit
 
 **地址:** https://github.com/aulauniversal/Psfree-Lapso-Ps4-Ps5-Exploit-POC
+
+---
+
+## engmazharulhassan/cve_to_ttp_api
+
+**关键字** CVE
+
+**介绍:** API(For CVE description to TTP ID)
+
+**地址:** https://github.com/engmazharulhassan/cve_to_ttp_api
 
 ---
 
@@ -2593,36 +2633,6 @@
 **介绍:** None
 
 **地址:** https://github.com/exploitenomah/exploitenomah.com
-
----
-
-## x224x/GhostLink
-
-**关键字** Red Team
-
-**介绍:** Script PowerShell para simular una APT con persistencia, control remoto vía TCP y desinstalación remota. Diseñado para ejercicios Red Team, concienciación y pruebas de seguridad en entornos controlados.
-
-**地址:** https://github.com/x224x/GhostLink
-
----
-
-## BOUDADOualid/aws-services
-
-**关键字** Exploit
-
-**介绍:** tuto pour les exploitation des services aws
-
-**地址:** https://github.com/BOUDADOualid/aws-services
-
----
-
-## hassanmajaro/keylogger
-
-**关键字** Red Team
-
-**介绍:** Educational Python keylogger for Red-Team simulation
-
-**地址:** https://github.com/hassanmajaro/keylogger
 
 ---
 
