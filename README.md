@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## m-ahmed-elbeskeri/Starguard
+
+**关键字** Red Team
+
+**介绍:** CLI that detects fake-star campaigns, dependency hijacks, licence red-flags and other signs of repository risk. Inspired by the “4.5 million fake stars” study, StarGuard helps CTOs, security teams and investors perform fast, automated open-source due-diligence.
+
+**地址:** https://github.com/m-ahmed-elbeskeri/Starguard
+
+---
+
 ## aulauniversal/Psfree-Lapso-Ps4-Ps5-Exploit-POC
 
 **关键字** Exploit
@@ -13,6 +23,16 @@
 **介绍:** Psfree Lapso Ps4/Ps5 Exploit POC based by abc Exploit
 
 **地址:** https://github.com/aulauniversal/Psfree-Lapso-Ps4-Ps5-Exploit-POC
+
+---
+
+## DevHAXog/ctf-writeups
+
+**关键字** Exploit
+
+**介绍:** Collection of detailed solutions and write-ups from various Capture the Flag (CTF) challenges. These documents showcase my skills in penetration testing, vulnerability exploitation, and cybersecurity problem-solving. Each write-up provides step-by-step insights into real-world hacking scenarios.
+
+**地址:** https://github.com/DevHAXog/ctf-writeups
 
 ---
 
@@ -2653,36 +2673,6 @@
 **介绍:** [POC] SOCKET.IO
 
 **地址:** https://github.com/SetropLeo/POC-SOCKET
-
----
-
-## Achraf012/exploit-rebuilds-achraf
-
-**关键字** Exploit
-
-**介绍:** Weekly rebuilds of real smart contract exploits using Foundry. Learn from actual bugs, with tests, fixes, and explanations. Follow along and level up your Web3 security skills
-
-**地址:** https://github.com/Achraf012/exploit-rebuilds-achraf
-
----
-
-## natedemoss/Contribution-chart-exploit
-
-**关键字** Exploit
-
-**介绍:** Education purposes only
-
-**地址:** https://github.com/natedemoss/Contribution-chart-exploit
-
----
-
-## Star-Guardian341/eJPT-Prep
-
-**关键字** Red Team
-
-**介绍:** Welcome to my Red Team learning journey. This repository documents my hands-on progress through the [TryHackMe](https://tryhackme.com) Junior Penetration Tester learning path as I prepare for the eJPT (eLearnSecurity Junior Penetration Tester) certification.
-
-**地址:** https://github.com/Star-Guardian341/eJPT-Prep
 
 ---
 
