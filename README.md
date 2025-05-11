@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## tortrofellosh72/Warfare-Exploit
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/tortrofellosh72/Warfare-Exploit
+
+---
+
 ## Demonjokerwarrior/exe-rce-for-windows-with-av-by-pass
 
 **关键字** RCE
@@ -2853,66 +2863,6 @@
 **介绍:** A go-exploit to scan for implanted Cisco IOS XE Systems cve-2023-20198, go-exploit
 
 **地址:** https://github.com/punyconspir/cisco-ios-xe-implant-scanner
-
----
-
-## cogreanu/cve-finder
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/cogreanu/cve-finder
-
----
-
-## xmoezzz/cve_json_to_csv
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/xmoezzz/cve_json_to_csv
-
----
-
-## dgtalbug/minikube-pilot
-
-**关键字** POC
-
-**介绍:** Minikube & Promotheus POC
-
-**地址:** https://github.com/dgtalbug/minikube-pilot
-
----
-
-## shra-one-11/simple-vuln-scanner
-
-**关键字** CVE
-
-**介绍:** A basic vulnerability scanner that checks for open ports and CVEs.
-
-**地址:** https://github.com/shra-one-11/simple-vuln-scanner
-
----
-
-## ohiduli05/Open-Window-Abuse-via-postMessage-Exploit
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/ohiduli05/Open-Window-Abuse-via-postMessage-Exploit
-
----
-
-## Flock137/EM-ATK
-
-**关键字** Exploit
-
-**介绍:** Class Presentation on Electromagnetic Exploitation 
-
-**地址:** https://github.com/Flock137/EM-ATK
 
 ---
 
