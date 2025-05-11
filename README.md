@@ -2856,14 +2856,4 @@
 
 ---
 
-## punyconspir/cisco-ios-xe-implant-scanner
-
-**关键字** CVE
-
-**介绍:** A go-exploit to scan for implanted Cisco IOS XE Systems cve-2023-20198, go-exploit
-
-**地址:** https://github.com/punyconspir/cisco-ios-xe-implant-scanner
-
----
-
 
