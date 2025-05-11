@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## spring-team-blue/spring-team-blue
+
+**关键字** Blue Team
+
+**介绍:** None
+
+**地址:** https://github.com/spring-team-blue/spring-team-blue
+
+---
+
 ## lull-y-miyazaki/spring-team-red
 
 **关键字** Red Team
