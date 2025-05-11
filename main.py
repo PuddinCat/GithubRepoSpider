@@ -26,7 +26,7 @@ GitHub又有新仓库了! #{keyword}
 链接: {url}
 """
 
-MIN_REQUEST_INTERVAL = 0.1
+MIN_REQUEST_INTERVAL = 0.03
 last_request_time_lock = asyncio.Lock()
 last_request_time = 0
 
@@ -162,7 +162,7 @@ async def main():
     if Path("found_repos.json").exists():
         found_repos = json.loads(Path("found_repos.json").read_text(encoding="utf-8"))
 
-    keywords = random.sample(KEYWORDS, 10)
+    keywords = random.sample(KEYWORDS, 20)
 
     created_time_since = (datetime.now() - timedelta(days=5)).strftime("%Y-%m-%d")
     search_results = await asyncio.gather(
