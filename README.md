@@ -336,6 +336,16 @@
 
 ---
 
+## dumbButSkilledDev/ppsploit
+
+**关键字** Exploit
+
+**介绍:** WIP ps4 exploit chain on 11.02
+
+**地址:** https://github.com/dumbButSkilledDev/ppsploit
+
+---
+
 ## Yucaerin/CVE-2025-4403
 
 **关键字** CVE
@@ -2983,56 +2993,6 @@
 **介绍:** burpsuite插件汇总
 
 **地址:** https://github.com/shannccc/burpsuiteplugs
-
----
-
-## BBO513/CVE-2023-7231
-
-**关键字** CVE
-
-**介绍:** PoC and Disclosure for CVE-2023-7231 – Memcached Gopher RCE chain
-
-**地址:** https://github.com/BBO513/CVE-2023-7231
-
----
-
-## Cyberheroess/AdaptiveShellUploader
-
-**关键字** Red Team
-
-**介绍:** smart and stealthy shell uploader that adapts to CMS, bypasses WAFs, and finds hidden upload points — part of the Cyber-Heroes red team arsenal.
-
-**地址:** https://github.com/Cyberheroess/AdaptiveShellUploader
-
----
-
-## oy-hepark-cj/poc
-
-**关键字** POC
-
-**介绍:** None
-
-**地址:** https://github.com/oy-hepark-cj/poc
-
----
-
-## Arjun-NG/Threat-detection-with-Wazuh
-
-**关键字** Blue Team
-
-**介绍:** A practical Threat Detection & Response lab using Wazuh, Suricata, and Syslog for centralized log analysis, network-based threat detection, and malware simulation. Ideal for blue team training, SIEM exploration, and incident response practice.
-
-**地址:** https://github.com/Arjun-NG/Threat-detection-with-Wazuh
-
----
-
-## djjohnson565/CUPS-Exploit
-
-**关键字** CVE
-
-**介绍:** Heap-based buffer overflow example based on CVE-2023-4504
-
-**地址:** https://github.com/djjohnson565/CUPS-Exploit
 
 ---
 
