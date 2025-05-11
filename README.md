@@ -2636,24 +2636,4 @@
 
 ---
 
-## Shinigami81/KQL-Blue-Team-Hunting-Analysis-Cheat-Sheet
-
-**关键字** Blue Team
-
-**介绍:** A simple cheat sheet of KQL for blue team
-
-**地址:** https://github.com/Shinigami81/KQL-Blue-Team-Hunting-Analysis-Cheat-Sheet
-
----
-
-## ianrelecker/CVE-Processor
-
-**关键字** CVE
-
-**介绍:** A vulnerability management and reporting system that fetches data from the National Vulnerability Database (NVD) API, processes it, and generates detailed security reports using AI. The system has been refactored into a serverless architecture using Azure Functions.
-
-**地址:** https://github.com/ianrelecker/CVE-Processor
-
----
-
 
