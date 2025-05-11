@@ -16,6 +16,16 @@
 
 ---
 
+## EL9996/7589899593-AAE35GvBRSE5_zCT7RMD26ddKdNXsiRCEpM
+
+**关键字** RCE
+
+**介绍:** None
+
+**地址:** https://github.com/EL9996/7589899593-AAE35GvBRSE5_zCT7RMD26ddKdNXsiRCEpM
+
+---
+
 ## spring-team-blue/spring-team-blue
 
 **关键字** Blue Team
@@ -2963,16 +2973,6 @@
 **介绍:** The Web Is Vulnerable to CVE-2021-44228
 
 **地址:** https://github.com/Fauzan-Aldi/Log4j-_Vulnerability
-
----
-
-## EncryptedHelloKitty/MALSIS-CVE
-
-**关键字** CVE
-
-**介绍:** Automated Malware Behavior Analysis Tool
-
-**地址:** https://github.com/EncryptedHelloKitty/MALSIS-CVE
 
 ---
 
