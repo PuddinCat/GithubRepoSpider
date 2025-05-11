@@ -16,6 +16,16 @@
 
 ---
 
+## sexyiam/loader
+
+**关键字** shellcode
+
+**介绍:** A shellcode loader in .NET
+
+**地址:** https://github.com/sexyiam/loader
+
+---
+
 ## Demonjokerwarrior/exe-rce-for-windows-with-av-by-pass
 
 **关键字** RCE
@@ -2823,36 +2833,6 @@
 **介绍:** None
 
 **地址:** https://github.com/shiv200004/poc
-
----
-
-## ashish-um/pocketLYF
-
-**关键字** POC
-
-**介绍:** None
-
-**地址:** https://github.com/ashish-um/pocketLYF
-
----
-
-## paulsud/azure-static-webapp-exploit
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/paulsud/azure-static-webapp-exploit
-
----
-
-## adminnerr/php_File_Manager
-
-**关键字** webshell
-
-**介绍:** php_File_Manager&php webshell
-
-**地址:** https://github.com/adminnerr/php_File_Manager
 
 ---
 
