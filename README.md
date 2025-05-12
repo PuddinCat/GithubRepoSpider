@@ -6,6 +6,36 @@
 
 ## 最新仓库
 
+## tntrock/CVE-2024-4577_PowerShell
+
+**关键字** CVE
+
+**介绍:** 使用PowsrShell掃描CVE-2024-4577
+
+**地址:** https://github.com/tntrock/CVE-2024-4577_PowerShell
+
+---
+
+## adityaax/cves
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/adityaax/cves
+
+---
+
+## naki-security/PWN-Writeup
+
+**关键字** Exploit
+
+**介绍:** A collection of beginner-friendly binary exploitation (PWN) writeups covering buffer overflows, ROP, and Linux exploitation techniques.
+
+**地址:** https://github.com/naki-security/PWN-Writeup
+
+---
+
 ## IpartmentXHC/security-chat-bot
 
 **关键字** 网络安全
@@ -73,6 +103,16 @@
 **介绍:** BlackLotus aka CVE-2023-24932 Detection/Remediation Scripts for Intune, ConfigMgr, and generic use
 
 **地址:** https://github.com/ajf8729/BlackLotus
+
+---
+
+## elthinshorde273/sea-of-thieves-exploit
+
+**关键字** Exploit
+
+**介绍:** Best Sea of Thieves Exploit Hack Free
+
+**地址:** https://github.com/elthinshorde273/sea-of-thieves-exploit
 
 ---
 
@@ -183,6 +223,16 @@
 **介绍:** Collection of detailed solutions and write-ups from various Capture the Flag (CTF) challenges. These documents showcase my skills in penetration testing, vulnerability exploitation, and cybersecurity problem-solving. Each write-up provides step-by-step insights into real-world hacking scenarios.
 
 **地址:** https://github.com/DevHAXog/ctf-writeups
+
+---
+
+## Yassine-Tajni/exploitation-des-donn-es-Airbnb-en-Europe
+
+**关键字** Exploit
+
+**介绍:** J'ai analysé un dataset d'annonces Airbnb en Europe, en examinant des variables comme le prix, la satisfaction des invités et la distance aux transports. Mon travail a consisté à vérifier la qualité des données, détecter les valeurs manquantes et les nettoyer, tout en explorant les tendances de prix et de satisfaction.
+
+**地址:** https://github.com/Yassine-Tajni/exploitation-des-donn-es-Airbnb-en-Europe
 
 ---
 
@@ -303,6 +353,16 @@
 **介绍:** AI driven red team vs blue team AI simulation tool
 
 **地址:** https://github.com/Rishi176-ai/ReadTeam-vs-BlueTeam
+
+---
+
+## kmeps4/PSFree800
+
+**关键字** Exploit
+
+**介绍:** PSFree Webkit Exploit & Lapse Kernel Exploit For PS4 8.0X - psfree-1.5rc1
+
+**地址:** https://github.com/kmeps4/PSFree800
 
 ---
 
@@ -2483,16 +2543,6 @@
 **介绍:** None
 
 **地址:** https://github.com/GOVINDARAJLE/CVE
-
----
-
-## spica5/cve-record2
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/spica5/cve-record2
 
 ---
 
