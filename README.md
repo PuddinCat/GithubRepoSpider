@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## karzanWang/CVE-2023-41992
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/karzanWang/CVE-2023-41992
+
+---
+
 ## bossdlyavsehkirk6/BreakerZero_PasswordCracker_v1.0-b1
 
 **关键字** Red Team
@@ -2503,26 +2513,6 @@
 **介绍:** None
 
 **地址:** https://github.com/AthouNourane/EXPLOITATION_BD_SAE
-
----
-
-## larbi67/WAF-XSS-Bypass
-
-**关键字** Red Team
-
-**介绍:** A curated list of obfuscation and encoding techniques used to evade Web Application Firewalls (WAF) in Cross-Site Scripting (XSS) attacks. Includes real-world examples, payload structures, and bypass strategies for red teamers, pentesters, and security researchers.
-
-**地址:** https://github.com/larbi67/WAF-XSS-Bypass
-
----
-
-## DuongHaoNika/mcp-elasticsearch-cve
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/DuongHaoNika/mcp-elasticsearch-cve
 
 ---
 
