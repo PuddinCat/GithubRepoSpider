@@ -2496,14 +2496,4 @@
 
 ---
 
-## d2ev/poc
-
-**关键字** POC
-
-**介绍:** None
-
-**地址:** https://github.com/d2ev/poc
-
----
-
 
