@@ -76,6 +76,16 @@
 
 ---
 
+## Lavender-exe/donut_wrapper
+
+**关键字** shellcode
+
+**介绍:** A Donut Shellcode Generator wrapper for Mythic Agents
+
+**地址:** https://github.com/Lavender-exe/donut_wrapper
+
+---
+
 ## srandres-git/cves-edo-cta-mlg
 
 **关键字** CVE
@@ -2443,16 +2453,6 @@
 **介绍:** Information on known exploits
 
 **地址:** https://github.com/FreeXR/exploits
-
----
-
-## Nxploited/CVE-2025-3605
-
-**关键字** CVE
-
-**介绍:**  WordPress Frontend Login and Registration Blocks Plugin <= 1.0.7 is vulnerable to Privilege Escalation 
-
-**地址:** https://github.com/Nxploited/CVE-2025-3605
 
 ---
 
