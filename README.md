@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## packages-2o/titan-crypter-5o
+
+**关键字** bypass av
+
+**介绍:** titan crypter-5o  edr/upp bypass fud stub (avcheck, kleenscan, websec, run4me, dyn) all av's bypass support/update  price: $180 all crypto - 1 month  DC: @titanadmindevelopment TG: @titanadmindevelopment
+
+**地址:** https://github.com/packages-2o/titan-crypter-5o
+
+---
+
 ## Anggaea0/burp
 
 **关键字** burp
@@ -2433,16 +2443,6 @@
 **介绍:** POC chatbot
 
 **地址:** https://github.com/Bengschor/bengschor.github.io
-
----
-
-## PrahunanKK/CVE
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/PrahunanKK/CVE
 
 ---
 
