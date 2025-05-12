@@ -2496,24 +2496,4 @@
 
 ---
 
-## Blinko1987/F6107-AIS-Root-exploit
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/Blinko1987/F6107-AIS-Root-exploit
-
----
-
-## tabascochunky9919/v8-Pro-Insurgency-Exploits
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/tabascochunky9919/v8-Pro-Insurgency-Exploits
-
----
-
 
