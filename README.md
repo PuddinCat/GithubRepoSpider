@@ -2446,24 +2446,4 @@
 
 ---
 
-## yousufislam191/company-interview-evaluator
-
-**关键字** Red Team
-
-**介绍:** A curated guide for software engineers to evaluate a company’s engineering practices during job interviews. Includes key questions, red flags, and good signs related to SDLC, codebase quality, team culture, testing, and developer experience.
-
-**地址:** https://github.com/yousufislam191/company-interview-evaluator
-
----
-
-## Bengschor/bengschor.github.io
-
-**关键字** POC
-
-**介绍:** POC chatbot
-
-**地址:** https://github.com/Bengschor/bengschor.github.io
-
----
-
 
