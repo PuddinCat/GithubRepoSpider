@@ -6,6 +6,46 @@
 
 ## 最新仓库
 
+## laishouchao/Apache-RocketMQ-RCE-CVE-2023-37582-poc
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/laishouchao/Apache-RocketMQ-RCE-CVE-2023-37582-poc
+
+---
+
+## noah2300/cverse-test3
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/noah2300/cverse-test3
+
+---
+
+## swws141/CVE
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/swws141/CVE
+
+---
+
+## ajf8729/BlackLotus
+
+**关键字** CVE
+
+**介绍:** BlackLotus aka CVE-2023-24932 Detection/Remediation Scripts for Intune, ConfigMgr, and generic use
+
+**地址:** https://github.com/ajf8729/BlackLotus
+
+---
+
 ## shpaw415/CVE-2020-24913-exploit
 
 **关键字** Exploit
@@ -143,6 +183,16 @@
 **介绍:** A secure SMS-controlled relay system using ESP-07 (ESP8266) and SIM800L, enhanced with a web-based terminal (WebShell) styled with the Gruvbox theme.
 
 **地址:** https://github.com/Im0nk3yar0und/esp-webshell
+
+---
+
+## Im0nk3yar0und/esp-relay
+
+**关键字** webshell
+
+**介绍:** A secure SMS-controlled relay system using ESP-07 (ESP8266) and SIM800L, enhanced with a web-based terminal (WebShell) styled with the Gruvbox theme.
+
+**地址:** https://github.com/Im0nk3yar0und/esp-relay
 
 ---
 
@@ -2543,56 +2593,6 @@
 **介绍:** Crypter hides malware with encryption, often providing FUD features. Tools like crypter FUD or batch FUD ensure undetected execution. Obfuscation bypasses antivirus and Windows Defender. Batch malware, trojans, and stealers are built using specialized tools.
 
 **地址:** https://github.com/sathi2/Batch-Malware-Builder-FUD-Crypter-AV-UAC-Bypass
-
----
-
-## Almandev/Sub-folderFetcher
-
-**关键字** CVE
-
-**介绍:** A script to download specific Vulhub repository folder (kibana/CVE-2018-17246) from GitHub.
-
-**地址:** https://github.com/Almandev/Sub-folderFetcher
-
----
-
-## iGGbondTC/cve
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/iGGbondTC/cve
-
----
-
-## WuYanneko/CVE
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/WuYanneko/CVE
-
----
-
-## KTN1990/CVE-2024-13513
-
-**关键字** CVE
-
-**介绍:** Oliver POS – A WooCommerce Point of Sale (POS) <= 2.4.2.3 - Sensitive Information Exposure to Privilege Escalation
-
-**地址:** https://github.com/KTN1990/CVE-2024-13513
-
----
-
-## jyjungpb/RMS-POC
-
-**关键字** POC
-
-**介绍:** RMS-POC
-
-**地址:** https://github.com/jyjungpb/RMS-POC
 
 ---
 
