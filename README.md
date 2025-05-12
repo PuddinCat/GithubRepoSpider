@@ -6,6 +6,56 @@
 
 ## 最新仓库
 
+## bossdlyavsehkirk6/BreakerZero_PasswordCracker_v1.0-b1
+
+**关键字** Red Team
+
+**介绍:** Advanced red team password and hash cracking toolkit built for educational and ethical professional use.
+
+**地址:** https://github.com/bossdlyavsehkirk6/BreakerZero_PasswordCracker_v1.0-b1
+
+---
+
+## batzionb/webpack-cve-2024-43788
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/batzionb/webpack-cve-2024-43788
+
+---
+
+## shishirpandey18/CVE-2021-3156
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/shishirpandey18/CVE-2021-3156
+
+---
+
+## wuquwuquwuqu/CVE
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/wuquwuquwuqu/CVE
+
+---
+
+## xcalts/CVE-2017-8917
+
+**关键字** CVE
+
+**介绍:** A timed-based SQLi approach to CVE-2017-8917
+
+**地址:** https://github.com/xcalts/CVE-2017-8917
+
+---
+
 ## hh-d/uni-router-guard
 
 **关键字** 提权
@@ -43,6 +93,16 @@
 **介绍:** None
 
 **地址:** https://github.com/BIJAYATAHAMAL/Burpsuite
+
+---
+
+## nakakak/SentinelMiner
+
+**关键字** 网络安全
+
+**介绍:** 本软件数据挖掘与攻击检测系统，旨在为用户提供一套集成化的数据分析与 安全检测解决方案。系统分为“数据挖掘模块 ”和“攻击检测模块 ”，支持文本 数据的热词提取、聚类分析、时间线生成，以及基于多种机器学习算法的网络攻 击识别与分类检测。通过简洁直观的操作界面，用户可以轻松完成数据上传、算 法选择、结果分析与导出等全过程，广泛适用于数据探索、网络安全检测等应用 场景。
+
+**地址:** https://github.com/nakakak/SentinelMiner
 
 ---
 
@@ -2463,36 +2523,6 @@
 **介绍:** 一站式漏洞处置，助力安全工作者高效解决漏洞验证与报告交付
 
 **地址:** https://github.com/chenshiyi007/orange-sec-kit
-
----
-
-## vinodbhatt83/innvestai
-
-**关键字** POC
-
-**介绍:** POC
-
-**地址:** https://github.com/vinodbhatt83/innvestai
-
----
-
-## paulchi-intel/mcp-server-igcl-poc
-
-**关键字** POC
-
-**介绍:** A PoC of MCP Server for IGCL
-
-**地址:** https://github.com/paulchi-intel/mcp-server-igcl-poc
-
----
-
-## syaifulandy/CVE-2024-38475
-
-**关键字** CVE
-
-**介绍:** CVE-2024-38475 Scanner using FFUF + Seclists
-
-**地址:** https://github.com/syaifulandy/CVE-2024-38475
 
 ---
 
