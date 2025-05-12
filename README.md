@@ -2506,34 +2506,4 @@
 
 ---
 
-## ekkk849/Predicting-the-Exploit-Availability-for-CVEs-WITH-REGRESSION-AND-CLASSIFICATION-MODELS
-
-**关键字** CVE
-
-**介绍:** This is jupyter file.
-
-**地址:** https://github.com/ekkk849/Predicting-the-Exploit-Availability-for-CVEs-WITH-REGRESSION-AND-CLASSIFICATION-MODELS
-
----
-
-## DevGreick/VulnHunter
-
-**关键字** CVE
-
-**介绍:** Offline CVE scanner for project dependencies. 
-
-**地址:** https://github.com/DevGreick/VulnHunter
-
----
-
-## LucianoJohnPucci/PocketPM
-
-**关键字** POC
-
-**介绍:** Project Mgmt Ai App Rev1
-
-**地址:** https://github.com/LucianoJohnPucci/PocketPM
-
----
-
 
