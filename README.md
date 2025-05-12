@@ -26,6 +26,16 @@
 
 ---
 
+## HYQ-A/ZombieTowerDefense
+
+**关键字** 攻防
+
+**介绍:** 一款3D塔防类游戏开发，实现玩家自由移动，攻击，造塔升级等功能。
+
+**地址:** https://github.com/HYQ-A/ZombieTowerDefense
+
+---
+
 ## rebelle3/cve-2017-7117
 
 **关键字** CVE
@@ -546,6 +556,16 @@
 
 ---
 
+## 0x7556/PentestMCP
+
+**关键字** 渗透测试
+
+**介绍:** AI Pentest MCP Tools 渗透测试工具集
+
+**地址:** https://github.com/0x7556/PentestMCP
+
+---
+
 ## SujalMeghwal/PowerOpsToolKit
 
 **关键字** Red Team
@@ -823,6 +843,16 @@
 **介绍:** A web-based red team tool for automated reconnaissance. Scans target URLs for SQL Injection, XSS, open ports, and SSL certificate issues. Supports custom payload injection and uses BeautifulSoup to discover vulnerable input fields.
 
 **地址:** https://github.com/akmal-cyb/Red-Team-Web-Recon-Tool
+
+---
+
+## 0x7556/kali_mcp
+
+**关键字** 渗透测试
+
+**介绍:** Kali AI Pentest MCP tools 渗透测试工具集
+
+**地址:** https://github.com/0x7556/kali_mcp
 
 ---
 
@@ -2273,26 +2303,6 @@
 **介绍:** ⏱️ Smart micro time manager powered by AI — helping you turn idle minutes into meaningful moments.
 
 **地址:** https://github.com/mehmetagcakaya/time-in-my-pocket
-
----
-
-## Lokidres/exploits-archive
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/Lokidres/exploits-archive
-
----
-
-## xzhiyouu62/rce
-
-**关键字** RCE
-
-**介绍:** None
-
-**地址:** https://github.com/xzhiyouu62/rce
 
 ---
 
