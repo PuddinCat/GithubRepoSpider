@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## srandres-git/cves-edo-cta-mlg
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/srandres-git/cves-edo-cta-mlg
+
+---
+
 ## saykino/CVE-2023-34732
 
 **关键字** CVE
@@ -43,6 +53,16 @@
 **介绍:** Known Exploited Vulnerabilities Intel - KEVIntel
 
 **地址:** https://github.com/ethicalhack3r/known-exploited-vulnerabilities
+
+---
+
+## babilmeow/exploit-cve
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/babilmeow/exploit-cve
 
 ---
 
@@ -2463,86 +2483,6 @@
 **介绍:** None
 
 **地址:** https://github.com/wzard4980/Survarium-Exploit
-
----
-
-## LilGuiGui/Partial-Analysis-KI-UEU
-
-**关键字** burp
-
-**介绍:** Repositori hasil ZAP / BURP
-
-**地址:** https://github.com/LilGuiGui/Partial-Analysis-KI-UEU
-
----
-
-## rubakmaxwell64/Survarium-Exploit
-
-**关键字** Exploit
-
-**介绍:** Survarium Hack Tool 2025: Secure Download for Windows Users💻
-
-**地址:** https://github.com/rubakmaxwell64/Survarium-Exploit
-
----
-
-## wzard4980/Exploit-Finals
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/wzard4980/Exploit-Finals
-
----
-
-## chicken7009/Zero-Zone-Exploit
-
-**关键字** Exploit
-
-**介绍:** Safe and Secure Zenless Zone Zero Hack: Free 2025 Download🚀
-
-**地址:** https://github.com/chicken7009/Zero-Zone-Exploit
-
----
-
-## Varshaa28/Exploiting-SMB-Vulnerability
-
-**关键字** Exploit
-
-**介绍:** SMB (Server Message Block) is a network file sharing protocol used by Windows systems (and also Linux via Samba) to share files, printers, and serial ports. Vulnerabilities in SMB can be highly critical, allowing attackers to perform remote code execution, information disclosure, or even full system compromise.
-
-**地址:** https://github.com/Varshaa28/Exploiting-SMB-Vulnerability
-
----
-
-## djhaosjustskill/SpiritExploiter
-
-**关键字** Exploit
-
-**介绍:** Ultimate Phasmophobia Trainer Hack Download for Windows 2025⚡
-
-**地址:** https://github.com/djhaosjustskill/SpiritExploiter
-
----
-
-## south3327/AxieExploit-Pro
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/south3327/AxieExploit-Pro
-
----
-
-## quanauq/ClassPathXmlApplicationContext_RCE
-
-**关键字** RCE
-
-**介绍:** None
-
-**地址:** https://github.com/quanauq/ClassPathXmlApplicationContext_RCE
 
 ---
 
