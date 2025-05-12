@@ -16,6 +16,16 @@
 
 ---
 
+## alqhtane12/rce
+
+**关键字** RCE
+
+**介绍:** None
+
+**地址:** https://github.com/alqhtane12/rce
+
+---
+
 ## srandres-git/cves-edo-cta-mlg
 
 **关键字** CVE
@@ -23,6 +33,16 @@
 **介绍:** None
 
 **地址:** https://github.com/srandres-git/cves-edo-cta-mlg
+
+---
+
+## cyendd-sigma/RCE
+
+**关键字** RCE
+
+**介绍:** None
+
+**地址:** https://github.com/cyendd-sigma/RCE
 
 ---
 
@@ -2423,16 +2443,6 @@
 **介绍:** None
 
 **地址:** https://github.com/PrahunanKK/CVE
-
----
-
-## xirtam2669/Kentico-Xperience-before-13.0.178---XSS-POC
-
-**关键字** CVE
-
-**介绍:** PoC for CVE-2025-2748 - Unauthenticated ZIP file upload with embedded SVG for XSS
-
-**地址:** https://github.com/xirtam2669/Kentico-Xperience-before-13.0.178---XSS-POC
 
 ---
 
