@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## ThomasTang-UQ/Sisyphus-Blue
+
+**关键字** Blue Team
+
+**介绍:** This is the project wiki page for UQ CSSE4011 Project Team Sisyphus - Blue
+
+**地址:** https://github.com/ThomasTang-UQ/Sisyphus-Blue
+
+---
+
 ## zfernm/Web-Shell-ZFERNM
 
 **关键字** webshell
@@ -2373,136 +2383,6 @@
 **介绍:** cve说明
 
 **地址:** https://github.com/webzzaa/cvetest
-
----
-
-## nathanbvn/pawnmap
-
-**关键字** Red Team
-
-**介绍:** Pawnmap is an advanced penetration testing tool that extends the functionality of Nmap by integrating vulnerability detection and exploitation checks. It automates port scanning and correlates discovered services and versions with known vulnerabilities, making it a powerful asset in security assessments and red teaming engagements.
-
-**地址:** https://github.com/nathanbvn/pawnmap
-
----
-
-## kejiju/CognitiveWarfareHub
-
-**关键字** 攻防
-
-**介绍:** 由中国认知战研究中心（壳吉桔/KeJiJu/KJJ）发起，本仓库致力于认知战（Cognitive Warfare）的理论研究、实践探索与技术分享。壳吉桔（KJJ）作为全球领先的认知战战略与战术服务商，被誉为中国官方唯一指定的认知战作战服务商，为政府、安全机构及私人军事机构提供以下服务： 认知战战略与战术  认知战感知与攻击  认知战防御与情报  认知战战情分析  本仓库涵盖认知战装备（工具与技术）、战术（策略与方法）、战情（案例与趋势）等内容，旨在推动认知战领域的知识共享、创新与协作。欢迎全球研究者、从业者共同贡献！
-
-**地址:** https://github.com/kejiju/CognitiveWarfareHub
-
----
-
-## XenonBlack999/red-team
-
-**关键字** Red Team
-
-**介绍:** None
-
-**地址:** https://github.com/XenonBlack999/red-team
-
----
-
-## fyysikkokilta/fk-web
-
-**关键字** POC
-
-**介绍:** PoC for a new website of the Guild of Physics
-
-**地址:** https://github.com/fyysikkokilta/fk-web
-
----
-
-## aofvalley/poc-databricks-entraid-howto
-
-**关键字** POC
-
-**介绍:** None
-
-**地址:** https://github.com/aofvalley/poc-databricks-entraid-howto
-
----
-
-## CWE-CVE-Benchmark/CWE-CVE-Benchmark.github.io
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/CWE-CVE-Benchmark/CWE-CVE-Benchmark.github.io
-
----
-
-## nullenc0de/massbypass
-
-**关键字** Exploit
-
-**介绍:** is a powerful tool for automating the discovery of access control bypasses by exploiting RFC 3986 edge cases and implementation flaws. It targets endpoints that return 401, 403, 404, or authentication redirects, and attempts to bypass these restrictions using a comprehensive suite of URL manipulation techniques.
-
-**地址:** https://github.com/nullenc0de/massbypass
-
----
-
-## YoungNipper/Spectral-spatial-sparse-unmixing-with-superpixel-oriented-graph-Laplacian
-
-**关键字** 提权
-
-**介绍:** 本文章提出了超像素导向图拉普拉斯稀疏光谱-空间混合像元分解（SGLapS3U）方法，使用超像素分割算法SLIC提取图像中的均匀区域，然后应用图拉普拉斯正则化来减少相同类型混合像素的丰度差异，从而有效利用空间相关性。并引入谱-空间加权因子来增强丰度矩阵的行稀疏性，同时保持图像的连续性，避免超像素分割可能导致的不准确混合结果。
-
-**地址:** https://github.com/YoungNipper/Spectral-spatial-sparse-unmixing-with-superpixel-oriented-graph-Laplacian
-
----
-
-## Kaal-Misconfig/ShadedKaal
-
-**关键字** Exploit
-
-**介绍:** Just another offensive security tool, but one that actually works. Built this after getting tired of the bloated alternatives that take forever to run. It's terminal-based because GUIs are unnecessary overhead. Does recon, subdomain takeovers, and exploit testing without the extra crap. Nothing fancy, just effective
-
-**地址:** https://github.com/Kaal-Misconfig/ShadedKaal
-
----
-
-## shinobijon/BlueTeamNotes
-
-**关键字** Blue Team
-
-**介绍:** Security Analyst Notes
-
-**地址:** https://github.com/shinobijon/BlueTeamNotes
-
----
-
-## yousifwalid/Apache-Kafka
-
-**关键字** POC
-
-**介绍:** POC  
-
-**地址:** https://github.com/yousifwalid/Apache-Kafka
-
----
-
-## kh0r0t0/ultra-exploit
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/kh0r0t0/ultra-exploit
-
----
-
-## DedsecTeam-BlackHat/Poleposph
-
-**关键字** CVE
-
-**介绍:** Tools for scan CVE-2024-25600 - WordPress Bricks Builder Remote Code Execution (RCE) 
-
-**地址:** https://github.com/DedsecTeam-BlackHat/Poleposph
 
 ---
 
