@@ -2426,34 +2426,4 @@
 
 ---
 
-## TomatenHead/0-Day-Exploit
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/TomatenHead/0-Day-Exploit
-
----
-
-## ayaank37/blueteam
-
-**关键字** Blue Team
-
-**介绍:** Blue team project
-
-**地址:** https://github.com/ayaank37/blueteam
-
----
-
-## FreeXR/exploits
-
-**关键字** Exploit
-
-**介绍:** Information on known exploits
-
-**地址:** https://github.com/FreeXR/exploits
-
----
-
 
