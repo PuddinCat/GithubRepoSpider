@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## orgC/CVE-2024-10220-demo
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/orgC/CVE-2024-10220-demo
+
+---
+
+## ethicalhack3r/known-exploited-vulnerabilities
+
+**关键字** Exploit
+
+**介绍:** Known Exploited Vulnerabilities Intel - KEVIntel
+
+**地址:** https://github.com/ethicalhack3r/known-exploited-vulnerabilities
+
+---
+
 ## ThomasTang-UQ/Sisyphus-Blue
 
 **关键字** Blue Team
@@ -33,6 +53,16 @@
 **介绍:** 一款3D塔防类游戏开发，实现玩家自由移动，攻击，造塔升级等功能。
 
 **地址:** https://github.com/HYQ-A/ZombieTowerDefense
+
+---
+
+## kishore-1812/MiniNet-Exploitation
+
+**关键字** Exploit
+
+**介绍:** A simulated attack and countermeasures project using Mininet
+
+**地址:** https://github.com/kishore-1812/MiniNet-Exploitation
 
 ---
 
@@ -516,6 +546,86 @@
 
 ---
 
+## akiraturbobot19/Luna-Executor-ii
+
+**关键字** Exploit
+
+**介绍:** Lunar Executor is a tool for executing custom s within Roblox, providing users with the ability to exploit and modify game features.
+
+**地址:** https://github.com/akiraturbobot19/Luna-Executor-ii
+
+---
+
+## tagal841/JJsploit-7z
+
+**关键字** Exploit
+
+**介绍:** JJSploit, now available for free, is a widely-used Roblox exploit favored for its simplicity and accessibility. With the ability to execute Lua s, it enables users to customize their gaming experience, though users should remain vigilant about potential risks associated with exploiting software.
+
+**地址:** https://github.com/tagal841/JJsploit-7z
+
+---
+
+## sword-comingsoon/Evon-Executor-h9
+
+**关键字** Exploit
+
+**介绍:** Evon – Near-perfect 99.9% script compatibility through UNC. The gold standard for hassle-free integration with trending Roblox exploits.
+
+**地址:** https://github.com/sword-comingsoon/Evon-Executor-h9
+
+---
+
+## shrews-nikeron/JJsploit-n1
+
+**关键字** Exploit
+
+**介绍:** JJSploit – The legendary free exploit now open to all. Execute basic Lua scripts effortlessly, but stay cautious—its accessibility comes with inherent Roblox TOS risks.
+
+**地址:** https://github.com/shrews-nikeron/JJsploit-n1
+
+---
+
+## wraggnikeron95/Carbon-Executor-ea
+
+**关键字** Exploit
+
+**介绍:** Carbon Executor – Cutting-edge exploit with Level 8 execution and 90% UNC support (Win7-11). Redefine Roblox scripting through bulletproof security and raw processing power.
+
+**地址:** https://github.com/wraggnikeron95/Carbon-Executor-ea
+
+---
+
+## tabasco-faster/DX9WARE-Roblox-zz
+
+**关键字** Exploit
+
+**介绍:** DX9WARE – Enterprise-grade external executor with military-grade anti-detection. Customize Lua environments, deploy advanced scripts, and exploit securely with this feature-packed toolkit.
+
+**地址:** https://github.com/tabasco-faster/DX9WARE-Roblox-zz
+
+---
+
+## ingramm-100p9/Arceus-Executor-la
+
+**关键字** Exploit
+
+**介绍:** Arceus X Exploit & Executor – The ultimate mobile cheating suite for Roblox (Android/iOS). Activate premium hacks, scripts, and mods with zero cost or malware risks—dominate any game with one tap.
+
+**地址:** https://github.com/ingramm-100p9/Arceus-Executor-la
+
+---
+
+## new-dayk/Seliware-5l
+
+**关键字** Exploit
+
+**介绍:** Seliware – A cutting-edge Roblox executor built for unparalleled scripting performance. Elevate your game exploits with next-gen execution technology and ultra-low latency.
+
+**地址:** https://github.com/new-dayk/Seliware-5l
+
+---
+
 ## ruiRun0916/skills-introduction-to-github
 
 **关键字** 绕过
@@ -746,6 +856,66 @@
 
 ---
 
+## newnezameten559/Carbon-Executor-08-id
+
+**关键字** Exploit
+
+**介绍:** Carbon Executor – Cutting-edge exploit with Level 8 execution and 90% UNC support (Win7-11). Redefine Roblox scripting through bulletproof security and raw processing power.
+
+**地址:** https://github.com/newnezameten559/Carbon-Executor-08-id
+
+---
+
+## stan-100yp/Evon-Executor-tx-li
+
+**关键字** Exploit
+
+**介绍:** Evon – Near-perfect 99.9% script compatibility through UNC. The gold standard for hassle-free integration with trending Roblox exploits.
+
+**地址:** https://github.com/stan-100yp/Evon-Executor-tx-li
+
+---
+
+## sakaen756/Seliware-j9-l1
+
+**关键字** Exploit
+
+**介绍:** Seliware – A cutting-edge Roblox executor built for unparalleled scripting performance. Elevate your game exploits with next-gen execution technology and ultra-low latency.
+
+**地址:** https://github.com/sakaen756/Seliware-j9-l1
+
+---
+
+## rooroo-sandbox/JJsploit-se-hy
+
+**关键字** Exploit
+
+**介绍:** JJSploit – The legendary free exploit now open to all. Execute basic Lua scripts effortlessly, but stay cautious—its accessibility comes with inherent Roblox TOS risks.
+
+**地址:** https://github.com/rooroo-sandbox/JJsploit-se-hy
+
+---
+
+## brans-100e3/Evon-Executor-7s-zp
+
+**关键字** Exploit
+
+**介绍:** Evon – Near-perfect 99.9% script compatibility through UNC. The gold standard for hassle-free integration with trending Roblox exploits.
+
+**地址:** https://github.com/brans-100e3/Evon-Executor-7s-zp
+
+---
+
+## nonamerusty418/Anime-16-uj
+
+**关键字** Exploit
+
+**介绍:** Roblox Anime Vanguards Script 🚀 Roblox Anime Vanguards Script & Executor 🚀 Roblox Anime Vanguards Script Powerful Exploit
+
+**地址:** https://github.com/nonamerusty418/Anime-16-uj
+
+---
+
 ## Ramona-Flower/Get-Discord-Guild-Tag-Method
 
 **关键字** Exploit
@@ -753,6 +923,16 @@
 **介绍:** New method to get it at 100% without any bots/selfbots
 
 **地址:** https://github.com/Ramona-Flower/Get-Discord-Guild-Tag-Method
+
+---
+
+## kelchneryaroon82/Roblox-Incognito-xn
+
+**关键字** Exploit
+
+**介绍:** Incognito is a Roblox script executor known for its user-friendly interface and support for executing Lua scripts, providing enhanced gameplay and automation features. Regular updates ensure compatibility with Roblox's latest changes, though using it risks violating Roblox's terms of service.
+
+**地址:** https://github.com/kelchneryaroon82/Roblox-Incognito-xn
 
 ---
 
@@ -766,6 +946,56 @@
 
 ---
 
+## olotjust95/SynapseX-cs
+
+**关键字** Exploit
+
+**介绍:** Step into the future of Roblox scripting with Synapse X, the ultimate powerhouse for Lua script execution. Designed for innovators, creators, and gamers, Synapse X redefines what’s possible in Roblox, offering unparalleled performance, precision, and flexibility.
+
+**地址:** https://github.com/olotjust95/SynapseX-cs
+
+---
+
+## heidaro-100/Luna-Executor-23
+
+**关键字** Exploit
+
+**介绍:** Lunar Executor is a tool for executing custom scripts within Roblox, providing users with the ability to exploit and modify game features.
+
+**地址:** https://github.com/heidaro-100/Luna-Executor-23
+
+---
+
+## bumperbutt-100/Roblox-Incognito-lw
+
+**关键字** Exploit
+
+**介绍:** Incognito is a Roblox script executor known for its user-friendly interface and support for executing Lua scripts, providing enhanced gameplay and automation features. Regular updates ensure compatibility with Roblox's latest changes, though using it risks violating Roblox's terms of service.
+
+**地址:** https://github.com/bumperbutt-100/Roblox-Incognito-lw
+
+---
+
+## tarosbridge2000/Hydrogen-Executor-g1
+
+**关键字** Exploit
+
+**介绍:** Hydrogen Executor is a most popular Roblox Exploit for Android and PC in the market nowadays. You can install it on any Android, iOS or Windows PC.
+
+**地址:** https://github.com/tarosbridge2000/Hydrogen-Executor-g1
+
+---
+
+## leafkoji-2000/Arceus-Executor-at
+
+**关键字** Exploit
+
+**介绍:** Arceus X Exploit & Executor is a universal cheating tool that allows users to activate various cheats, scripts, and hacks within the mobile version of Roblox, available on Android and iOS devices. This program offers a wide range of functions to select from, enabling the implementation of scripts without any charges or viruses.
+
+**地址:** https://github.com/leafkoji-2000/Arceus-Executor-at
+
+---
+
 ## tan7z/-
 
 **关键字** 信息收集
@@ -776,6 +1006,76 @@
 
 ---
 
+## moneycashsnoxj2000/Roblox-Ronin-pm
+
+**关键字** Exploit
+
+**介绍:** The Next Generation of Exploiting. Build faster and smarter with our powerful Lua environment. Create unique scripts with the most extensive toolkit available.
+
+**地址:** https://github.com/moneycashsnoxj2000/Roblox-Ronin-pm
+
+---
+
+## yourluckyday-100/Roblox-Incognito-af
+
+**关键字** Exploit
+
+**介绍:** Incognito is a Roblox script executor known for its user-friendly interface and support for executing Lua scripts, providing enhanced gameplay and automation features. Regular updates ensure compatibility with Roblox's latest changes, though using it risks violating Roblox's terms of service.
+
+**地址:** https://github.com/yourluckyday-100/Roblox-Incognito-af
+
+---
+
+## akinotaxe-2000/SynapseX-l9
+
+**关键字** Exploit
+
+**介绍:** Step into the future of Roblox scripting with Synapse X, the ultimate powerhouse for Lua script execution. Designed for innovators, creators, and gamers, Synapse X redefines what’s possible in Roblox, offering unparalleled performance, precision, and flexibility.
+
+**地址:** https://github.com/akinotaxe-2000/SynapseX-l9
+
+---
+
+## fatoilluminator160/Luna-Executor-xq
+
+**关键字** Exploit
+
+**介绍:** Lunar Executor is a tool for executing custom scripts within Roblox, providing users with the ability to exploit and modify game features.
+
+**地址:** https://github.com/fatoilluminator160/Luna-Executor-xq
+
+---
+
+## dunlyramlplion/Roblox-Incognito-pl
+
+**关键字** Exploit
+
+**介绍:** Incognito is a Roblox script executor known for its user-friendly interface and support for executing Lua scripts, providing enhanced gameplay and automation features. Regular updates ensure compatibility with Roblox's latest changes, though using it risks violating Roblox's terms of service.
+
+**地址:** https://github.com/dunlyramlplion/Roblox-Incognito-pl
+
+---
+
+## rednightmare163/Hydrogen-Executor-kl
+
+**关键字** Exploit
+
+**介绍:** Hydrogen Executor is a most popular Roblox Exploit for Android and PC in the market nowadays. You can install it on any Android, iOS or Windows PC.
+
+**地址:** https://github.com/rednightmare163/Hydrogen-Executor-kl
+
+---
+
+## brianmatteopowellgq/Arceus-Executor-67
+
+**关键字** Exploit
+
+**介绍:** Arceus X Exploit & Executor is a universal cheating tool that allows users to activate various cheats, scripts, and hacks within the mobile version of Roblox, available on Android and iOS devices. This program offers a wide range of functions to select from, enabling the implementation of scripts without any charges or viruses.
+
+**地址:** https://github.com/brianmatteopowellgq/Arceus-Executor-67
+
+---
+
 ## MHRezaie/exploit
 
 **关键字** Exploit
@@ -783,6 +1083,16 @@
 **介绍:** Exploit Repo
 
 **地址:** https://github.com/MHRezaie/exploit
+
+---
+
+## shyguysnoxj7/Roblox-Ronin-88
+
+**关键字** Exploit
+
+**介绍:** The Next Generation of Exploiting. Build faster and smarter with our powerful Lua environment. Create unique scripts with the most extensive toolkit available.
+
+**地址:** https://github.com/shyguysnoxj7/Roblox-Ronin-88
 
 ---
 
@@ -1033,6 +1343,16 @@
 **介绍:** None
 
 **地址:** https://github.com/PolarisXSec/CVE-2024-21413
+
+---
+
+## Exploit-Master122/Rigtools-2.0
+
+**关键字** Exploit
+
+**介绍:** A version of the Rigtools exploit that is much better than the first and works on ChromeOS versions 132 and under.
+
+**地址:** https://github.com/Exploit-Master122/Rigtools-2.0
 
 ---
 
@@ -2233,76 +2553,6 @@
 **介绍:** Describe RCE foundations and principles
 
 **地址:** https://github.com/reverse-chaos-engineering/foundation
-
----
-
-## renatovalezin/genai-pix-api
-
-**关键字** POC
-
-**介绍:** Gen AI PoC
-
-**地址:** https://github.com/renatovalezin/genai-pix-api
-
----
-
-## Hloredea/ExploiterObbyScript
-
-**关键字** Exploit
-
-**介绍:** I'm bored! >‸ <
-
-**地址:** https://github.com/Hloredea/ExploiterObbyScript
-
----
-
-## Xcaiji6/CS-AutoPostChain
-
-**关键字** 后渗透
-
-**介绍:** 基于 OPSEC 的 CobaltStrike 后渗透自动化链
-
-**地址:** https://github.com/Xcaiji6/CS-AutoPostChain
-
----
-
-## MustaCH/PocketChefBE
-
-**关键字** POC
-
-**介绍:** None
-
-**地址:** https://github.com/MustaCH/PocketChefBE
-
----
-
-## Abhi-123-new/Red-Team-Vs-Blue-Team-AI-Simulation
-
-**关键字** Red Team
-
-**介绍:** AI-Driven Red Team vs Blue Team AI simulation tool
-
-**地址:** https://github.com/Abhi-123-new/Red-Team-Vs-Blue-Team-AI-Simulation
-
----
-
-## DeathOFive/CVE-SCAN-IT
-
-**关键字** CVE
-
-**介绍:** I know that it is a pain in the butt, but aligning this code with your payload via duckyscript 3.0 will make you and your IT usb a superpower, checking for known malware/spyware in seconds!
-
-**地址:** https://github.com/DeathOFive/CVE-SCAN-IT
-
----
-
-## mehmetagcakaya/time-in-my-pocket
-
-**关键字** POC
-
-**介绍:** ⏱️ Smart micro time manager powered by AI — helping you turn idle minutes into meaningful moments.
-
-**地址:** https://github.com/mehmetagcakaya/time-in-my-pocket
 
 ---
 
