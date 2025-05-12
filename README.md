@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## KaanBicaklar/RedTeamChecklists
+
+**关键字** Red Team
+
+**介绍:** None
+
+**地址:** https://github.com/KaanBicaklar/RedTeamChecklists
+
+---
+
 ## karzanWang/CVE-2023-41992
 
 **关键字** CVE
@@ -23,6 +33,16 @@
 **介绍:** NT API Code Injection using NtCreateSection and NtMapViewOfSection to inject shellcode into a remote process. This method allows for efficient memory manipulation and code execution within target processes.
 
 **地址:** https://github.com/Malforge-Maldev-Public-Organization/NT-API-Code-Injection
+
+---
+
+## igbin01/nebula-drift
+
+**关键字** Red Team
+
+**介绍:** An advanced AI-powered red team framework for dynamic and stealthy payload execution
+
+**地址:** https://github.com/igbin01/nebula-drift
 
 ---
 
@@ -2493,26 +2513,6 @@
 **介绍:** None
 
 **地址:** https://github.com/tabascochunky9919/v8-Pro-Insurgency-Exploits
-
----
-
-## AsyncWizard93/AVG-Antivirus-Bypass-Crack
-
-**关键字** bypass av
-
-**介绍:** AVG Antivirus Bypass Crack
-
-**地址:** https://github.com/AsyncWizard93/AVG-Antivirus-Bypass-Crack
-
----
-
-## Radir4k2/Burpsuite-extension-to-analyze-HTTP-request-with-AI
-
-**关键字** burp
-
-**介绍:** None
-
-**地址:** https://github.com/Radir4k2/Burpsuite-extension-to-analyze-HTTP-request-with-AI
 
 ---
 
