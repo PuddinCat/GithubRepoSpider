@@ -16,6 +16,16 @@
 
 ---
 
+## johnddias/vmtools-cve-summary
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/johnddias/vmtools-cve-summary
+
+---
+
 ## Anggaea0/burp
 
 **关键字** burp
@@ -33,6 +43,16 @@
 **介绍:** None
 
 **地址:** https://github.com/alqhtane12/rce
+
+---
+
+## cybsecsid/ThingsBoard-IoT-Platform-CVE-2024-55466
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/cybsecsid/ThingsBoard-IoT-Platform-CVE-2024-55466
 
 ---
 
