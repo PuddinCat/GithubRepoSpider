@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## saykino/CVE-2023-34732
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/saykino/CVE-2023-34732
+
+---
+
+## GeoSn0w/CVE-2025-24203-iOS-Exploit-in-Swift
+
+**关键字** CVE
+
+**介绍:** A Swift exploit port of the CVE-2025-24203 iOS vulnerability by Ian Beer of Google Project Zero
+
+**地址:** https://github.com/GeoSn0w/CVE-2025-24203-iOS-Exploit-in-Swift
+
+---
+
 ## orgC/CVE-2024-10220-demo
 
 **关键字** CVE
@@ -1143,6 +1163,16 @@
 **介绍:** Ejecución remota de código (RCE) utilizando el backdoor oculto en la herramienta Ghidra (SRE) a través del protocolo de comunicación JDWP.  Proyecto del área de ciberseguridad y análisis de malware.
 
 **地址:** https://github.com/eusebio31337ciberseguridad/Ghidra-reverse-shell
+
+---
+
+## eusebio-orozco/Ghidra-reverse-shell
+
+**关键字** RCE
+
+**介绍:** Ejecución remota de código (RCE) utilizando el backdoor oculto en la herramienta Ghidra (SRE) a través del protocolo de comunicación JDWP.  Proyecto del área de ciberseguridad y análisis de malware.
+
+**地址:** https://github.com/eusebio-orozco/Ghidra-reverse-shell
 
 ---
 
@@ -2533,26 +2563,6 @@
 **介绍:** None
 
 **地址:** https://github.com/prasannadolas/red-team-simulator
-
----
-
-## FlopperOnTTv/HackStarterPack-M5StickCPlus2
-
-**关键字** Exploit
-
-**介绍:** A beginner-friendly hacking toolkit for the M5Stick C Plus 2. This educational repo includes curated IR signals, Sub-GHz protocols, BadUSB/BLE scripts, evil portal templates, wiring diagrams, and hands-on tutorials to help you explore, understand, and defend against modern exploits. For educational use only.
-
-**地址:** https://github.com/FlopperOnTTv/HackStarterPack-M5StickCPlus2
-
----
-
-## reverse-chaos-engineering/foundation
-
-**关键字** RCE
-
-**介绍:** Describe RCE foundations and principles
-
-**地址:** https://github.com/reverse-chaos-engineering/foundation
 
 ---
 
