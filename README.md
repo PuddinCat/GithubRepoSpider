@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## Anggaea0/burp
+
+**关键字** burp
+
+**介绍:** None
+
+**地址:** https://github.com/Anggaea0/burp
+
+---
+
 ## srandres-git/cves-edo-cta-mlg
 
 **关键字** CVE
@@ -2423,56 +2433,6 @@
 **介绍:** PoC for CVE-2025-2748 - Unauthenticated ZIP file upload with embedded SVG for XSS
 
 **地址:** https://github.com/xirtam2669/Kentico-Xperience-before-13.0.178---XSS-POC
-
----
-
-## diego22993/pocPwAutomation
-
-**关键字** POC
-
-**介绍:** None
-
-**地址:** https://github.com/diego22993/pocPwAutomation
-
----
-
-## The-Pocket/PocketFlow-Tutorial-Danganronpa-Simulator
-
-**关键字** POC
-
-**介绍:** The Ultimate AI Experiment: Danganronpa Simulator
-
-**地址:** https://github.com/The-Pocket/PocketFlow-Tutorial-Danganronpa-Simulator
-
----
-
-## Faheem-Musthafa/Beginner-to-Expert-Payloads-Exploits-Cheat-Sheet
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/Faheem-Musthafa/Beginner-to-Expert-Payloads-Exploits-Cheat-Sheet
-
----
-
-## nttaam/cors-exploit
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/nttaam/cors-exploit
-
----
-
-## Poorna192/Web-application-security-testing-using-Burp-Suite
-
-**关键字** burp
-
-**介绍:** None
-
-**地址:** https://github.com/Poorna192/Web-application-security-testing-using-Burp-Suite
 
 ---
 
