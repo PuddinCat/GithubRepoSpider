@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## zfernm/Web-Shell-ZFERNM
+
+**关键字** webshell
+
+**介绍:** PHP WebShell 
+
+**地址:** https://github.com/zfernm/Web-Shell-ZFERNM
+
+---
+
+## KashishSonar/Deep-Learnng-for-exploit-generation
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/KashishSonar/Deep-Learnng-for-exploit-generation
+
+---
+
 ## KaanBicaklar/RedTeamChecklists
 
 **关键字** Red Team
@@ -386,6 +406,16 @@
 
 ---
 
+## aulauniversal/Psfree-Lapso-Ps4-Ps5-Exploit-POC-LUA-Loader
+
+**关键字** Exploit
+
+**介绍:** Psfree Lapso Ps4/Ps5 Exploit POC based by abc Exploit and shahrilnet
+
+**地址:** https://github.com/aulauniversal/Psfree-Lapso-Ps4-Ps5-Exploit-POC-LUA-Loader
+
+---
+
 ## engmazharulhassan/cve_to_ttp_api
 
 **关键字** CVE
@@ -643,6 +673,16 @@
 **介绍:** RED XENON is a FreeFire Esports team from Bangladesh 
 
 **地址:** https://github.com/rxnredxenon/RED-XENON
+
+---
+
+## Ramona-Flower/Get-Discord-Guild-Tag-Method
+
+**关键字** Exploit
+
+**介绍:** New method to get it at 100% without any bots/selfbots
+
+**地址:** https://github.com/Ramona-Flower/Get-Discord-Guild-Tag-Method
 
 ---
 
@@ -2463,16 +2503,6 @@
 **介绍:** Tools for scan CVE-2024-25600 - WordPress Bricks Builder Remote Code Execution (RCE) 
 
 **地址:** https://github.com/DedsecTeam-BlackHat/Poleposph
-
----
-
-## donnaawhfu/prbsqteou
-
-**关键字** burp
-
-**介绍:** Boost Burp Suite testing with fast, reliable proxies! Discover top proxy setups to enhance security scans, hide IPs, and bypass restrictions effortlessly. Level up your penetration testing now!
-
-**地址:** https://github.com/donnaawhfu/prbsqteou
 
 ---
 
