@@ -2456,24 +2456,4 @@
 
 ---
 
-## jk-mayne/burp-annotator
-
-**关键字** burp
-
-**介绍:** An extension for BurpSuite to automatically annotate requests based on scanning history
-
-**地址:** https://github.com/jk-mayne/burp-annotator
-
----
-
-## damianos-pappas/poc
-
-**关键字** POC
-
-**介绍:** poc
-
-**地址:** https://github.com/damianos-pappas/poc
-
----
-
 
