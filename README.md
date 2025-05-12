@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## hh-d/uni-router-guard
+
+**关键字** 提权
+
+**介绍:** `uni-router-guard` 是一款专为 **UniApp** 框架设计的路由守卫插件，基于 **Vue 3** 构建。它提供了强大的页面访问权限控制、登录拦截和白名单功能，帮助开发者轻松管理应用的路由权限，提升应用安全性和用户体验。
+
+**地址:** https://github.com/hh-d/uni-router-guard
+
+---
+
 ## slotcode/casino-code
 
 **关键字** 注入
@@ -2433,56 +2443,6 @@
 **介绍:** CVE-2024-38475 Scanner using FFUF + Seclists
 
 **地址:** https://github.com/syaifulandy/CVE-2024-38475
-
----
-
-## hl0nely/NSSA
-
-**关键字** 网络安全
-
-**介绍:** 毕业设计之基于时间序列的网络战场安全态势预测的设计与实现
-
-**地址:** https://github.com/hl0nely/NSSA
-
----
-
-## jailbreakdotparty/dirtyZero
-
-**关键字** CVE
-
-**介绍:** Basic customization app using CVE-2025-24203. Patched in iOS 18.4.
-
-**地址:** https://github.com/jailbreakdotparty/dirtyZero
-
----
-
-## MarcelaJI/red-team-assets
-
-**关键字** Red Team
-
-**介绍:**  Recursos gráficos para mi perfil Red Team
-
-**地址:** https://github.com/MarcelaJI/red-team-assets
-
----
-
-## vijaya-durga-k/Final-project-
-
-**关键字** Exploit
-
-**介绍:** Cloud raider - Art of Aws exploitation 
-
-**地址:** https://github.com/vijaya-durga-k/Final-project-
-
----
-
-## xishir/cve-mcp-server
-
-**关键字** CVE
-
-**介绍:** A Model Context Protocol server providing CVE vulnerability information query capabilities. This server enables LLMs to query detailed information for specific CVE IDs, retrieving data from MITRE's CVE database.
-
-**地址:** https://github.com/xishir/cve-mcp-server
 
 ---
 
