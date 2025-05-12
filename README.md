@@ -16,6 +16,16 @@
 
 ---
 
+## SilentisVox/PowerShell-Shellcode-Exec
+
+**关键字** shellcode
+
+**介绍:** None
+
+**地址:** https://github.com/SilentisVox/PowerShell-Shellcode-Exec
+
+---
+
 ## laishouchao/Apache-RocketMQ-RCE-CVE-2023-37582-poc
 
 **关键字** CVE
@@ -2523,36 +2533,6 @@
 **介绍:** Project Mgmt Ai App Rev1
 
 **地址:** https://github.com/LucianoJohnPucci/PocketPM
-
----
-
-## indefiniteabhi/FUTURE_CS_01
-
-**关键字** burp
-
-**介绍:** Security testing project using DVWA, Burp Suite, SQLMap
-
-**地址:** https://github.com/indefiniteabhi/FUTURE_CS_01
-
----
-
-## sphinx-notes/poc
-
-**关键字** POC
-
-**介绍:** Proof of concepts of some ideas about extending Sphinx
-
-**地址:** https://github.com/sphinx-notes/poc
-
----
-
-## lastnameradeon/SearchToolkit
-
-**关键字** Red Team
-
-**介绍:** SearchToolkit is advanced collection of tools, hardwares, resources and cheatsheets useful for Pentester, Red Teamer,  Bug Hunter, Forensics, LAW enforcement etc.
-
-**地址:** https://github.com/lastnameradeon/SearchToolkit
 
 ---
 
