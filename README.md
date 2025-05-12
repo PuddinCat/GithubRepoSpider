@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## tinmarco/AirDefenseExploit
+
+**关键字** Exploit
+
+**介绍:** emulate ADS traffic for a RTL SDR
+
+**地址:** https://github.com/tinmarco/AirDefenseExploit
+
+---
+
+## openginer/EXCEL-EXPLOIT
+
+**关键字** Exploit
+
+**介绍:** Advanced Excel XLSX Exploit
+
+**地址:** https://github.com/openginer/EXCEL-EXPLOIT
+
+---
+
 ## packages-2o/titan-crypter-5o
 
 **关键字** bypass av
@@ -123,6 +143,16 @@
 **介绍:** None
 
 **地址:** https://github.com/babilmeow/exploit-cve
+
+---
+
+## iam3yc/crackme_night-escape_the_prison
+
+**关键字** Exploit
+
+**介绍:** windows reversing & binary exploitation challenge
+
+**地址:** https://github.com/iam3yc/crackme_night-escape_the_prison
 
 ---
 
