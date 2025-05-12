@@ -2476,24 +2476,4 @@
 
 ---
 
-## TJlinx/cve
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/TJlinx/cve
-
----
-
-## Iskandeur/ilo-ike
-
-**关键字** Exploit
-
-**介绍:** Policy Puppetry Prompt Injection Exploit
-
-**地址:** https://github.com/Iskandeur/ilo-ike
-
----
-
 
