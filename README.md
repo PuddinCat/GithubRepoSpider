@@ -16,6 +16,26 @@
 
 ---
 
+## h31md4llr/libjpeg_cve-2018-14498
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/h31md4llr/libjpeg_cve-2018-14498
+
+---
+
+## rebelle3/cve-2017-7117
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/rebelle3/cve-2017-7117
+
+---
+
 ## zfernm/Web-Shell-ZFERNM
 
 **关键字** webshell
@@ -43,6 +63,26 @@
 **介绍:** None
 
 **地址:** https://github.com/KaanBicaklar/RedTeamChecklists
+
+---
+
+## kevinbin/mysqlcve
+
+**关键字** CVE
+
+**介绍:** 自动化获取、整理和扫描MySQL相关CVE信息，支持CVE数据同步、版本扫描与结果导出。
+
+**地址:** https://github.com/kevinbin/mysqlcve
+
+---
+
+## gaellegoyon/devsecops-cli
+
+**关键字** CVE
+
+**介绍:** Scanne vulnérabilités CVE & conformité CIS (misconfig), exporte des rapports JSON & HTML.
+
+**地址:** https://github.com/gaellegoyon/devsecops-cli
 
 ---
 
@@ -2343,46 +2383,6 @@
 **介绍:** Boost Burp Suite efficiency with the ultimate proxy setup! Enhance security testing, speed, and anonymity using top-tier proxies. Discover seamless integration and unlock Burp Suite’s full potential now!
 
 **地址:** https://github.com/michelleeueij/pxbrsutqz
-
----
-
-## demoouh855/pocouh855
-
-**关键字** POC
-
-**介绍:** None
-
-**地址:** https://github.com/demoouh855/pocouh855
-
----
-
-## s2phoenix/POCBankService
-
-**关键字** POC
-
-**介绍:** None
-
-**地址:** https://github.com/s2phoenix/POCBankService
-
----
-
-## vyyvvuvvuvuvyuvvuvyuvy/burp-clicker-game
-
-**关键字** burp
-
-**介绍:** burrrrrrpprpprrp!!!!!!!!!!!!!!!!!
-
-**地址:** https://github.com/vyyvvuvvuvuvyuvvuvyuvy/burp-clicker-game
-
----
-
-## webzzaa/cvetest
-
-**关键字** CVE
-
-**介绍:** cve说明
-
-**地址:** https://github.com/webzzaa/cvetest
 
 ---
 
