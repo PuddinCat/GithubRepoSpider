@@ -2546,24 +2546,4 @@
 
 ---
 
-## kakasarkar/blue-devil
-
-**关键字** Blue Team
-
-**介绍:** Blue-devil is a lightweight, open-source tool designed to streamline project management for small teams. It offers intuitive task tracking and simple collaboration features to enhance productivity and communication.
-
-**地址:** https://github.com/kakasarkar/blue-devil
-
----
-
-## prasannadolas/red-team-simulator
-
-**关键字** Red Team
-
-**介绍:** None
-
-**地址:** https://github.com/prasannadolas/red-team-simulator
-
----
-
 
