@@ -16,6 +16,16 @@
 
 ---
 
+## Malforge-Maldev-Public-Organization/NT-API-Code-Injection
+
+**关键字** shellcode
+
+**介绍:** NT API Code Injection using NtCreateSection and NtMapViewOfSection to inject shellcode into a remote process. This method allows for efficient memory manipulation and code execution within target processes.
+
+**地址:** https://github.com/Malforge-Maldev-Public-Organization/NT-API-Code-Injection
+
+---
+
 ## bossdlyavsehkirk6/BreakerZero_PasswordCracker_v1.0-b1
 
 **关键字** Red Team
@@ -2503,16 +2513,6 @@
 **介绍:** None
 
 **地址:** https://github.com/Radir4k2/Burpsuite-extension-to-analyze-HTTP-request-with-AI
-
----
-
-## AthouNourane/EXPLOITATION_BD_SAE
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/AthouNourane/EXPLOITATION_BD_SAE
 
 ---
 
