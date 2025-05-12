@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## slotcode/casino-code
+
+**关键字** 注入
+
+**介绍:** 巴西/印度包网源码★★★完善可运营版本 完善的包网系统源码，含前后端+后台 含12款PG slot游戏源码+18款Slot源码，如需其他游戏可单独接入或定制 提供搭建文档、代码注释文档、后台功能说明文档
+
+**地址:** https://github.com/slotcode/casino-code
+
+---
+
+## tinkerbellqwq/astrbot_plugin_fishing
+
+**关键字** 钓鱼
+
+**介绍:** 电子钓鱼小游戏
+
+**地址:** https://github.com/tinkerbellqwq/astrbot_plugin_fishing
+
+---
+
 ## tntrock/CVE-2024-4577_PowerShell
 
 **关键字** CVE
@@ -403,6 +423,16 @@
 **介绍:** 计算机网络安全技术大作业
 
 **地址:** https://github.com/toioo/cs_net_security
+
+---
+
+## suonanjiexi/TextSphere
+
+**关键字** 注入
+
+**介绍:** TextSphere是一款基于Flutter开发的社交应用，专注于提供高质量的交流体验。用户可以在这里分享想法、加入话题讨论、建立兴趣圈子，以及与好友私聊。
+
+**地址:** https://github.com/suonanjiexi/TextSphere
 
 ---
 
@@ -2453,86 +2483,6 @@
 **介绍:** A Model Context Protocol server providing CVE vulnerability information query capabilities. This server enables LLMs to query detailed information for specific CVE IDs, retrieving data from MITRE's CVE database.
 
 **地址:** https://github.com/xishir/cve-mcp-server
-
----
-
-## tall1dis/Luna-Executor
-
-**关键字** Exploit
-
-**介绍:** Lunar Executor is a tool for executing custom scripts within Roblox, providing users with the ability to exploit and modify game features.
-
-**地址:** https://github.com/tall1dis/Luna-Executor
-
----
-
-## QingfengBetter/rs_pass_all
-
-**关键字** 免杀
-
-**介绍:** 瑞数加密通杀方案，免去补环境，通杀瑞数当前以及未来版本；
-
-**地址:** https://github.com/QingfengBetter/rs_pass_all
-
----
-
-## l0sha1n/FiveM-External-Cheat
-
-**关键字** Exploit
-
-**介绍:** FiveM External cheat, offers various features like aimbot, triggerbot, exploits, and customizable settings, enhancing the gameplay experience. It is completely undetectable.
-
-**地址:** https://github.com/l0sha1n/FiveM-External-Cheat
-
----
-
-## HamzaSahin61/TrustyKeymaster-Shellcode-Persistence-Exploit
-
-**关键字** shellcode
-
-**介绍:** None
-
-**地址:** https://github.com/HamzaSahin61/TrustyKeymaster-Shellcode-Persistence-Exploit
-
----
-
-## arjun-btp/CUS_ONBOARD_POC
-
-**关键字** POC
-
-**介绍:** Customer Onboarding PoC
-
-**地址:** https://github.com/arjun-btp/CUS_ONBOARD_POC
-
----
-
-## ShreyaGavali/PocketNotes
-
-**关键字** POC
-
-**介绍:** None
-
-**地址:** https://github.com/ShreyaGavali/PocketNotes
-
----
-
-## Vasanth1012/HRMS-System-
-
-**关键字** POC
-
-**介绍:** POC HRMS System 
-
-**地址:** https://github.com/Vasanth1012/HRMS-System-
-
----
-
-## CloudsWeight/kev_catalog
-
-**关键字** Exploit
-
-**介绍:** Search the CISA Known Exploited Vulnerabilities Catalog from cli
-
-**地址:** https://github.com/CloudsWeight/kev_catalog
 
 ---
 
