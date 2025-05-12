@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## Amalelkhadem/RCE_Detect-Exploit
+
+**关键字** RCE
+
+**介绍:** None
+
+**地址:** https://github.com/Amalelkhadem/RCE_Detect-Exploit
+
+---
+
 ## DevelopmentFcuevas/Control-de-Ventas-y-Entrega-de-Productos-CVEP-
 
 **关键字** CVE
@@ -2373,66 +2383,6 @@
 **介绍:** Cross-platform automated network scanning, fingerprinting, and exploitation suite with Metasploit integration and reporting.
 
 **地址:** https://github.com/zerodayblitz/NetSuite-network-exploitation-tool
-
----
-
-## shetos1991/ahmedsalah87-exploit
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/shetos1991/ahmedsalah87-exploit
-
----
-
-## kelchnerzeus67/Exploit-Crab
-
-**关键字** Exploit
-
-**介绍:** Free and Proven Crab Game Hack Download for Windows in 2025🛡️
-
-**地址:** https://github.com/kelchnerzeus67/Exploit-Crab
-
----
-
-## kelchnerhen26/D2-Exploit
-
-**关键字** Exploit
-
-**介绍:** Get Destiny 2 Cheat Pack 2025: Free Download for Windows Gaming🌟
-
-**地址:** https://github.com/kelchnerhen26/D2-Exploit
-
----
-
-## backarrow72/GMod-Exploit
-
-**关键字** Exploit
-
-**介绍:** How to Download and Install Garry Mod Hacks on Windows in 2025 📥
-
-**地址:** https://github.com/backarrow72/GMod-Exploit
-
----
-
-## prostobest3253/Frame-Exploit
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/prostobest3253/Frame-Exploit
-
----
-
-## sinrinbarabashka/WZ3-Exploit-Tool
-
-**关键字** Exploit
-
-**介绍:** Download the Ultimate Call of Duty Warzone 3 Hack for Windows 2025 Now!🔥
-
-**地址:** https://github.com/sinrinbarabashka/WZ3-Exploit-Tool
 
 ---
 
