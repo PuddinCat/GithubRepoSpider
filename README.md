@@ -16,6 +16,16 @@
 
 ---
 
+## Malforge-Maldev-Public-Organization/RatInject-Red-Team-Tool
+
+**关键字** Red Team
+
+**介绍:** None
+
+**地址:** https://github.com/Malforge-Maldev-Public-Organization/RatInject-Red-Team-Tool
+
+---
+
 ## slotcode/casino-code
 
 **关键字** 注入
@@ -26,6 +36,26 @@
 
 ---
 
+## BIJAYATAHAMAL/Burpsuite
+
+**关键字** burp
+
+**介绍:** None
+
+**地址:** https://github.com/BIJAYATAHAMAL/Burpsuite
+
+---
+
+## merrn1ds/Luna-Executor
+
+**关键字** Exploit
+
+**介绍:** Lunar Executor is a tool for executing custom scripts within Roblox, providing users with the ability to exploit and modify game features.
+
+**地址:** https://github.com/merrn1ds/Luna-Executor
+
+---
+
 ## tinkerbellqwq/astrbot_plugin_fishing
 
 **关键字** 钓鱼
@@ -33,6 +63,16 @@
 **介绍:** 电子钓鱼小游戏
 
 **地址:** https://github.com/tinkerbellqwq/astrbot_plugin_fishing
+
+---
+
+## AdityaBhatt3010/NoSQL-Injection-Detection-A-Hands-on-Exploitation-Walkthrough
+
+**关键字** Exploit
+
+**介绍:** Unleashing logic-flipping payloads in the neon-lit alleys of NoSQL - One Injection at a Time.
+
+**地址:** https://github.com/AdityaBhatt3010/NoSQL-Injection-Detection-A-Hands-on-Exploitation-Walkthrough
 
 ---
 
@@ -2243,6 +2283,16 @@
 **介绍:** None
 
 **地址:** https://github.com/CWE-CVE-Benchmark/CWE-CVE-Benchmark.github.io
+
+---
+
+## nullenc0de/massbypass
+
+**关键字** Exploit
+
+**介绍:** is a powerful tool for automating the discovery of access control bypasses by exploiting RFC 3986 edge cases and implementation flaws. It targets endpoints that return 401, 403, 404, or authentication redirects, and attempts to bypass these restrictions using a comprehensive suite of URL manipulation techniques.
+
+**地址:** https://github.com/nullenc0de/massbypass
 
 ---
 
