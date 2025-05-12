@@ -76,6 +76,16 @@
 
 ---
 
+## Mr-Harley1/Blue-Team
+
+**关键字** Blue Team
+
+**介绍:** None
+
+**地址:** https://github.com/Mr-Harley1/Blue-Team
+
+---
+
 ## slotcode/casino-code
 
 **关键字** 注入
@@ -2513,16 +2523,6 @@
 **介绍:** None
 
 **地址:** https://github.com/DuongHaoNika/mcp-elasticsearch-cve
-
----
-
-## chenshiyi007/orange-sec-kit
-
-**关键字** 漏洞验证
-
-**介绍:** 一站式漏洞处置，助力安全工作者高效解决漏洞验证与报告交付
-
-**地址:** https://github.com/chenshiyi007/orange-sec-kit
 
 ---
 
