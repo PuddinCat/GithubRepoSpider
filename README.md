@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## IpartmentXHC/security-chat-bot
+
+**关键字** 网络安全
+
+**介绍:** 基于大语言模型的网络安全辅助学习系统
+
+**地址:** https://github.com/IpartmentXHC/security-chat-bot
+
+---
+
 ## laishouchao/Apache-RocketMQ-RCE-CVE-2023-37582-poc
 
 **关键字** CVE
@@ -23,6 +33,16 @@
 **介绍:** None
 
 **地址:** https://github.com/noah2300/cverse-test3
+
+---
+
+## Ankitha-Sreeramoju/Comprehensive-Analysis-of-Modern-Computer-Forensics
+
+**关键字** Computer Forensics
+
+**介绍:** Comprehensive Analysis of Modern Computer Forensics: Techniques, Challenges, and Legal Implications in the Digital Age
+
+**地址:** https://github.com/Ankitha-Sreeramoju/Comprehensive-Analysis-of-Modern-Computer-Forensics
 
 ---
 
@@ -1436,6 +1456,16 @@
 
 ---
 
+## loveStudyWjj/common_fastapi_project
+
+**关键字** 提权
+
+**介绍:** # Common FastAPI Project  这是一个基于FastAPI框架的通用项目模板，提供了生产环境所需的基本功能：  - 数据库连接与ORM (SQLAlchemy) - JWT用户认证与授权 - 结构化的API路由管理 - 基于Pydantic的数据验证 - 数据库迁移 (Alembic) - 测试框架集成  项目采用模块化设计，遵循最佳实践，便于扩展和维护。适用于快速搭建具有完整功能的Web API服务。
+
+**地址:** https://github.com/loveStudyWjj/common_fastapi_project
+
+---
+
 ## tharindu-L/burp-security-report-juiceshop
 
 **关键字** burp
@@ -2523,76 +2553,6 @@
 **介绍:** SearchToolkit is advanced collection of tools, hardwares, resources and cheatsheets useful for Pentester, Red Teamer,  Bug Hunter, Forensics, LAW enforcement etc.
 
 **地址:** https://github.com/lastnameradeon/SearchToolkit
-
----
-
-## Mattb709/HELLCAT-Practical-Initial-Access-Guide-for-Red-Teams
-
-**关键字** Red Team
-
-**介绍:** Red Team Initial Access Guide: Recon, exploitation, C2 setup, lateral movement, persistence, evasion techniques, and real-world case studies including network breaches and ransomware operations.
-
-**地址:** https://github.com/Mattb709/HELLCAT-Practical-Initial-Access-Guide-for-Red-Teams
-
----
-
-## Jimi421/heart-of-arjuna
-
-**关键字** Red Team
-
-**介绍:** Arjuna is an elite red team recon and fingerprinting CLI + dashboard`
-
-**地址:** https://github.com/Jimi421/heart-of-arjuna
-
----
-
-## mr-adult/web-exploit-demo-site
-
-**关键字** Exploit
-
-**介绍:** A site that demos a few commonly found web-based security exploits.
-
-**地址:** https://github.com/mr-adult/web-exploit-demo-site
-
----
-
-## absholi7ly/CVE-2025-27533-Exploit-for-Apache-ActiveMQ
-
-**关键字** CVE
-
-**介绍:** exploit for CVE-2025-27533, a Denial of Service (DoS) vulnerability in Apache ActiveMQ
-
-**地址:** https://github.com/absholi7ly/CVE-2025-27533-Exploit-for-Apache-ActiveMQ
-
----
-
-## CentyLab/PocketPD_HW
-
-**关键字** POC
-
-**介绍:** Hardware repo for PocketPD
-
-**地址:** https://github.com/CentyLab/PocketPD_HW
-
----
-
-## shraeder/PocketDimension
-
-**关键字** POC
-
-**介绍:** A spigot plugin for storing junk blocks in an easy to use inventory
-
-**地址:** https://github.com/shraeder/PocketDimension
-
----
-
-## sathi2/Batch-Malware-Builder-FUD-Crypter-AV-UAC-Bypass
-
-**关键字** bypass av
-
-**介绍:** Crypter hides malware with encryption, often providing FUD features. Tools like crypter FUD or batch FUD ensure undetected execution. Obfuscation bypasses antivirus and Windows Defender. Batch malware, trojans, and stealers are built using specialized tools.
-
-**地址:** https://github.com/sathi2/Batch-Malware-Builder-FUD-Crypter-AV-UAC-Bypass
 
 ---
 
