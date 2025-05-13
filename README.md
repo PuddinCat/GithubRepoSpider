@@ -316,6 +316,16 @@
 
 ---
 
+## WHOISshuvam/nai
+
+**关键字** Exploit
+
+**介绍:** A lightweight penetration testing toolkit that integrates Nmap with AI models  to automatically analyze scan results and suggest next steps for enumeration and exploitation. 
+
+**地址:** https://github.com/WHOISshuvam/nai
+
+---
+
 ## bogdanbarbulescu/cve
 
 **关键字** CVE
@@ -2423,46 +2433,6 @@
 **介绍:** Basic customization app using CVE-2025-24203. Patched in iOS 18.4.
 
 **地址:** https://github.com/Ravibr87/dirtyZero
-
----
-
-## notryhardnysson694/Prison-Life-Script-Roblox
-
-**关键字** Exploit
-
-**介绍:** Best OP New Roblox Prison Life Scripts and Exploits 2025 - Free GUI Admin Commands Download
-
-**地址:** https://github.com/notryhardnysson694/Prison-Life-Script-Roblox
-
----
-
-## elshadghg325/CVE_scraper
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/elshadghg325/CVE_scraper
-
----
-
-## alpernae/NotesPlus
-
-**关键字** burp
-
-**介绍:** Notes+ is a Burp Suite extension designed to provide a seamless note-taking experience directly within Burp Suite. It allows security testers and developers to efficiently create, manage, and organize their findings, observations, and thoughts using Markdown, with a live HTML preview.
-
-**地址:** https://github.com/alpernae/NotesPlus
-
----
-
-## blue-pho3nix/penetration-testing-bchecks
-
-**关键字** burp
-
-**介绍:** Burp Suite BChecks for Pentesting
-
-**地址:** https://github.com/blue-pho3nix/penetration-testing-bchecks
 
 ---
 
