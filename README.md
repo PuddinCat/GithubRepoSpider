@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## bogdanbarbulescu/cve
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/bogdanbarbulescu/cve
+
+---
+
 ## Yuikiowz/PDF-FUD-Exploit
 
 **关键字** Exploit
@@ -33,6 +43,16 @@
 **介绍:** Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution
 
 **地址:** https://github.com/Yuikiowz/HTA-Exploit
+
+---
+
+## vigilante-1337/CVE-2025-3248
+
+**关键字** CVE
+
+**介绍:** CVE-2025-3248: A critical flaw has been discovered in Langflow that allows malicious actors to execute arbitrary Python code on the target system. This can lead to full remote code execution without authentication, potentially giving attackers control over the server.
+
+**地址:** https://github.com/vigilante-1337/CVE-2025-3248
 
 ---
 
@@ -2273,16 +2293,6 @@
 **介绍:** A red team attack chain simulation with SIEM log detection and threat hunting via MITRE ATT&CK
 
 **地址:** https://github.com/Elebekenny/siem-detection-lab
-
----
-
-## RafaelCodefx/Motor-Busca-de-CVEs
-
-**关键字** CVE
-
-**介绍:** Um motor de busca de vulnerabilidades comuns em versoes de software.
-
-**地址:** https://github.com/RafaelCodefx/Motor-Busca-de-CVEs
 
 ---
 
