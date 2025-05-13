@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## loveDRX/Ruoyi-Vue-Ultra
+
+**关键字** 提权
+
+**介绍:** 基于SpringBoot，Spring Security，JWT，Vue & Element 的前后端分离权限管理系统，同时提供了 Vue3 的版本
+
+**地址:** https://github.com/loveDRX/Ruoyi-Vue-Ultra
+
+---
+
 ## ther0ok1eboy/get-cookie-of-189.cn
 
 **关键字** 后渗透
@@ -2293,16 +2303,6 @@
 **介绍:** 不知道报错/某功能代码具体在文件中哪个位置时可以快速查找，适用于模板修改/漏洞检测等场景
 
 **地址:** https://github.com/BovidJang/File-content-search-script
-
----
-
-## 1325qwer/api-jmx-generator
-
-**关键字** 注入
-
-**介绍:** 一个自动化工具：上传 Postman 接口文档，一键生成 JMeter .jmx 脚本，支持参数注入、Header、提取器、变量关联等功能
-
-**地址:** https://github.com/1325qwer/api-jmx-generator
 
 ---
 
