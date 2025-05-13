@@ -2356,34 +2356,4 @@
 
 ---
 
-## patther1/SkriptGG
-
-**关键字** Exploit
-
-**介绍:** Offrant le meilleur menu de mods FiveM, RageMP, Alt-V, GTA V non détecté pour le PvP et avec des exploits jamais vus auparavant et plus de triches de jeu multijoueur.
-
-**地址:** https://github.com/patther1/SkriptGG
-
----
-
-## dimasma0305/Java-Exploit-Tools
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/dimasma0305/Java-Exploit-Tools
-
----
-
-## Nizar-Aderbaz/WebStrike-Lab-CyberDefenders
-
-**关键字** Blue Team
-
-**介绍:** "Analysis and solutions for the WebStrike Blue Team Lab challenges from CyberDefenders, focusing on network forensics and incident response."
-
-**地址:** https://github.com/Nizar-Aderbaz/WebStrike-Lab-CyberDefenders
-
----
-
 
