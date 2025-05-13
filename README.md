@@ -6,6 +6,76 @@
 
 ## 最新仓库
 
+## SrLiath/vuln-scan
+
+**关键字** RCE
+
+**介绍:** A Python-based static vulnerability scanner for PHP files that detects common issues like XSS, SQLi, and RCE
+
+**地址:** https://github.com/SrLiath/vuln-scan
+
+---
+
+## syn-developmentlabs/rce-test-via-yt
+
+**关键字** RCE
+
+**介绍:** educational
+
+**地址:** https://github.com/syn-developmentlabs/rce-test-via-yt
+
+---
+
+## vmer11raisshaipow/Overwatch2-Exploit
+
+**关键字** Exploit
+
+**介绍:** Latest Free OverWatch 2 Hack Tool: 2025 Windows Version🔑
+
+**地址:** https://github.com/vmer11raisshaipow/Overwatch2-Exploit
+
+---
+
+## maumau3141/ISS-Exploit
+
+**关键字** Exploit
+
+**介绍:** Windows 2025 Hack Download:Enhance Your Insurgency Sandstorm Experience🌐
+
+**地址:** https://github.com/maumau3141/ISS-Exploit
+
+---
+
+## afroze2334/cors-exploit-demo
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/afroze2334/cors-exploit-demo
+
+---
+
+## bansheebigbang939/DeadLock-Exploit
+
+**关键字** Exploit
+
+**介绍:** Best Ways to Download DeadLock Hack for Windows in 2025 Edition
+
+**地址:** https://github.com/bansheebigbang939/DeadLock-Exploit
+
+---
+
+## numb18noplayergame/Fifa2025-Exploit
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/numb18noplayergame/Fifa2025-Exploit
+
+---
+
 ## PolarSnowLeopard/rf4_helper_app
 
 **关键字** 钓鱼
@@ -2233,26 +2303,6 @@
 **介绍:** Random paths for use with CVE-2025-24203
 
 **地址:** https://github.com/BlueDiamond2021/iOS-CVE-2025-24203-Paths
-
----
-
-## sug4r-wr41th/CVE-2025-31324
-
-**关键字** CVE
-
-**介绍:** SAP NetWeaver Visual Composer Metadata Uploader 7.50 CVE-2025-31324 PoC
-
-**地址:** https://github.com/sug4r-wr41th/CVE-2025-31324
-
----
-
-## agus-ps/Burp2Jmx
-
-**关键字** burp
-
-**介绍:** None
-
-**地址:** https://github.com/agus-ps/Burp2Jmx
 
 ---
 
