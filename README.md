@@ -2406,14 +2406,4 @@
 
 ---
 
-## DeveloperDeltaScript/MicaExploits
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/DeveloperDeltaScript/MicaExploits
-
----
-
 
