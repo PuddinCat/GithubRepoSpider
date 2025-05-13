@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## PolarSnowLeopard/rf4_helper_app
+
+**关键字** 钓鱼
+
+**介绍:** 俄罗斯钓鱼4小工具桌面客户端
+
+**地址:** https://github.com/PolarSnowLeopard/rf4_helper_app
+
+---
+
 ## bogdanbarbulescu/cve
 
 **关键字** CVE
@@ -2243,56 +2253,6 @@
 **介绍:** None
 
 **地址:** https://github.com/agus-ps/Burp2Jmx
-
----
-
-## kkcyber989/Network-Exploitation
-
-**关键字** Exploit
-
-**介绍:** A hands-on wireless network exploitation project built using Kali Linux tools. This project demonstrates how to capture WPA2 handshakes, crack Wi-Fi passwords, decrypt traffic, and analyze packets using Wireshark.
-
-**地址:** https://github.com/kkcyber989/Network-Exploitation
-
----
-
-## CyberbyKayvon/Network-Exploitation
-
-**关键字** Exploit
-
-**介绍:** A hands-on wireless network exploitation project built using Kali Linux tools. This project demonstrates how to capture WPA2 handshakes, crack Wi-Fi passwords, decrypt traffic, and analyze packets using Wireshark.
-
-**地址:** https://github.com/CyberbyKayvon/Network-Exploitation
-
----
-
-## karandevxploit/karandevxploit.md
-
-**关键字** burp
-
-**介绍:** ### Hi there, I'm Karan Yadav 👋  - 🔭 I’m currently working on: Full Stack Projects + AI Apps + Bug Bounty - 🌱 I’m currently learning: Next.js, TensorFlow, Burp Suite - 💬 Ask me about: Web Dev, Security, Machine Learning - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/karanyadav) - ⚡ Fun fact: I break & fix apps for fun! 
-
-**地址:** https://github.com/karandevxploit/karandevxploit.md
-
----
-
-## slaimmials/Exploits
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/slaimmials/Exploits
-
----
-
-## Elebekenny/siem-detection-lab
-
-**关键字** Red Team
-
-**介绍:** A red team attack chain simulation with SIEM log detection and threat hunting via MITRE ATT&CK
-
-**地址:** https://github.com/Elebekenny/siem-detection-lab
 
 ---
 
