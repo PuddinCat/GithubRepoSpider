@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## ther0ok1eboy/get-cookie-of-189.cn
+
+**关键字** 后渗透
+
+**介绍:** 批量获取中国电信一次性认证token, 方便于后续渗透过程中的重放攻击
+
+**地址:** https://github.com/ther0ok1eboy/get-cookie-of-189.cn
+
+---
+
+## ROHAN-BAGHEL/Exploit_Dev_Beginners
+
+**关键字** Exploit
+
+**介绍:** demonstrated how to start exploit development.
+
+**地址:** https://github.com/ROHAN-BAGHEL/Exploit_Dev_Beginners
+
+---
+
 ## erdemaslan0600/ErExec-Pro
 
 **关键字** Exploit
@@ -2283,66 +2303,6 @@
 **介绍:** 一个自动化工具：上传 Postman 接口文档，一键生成 JMeter .jmx 脚本，支持参数注入、Header、提取器、变量关联等功能
 
 **地址:** https://github.com/1325qwer/api-jmx-generator
-
----
-
-## ReaJason/CVE-2024-28752
-
-**关键字** CVE
-
-**介绍:** Apache CXF SSRF CVE-2024-28752
-
-**地址:** https://github.com/ReaJason/CVE-2024-28752
-
----
-
-## FrosTy04/RedTeam
-
-**关键字** Red Team
-
-**介绍:** This project is a **deliberately vulnerable web application** built for ethical hacking and penetration testing practice. It simulates the **OWASP Top 10 vulnerabilities** and includes a `/roadmap` to guide beginners into becoming full-stack pentesters.
-
-**地址:** https://github.com/FrosTy04/RedTeam
-
----
-
-## niancao010/Webshells
-
-**关键字** webshell
-
-**介绍:** None
-
-**地址:** https://github.com/niancao010/Webshells
-
----
-
-## manojxshrestha/Cobalt-Strike
-
-**关键字** Cobalt Strike
-
-**介绍:** None
-
-**地址:** https://github.com/manojxshrestha/Cobalt-Strike
-
----
-
-## Caddyshack2175/go2postman
-
-**关键字** burp
-
-**介绍:** A Go tool that converts cURL a file of commands or a directory of Burp Suite XML files into Postman Collections.
-
-**地址:** https://github.com/Caddyshack2175/go2postman
-
----
-
-## AbdulNafay8102004/vuln-scanner-and-cve-info-TOOLS
-
-**关键字** CVE
-
-**介绍:** This project has actually two tools: 1 -> Allow us to scan local host for vulnerabilitie and store them ,  2 -> Take input as CVE-id and display full details of that CVE
-
-**地址:** https://github.com/AbdulNafay8102004/vuln-scanner-and-cve-info-TOOLS
 
 ---
 
