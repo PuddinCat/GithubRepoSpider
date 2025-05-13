@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## ClementGuims/CVenligneclemguims
+
+**关键字** CVE
+
+**介绍:** Mon cv en ligne
+
+**地址:** https://github.com/ClementGuims/CVenligneclemguims
+
+---
+
+## Fauzan-Aldi/CVE-2022-21661
+
+**关键字** CVE
+
+**介绍:** A Python PoC for CVE-2022-21661, adapted from z92g's Go PoC, designed to demonstrate the vulnerability in a more accessible scripting environment.
+
+**地址:** https://github.com/Fauzan-Aldi/CVE-2022-21661
+
+---
+
 ## modded-soldier-9/smowl-exploit
 
 **关键字** Exploit
@@ -2343,16 +2363,6 @@
 **介绍:** 2025哈工大（深圳）网络与系统安全实验
 
 **地址:** https://github.com/qyh-qyh-qyh/HITSZ-net-system_safety-2025
-
----
-
-## AzizamerAlmubayedh/CVE-search
-
-**关键字** CVE
-
-**介绍:** this repository contains the code used for the Quantum-Accelerated CVE search
-
-**地址:** https://github.com/AzizamerAlmubayedh/CVE-search
 
 ---
 
