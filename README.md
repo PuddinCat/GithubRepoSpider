@@ -16,6 +16,46 @@
 
 ---
 
+## shkch02/eBPF_cve_2024_23651
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/shkch02/eBPF_cve_2024_23651
+
+---
+
+## Enzofrezzz/CvENZO
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/Enzofrezzz/CvENZO
+
+---
+
+## Cherish-Ink/CVE
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/Cherish-Ink/CVE
+
+---
+
+## F-zivanovic/cvetkovicLaw
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/F-zivanovic/cvetkovicLaw
+
+---
+
 ## Nass-man/ExploitDarlenePRO
 
 **关键字** Exploit
@@ -33,6 +73,16 @@
 **介绍:** 基于SpringBoot，Spring Security，JWT，Vue & Element 的前后端分离权限管理系统，同时提供了 Vue3 的版本
 
 **地址:** https://github.com/loveDRX/Ruoyi-Vue-Ultra
+
+---
+
+## sumingwjl/cve
+
+**关键字** CVE
+
+**介绍:** cve
+
+**地址:** https://github.com/sumingwjl/cve
 
 ---
 
@@ -73,6 +123,16 @@
 **介绍:** BBST 是“Basis of Black-Box Testing”的缩写，全称为“黑盒测试基础”。它是一套系统化的软件测试基础知识体系，由 Cem Kaner 和 Rebecca L. Fiedler 编写的《Foundations of Software Testing: A BBST Workbook》一书所提出。 BBST 主要关注黑盒测试方法和实践，强调从用户的角度出发，通过测试软件的输入和输出来验证软件功能是否符合预期，而无需深入了解软件的内部实现逻辑。
 
 **地址:** https://github.com/ian1026/BBST
+
+---
+
+## arpcyber040/CVE
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/arpcyber040/CVE
 
 ---
 
