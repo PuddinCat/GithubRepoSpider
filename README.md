@@ -6,6 +6,36 @@
 
 ## 最新仓库
 
+## Yuikiowz/PDF-FUD-Exploit
+
+**关键字** Exploit
+
+**介绍:** A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates
+
+**地址:** https://github.com/Yuikiowz/PDF-FUD-Exploit
+
+---
+
+## Yuikiowz/Slient-URL-Exploit
+
+**关键字** Exploit
+
+**介绍:** URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.
+
+**地址:** https://github.com/Yuikiowz/Slient-URL-Exploit
+
+---
+
+## Yuikiowz/HTA-Exploit
+
+**关键字** Exploit
+
+**介绍:** Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution
+
+**地址:** https://github.com/Yuikiowz/HTA-Exploit
+
+---
+
 ## tkpdx01/burpwand
 
 **关键字** burp
@@ -2253,16 +2283,6 @@
 **介绍:** Um motor de busca de vulnerabilidades comuns em versoes de software.
 
 **地址:** https://github.com/RafaelCodefx/Motor-Busca-de-CVEs
-
----
-
-## wanyue3027/CVE
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/wanyue3027/CVE
 
 ---
 
