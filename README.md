@@ -16,6 +16,16 @@
 
 ---
 
+## killjapandog/CF-OSS
+
+**关键字** 红队
+
+**介绍:** 云环境利用框架（Cloud exploitation framework）主要用来方便红队人员在获得 AK 的后续工作。
+
+**地址:** https://github.com/killjapandog/CF-OSS
+
+---
+
 ## ther0ok1eboy/get-cookie-of-189.cn
 
 **关键字** 后渗透
@@ -33,6 +43,26 @@
 **介绍:** demonstrated how to start exploit development.
 
 **地址:** https://github.com/ROHAN-BAGHEL/Exploit_Dev_Beginners
+
+---
+
+## ian1026/BBST
+
+**关键字** 注入
+
+**介绍:** BBST 是“Basis of Black-Box Testing”的缩写，全称为“黑盒测试基础”。它是一套系统化的软件测试基础知识体系，由 Cem Kaner 和 Rebecca L. Fiedler 编写的《Foundations of Software Testing: A BBST Workbook》一书所提出。 BBST 主要关注黑盒测试方法和实践，强调从用户的角度出发，通过测试软件的输入和输出来验证软件功能是否符合预期，而无需深入了解软件的内部实现逻辑。
+
+**地址:** https://github.com/ian1026/BBST
+
+---
+
+## Shark-Forest/NLP-Tasks
+
+**关键字** 注入
+
+**介绍:** 根据b站博主@你可是处女座啊的讲解完成了一些基本的NLP-Tasks，修改了部分训练细节并在注释中加入了自己的理解。感谢@你可是处女座啊，他的github地址是：https://github.com/zyds/，大家多多支持他呀
+
+**地址:** https://github.com/Shark-Forest/NLP-Tasks
 
 ---
 
@@ -413,6 +443,16 @@
 **介绍:** PHP WebShell 
 
 **地址:** https://github.com/zfernm/Web-Shell-ZFERNM
+
+---
+
+## ylmyg/TextSphere
+
+**关键字** 注入
+
+**介绍:** TextSphere是一款基于Flutter开发的社交应用，专注于提供高质量的交流体验。用户可以在这里分享想法、加入话题讨论、建立兴趣圈子，以及与好友私聊。
+
+**地址:** https://github.com/ylmyg/TextSphere
 
 ---
 
