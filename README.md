@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## ZPitor99/BD_Exploitation
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/ZPitor99/BD_Exploitation
+
+---
+
+## CodeCore-exploits/CodeCore-exploits
+
+**关键字** Exploit
+
+**介绍:** Config files for my GitHub profile.
+
+**地址:** https://github.com/CodeCore-exploits/CodeCore-exploits
+
+---
+
 ## panda-lsy/gradio-ChainGuard-feature_extractor
 
 **关键字** 护网
@@ -2233,46 +2253,6 @@
 **介绍:** Top Rated Lost Ark Hacks: Free 2025 Download for Windows🛡️
 
 **地址:** https://github.com/bubblegum7771/ArkExploit-Hack
-
----
-
-## Sratet/CVE-2025-20188
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/Sratet/CVE-2025-20188
-
----
-
-## openginer/PDF-EXPLOIT
-
-**关键字** Exploit
-
-**介绍:** Advanced PDF exploit builder
-
-**地址:** https://github.com/openginer/PDF-EXPLOIT
-
----
-
-## Assem-Ch7/web-attack-cheat-sheet
-
-**关键字** Exploit
-
-**介绍:** Web_Attack_Cheat_Sheet.pdf is a concise reference for web penetration testing. It covers tools, techniques, and payloads for recon, scanning, exploitation, and post-exploitation — ideal for ethical hackers and security learners.
-
-**地址:** https://github.com/Assem-Ch7/web-attack-cheat-sheet
-
----
-
-## Zalgo-Dev/Web-Methods
-
-**关键字** Exploit
-
-**介绍:** My exploits for web
-
-**地址:** https://github.com/Zalgo-Dev/Web-Methods
 
 ---
 
