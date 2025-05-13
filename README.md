@@ -6,6 +6,36 @@
 
 ## 最新仓库
 
+## achrafAa/cventure
+
+**关键字** CVE
+
+**介绍:** A playful way to learn C programming through interactive exercises. Each exercise is designed to teach you a specific concept while having fun fixing bugs and completing challenges.
+
+**地址:** https://github.com/achrafAa/cventure
+
+---
+
+## pkpjs/CVE-TEST
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/pkpjs/CVE-TEST
+
+---
+
+## wh1te4ever/CVE-2025-31258-PoC
+
+**关键字** CVE
+
+**介绍:** 1day practice - Escape macOS sandbox (partial) using RemoteViewServices
+
+**地址:** https://github.com/wh1te4ever/CVE-2025-31258-PoC
+
+---
+
 ## Amalelkhadem/RCE_Detect-Exploit
 
 **关键字** RCE
@@ -86,6 +116,26 @@
 
 ---
 
+## ssilvernail3/pyscan
+
+**关键字** CVE
+
+**介绍:** Lightweight Python-based vulnerability scanner. Built with sockets, banner grabbing, CVE matching, and HTML reports. Future features: multithreading, PDF export, API lookups, web interface.
+
+**地址:** https://github.com/ssilvernail3/pyscan
+
+---
+
+## Syed-Farhan19/url-vulnerability-scanner
+
+**关键字** CVE
+
+**介绍:** A Python-based Google Colab tool that scans URLs for open ports, outdated software, CVEs, and OSINT data using Nmap, NVD API, and theHarvester.
+
+**地址:** https://github.com/Syed-Farhan19/url-vulnerability-scanner
+
+---
+
 ## alqhtane12/rce
 
 **关键字** RCE
@@ -123,6 +173,16 @@
 **介绍:** None
 
 **地址:** https://github.com/srandres-git/cves-edo-cta-mlg
+
+---
+
+## AyeshaMajid025/Code-AuditingTool
+
+**关键字** CVE
+
+**介绍:** A Python-based code auditing tool that uses Bandit, Flake8, and Semgrep to detect security flaws, code quality issues, and map them to CVEs and CWEs. It generates summary and HTML reports to help developers identify and fix vulnerabilities efficiently during development.
+
+**地址:** https://github.com/AyeshaMajid025/Code-AuditingTool
 
 ---
 
@@ -2343,46 +2403,6 @@
 **介绍:** # Common FastAPI Project  这是一个基于FastAPI框架的通用项目模板，提供了生产环境所需的基本功能：  - 数据库连接与ORM (SQLAlchemy) - JWT用户认证与授权 - 结构化的API路由管理 - 基于Pydantic的数据验证 - 数据库迁移 (Alembic) - 测试框架集成  项目采用模块化设计，遵循最佳实践，便于扩展和维护。适用于快速搭建具有完整功能的Web API服务。
 
 **地址:** https://github.com/loveStudyWjj/common_fastapi_project
-
----
-
-## tharindu-L/burp-security-report-juiceshop
-
-**关键字** burp
-
-**介绍:** Educational Burp Suite security scan report on OWASP Juice Shop. Demonstrates vulnerability scanning and reporting.
-
-**地址:** https://github.com/tharindu-L/burp-security-report-juiceshop
-
----
-
-## sleepie666/w0rm-zer0
-
-**关键字** Red Team
-
-**介绍:** a fully funtional uncensored offline and online red team chatbot using GNU Parallel to make it run fast, no need to install... super fast and learns!!! all in a 7.7 kb file you can use anywhere
-
-**地址:** https://github.com/sleepie666/w0rm-zer0
-
----
-
-## xgspesm7np/xgs-rcem
-
-**关键字** RCE
-
-**介绍:** VeChain
-
-**地址:** https://github.com/xgspesm7np/xgs-rcem
-
----
-
-## kojoavlesi/cybersecurity-portfolio-kojo
-
-**关键字** Red Team
-
-**介绍:** My hands-on cybersecurity project portfolio covering SOC, Blue Team, Red Team, and CCNA labs.
-
-**地址:** https://github.com/kojoavlesi/cybersecurity-portfolio-kojo
 
 ---
 
