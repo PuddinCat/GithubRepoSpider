@@ -2386,14 +2386,4 @@
 
 ---
 
-## yanhaizhe/gitee
-
-**关键字** 信息收集
-
-**介绍:** 收集和整理GitHub仓库信息
-
-**地址:** https://github.com/yanhaizhe/gitee
-
----
-
 
