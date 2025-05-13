@@ -2416,24 +2416,4 @@
 
 ---
 
-## kaif9711/Comprehensive-Penetration-Testing-on-Publisher-Linux-System-
-
-**关键字** RCE
-
-**介绍:** Penetration testing of a vulnerable Linux-based Publisher VM using Nmap, OpenVAS, SPIP RCE, and privilege escalation techniques with tools like Burp Suite, Hydra, and Metasploit.
-
-**地址:** https://github.com/kaif9711/Comprehensive-Penetration-Testing-on-Publisher-Linux-System-
-
----
-
-## Ravibr87/dirtyZero
-
-**关键字** CVE
-
-**介绍:** Basic customization app using CVE-2025-24203. Patched in iOS 18.4.
-
-**地址:** https://github.com/Ravibr87/dirtyZero
-
----
-
 
