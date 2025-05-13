@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## venoyxi217/BF4-ExploitKit
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/venoyxi217/BF4-ExploitKit
+
+---
+
+## deddingskyfall603/AOV-Exploit-Pro
+
+**关键字** Exploit
+
+**介绍:** 2025 Arena of Valor Cheats: Safe and Secure Download for Windows Users🌟
+
+**地址:** https://github.com/deddingskyfall603/AOV-Exploit-Pro
+
+---
+
 ## credi7841/JustCause4-Exploit
 
 **关键字** Exploit
@@ -763,6 +783,16 @@
 **介绍:** A Swift exploit port of the CVE-2025-24203 iOS vulnerability by Ian Beer of Google Project Zero
 
 **地址:** https://github.com/GeoSn0w/CVE-2025-24203-iOS-Exploit-in-Swift
+
+---
+
+## GeoSn0w/CVE-2025-24203-iOS-Exploit-With-Error-Logging
+
+**关键字** Exploit
+
+**介绍:** Slightly improved exploit of the CVE-2025-24203 iOS vulnerability by Ian Beer of Google Project Zero
+
+**地址:** https://github.com/GeoSn0w/CVE-2025-24203-iOS-Exploit-With-Error-Logging
 
 ---
 
@@ -2353,26 +2383,6 @@
 **介绍:** Hands-on adversary-emulation & data-analytics projects while finishing PhD (2025-2026)
 
 **地址:** https://github.com/micmerritt/red-team-data-lab
-
----
-
-## CorgiSideExploits/Custom-Exploit
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/CorgiSideExploits/Custom-Exploit
-
----
-
-## madhunica-balasubramanian/CVE-Scanner
-
-**关键字** CVE
-
-**介绍:** LLM powered Python application combining CVE vulnerability scanner and remediation recommender
-
-**地址:** https://github.com/madhunica-balasubramanian/CVE-Scanner
 
 ---
 
