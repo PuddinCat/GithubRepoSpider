@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## panda-lsy/gradio-ChainGuard-feature_extractor
+
+**关键字** 护网
+
+**介绍:** "链智护——图片特征提取（FeatureExtractor）"是基于飞桨深度学习框架打造的高效图像特征提取工具。本工具通过预训练或自定义的深度神经网络模型，自动提取图像的高维语义特征向量。
+
+**地址:** https://github.com/panda-lsy/gradio-ChainGuard-feature_extractor
+
+---
+
 ## Nass-man/ExploitDarlenePRO
 
 **关键字** Exploit
@@ -2313,26 +2323,6 @@
 **介绍:** None
 
 **地址:** https://github.com/ClausiusFan/CVE
-
----
-
-## Kaal-Misconfig/BindedKaal
-
-**关键字** Red Team
-
-**介绍:** BindedKaal is a powerful tool designed to seamlessly bind payloads with PDF files, enabling advanced penetration testing and red team operations. With stealth and efficiency at its core, BindedKaal helps security professionals simulate real-world attack vectors while maintaining the appearance of legitimate documents
-
-**地址:** https://github.com/Kaal-Misconfig/BindedKaal
-
----
-
-## mahinjust/IoT-Device-Security-Auditing
-
-**关键字** CVE
-
-**介绍:** This is an IoT security audit project. Here, I systematically gather device information, uncover known vulnerabilities such as CVEs (Common Vulnerabilities and Exposures), and explore potential zero-day vulnerabilities through custom test cases.
-
-**地址:** https://github.com/mahinjust/IoT-Device-Security-Auditing
 
 ---
 
