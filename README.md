@@ -6,6 +6,66 @@
 
 ## 最新仓库
 
+## apexkeyforloe8/TroveExploit
+
+**关键字** Exploit
+
+**介绍:** 🚀2025 Trove Hack: Easy Download for Windows Users
+
+**地址:** https://github.com/apexkeyforloe8/TroveExploit
+
+---
+
+## withing8430/BO6-Exploit
+
+**关键字** Exploit
+
+**介绍:** Secure Call of Duty Black Ops 6 Hack Download Guide for Windows in 2025 🔒
+
+**地址:** https://github.com/withing8430/BO6-Exploit
+
+---
+
+## goofyredzilla1990/POE2-ExploitKit
+
+**关键字** Exploit
+
+**介绍:** Free Path of Exile 2 Cheat Download: Windows Version 2025 Edition
+
+**地址:** https://github.com/goofyredzilla1990/POE2-ExploitKit
+
+---
+
+## hungrybloodmoney/Defiant-Exploit
+
+**关键字** Exploit
+
+**介绍:** Download XDefiant Hack 2025 for Windows – Ultimate Aimbot and Cheats
+
+**地址:** https://github.com/hungrybloodmoney/Defiant-Exploit
+
+---
+
+## elishasilver1607/Valor-Exploit-Kit
+
+**关键字** Exploit
+
+**介绍:** 2025 Arena of Valor Mod Hack: Easy Download on Windows for Pros🌟
+
+**地址:** https://github.com/elishasilver1607/Valor-Exploit-Kit
+
+---
+
+## akiranoplayergame3/Roblox-FruitExploit
+
+**关键字** Exploit
+
+**介绍:** 2025 Windows Guide: Free Download of Roblox Blox Fruits Scripts Now
+
+**地址:** https://github.com/akiranoplayergame3/Roblox-FruitExploit
+
+---
+
 ## drdree-lang/drdree-lang
 
 **关键字** CVE
@@ -23,6 +83,76 @@
 **介绍:** Kubio AI Page Builder <= 2.5.1 - Unauthenticated Local File Inclusion
 
 **地址:** https://github.com/Yucaerin/CVE-2025-2294
+
+---
+
+## darkknigtboundless/Eve-Exploit-Pro
+
+**关键字** Exploit
+
+**介绍:** Ultimate Eve Online Hacking Tool: 2025 Windows Download Pack💻
+
+**地址:** https://github.com/darkknigtboundless/Eve-Exploit-Pro
+
+---
+
+## teletubbies24/Divers2-Exploit
+
+**关键字** Exploit
+
+**介绍:** Helldivers 2 Ultimate Hack Pack: Download for Windows 2025 Edition 🌟
+
+**地址:** https://github.com/teletubbies24/Divers2-Exploit
+
+---
+
+## bravespirit7665/OW2-Exploit
+
+**关键字** Exploit
+
+**介绍:** Best OverWatch 2 Cheat Tools: Download Now for Windows in 2025
+
+**地址:** https://github.com/bravespirit7665/OW2-Exploit
+
+---
+
+## mowbetterhalf441/BlackOps6-Exploit
+
+**关键字** Exploit
+
+**介绍:** Unlock COD Black Ops 6 with 2025 Hack Download for Windows 🎮🔓
+
+**地址:** https://github.com/mowbetterhalf441/BlackOps6-Exploit
+
+---
+
+## doreatha4507/Thieves-Exploit
+
+**关键字** Exploit
+
+**介绍:** Download Sea of Thieves Hack 2025 for Windows-Free & Unlimited Access ⚓
+
+**地址:** https://github.com/doreatha4507/Thieves-Exploit
+
+---
+
+## animat53niko/ZeroZone-Exploit
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/animat53niko/ZeroZone-Exploit
+
+---
+
+## meztinos62/Warface-Exploit
+
+**关键字** Exploit
+
+**介绍:** Free Warface Hack Download 2025 for Windows – Unlock All Features Now!🔥
+
+**地址:** https://github.com/meztinos62/Warface-Exploit
 
 ---
 
@@ -2333,36 +2463,6 @@
 **介绍:** Burp Suite BChecks for Pentesting
 
 **地址:** https://github.com/blue-pho3nix/penetration-testing-bchecks
-
----
-
-## 0xSusp3ct/libmodbus-cve-poc
-
-**关键字** CVE
-
-**介绍:**  PoC for buffer overflow in modbus_send_raw_request_tid() - libmodbus
-
-**地址:** https://github.com/0xSusp3ct/libmodbus-cve-poc
-
----
-
-## zerodayjn/bugbountycoinbase_dev
-
-**关键字** Exploit
-
-**介绍:** coinbase code exploit bug bounty
-
-**地址:** https://github.com/zerodayjn/bugbountycoinbase_dev
-
----
-
-## zerodayjn/bugbountycoinbase
-
-**关键字** Exploit
-
-**介绍:** coinbase code exploit bug bounty
-
-**地址:** https://github.com/zerodayjn/bugbountycoinbase
 
 ---
 
