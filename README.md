@@ -6,6 +6,36 @@
 
 ## 最新仓库
 
+## mariaeduardabe/RCEPRS
+
+**关键字** RCE
+
+**介绍:** Repositório para a Análise de Dados do projeto RCEPRS. 
+
+**地址:** https://github.com/mariaeduardabe/RCEPRS
+
+---
+
+## MandipJoshi/CVE-2021-3560
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/MandipJoshi/CVE-2021-3560
+
+---
+
+## jadyn455/RCE
+
+**关键字** RCE
+
+**介绍:** A rust bot for RCE
+
+**地址:** https://github.com/jadyn455/RCE
+
+---
+
 ## ZPitor99/BD_Exploitation
 
 **关键字** Exploit
@@ -16,6 +46,16 @@
 
 ---
 
+## pxx917144686/12345
+
+**关键字** CVE
+
+**介绍:** CVE-2025-24085漏洞  和 Schemeshare漏洞
+
+**地址:** https://github.com/pxx917144686/12345
+
+---
+
 ## CodeCore-exploits/CodeCore-exploits
 
 **关键字** Exploit
@@ -23,6 +63,46 @@
 **介绍:** Config files for my GitHub profile.
 
 **地址:** https://github.com/CodeCore-exploits/CodeCore-exploits
+
+---
+
+## h31md4llr/libjpeg_cve-2018-14498_2
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/h31md4llr/libjpeg_cve-2018-14498_2
+
+---
+
+## hazcod/euvd-go
+
+**关键字** CVE
+
+**介绍:** Go SDK to access the ENISA EUVD vulnerability database.
+
+**地址:** https://github.com/hazcod/euvd-go
+
+---
+
+## shiwanijain/cve_fix
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/shiwanijain/cve_fix
+
+---
+
+## cutecatcat16/Burp_Plugin_JWT_Update
+
+**关键字** burp
+
+**介绍:** None
+
+**地址:** https://github.com/cutecatcat16/Burp_Plugin_JWT_Update
 
 ---
 
@@ -2203,16 +2283,6 @@
 **介绍:** PoC for CVE-2017-5487 - WordPress User Enumeration via REST
 
 **地址:** https://github.com/ndr-repo/CVE-2017-5487
-
----
-
-## MrRAF404/ftp-exploit-encryption-steganography-project
-
-**关键字** Exploit
-
-**介绍:** A cybersecurity lab demonstrating FTP exploitation with Metasploit, RSA encryption, and steganography for secure file transfer.
-
-**地址:** https://github.com/MrRAF404/ftp-exploit-encryption-steganography-project
 
 ---
 
