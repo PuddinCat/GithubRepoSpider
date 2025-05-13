@@ -2366,14 +2366,4 @@
 
 ---
 
-## Nxploited/CVE-2025-32583
-
-**关键字** CVE
-
-**介绍:**  WordPress PDF 2 Post Plugin <= 2.4.0 is vulnerable to Remote Code Execution (RCE) +Subscriber
-
-**地址:** https://github.com/Nxploited/CVE-2025-32583
-
----
-
 
