@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## modded-soldier-9/smowl-exploit
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/modded-soldier-9/smowl-exploit
+
+---
+
+## Neofetcher/Active-Directory-Lab-Exploitation
+
+**关键字** Exploit
+
+**介绍:** Simulated attacks on a vulnerable Active Directory environment, mimicking real-world internal penetration tests. Achieved domain admin privileges through privilege escalation and token impersonation techniques. Documented attack chains and mitigation strategies in detailed reports.
+
+**地址:** https://github.com/Neofetcher/Active-Directory-Lab-Exploitation
+
+---
+
 ## JuaanReis/Lynx
 
 **关键字** RCE
@@ -23,6 +43,16 @@
 **介绍:** A playful way to learn C programming through interactive exercises. Each exercise is designed to teach you a specific concept while having fun fixing bugs and completing challenges.
 
 **地址:** https://github.com/achrafAa/cventure
+
+---
+
+## dievus/cognito-identity-sa
+
+**关键字** Exploit
+
+**介绍:** Cognito Identity Situational Awareness and Exploitation
+
+**地址:** https://github.com/dievus/cognito-identity-sa
 
 ---
 
@@ -2363,16 +2393,6 @@
 **介绍:** 🔥 XNUKES - Automated Reconnaissance Framework for Red Teams.
 
 **地址:** https://github.com/anonymus12341/XNUKES-Tool
-
----
-
-## tharindu-L/burp-security-report-portswigger
-
-**关键字** burp
-
-**介绍:** None
-
-**地址:** https://github.com/tharindu-L/burp-security-report-portswigger
 
 ---
 
