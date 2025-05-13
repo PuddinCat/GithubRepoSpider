@@ -2376,14 +2376,4 @@
 
 ---
 
-## micmerritt/red-team-data-lab
-
-**关键字** Red Team
-
-**介绍:** Hands-on adversary-emulation & data-analytics projects while finishing PhD (2025-2026)
-
-**地址:** https://github.com/micmerritt/red-team-data-lab
-
----
-
 
