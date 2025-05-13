@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## Nass-man/ExploitDarlenePRO
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/Nass-man/ExploitDarlenePRO
+
+---
+
 ## loveDRX/Ruoyi-Vue-Ultra
 
 **关键字** 提权
@@ -2333,16 +2343,6 @@
 **介绍:** BCA CTF Tools是一款多功能网络安全工具箱，具有一键解码/文件识别等功能，且在持续更新中
 
 **地址:** https://github.com/BovidJang/BCA-CTF-Tools
-
----
-
-## BovidJang/File-content-search-script
-
-**关键字** 漏洞检测
-
-**介绍:** 不知道报错/某功能代码具体在文件中哪个位置时可以快速查找，适用于模板修改/漏洞检测等场景
-
-**地址:** https://github.com/BovidJang/File-content-search-script
 
 ---
 
