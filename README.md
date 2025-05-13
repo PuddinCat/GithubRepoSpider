@@ -6,6 +6,66 @@
 
 ## 最新仓库
 
+## credi7841/JustCause4-Exploit
+
+**关键字** Exploit
+
+**介绍:** Ultimate JustCause4 Hack Download Guide for Windows 2025🚀
+
+**地址:** https://github.com/credi7841/JustCause4-Exploit
+
+---
+
+## cuddlebugcaliente5/FarCry5-Exploit
+
+**关键字** Exploit
+
+**介绍:** 2025 Exclusive:Download FarCry 5 Hacks for Windows Gamers Today!
+
+**地址:** https://github.com/cuddlebugcaliente5/FarCry5-Exploit
+
+---
+
+## almikcaptainkrrow/Apex-Exploit-Pack
+
+**关键字** Exploit
+
+**介绍:** Latest Apex Legends Hack Download 2025: Step-by-Step for Windows 📥
+
+**地址:** https://github.com/almikcaptainkrrow/Apex-Exploit-Pack
+
+---
+
+## sandiebrokendream/Battlebit-Exploit
+
+**关键字** Exploit
+
+**介绍:** Get Free Battlebit Hack Download for Windows 2025 Edition Now! ⚡
+
+**地址:** https://github.com/sandiebrokendream/Battlebit-Exploit
+
+---
+
+## breadmakerjust4444/Rain2-Exploit
+
+**关键字** Exploit
+
+**介绍:** Get ROR2 Hack Tools for Windows: 2025 Download Essentials 🎮
+
+**地址:** https://github.com/breadmakerjust4444/Rain2-Exploit
+
+---
+
+## pixelspygarnet/SkyHack-Exploit
+
+**关键字** Exploit
+
+**介绍:** Top No Man's Sky Hacking Tools: Easy 2025 Download for Windows Systems
+
+**地址:** https://github.com/pixelspygarnet/SkyHack-Exploit
+
+---
+
 ## SrLiath/vuln-scan
 
 **关键字** RCE
@@ -526,6 +586,16 @@
 
 ---
 
+## bmjanet/csc405-writeups-web-exploits
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/bmjanet/csc405-writeups-web-exploits
+
+---
+
 ## DevelopmentFcuevas/Control-de-Ventas-y-Entrega-de-Productos-CVEP-
 
 **关键字** CVE
@@ -663,6 +733,16 @@
 **介绍:** None
 
 **地址:** https://github.com/cyendd-sigma/RCE
+
+---
+
+## thaont204/Secure-Programming-and-Exploiting-Vulnerabilities
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/thaont204/Secure-Programming-and-Exploiting-Vulnerabilities
 
 ---
 
@@ -2293,16 +2373,6 @@
 **介绍:** LLM powered Python application combining CVE vulnerability scanner and remediation recommender
 
 **地址:** https://github.com/madhunica-balasubramanian/CVE-Scanner
-
----
-
-## BlueDiamond2021/iOS-CVE-2025-24203-Paths
-
-**关键字** CVE
-
-**介绍:** Random paths for use with CVE-2025-24203
-
-**地址:** https://github.com/BlueDiamond2021/iOS-CVE-2025-24203-Paths
 
 ---
 
