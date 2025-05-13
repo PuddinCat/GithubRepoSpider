@@ -6,6 +6,36 @@
 
 ## 最新仓库
 
+## tkpdx01/burpwand
+
+**关键字** burp
+
+**介绍:** BurpWand - A tool for automating Burp Suite analysis with LLM integration
+
+**地址:** https://github.com/tkpdx01/burpwand
+
+---
+
+## tkpdx01/burpwandrepo
+
+**关键字** burp
+
+**介绍:** BurpWand - A tool for automating Burp Suite analysis with LLM integration
+
+**地址:** https://github.com/tkpdx01/burpwandrepo
+
+---
+
+## reagan305/FUTURE_CS_01
+
+**关键字** burp
+
+**介绍:** Web application security testing using OWASP ZAP, Burp Suite, and SQLMap to identify and report vulnerabilities.
+
+**地址:** https://github.com/reagan305/FUTURE_CS_01
+
+---
+
 ## mariaeduardabe/RCEPRS
 
 **关键字** RCE
@@ -2233,36 +2263,6 @@
 **介绍:** None
 
 **地址:** https://github.com/wanyue3027/CVE
-
----
-
-## dumbButSkilledDev/ppsploit
-
-**关键字** Exploit
-
-**介绍:** WIP ps4 exploit chain on 11.02
-
-**地址:** https://github.com/dumbButSkilledDev/ppsploit
-
----
-
-## Yucaerin/CVE-2025-4403
-
-**关键字** CVE
-
-**介绍:** Drag and Drop Multiple File Upload for WooCommerce <= 1.1.6 - Unauthenticated Arbitrary File Upload via upload Function
-
-**地址:** https://github.com/Yucaerin/CVE-2025-4403
-
----
-
-## Eduardo-hardvester/CVE-2025-24813
-
-**关键字** CVE
-
-**介绍:** Remote Code Execution (RCE) vulnerability in Apache Tomcat.
-
-**地址:** https://github.com/Eduardo-hardvester/CVE-2025-24813
 
 ---
 
