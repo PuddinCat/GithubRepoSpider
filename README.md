@@ -2396,14 +2396,4 @@
 
 ---
 
-## loveStudyWjj/common_fastapi_project
-
-**关键字** 提权
-
-**介绍:** # Common FastAPI Project  这是一个基于FastAPI框架的通用项目模板，提供了生产环境所需的基本功能：  - 数据库连接与ORM (SQLAlchemy) - JWT用户认证与授权 - 结构化的API路由管理 - 基于Pydantic的数据验证 - 数据库迁移 (Alembic) - 测试框架集成  项目采用模块化设计，遵循最佳实践，便于扩展和维护。适用于快速搭建具有完整功能的Web API服务。
-
-**地址:** https://github.com/loveStudyWjj/common_fastapi_project
-
----
-
 
