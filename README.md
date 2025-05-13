@@ -16,6 +16,16 @@
 
 ---
 
+## Amalelkhadem/RCE_Detect_Exploit
+
+**关键字** RCE
+
+**介绍:** None
+
+**地址:** https://github.com/Amalelkhadem/RCE_Detect_Exploit
+
+---
+
 ## DevelopmentFcuevas/Control-de-Ventas-y-Entrega-de-Productos-CVEP-
 
 **关键字** CVE
@@ -2373,16 +2383,6 @@
 **介绍:** My hands-on cybersecurity project portfolio covering SOC, Blue Team, Red Team, and CCNA labs.
 
 **地址:** https://github.com/kojoavlesi/cybersecurity-portfolio-kojo
-
----
-
-## zerodayblitz/NetSuite-network-exploitation-tool
-
-**关键字** Exploit
-
-**介绍:** Cross-platform automated network scanning, fingerprinting, and exploitation suite with Metasploit integration and reporting.
-
-**地址:** https://github.com/zerodayblitz/NetSuite-network-exploitation-tool
 
 ---
 
