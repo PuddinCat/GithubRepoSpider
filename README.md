@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## JuaanReis/Lynx
+
+**关键字** RCE
+
+**介绍:** Scanner web leve, rápido e modular pra caçar XSS, SQLi, RCE e mais. Feito em Python + C, com suporte a WAF bypass, multi-thread e payloads custom.
+
+**地址:** https://github.com/JuaanReis/Lynx
+
+---
+
 ## achrafAa/cventure
 
 **关键字** CVE
@@ -2363,26 +2373,6 @@
 **介绍:** None
 
 **地址:** https://github.com/tharindu-L/burp-security-report-portswigger
-
----
-
-## Zephyr236/exploitdb_dork
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/Zephyr236/exploitdb_dork
-
----
-
-## n1xsec/Roblox-Exploit
-
-**关键字** Exploit
-
-**介绍:** Roblox Anti-Cheat System / Anti Exploiting System
-
-**地址:** https://github.com/n1xsec/Roblox-Exploit
 
 ---
 
