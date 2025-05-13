@@ -2346,34 +2346,4 @@
 
 ---
 
-## AbdulNafay8102004/vuln-scanner-and-cve-info-tool
-
-**关键字** CVE
-
-**介绍:** This project has actually two tools
-
-**地址:** https://github.com/AbdulNafay8102004/vuln-scanner-and-cve-info-tool
-
----
-
-## git-account7/CVE-2025-21307
-
-**关键字** CVE
-
-**介绍:** CVE-2025-21307
-
-**地址:** https://github.com/git-account7/CVE-2025-21307
-
----
-
-## mbhatt1/dBPF
-
-**关键字** Red Team
-
-**介绍:** Diabolial eBPF: Linux Red Team Field Manual 
-
-**地址:** https://github.com/mbhatt1/dBPF
-
----
-
 
