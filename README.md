@@ -2266,24 +2266,4 @@
 
 ---
 
-## VarshiniRM/Windows-Exploitation-
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/VarshiniRM/Windows-Exploitation-
-
----
-
-## ndr-repo/CVE-2017-5487
-
-**关键字** CVE
-
-**介绍:** PoC for CVE-2017-5487 - WordPress User Enumeration via REST
-
-**地址:** https://github.com/ndr-repo/CVE-2017-5487
-
----
-
 
