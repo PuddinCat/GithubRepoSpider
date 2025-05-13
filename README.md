@@ -2336,14 +2336,4 @@
 
 ---
 
-## BovidJang/BCA-CTF-Tools
-
-**关键字** 网络安全
-
-**介绍:** BCA CTF Tools是一款多功能网络安全工具箱，具有一键解码/文件识别等功能，且在持续更新中
-
-**地址:** https://github.com/BovidJang/BCA-CTF-Tools
-
----
-
 
