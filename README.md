@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## erdemaslan0600/ErExec-Pro
+
+**关键字** Exploit
+
+**介绍:** Roblox Exploit
+
+**地址:** https://github.com/erdemaslan0600/ErExec-Pro
+
+---
+
 ## ClementGuims/CVenligneclemguims
 
 **关键字** CVE
@@ -563,6 +573,16 @@
 **介绍:** Lunar Executor is a tool for executing custom scripts within Roblox, providing users with the ability to exploit and modify game features.
 
 **地址:** https://github.com/merrn1ds/Luna-Executor
+
+---
+
+## Di-duo/hacking
+
+**关键字** 信息收集
+
+**介绍:** 一个用于生成Google Hacking语法的工具，使敏感信息的收集更加高效。
+
+**地址:** https://github.com/Di-duo/hacking
 
 ---
 
@@ -2353,16 +2373,6 @@
 **介绍:** Diabolial eBPF: Linux Red Team Field Manual 
 
 **地址:** https://github.com/mbhatt1/dBPF
-
----
-
-## qyh-qyh-qyh/HITSZ-net-system_safety-2025
-
-**关键字** 网络安全
-
-**介绍:** 2025哈工大（深圳）网络与系统安全实验
-
-**地址:** https://github.com/qyh-qyh-qyh/HITSZ-net-system_safety-2025
 
 ---
 
