@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## drdree-lang/drdree-lang
+
+**关键字** CVE
+
+**介绍:** cve 
+
+**地址:** https://github.com/drdree-lang/drdree-lang
+
+---
+
+## Yucaerin/CVE-2025-2294
+
+**关键字** CVE
+
+**介绍:** Kubio AI Page Builder <= 2.5.1 - Unauthenticated Local File Inclusion
+
+**地址:** https://github.com/Yucaerin/CVE-2025-2294
+
+---
+
 ## venoyxi217/BF4-ExploitKit
 
 **关键字** Exploit
@@ -2353,26 +2373,6 @@
 **介绍:**  WordPress PDF 2 Post Plugin <= 2.4.0 is vulnerable to Remote Code Execution (RCE) +Subscriber
 
 **地址:** https://github.com/Nxploited/CVE-2025-32583
-
----
-
-## MikeTheHash/RawShellcodeToByteArray
-
-**关键字** shellcode
-
-**介绍:** A little python script to pass from "\x90\x0f" to "0x90, 0x0f" etc...
-
-**地址:** https://github.com/MikeTheHash/RawShellcodeToByteArray
-
----
-
-## PardhuSreeRushiVarma20060119/ExploitSpace-Repo
-
-**关键字** Exploit
-
-**介绍:** Exploitation Repository/Directory 
-
-**地址:** https://github.com/PardhuSreeRushiVarma20060119/ExploitSpace-Repo
 
 ---
 
