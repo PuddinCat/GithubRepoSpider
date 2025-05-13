@@ -2386,14 +2386,4 @@
 
 ---
 
-## anonymus12341/XNUKES-Tool
-
-**关键字** Red Team
-
-**介绍:** 🔥 XNUKES - Automated Reconnaissance Framework for Red Teams.
-
-**地址:** https://github.com/anonymus12341/XNUKES-Tool
-
----
-
 
