@@ -2426,14 +2426,4 @@
 
 ---
 
-## shpaw415/CVE-2020-24913-exploit
-
-**关键字** Exploit
-
-**介绍:** automated SQL injection for QCubed profile.php file
-
-**地址:** https://github.com/shpaw415/CVE-2020-24913-exploit
-
----
-
 
