@@ -16,6 +16,16 @@
 
 ---
 
+## Malforge-Maldev-Public-Organization/EarlyBird-APC-Code-Injection
+
+**关键字** shellcode
+
+**介绍:** EarlyBird APC Injection is a stealthy process injection technique that queues malicious shellcode into a suspended thread of a newly created process. Once the thread is resumed, the payload executes, making detection and analysis more difficult.
+
+**地址:** https://github.com/Malforge-Maldev-Public-Organization/EarlyBird-APC-Code-Injection
+
+---
+
 ## nyascla/binary_exploitation
 
 **关键字** Exploit
@@ -2763,66 +2773,6 @@
 **介绍:** Race Condition Vulnerability hands on experience to apply discount coupons multiple times and bypass intended pricing logic.
 
 **地址:** https://github.com/AdityaBhatt3010/Bug-Bounty-Race-Exploiting-Race-Conditions-for-Infinite-Discounts
-
----
-
-## akmal-cyb/SSH-Log-Analyzer
-
-**关键字** Blue Team
-
-**介绍:** A web-based SSH log analyzer for Blue Teams that detects brute-force attacks, classifies threat levels, shows geolocation of attackers, and exports detailed CSV reports. Future support planned for firewall, web server, and IDS logs.
-
-**地址:** https://github.com/akmal-cyb/SSH-Log-Analyzer
-
----
-
-## LvL23HT/Red-Team-Toolkit-Categorized-Offensive-Security-Tools
-
-**关键字** Red Team
-
-**介绍:** Red Team operations simulate real-world cyberattacks to assess and improve organizational defenses. Below is a curated and categorized toolkit commonly used by professional red teamers and ethical hackers.
-
-**地址:** https://github.com/LvL23HT/Red-Team-Toolkit-Categorized-Offensive-Security-Tools
-
----
-
-## eusebio31337ciberseguridad/Ghidra-reverse-shell
-
-**关键字** RCE
-
-**介绍:** Ejecución remota de código (RCE) utilizando el backdoor oculto en la herramienta Ghidra (SRE) a través del protocolo de comunicación JDWP.  Proyecto del área de ciberseguridad y análisis de malware.
-
-**地址:** https://github.com/eusebio31337ciberseguridad/Ghidra-reverse-shell
-
----
-
-## eusebio-orozco/Ghidra-reverse-shell
-
-**关键字** RCE
-
-**介绍:** Ejecución remota de código (RCE) utilizando el backdoor oculto en la herramienta Ghidra (SRE) a través del protocolo de comunicación JDWP.  Proyecto del área de ciberseguridad y análisis de malware.
-
-**地址:** https://github.com/eusebio-orozco/Ghidra-reverse-shell
-
----
-
-## akmal-cyb/Red-Team-Web-Recon-Tool
-
-**关键字** Red Team
-
-**介绍:** A web-based red team tool for automated reconnaissance. Scans target URLs for SQL Injection, XSS, open ports, and SSL certificate issues. Supports custom payload injection and uses BeautifulSoup to discover vulnerable input fields.
-
-**地址:** https://github.com/akmal-cyb/Red-Team-Web-Recon-Tool
-
----
-
-## 0x7556/kali_mcp
-
-**关键字** 渗透测试
-
-**介绍:** Kali AI Pentest MCP tools 渗透测试工具集
-
-**地址:** https://github.com/0x7556/kali_mcp
 
 ---
 
