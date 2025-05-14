@@ -2406,14 +2406,4 @@
 
 ---
 
-## ajf8729/BlackLotus
-
-**关键字** CVE
-
-**介绍:** BlackLotus aka CVE-2023-24932 Detection/Remediation Scripts for Intune, ConfigMgr, and generic use
-
-**地址:** https://github.com/ajf8729/BlackLotus
-
----
-
 
