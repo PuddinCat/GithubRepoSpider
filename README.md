@@ -26,6 +26,26 @@
 
 ---
 
+## XLinandWCH/WJXHelper
+
+**关键字** 提权
+
+**介绍:** 本项目是一个使用 Python (Selenium & PyQt5) 构建的问卷自动化工具，专注于提升在线问卷处理效率。核心功能包括：动态解析问卷结构、用户自定义答案权重与内容、支持多线程并发填写、实时进度条与日志反馈、可定制界面主题等。通过模拟浏览器操作（Microsoft Edge），实现对目标问卷的自动化填充。
+
+**地址:** https://github.com/XLinandWCH/WJXHelper
+
+---
+
+## NDC12345/Webshell
+
+**关键字** webshell
+
+**介绍:** None
+
+**地址:** https://github.com/NDC12345/Webshell
+
+---
+
 ## hemanth1258/sai_av_bypass_advanced
 
 **关键字** bypass av
