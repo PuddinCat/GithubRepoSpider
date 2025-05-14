@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## 3xpl0its-exe/exploits_speedometer
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/3xpl0its-exe/exploits_speedometer
+
+---
+
 ## fatkz/CVE-2020-17530
 
 **关键字** CVE
@@ -13,6 +23,16 @@
 **介绍:** None
 
 **地址:** https://github.com/fatkz/CVE-2020-17530
+
+---
+
+## EliseZeroTwo/ml1hax
+
+**关键字** Exploit
+
+**介绍:** An exploit chain for the Magic Leap One (and probably other TX2 devices)
+
+**地址:** https://github.com/EliseZeroTwo/ml1hax
 
 ---
 
@@ -33,6 +53,16 @@
 **介绍:** CVE-2025-32407 PoC
 
 **地址:** https://github.com/diegovargasj/CVE-2025-32407
+
+---
+
+## CoolGuywhoisnotcool/My-Roblox-Scripts-Wiki
+
+**关键字** Exploit
+
+**介绍:** Find roblox exploits
+
+**地址:** https://github.com/CoolGuywhoisnotcool/My-Roblox-Scripts-Wiki
 
 ---
 
@@ -2403,16 +2433,6 @@
 **介绍:** Download Sea of Thieves Hack Free
 
 **地址:** https://github.com/dilleron508/sea-of-thieves-exploit
-
----
-
-## Phaneeeee/web-application-pen-testing-project
-
-**关键字** burp
-
-**介绍:** This project demonstrates network reconnaissance and web app testing using Nmap and Burp Suite. It includes scanning open ports, identifying services, and testing for SQL Injection and XSS vulnerabilities in DVWA. The goal is to simulate real-world penetration testing scenarios.
-
-**地址:** https://github.com/Phaneeeee/web-application-pen-testing-project
 
 ---
 
