@@ -6,6 +6,36 @@
 
 ## 最新仓库
 
+## tyroneml/CVE-2020-0796-Exploit-Demo
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/tyroneml/CVE-2020-0796-Exploit-Demo
+
+---
+
+## nyascla/binary_exploitation
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/nyascla/binary_exploitation
+
+---
+
+## faccimatteo/CVE-2018-25031
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/faccimatteo/CVE-2018-25031
+
+---
+
 ## BiFangKNT/mtga
 
 **关键字** 绕过
@@ -103,6 +133,16 @@
 **介绍:** 数据质量评价系统：在当今数字化的时代背景下，数据已成为驱动各行业发展的关键要素，其重要性日益凸显。随着数据资产入表等相关需求的兴起，如何精准评估数据质量成为了众多企业与机构亟待解决的核心问题。在此背景下，数据质量评价系统应运而生，成为助力企业掌控数据质量状况的得力助手。 数据质量评价系统是依据数据要素的相关特性及数据资产入表等多维度需求所打造，专注于全面检测数据质量的综合性工具。包括检测：完整性，一致性，准确性，唯一性，有效性，规范性
 
 **地址:** https://github.com/lancezhe/-
+
+---
+
+## g3ngi/CobaltStrike-4.9
+
+**关键字** Cobalt Strike
+
+**介绍:** None
+
+**地址:** https://github.com/g3ngi/CobaltStrike-4.9
 
 ---
 
@@ -2753,36 +2793,6 @@
 **介绍:** Kali AI Pentest MCP tools 渗透测试工具集
 
 **地址:** https://github.com/0x7556/kali_mcp
-
----
-
-## sckchcm-g/rce
-
-**关键字** RCE
-
-**介绍:** None
-
-**地址:** https://github.com/sckchcm-g/rce
-
----
-
-## tortrofellosh72/Warfare-Exploit
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/tortrofellosh72/Warfare-Exploit
-
----
-
-## sexyiam/loader
-
-**关键字** shellcode
-
-**介绍:** A shellcode loader in .NET
-
-**地址:** https://github.com/sexyiam/loader
 
 ---
 
