@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## fatkz/CVE-2020-17530
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/fatkz/CVE-2020-17530
+
+---
+
 ## Rce2686/Rce2686
 
 **关键字** RCE
@@ -2433,16 +2443,6 @@
 **介绍:** None
 
 **地址:** https://github.com/fatkz/CVE-2025-24813
-
----
-
-## Klematisy/cvector
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/Klematisy/cvector
 
 ---
 
