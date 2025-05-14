@@ -6,6 +6,36 @@
 
 ## 最新仓库
 
+## furry-lansha/burp-suite-2023-pro
+
+**关键字** burp
+
+**介绍:** burp suite 2023 pro 破解免费版
+
+**地址:** https://github.com/furry-lansha/burp-suite-2023-pro
+
+---
+
+## Aaban-Saad/rds3-exploit
+
+**关键字** Exploit
+
+**介绍:** Advise any course without pre-advising or, pre-requisite restrictions
+
+**地址:** https://github.com/Aaban-Saad/rds3-exploit
+
+---
+
+## JigenDaisuke66/wow_auto_fishing
+
+**关键字** 钓鱼
+
+**介绍:** 魔兽世界自动钓鱼
+
+**地址:** https://github.com/JigenDaisuke66/wow_auto_fishing
+
+---
+
 ## BACMiao/PoC-camel-RCE
 
 **关键字** RCE
@@ -2643,46 +2673,6 @@
 **介绍:** A shellcode loader in .NET
 
 **地址:** https://github.com/sexyiam/loader
-
----
-
-## Demonjokerwarrior/exe-rce-for-windows-with-av-by-pass
-
-**关键字** RCE
-
-**介绍:** None
-
-**地址:** https://github.com/Demonjokerwarrior/exe-rce-for-windows-with-av-by-pass
-
----
-
-## mbadanoiu/CVE-2025-31644
-
-**关键字** CVE
-
-**介绍:** CVE-2025-31644: Command Injection in Appliance mode in F5 BIG-IP
-
-**地址:** https://github.com/mbadanoiu/CVE-2025-31644
-
----
-
-## nighthawkk/Binary-Kernel-Android-Exploitation-Roadmap
-
-**关键字** Exploit
-
-**介绍:** binary/kernel/android exploitation roadmap
-
-**地址:** https://github.com/nighthawkk/Binary-Kernel-Android-Exploitation-Roadmap
-
----
-
-## trantathung2004/cybersec-homework-vulnerabilities-exploits
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/trantathung2004/cybersec-homework-vulnerabilities-exploits
 
 ---
 
