@@ -6,6 +6,56 @@
 
 ## 最新仓库
 
+## kk12-30/subfinder-x
+
+**关键字** 渗透测试
+
+**介绍:** subfinder-x是一款高性能的子域名爆破工具，使用 Go 语言开发，专为信息收集和渗透测试场景设计。该工具能够快速发现目标域名的子域名，并支持多级子域名扫描、HTTP服务识别和指纹识别等功能。
+
+**地址:** https://github.com/kk12-30/subfinder-x
+
+---
+
+## BACMiao/PoC-Adala-RCE
+
+**关键字** RCE
+
+**介绍:** None
+
+**地址:** https://github.com/BACMiao/PoC-Adala-RCE
+
+---
+
+## ifraise/PenTestReportGen
+
+**关键字** 渗透测试
+
+**介绍:** 渗透测试报告生成工具 - 自动化生成专业渗透测试报告
+
+**地址:** https://github.com/ifraise/PenTestReportGen
+
+---
+
+## UnknownAirtist/rce-poc-workers-sdk
+
+**关键字** RCE
+
+**介绍:** PoC for RCE vulnerability in cloudflare/workers-sdk
+
+**地址:** https://github.com/UnknownAirtist/rce-poc-workers-sdk
+
+---
+
+## Rbio80/Rcecagno
+
+**关键字** RCE
+
+**介绍:** None
+
+**地址:** https://github.com/Rbio80/Rcecagno
+
+---
+
 ## apexkeyforloe8/TroveExploit
 
 **关键字** Exploit
@@ -2333,76 +2383,6 @@
 **介绍:** None
 
 **地址:** https://github.com/Schatten-42/MyCVE
-
----
-
-## PolarisXSec/CVE-2024-21413
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/PolarisXSec/CVE-2024-21413
-
----
-
-## Exploit-Master122/Rigtools-2.0
-
-**关键字** Exploit
-
-**介绍:** A version of the Rigtools exploit that is much better than the first and works on ChromeOS versions 132 and under.
-
-**地址:** https://github.com/Exploit-Master122/Rigtools-2.0
-
----
-
-## Furbreeze/burp_piper_ollama
-
-**关键字** burp
-
-**介绍:** None
-
-**地址:** https://github.com/Furbreeze/burp_piper_ollama
-
----
-
-## farooqabdulla/cve-wd
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/farooqabdulla/cve-wd
-
----
-
-## techleadevelopers/sql-exploited-swaps-finance
-
-**关键字** Exploit
-
-**介绍:** Swap API Exploted Framework - Este é um framework avançado para testar vulnerabilidades em swaps de criptomoedas simples, como o PixSwap. Ele utiliza técnicas modernas de fuzzing, enumeração de endpoints, spoofing de headers e manipulação de APIs para identificar falhas de segurança.
-
-**地址:** https://github.com/techleadevelopers/sql-exploited-swaps-finance
-
----
-
-## Chetanproduction23/company-interview-evaluator
-
-**关键字** Red Team
-
-**介绍:** A curated guide for software engineers to evaluate a company’s engineering practices during job interviews. Includes key questions, red flags, and good signs related to SDLC, codebase quality, team culture, testing, and developer experience.
-
-**地址:** https://github.com/Chetanproduction23/company-interview-evaluator
-
----
-
-## cakescats/airborn-IOS-CVE-2025-24252
-
-**关键字** CVE
-
-**介绍:** iOS Airborne vulnerabilities log artifact extractor from LogArchive CVE-2025-24252
-
-**地址:** https://github.com/cakescats/airborn-IOS-CVE-2025-24252
 
 ---
 
