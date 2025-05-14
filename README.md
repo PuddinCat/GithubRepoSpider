@@ -6,6 +6,36 @@
 
 ## 最新仓库
 
+## tantien-hmtt/cve_101
+
+**关键字** CVE
+
+**介绍:** this repo contains some interesting cve 
+
+**地址:** https://github.com/tantien-hmtt/cve_101
+
+---
+
+## Feralthedogg/CVE-2025-24132-Scanner
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/Feralthedogg/CVE-2025-24132-Scanner
+
+---
+
+## kimgeonmin0309/SARD-vs-CVE
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/kimgeonmin0309/SARD-vs-CVE
+
+---
+
 ## HeaZzY/bash2shellcode
 
 **关键字** shellcode
