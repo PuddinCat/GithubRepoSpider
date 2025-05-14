@@ -2756,24 +2756,4 @@
 
 ---
 
-## felipevasc/CVEForger
-
-**关键字** CVE
-
-**介绍:** CVE Forger
-
-**地址:** https://github.com/felipevasc/CVEForger
-
----
-
-## AdityaBhatt3010/Bug-Bounty-Race-Exploiting-Race-Conditions-for-Infinite-Discounts
-
-**关键字** Exploit
-
-**介绍:** Race Condition Vulnerability hands on experience to apply discount coupons multiple times and bypass intended pricing logic.
-
-**地址:** https://github.com/AdityaBhatt3010/Bug-Bounty-Race-Exploiting-Race-Conditions-for-Infinite-Discounts
-
----
-
 
