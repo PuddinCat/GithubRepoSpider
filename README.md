@@ -2546,24 +2546,4 @@
 
 ---
 
-## KnCRJVirX/DLLInjector
-
-**关键字** 注入
-
-**介绍:** 简易DLL注入器 ，个人学习DLL注入原理用
-
-**地址:** https://github.com/KnCRJVirX/DLLInjector
-
----
-
-## chatgpt-gpt4/ChatGPT_China_CN
-
-**关键字** 免杀
-
-**介绍:** 【5月12日】国内ChatGPT中文版直连：免费无限GPT-4o绘图，通杀o1/o3/DeepSeek全系列！
-
-**地址:** https://github.com/chatgpt-gpt4/ChatGPT_China_CN
-
----
-
 
