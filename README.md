@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## diegovargasj/CVE-2025-32407
+
+**关键字** CVE
+
+**介绍:** CVE-2025-32407 PoC
+
+**地址:** https://github.com/diegovargasj/CVE-2025-32407
+
+---
+
 ## SarpantKeltiek/CVE-2024-37010
 
 **关键字** CVE
@@ -1656,6 +1666,16 @@
 
 ---
 
+## jgamblin/CNAVendorTypeStats
+
+**关键字** CVE
+
+**介绍:** CVE Stats By CNA Vendor Type
+
+**地址:** https://github.com/jgamblin/CNAVendorTypeStats
+
+---
+
 ## dievus/cognito-identity-sa
 
 **关键字** Exploit
@@ -2423,36 +2443,6 @@
 **介绍:** CLI that detects fake-star campaigns, dependency hijacks, licence red-flags and other signs of repository risk. Inspired by the “4.5 million fake stars” study, StarGuard helps CTOs, security teams and investors perform fast, automated open-source due-diligence.
 
 **地址:** https://github.com/m-ahmed-elbeskeri/Starguard
-
----
-
-## aulauniversal/Psfree-Lapso-Ps4-Ps5-Exploit-POC
-
-**关键字** Exploit
-
-**介绍:** Psfree Lapso Ps4/Ps5 Exploit POC based by abc Exploit
-
-**地址:** https://github.com/aulauniversal/Psfree-Lapso-Ps4-Ps5-Exploit-POC
-
----
-
-## aulauniversal/Psfree-Lapso-Ps4-Ps5-Exploit-POC-LUA-Loader
-
-**关键字** Exploit
-
-**介绍:** Psfree Lapso Ps4/Ps5 Exploit POC based by abc Exploit and shahrilnet
-
-**地址:** https://github.com/aulauniversal/Psfree-Lapso-Ps4-Ps5-Exploit-POC-LUA-Loader
-
----
-
-## engmazharulhassan/cve_to_ttp_api
-
-**关键字** CVE
-
-**介绍:** API(For CVE description to TTP ID)
-
-**地址:** https://github.com/engmazharulhassan/cve_to_ttp_api
 
 ---
 
