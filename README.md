@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## StefanIT10/cvele
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/StefanIT10/cvele
+
+---
+
 ## 3xpl0its-exe/exploits_speedometer
 
 **关键字** Exploit
