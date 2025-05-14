@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## BACMiao/PoC-camel-RCE
+
+**关键字** RCE
+
+**介绍:** None
+
+**地址:** https://github.com/BACMiao/PoC-camel-RCE
+
+---
+
 ## Z3R0-0x30/CVE-2015-3306
 
 **关键字** CVE
@@ -2643,26 +2653,6 @@
 **介绍:** None
 
 **地址:** https://github.com/intrud3rX777/Burp-Subdomain-Extractor
-
----
-
-## hnking-star/FlySecAgent
-
-**关键字** 漏洞利用
-
-**介绍:** FlySecAgent 是一款先进的网络安全智能助手，构建于强大的大语言模型和灵活的 MCP (Model-Controller-Plugin) 架构之上。它旨在通过自然语言交互，为网络安全专业人员和爱好者提供全面的支持。FlySecAgent 不仅能够执行渗透测试任务、查询最新的安全漏洞信息、分析复杂的流量数据包，还能利用集成的知识库进行上下文感知的增强回答，确保信息的准确性和深度。通过 MCP 服务器，FlySecAgent 可以无缝调用各种外部安全工具（如 Nmap, Gobuster, Metasploit 等），从而扩展其能力边界，应对多样化的安全挑战。无论是进行主动防御、事件响应还是安全研究，FlySecAgent 都能成为您得力的助手。
-
-**地址:** https://github.com/hnking-star/FlySecAgent
-
----
-
-## Nurdich/RFS
-
-**关键字** 免杀
-
-**介绍:** `Raw Files Server`（简称 RFS）是一个支持 HTTP/自定义TCP 协议双栈的文件分发服务端，适用于内网文件分发、免杀落地等场景。
-
-**地址:** https://github.com/Nurdich/RFS
 
 ---
 
