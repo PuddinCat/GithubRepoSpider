@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## Khushinayak2911/shellcodes
+
+**关键字** shellcode
+
+**介绍:** None
+
+**地址:** https://github.com/Khushinayak2911/shellcodes
+
+---
+
 ## cvertilus/cvertilus
 
 **关键字** CVE
@@ -2433,46 +2443,6 @@
 **介绍:** Windows & linux support
 
 **地址:** https://github.com/syaifulandy/Nuclei-Template-CVE-2023-42793.yaml
-
----
-
-## 0x7556/PentestMCP
-
-**关键字** 渗透测试
-
-**介绍:** AI Pentest MCP Tools 渗透测试工具集
-
-**地址:** https://github.com/0x7556/PentestMCP
-
----
-
-## SujalMeghwal/PowerOpsToolKit
-
-**关键字** Red Team
-
-**介绍:** Offensive PowerShell toolkit for red teams and internal assessments — WMI, recon, lateral movement, and access testing at scale.
-
-**地址:** https://github.com/SujalMeghwal/PowerOpsToolKit
-
----
-
-## CX-D3ath/Burpsuite-Professional
-
-**关键字** burp
-
-**介绍:** None
-
-**地址:** https://github.com/CX-D3ath/Burpsuite-Professional
-
----
-
-## Rajnish878/Bluestock_L4_team1
-
-**关键字** Blue Team
-
-**介绍:** None
-
-**地址:** https://github.com/Rajnish878/Bluestock_L4_team1
 
 ---
 
