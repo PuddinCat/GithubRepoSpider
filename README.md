@@ -6,6 +6,96 @@
 
 ## 最新仓库
 
+## Dmaozhua/wx-cnangler
+
+**关键字** 钓鱼
+
+**介绍:** 微信小程序，钓鱼人测试
+
+**地址:** https://github.com/Dmaozhua/wx-cnangler
+
+---
+
+## Zhaozhizhi/CVE
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/Zhaozhizhi/CVE
+
+---
+
+## halinwu/ims-ecr-cvelist-python
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/halinwu/ims-ecr-cvelist-python
+
+---
+
+## tewkes99baflocer/Battle-Exploit-FN
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/tewkes99baflocer/Battle-Exploit-FN
+
+---
+
+## niceguynaokiabe2/R6-Exploit-Kit
+
+**关键字** Exploit
+
+**介绍:** Trusted Rainbow Six Siege Multi-Hack Free Download 2025 Windows Only 🔒
+
+**地址:** https://github.com/niceguynaokiabe2/R6-Exploit-Kit
+
+---
+
+## sathish-varnan/CVEPortal
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/sathish-varnan/CVEPortal
+
+---
+
+## brolyklymu/DeadSideExploit
+
+**关键字** Exploit
+
+**介绍:** Latest DeadSide Cheat Download 2025 on Windows Exclusive Hacks 💻
+
+**地址:** https://github.com/brolyklymu/DeadSideExploit
+
+---
+
+## kingofarms609/RS-Exploit
+
+**关键字** Exploit
+
+**介绍:** Secure Runescape Hack Downloads for Windows in 2025 – Expert Tips 🌐
+
+**地址:** https://github.com/kingofarms609/RS-Exploit
+
+---
+
+## kaeldetlaff/Exploit-Survarium
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/kaeldetlaff/Exploit-Survarium
+
+---
+
 ## kk12-30/subfinder-x
 
 **关键字** 渗透测试
@@ -16,6 +106,86 @@
 
 ---
 
+## griwieldgayd11/Showdown-Exploit
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/griwieldgayd11/Showdown-Exploit
+
+---
+
+## lattexbunch59/Die7-Exploit
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/lattexbunch59/Die7-Exploit
+
+---
+
+## andrangoston802/R6-Exploit-Kit
+
+**关键字** Exploit
+
+**介绍:** Secure Rainbow Six Siege Hack Download 2025 for Windows Users Now 🎯
+
+**地址:** https://github.com/andrangoston802/R6-Exploit-Kit
+
+---
+
+## mrjesonmaratkozlov/ZeroZone-Exploit
+
+**关键字** Exploit
+
+**介绍:** Exclusive Free Hack Download for Zenless Zone Zero 2025⚡
+
+**地址:** https://github.com/mrjesonmaratkozlov/ZeroZone-Exploit
+
+---
+
+## lordland642/FruitsExploit
+
+**关键字** Exploit
+
+**介绍:** Secure Roblox Blox Fruits Script Downloads for 2025 Windows Users 🔒
+
+**地址:** https://github.com/lordland642/FruitsExploit
+
+---
+
+## absolutezero628/D2-Exploit-Guide
+
+**关键字** Exploit
+
+**介绍:** 🔥Free Download Destiny 2 Hack 2025 for Windows – Ultimate Guide and Tips
+
+**地址:** https://github.com/absolutezero628/D2-Exploit-Guide
+
+---
+
+## immortalfearxatabu/Villa-Exploit
+
+**关键字** Exploit
+
+**介绍:** Horny Villa Free Hack Download 2025 – Compatible with Windows and Secure
+
+**地址:** https://github.com/immortalfearxatabu/Villa-Exploit
+
+---
+
+## encrypter15/CVE-2025-29824
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/encrypter15/CVE-2025-29824
+
+---
+
 ## BACMiao/PoC-Adala-RCE
 
 **关键字** RCE
@@ -23,6 +193,16 @@
 **介绍:** None
 
 **地址:** https://github.com/BACMiao/PoC-Adala-RCE
+
+---
+
+## 4xura/house-of-muney
+
+**关键字** Exploit
+
+**介绍:** PoC script for House of Muney in heap exploitation 
+
+**地址:** https://github.com/4xura/house-of-muney
 
 ---
 
@@ -46,6 +226,16 @@
 
 ---
 
+## pootieogre/D2-Exploit-Guide
+
+**关键字** Exploit
+
+**介绍:** Secure Destiny 2 Enhancement Hacks: Free Download for Windows in 2025
+
+**地址:** https://github.com/pootieogre/D2-Exploit-Guide
+
+---
+
 ## Rbio80/Rcecagno
 
 **关键字** RCE
@@ -53,6 +243,36 @@
 **介绍:** None
 
 **地址:** https://github.com/Rbio80/Rcecagno
+
+---
+
+## nessie739/Hack-Z1-Exploit
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/nessie739/Hack-Z1-Exploit
+
+---
+
+## akiraronaldinio2/CompanyExploit
+
+**关键字** Exploit
+
+**介绍:** Best Lethal Company Mods and Hacks: 2025 Windows Free Download🎮
+
+**地址:** https://github.com/akiraronaldinio2/CompanyExploit
+
+---
+
+## mcdaqc/vulnerability-intelligence-diagrammatic-reasoning
+
+**关键字** CVE
+
+**介绍:** Vulnerability Intelligence with Diagrammatic Reasoning
+
+**地址:** https://github.com/mcdaqc/vulnerability-intelligence-diagrammatic-reasoning
 
 ---
 
@@ -403,6 +623,16 @@
 **介绍:** URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.
 
 **地址:** https://github.com/Yuikiowz/Slient-URL-Exploit
+
+---
+
+## Yuikiowz/Discord-Image-Logger-Stealer
+
+**关键字** CVE
+
+**介绍:** Ephemeral discourse is embodied by the likes of Messenger Sessions, the digital portraits of Accounts, and the enigmatic Token
+
+**地址:** https://github.com/Yuikiowz/Discord-Image-Logger-Stealer
 
 ---
 
@@ -2373,16 +2603,6 @@
 **介绍:** None
 
 **地址:** https://github.com/lull-team-dev/spring-team-red
-
----
-
-## Schatten-42/MyCVE
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/Schatten-42/MyCVE
 
 ---
 
