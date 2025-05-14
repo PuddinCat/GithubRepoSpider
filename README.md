@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## Aiyakami/CVE-2
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/Aiyakami/CVE-2
+
+---
+
+## Z3R0-0x30/CVE-2021-4034
+
+**关键字** CVE
+
+**介绍:** This contains single-file exploit for cve-2021-4034 which is a Polkit Local Privilege Escalation. Use it wisely!
+
+**地址:** https://github.com/Z3R0-0x30/CVE-2021-4034
+
+---
+
 ## codewalkerster/platform_hardware_amlogic_cve_lib
 
 **关键字** CVE
