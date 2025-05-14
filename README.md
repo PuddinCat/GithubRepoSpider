@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## HeaZzY/bash2shellcode
+
+**关键字** shellcode
+
+**介绍:** None
+
+**地址:** https://github.com/HeaZzY/bash2shellcode
+
+---
+
 ## chord233/MedAssets
 
 **关键字** 网络安全
@@ -23,6 +33,16 @@
 **介绍:** None
 
 **地址:** https://github.com/roony5kl/AyanExploitsHub
+
+---
+
+## k271266/CVE-2021-42694
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/k271266/CVE-2021-42694
 
 ---
 
@@ -1446,6 +1466,16 @@
 
 ---
 
+## gavinroderick/ci-cerberus
+
+**关键字** CVE
+
+**介绍:** scan github workflows for known vulnerable actions using the nist national vulnerability database (nvd) api
+
+**地址:** https://github.com/gavinroderick/ci-cerberus
+
+---
+
 ## Amalelkhadem/RCE_Detect-Exploit
 
 **关键字** RCE
@@ -2543,86 +2573,6 @@
 **介绍:** RED XENON is a FreeFire Esports team from Bangladesh 
 
 **地址:** https://github.com/rxnredxenon/RED-XENON
-
----
-
-## newnezameten559/Carbon-Executor-08-id
-
-**关键字** Exploit
-
-**介绍:** Carbon Executor – Cutting-edge exploit with Level 8 execution and 90% UNC support (Win7-11). Redefine Roblox scripting through bulletproof security and raw processing power.
-
-**地址:** https://github.com/newnezameten559/Carbon-Executor-08-id
-
----
-
-## stan-100yp/Evon-Executor-tx-li
-
-**关键字** Exploit
-
-**介绍:** Evon – Near-perfect 99.9% script compatibility through UNC. The gold standard for hassle-free integration with trending Roblox exploits.
-
-**地址:** https://github.com/stan-100yp/Evon-Executor-tx-li
-
----
-
-## sakaen756/Seliware-j9-l1
-
-**关键字** Exploit
-
-**介绍:** Seliware – A cutting-edge Roblox executor built for unparalleled scripting performance. Elevate your game exploits with next-gen execution technology and ultra-low latency.
-
-**地址:** https://github.com/sakaen756/Seliware-j9-l1
-
----
-
-## rooroo-sandbox/JJsploit-se-hy
-
-**关键字** Exploit
-
-**介绍:** JJSploit – The legendary free exploit now open to all. Execute basic Lua scripts effortlessly, but stay cautious—its accessibility comes with inherent Roblox TOS risks.
-
-**地址:** https://github.com/rooroo-sandbox/JJsploit-se-hy
-
----
-
-## brans-100e3/Evon-Executor-7s-zp
-
-**关键字** Exploit
-
-**介绍:** Evon – Near-perfect 99.9% script compatibility through UNC. The gold standard for hassle-free integration with trending Roblox exploits.
-
-**地址:** https://github.com/brans-100e3/Evon-Executor-7s-zp
-
----
-
-## nonamerusty418/Anime-16-uj
-
-**关键字** Exploit
-
-**介绍:** Roblox Anime Vanguards Script 🚀 Roblox Anime Vanguards Script & Executor 🚀 Roblox Anime Vanguards Script Powerful Exploit
-
-**地址:** https://github.com/nonamerusty418/Anime-16-uj
-
----
-
-## Ramona-Flower/Get-Discord-Guild-Tag-Method
-
-**关键字** Exploit
-
-**介绍:** New method to get it at 100% without any bots/selfbots
-
-**地址:** https://github.com/Ramona-Flower/Get-Discord-Guild-Tag-Method
-
----
-
-## kelchneryaroon82/Roblox-Incognito-xn
-
-**关键字** Exploit
-
-**介绍:** Incognito is a Roblox script executor known for its user-friendly interface and support for executing Lua scripts, providing enhanced gameplay and automation features. Regular updates ensure compatibility with Roblox's latest changes, though using it risks violating Roblox's terms of service.
-
-**地址:** https://github.com/kelchneryaroon82/Roblox-Incognito-xn
 
 ---
 
