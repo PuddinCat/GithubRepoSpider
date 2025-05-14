@@ -6,6 +6,36 @@
 
 ## 最新仓库
 
+## chord233/MedAssets
+
+**关键字** 网络安全
+
+**介绍:** 我们构建了一个基于DePIN架构的可穿戴设备数据网络，通过与区块链智能合约交互，让用户隐私安全地货币化健康数据，同时为医疗研究、保险精算和数字营销提供实时合规数据源
+
+**地址:** https://github.com/chord233/MedAssets
+
+---
+
+## roony5kl/AyanExploitsHub
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/roony5kl/AyanExploitsHub
+
+---
+
+## lenicesoaares/exploitpattern_game
+
+**关键字** Exploit
+
+**介绍:** Jogo desenvolvido no curso Tecnólogo de Sistemas da Informação e Programação
+
+**地址:** https://github.com/lenicesoaares/exploitpattern_game
+
+---
+
 ## tyroneml/CVE-2020-0796-Exploit-Demo
 
 **关键字** CVE
@@ -2593,166 +2623,6 @@
 **介绍:** Incognito is a Roblox script executor known for its user-friendly interface and support for executing Lua scripts, providing enhanced gameplay and automation features. Regular updates ensure compatibility with Roblox's latest changes, though using it risks violating Roblox's terms of service.
 
 **地址:** https://github.com/kelchneryaroon82/Roblox-Incognito-xn
-
----
-
-## tan7z/infomation
-
-**关键字** 信息收集
-
-**介绍:** python语言结合tkinter开发的点鼠标可用信息收集工具,python版本3.1.2,使用需额外添加个人相应字典
-
-**地址:** https://github.com/tan7z/infomation
-
----
-
-## olotjust95/SynapseX-cs
-
-**关键字** Exploit
-
-**介绍:** Step into the future of Roblox scripting with Synapse X, the ultimate powerhouse for Lua script execution. Designed for innovators, creators, and gamers, Synapse X redefines what’s possible in Roblox, offering unparalleled performance, precision, and flexibility.
-
-**地址:** https://github.com/olotjust95/SynapseX-cs
-
----
-
-## heidaro-100/Luna-Executor-23
-
-**关键字** Exploit
-
-**介绍:** Lunar Executor is a tool for executing custom scripts within Roblox, providing users with the ability to exploit and modify game features.
-
-**地址:** https://github.com/heidaro-100/Luna-Executor-23
-
----
-
-## bumperbutt-100/Roblox-Incognito-lw
-
-**关键字** Exploit
-
-**介绍:** Incognito is a Roblox script executor known for its user-friendly interface and support for executing Lua scripts, providing enhanced gameplay and automation features. Regular updates ensure compatibility with Roblox's latest changes, though using it risks violating Roblox's terms of service.
-
-**地址:** https://github.com/bumperbutt-100/Roblox-Incognito-lw
-
----
-
-## tarosbridge2000/Hydrogen-Executor-g1
-
-**关键字** Exploit
-
-**介绍:** Hydrogen Executor is a most popular Roblox Exploit for Android and PC in the market nowadays. You can install it on any Android, iOS or Windows PC.
-
-**地址:** https://github.com/tarosbridge2000/Hydrogen-Executor-g1
-
----
-
-## leafkoji-2000/Arceus-Executor-at
-
-**关键字** Exploit
-
-**介绍:** Arceus X Exploit & Executor is a universal cheating tool that allows users to activate various cheats, scripts, and hacks within the mobile version of Roblox, available on Android and iOS devices. This program offers a wide range of functions to select from, enabling the implementation of scripts without any charges or viruses.
-
-**地址:** https://github.com/leafkoji-2000/Arceus-Executor-at
-
----
-
-## tan7z/-
-
-**关键字** 信息收集
-
-**介绍:** python语言结合tkinter开发的点鼠标可用信息收集工具,python版本3.1.2,使用需额外添加个人相应字典
-
-**地址:** https://github.com/tan7z/-
-
----
-
-## moneycashsnoxj2000/Roblox-Ronin-pm
-
-**关键字** Exploit
-
-**介绍:** The Next Generation of Exploiting. Build faster and smarter with our powerful Lua environment. Create unique scripts with the most extensive toolkit available.
-
-**地址:** https://github.com/moneycashsnoxj2000/Roblox-Ronin-pm
-
----
-
-## yourluckyday-100/Roblox-Incognito-af
-
-**关键字** Exploit
-
-**介绍:** Incognito is a Roblox script executor known for its user-friendly interface and support for executing Lua scripts, providing enhanced gameplay and automation features. Regular updates ensure compatibility with Roblox's latest changes, though using it risks violating Roblox's terms of service.
-
-**地址:** https://github.com/yourluckyday-100/Roblox-Incognito-af
-
----
-
-## akinotaxe-2000/SynapseX-l9
-
-**关键字** Exploit
-
-**介绍:** Step into the future of Roblox scripting with Synapse X, the ultimate powerhouse for Lua script execution. Designed for innovators, creators, and gamers, Synapse X redefines what’s possible in Roblox, offering unparalleled performance, precision, and flexibility.
-
-**地址:** https://github.com/akinotaxe-2000/SynapseX-l9
-
----
-
-## fatoilluminator160/Luna-Executor-xq
-
-**关键字** Exploit
-
-**介绍:** Lunar Executor is a tool for executing custom scripts within Roblox, providing users with the ability to exploit and modify game features.
-
-**地址:** https://github.com/fatoilluminator160/Luna-Executor-xq
-
----
-
-## dunlyramlplion/Roblox-Incognito-pl
-
-**关键字** Exploit
-
-**介绍:** Incognito is a Roblox script executor known for its user-friendly interface and support for executing Lua scripts, providing enhanced gameplay and automation features. Regular updates ensure compatibility with Roblox's latest changes, though using it risks violating Roblox's terms of service.
-
-**地址:** https://github.com/dunlyramlplion/Roblox-Incognito-pl
-
----
-
-## rednightmare163/Hydrogen-Executor-kl
-
-**关键字** Exploit
-
-**介绍:** Hydrogen Executor is a most popular Roblox Exploit for Android and PC in the market nowadays. You can install it on any Android, iOS or Windows PC.
-
-**地址:** https://github.com/rednightmare163/Hydrogen-Executor-kl
-
----
-
-## brianmatteopowellgq/Arceus-Executor-67
-
-**关键字** Exploit
-
-**介绍:** Arceus X Exploit & Executor is a universal cheating tool that allows users to activate various cheats, scripts, and hacks within the mobile version of Roblox, available on Android and iOS devices. This program offers a wide range of functions to select from, enabling the implementation of scripts without any charges or viruses.
-
-**地址:** https://github.com/brianmatteopowellgq/Arceus-Executor-67
-
----
-
-## MHRezaie/exploit
-
-**关键字** Exploit
-
-**介绍:** Exploit Repo
-
-**地址:** https://github.com/MHRezaie/exploit
-
----
-
-## shyguysnoxj7/Roblox-Ronin-88
-
-**关键字** Exploit
-
-**介绍:** The Next Generation of Exploiting. Build faster and smarter with our powerful Lua environment. Create unique scripts with the most extensive toolkit available.
-
-**地址:** https://github.com/shyguysnoxj7/Roblox-Ronin-88
 
 ---
 
