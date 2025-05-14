@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## cvertilus/cvertilus
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/cvertilus/cvertilus
+
+---
+
 ## tantien-hmtt/cve_101
 
 **关键字** CVE
@@ -2513,26 +2523,6 @@
 **介绍:** PSFree Webkit Exploit & Lapse Kernel Exploit For PS4 8.0X - psfree-1.5rc1
 
 **地址:** https://github.com/kmeps4/PSFree800
-
----
-
-## Rishi176-ai/RedTeam-vs-BlueTeam
-
-**关键字** Blue Team
-
-**介绍:** None
-
-**地址:** https://github.com/Rishi176-ai/RedTeam-vs-BlueTeam
-
----
-
-## betulssahin/CVE-2025-0411-7-Zip-Mark-of-the-Web-Bypass
-
-**关键字** CVE
-
-**介绍:** CVE-2025-0411 7-Zip Mark-of-the-Web Bypass
-
-**地址:** https://github.com/betulssahin/CVE-2025-0411-7-Zip-Mark-of-the-Web-Bypass
 
 ---
 
