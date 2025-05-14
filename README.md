@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## m4s1um/CVE-2025-32756-RCE-PoC
+
+**关键字** RCE
+
+**介绍:** CVE-2025-32756 — Fortinet FortiVoice Unauthenticated RCE (PoC)
+
+**地址:** https://github.com/m4s1um/CVE-2025-32756-RCE-PoC
+
+---
+
+## qcbj2022/KalianzhuangBurpSuitezhuanyebanzhinan
+
+**关键字** burp
+
+**介绍:** None
+
+**地址:** https://github.com/qcbj2022/KalianzhuangBurpSuitezhuanyebanzhinan
+
+---
+
 ## StefanIT10/cvele
 
 **关键字** CVE
