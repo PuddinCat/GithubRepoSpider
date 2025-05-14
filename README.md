@@ -2416,34 +2416,4 @@
 
 ---
 
-## alexoh2bd/Project_CVE
-
-**关键字** CVE
-
-**介绍:** Cyber Security Risk Assessment Platform
-
-**地址:** https://github.com/alexoh2bd/Project_CVE
-
----
-
-## its-mr-monday/sRDI-CPP
-
-**关键字** shellcode
-
-**介绍:** A C++ Implementation of sRDI, in which you may generate PIE shellcode from a native DLL, the tool is designed to run on Windows or Linux
-
-**地址:** https://github.com/its-mr-monday/sRDI-CPP
-
----
-
-## fatkz/CVE-2025-24813
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/fatkz/CVE-2025-24813
-
----
-
 
