@@ -16,6 +16,16 @@
 
 ---
 
+## NonitBajaj/Burp_Suite
+
+**关键字** burp
+
+**介绍:** Burp Suite is a powerful, integrated platform used for web application security testing. Developed by PortSwigger, it’s a go-to tool for ethical hackers, bug bounty hunters, and security professionals.
+
+**地址:** https://github.com/NonitBajaj/Burp_Suite
+
+---
+
 ## stnehoute7/Warzone-Exploit
 
 **关键字** Exploit
@@ -23,6 +33,16 @@
 **介绍:** None
 
 **地址:** https://github.com/stnehoute7/Warzone-Exploit
+
+---
+
+## Madhan150320/burp-suite-practice
+
+**关键字** burp
+
+**介绍:** Hands-on Burp Suite practice to test XSS, SQLi, and CSRF vulnerabilities using DVWA and Juice Shop in a safe lab setup.
+
+**地址:** https://github.com/Madhan150320/burp-suite-practice
 
 ---
 
@@ -173,6 +193,16 @@
 **介绍:** None
 
 **地址:** https://github.com/HeaZzY/bash2shellcode
+
+---
+
+## userhhh-tech/RNA-2.0
+
+**关键字** 注入
+
+**介绍:** 此Python脚本构建图神经网络（GNN）模型，从RNA三维坐标预测其核苷酸序列。关键步骤包括：从坐标提取详细几何特征（如原子间距离、角度、二面角）作为图节点输入；利用含多头注意力、残差连接及层归一化的GATv2层处理图数据。为提升性能，脚本采用坐标加噪进行数据增强，并使用Dropout正则化。最终模型输出对RNA序列的预测。
+
+**地址:** https://github.com/userhhh-tech/RNA-2.0
 
 ---
 
@@ -2423,116 +2453,6 @@
 **介绍:** API(For CVE description to TTP ID)
 
 **地址:** https://github.com/engmazharulhassan/cve_to_ttp_api
-
----
-
-## DevHAXog/ctf-writeups
-
-**关键字** Exploit
-
-**介绍:** Collection of detailed solutions and write-ups from various Capture the Flag (CTF) challenges. These documents showcase my skills in penetration testing, vulnerability exploitation, and cybersecurity problem-solving. Each write-up provides step-by-step insights into real-world hacking scenarios.
-
-**地址:** https://github.com/DevHAXog/ctf-writeups
-
----
-
-## Yassine-Tajni/exploitation-des-donn-es-Airbnb-en-Europe
-
-**关键字** Exploit
-
-**介绍:** J'ai analysé un dataset d'annonces Airbnb en Europe, en examinant des variables comme le prix, la satisfaction des invités et la distance aux transports. Mon travail a consisté à vérifier la qualité des données, détecter les valeurs manquantes et les nettoyer, tout en explorant les tendances de prix et de satisfaction.
-
-**地址:** https://github.com/Yassine-Tajni/exploitation-des-donn-es-Airbnb-en-Europe
-
----
-
-## 4420q/FiveM-External-Cheat
-
-**关键字** Exploit
-
-**介绍:** FiveM External cheat, offers various features like aimbot, triggerbot, exploits, and customizable settings, enhancing the gameplay experience. It is completely undetectable.
-
-**地址:** https://github.com/4420q/FiveM-External-Cheat
-
----
-
-## akiraturbobot19/Luna-Executor-ii
-
-**关键字** Exploit
-
-**介绍:** Lunar Executor is a tool for executing custom s within Roblox, providing users with the ability to exploit and modify game features.
-
-**地址:** https://github.com/akiraturbobot19/Luna-Executor-ii
-
----
-
-## tagal841/JJsploit-7z
-
-**关键字** Exploit
-
-**介绍:** JJSploit, now available for free, is a widely-used Roblox exploit favored for its simplicity and accessibility. With the ability to execute Lua s, it enables users to customize their gaming experience, though users should remain vigilant about potential risks associated with exploiting software.
-
-**地址:** https://github.com/tagal841/JJsploit-7z
-
----
-
-## sword-comingsoon/Evon-Executor-h9
-
-**关键字** Exploit
-
-**介绍:** Evon – Near-perfect 99.9% script compatibility through UNC. The gold standard for hassle-free integration with trending Roblox exploits.
-
-**地址:** https://github.com/sword-comingsoon/Evon-Executor-h9
-
----
-
-## shrews-nikeron/JJsploit-n1
-
-**关键字** Exploit
-
-**介绍:** JJSploit – The legendary free exploit now open to all. Execute basic Lua scripts effortlessly, but stay cautious—its accessibility comes with inherent Roblox TOS risks.
-
-**地址:** https://github.com/shrews-nikeron/JJsploit-n1
-
----
-
-## wraggnikeron95/Carbon-Executor-ea
-
-**关键字** Exploit
-
-**介绍:** Carbon Executor – Cutting-edge exploit with Level 8 execution and 90% UNC support (Win7-11). Redefine Roblox scripting through bulletproof security and raw processing power.
-
-**地址:** https://github.com/wraggnikeron95/Carbon-Executor-ea
-
----
-
-## tabasco-faster/DX9WARE-Roblox-zz
-
-**关键字** Exploit
-
-**介绍:** DX9WARE – Enterprise-grade external executor with military-grade anti-detection. Customize Lua environments, deploy advanced scripts, and exploit securely with this feature-packed toolkit.
-
-**地址:** https://github.com/tabasco-faster/DX9WARE-Roblox-zz
-
----
-
-## ingramm-100p9/Arceus-Executor-la
-
-**关键字** Exploit
-
-**介绍:** Arceus X Exploit & Executor – The ultimate mobile cheating suite for Roblox (Android/iOS). Activate premium hacks, scripts, and mods with zero cost or malware risks—dominate any game with one tap.
-
-**地址:** https://github.com/ingramm-100p9/Arceus-Executor-la
-
----
-
-## new-dayk/Seliware-5l
-
-**关键字** Exploit
-
-**介绍:** Seliware – A cutting-edge Roblox executor built for unparalleled scripting performance. Elevate your game exploits with next-gen execution technology and ultra-low latency.
-
-**地址:** https://github.com/new-dayk/Seliware-5l
 
 ---
 
