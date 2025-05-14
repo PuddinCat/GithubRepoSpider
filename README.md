@@ -46,6 +46,36 @@
 
 ---
 
+## berkedigal/Ops6-Exploit-Pro
+
+**关键字** Exploit
+
+**介绍:** Now Available: COD Black Ops 6 Hack Download for Windows 2025 – Pro Tips 🌟
+
+**地址:** https://github.com/berkedigal/Ops6-Exploit-Pro
+
+---
+
+## winchmikkiemouse4/7Days-Exploit
+
+**关键字** Exploit
+
+**介绍:** 2025 Exclusive: 7 Days To Die Hack Tool Download for Windows 🎮
+
+**地址:** https://github.com/winchmikkiemouse4/7Days-Exploit
+
+---
+
+## murazorrofellosh1/BF1-Exploit-Kit
+
+**关键字** Exploit
+
+**介绍:** Secure 2025 Battlefield 1 Multiplayer Hack Pack: Free Download on Windows 💥
+
+**地址:** https://github.com/murazorrofellosh1/BF1-Exploit-Kit
+
+---
+
 ## codewalkerster/platform_hardware_amlogic_cve_lib
 
 **关键字** CVE
@@ -363,6 +393,16 @@
 **介绍:** None
 
 **地址:** https://github.com/Rbio80/Rcecagno
+
+---
+
+## tariffengineering/portswigger-sqli-conditional-error-exploit
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/tariffengineering/portswigger-sqli-conditional-error-exploit
 
 ---
 
@@ -2643,16 +2683,6 @@
 **介绍:** None
 
 **地址:** https://github.com/trantathung2004/cybersec-homework-vulnerabilities-exploits
-
----
-
-## intrud3rX777/Burp-Subdomain-Extractor
-
-**关键字** burp
-
-**介绍:** None
-
-**地址:** https://github.com/intrud3rX777/Burp-Subdomain-Extractor
 
 ---
 
