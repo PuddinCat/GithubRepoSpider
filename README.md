@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## Z3R0-0x30/CVE-2015-3306
+
+**关键字** CVE
+
+**介绍:** This contains single-file exploit for ProFTPd 1.3.5 mod_copy (CVE-2015-3306) vulnerability, especially for TryHackMe Kenobi Lab.
+
+**地址:** https://github.com/Z3R0-0x30/CVE-2015-3306
+
+---
+
 ## Aiyakami/CVE-2
 
 **关键字** CVE
@@ -2653,16 +2663,6 @@
 **介绍:** `Raw Files Server`（简称 RFS）是一个支持 HTTP/自定义TCP 协议双栈的文件分发服务端，适用于内网文件分发、免杀落地等场景。
 
 **地址:** https://github.com/Nurdich/RFS
-
----
-
-## EL9996/7589899593-AAE35GvBRSE5_zCT7RMD26ddKdNXsiRCEpM
-
-**关键字** RCE
-
-**介绍:** None
-
-**地址:** https://github.com/EL9996/7589899593-AAE35GvBRSE5_zCT7RMD26ddKdNXsiRCEpM
 
 ---
 
