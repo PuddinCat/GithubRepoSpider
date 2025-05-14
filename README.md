@@ -6,6 +6,36 @@
 
 ## 最新仓库
 
+## codewalkerster/platform_hardware_amlogic_cve_lib
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/codewalkerster/platform_hardware_amlogic_cve_lib
+
+---
+
+## codewalkerster/platform_hardware_amlogic_cve_driver
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/codewalkerster/platform_hardware_amlogic_cve_driver
+
+---
+
+## hemanth1258/sai_av_bypass_advanced
+
+**关键字** bypass av
+
+**介绍:** None
+
+**地址:** https://github.com/hemanth1258/sai_av_bypass_advanced
+
+---
+
 ## Dmaozhua/wx-cnangler
 
 **关键字** 钓鱼
@@ -36,6 +66,16 @@
 
 ---
 
+## hua20052005/AES_project
+
+**关键字** 网络安全
+
+**介绍:** AES（Advanced Encryption Standard，高级加密标准）是一种对称加密算法，由美国国家标准与技术研究院（NIST）于2001年发布，用以取代原来的DES算法。AES使用相同的密钥进行加密和解密，具有效率高、安全性强的特点。它支持128位的数据分组长度，并允许使用128位、192位或256位的密钥长度。AES算法的核心操作包括字节代换、行移位、列混淆和轮密钥加等多个轮次的变换。由于其在性能和安全性方面的良好表现，AES广泛应用于文件加密、网络通信和各种安全协议中，如SSL/TLS和VPN。
+
+**地址:** https://github.com/hua20052005/AES_project
+
+---
+
 ## tewkes99baflocer/Battle-Exploit-FN
 
 **关键字** Exploit
@@ -53,6 +93,26 @@
 **介绍:** Trusted Rainbow Six Siege Multi-Hack Free Download 2025 Windows Only 🔒
 
 **地址:** https://github.com/niceguynaokiabe2/R6-Exploit-Kit
+
+---
+
+## BACMiao/PoC-Vanna-RCE
+
+**关键字** RCE
+
+**介绍:** None
+
+**地址:** https://github.com/BACMiao/PoC-Vanna-RCE
+
+---
+
+## saihemanthg8/sai_av_bypass
+
+**关键字** bypass av
+
+**介绍:** None
+
+**地址:** https://github.com/saihemanthg8/sai_av_bypass
 
 ---
 
@@ -643,6 +703,16 @@
 **介绍:** Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution
 
 **地址:** https://github.com/Yuikiowz/HTA-Exploit
+
+---
+
+## Achraf012/damn-vulnerable-defi
+
+**关键字** Exploit
+
+**介绍:** This repo contains my solutions to the Damn Vulnerable DeFi challenges — rewritten and exploited using Foundry. Each challenge demonstrates a real-world DeFi vulnerability, such as reentrancy, flash loan abuse, and improper access control.
+
+**地址:** https://github.com/Achraf012/damn-vulnerable-defi
 
 ---
 
@@ -2553,56 +2623,6 @@
 **介绍:** None
 
 **地址:** https://github.com/EL9996/7589899593-AAE35GvBRSE5_zCT7RMD26ddKdNXsiRCEpM
-
----
-
-## spring-team-blue/spring-team-blue
-
-**关键字** Blue Team
-
-**介绍:** None
-
-**地址:** https://github.com/spring-team-blue/spring-team-blue
-
----
-
-## lull-team-dev/spring-team-blue
-
-**关键字** Blue Team
-
-**介绍:** None
-
-**地址:** https://github.com/lull-team-dev/spring-team-blue
-
----
-
-## lull-y-miyazaki/spring-team-red
-
-**关键字** Red Team
-
-**介绍:** None
-
-**地址:** https://github.com/lull-y-miyazaki/spring-team-red
-
----
-
-## spring-team-red/spring-team-red
-
-**关键字** Red Team
-
-**介绍:** None
-
-**地址:** https://github.com/spring-team-red/spring-team-red
-
----
-
-## lull-team-dev/spring-team-red
-
-**关键字** Red Team
-
-**介绍:** None
-
-**地址:** https://github.com/lull-team-dev/spring-team-red
 
 ---
 
