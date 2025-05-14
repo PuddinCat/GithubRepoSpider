@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## BiFangKNT/mtga
+
+**关键字** 绕过
+
+**介绍:** 基于本地代理的方式，绕过 IDE 的固定模型服务商限制
+
+**地址:** https://github.com/BiFangKNT/mtga
+
+---
+
+## Sirrrrri/Cyber_NER-RE
+
+**关键字** 网络安全
+
+**介绍:** 针对网络安全领域的命名实体识别和关系抽取系统
+
+**地址:** https://github.com/Sirrrrri/Cyber_NER-RE
+
+---
+
 ## arpcyber555/CVE
 
 **关键字** CVE
@@ -43,6 +63,16 @@
 **介绍:** None
 
 **地址:** https://github.com/cumakurt/CVE-SourceCodester-Best-Employee-Management-System-1.0
+
+---
+
+## libxee/vibe-researcher
+
+**关键字** 信息收集
+
+**介绍:** 基于Vibe Coding理念开发（Cursor 与 Claude 3.7），实现高效深度研究和信息收集的Agent。
+
+**地址:** https://github.com/libxee/vibe-researcher
 
 ---
 
@@ -423,6 +453,16 @@
 **介绍:** PoC script for House of Muney in heap exploitation 
 
 **地址:** https://github.com/4xura/house-of-muney
+
+---
+
+## GogoZin/jeikaiDDOS
+
+**关键字** 攻防
+
+**介绍:** JeiKai 是一款免費且開源的壓力測試工具，專為開發者與測試人員設計。  你可以使用 JeiKai 進行網站抗攻擊能力測試，包括：  每秒請求上限 HTTP/2 特性測試 標頭 (Header) 規則測試 TCP 連線數測試 讓你能夠更輕鬆地找到適合你網站的防火牆設定。
+
+**地址:** https://github.com/GogoZin/jeikaiDDOS
 
 ---
 
