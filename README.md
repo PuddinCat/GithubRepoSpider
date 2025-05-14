@@ -56,6 +56,16 @@
 
 ---
 
+## Antxine/get-known-exploited-vulnerabilities-euvd
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/Antxine/get-known-exploited-vulnerabilities-euvd
+
+---
+
 ## 80houde/lottery
 
 **关键字** 注入
@@ -606,6 +616,16 @@
 
 ---
 
+## alpha-trotsky/Attempt-at-a-multi-player-non-exploitable-poker-bot
+
+**关键字** Exploit
+
+**介绍:** Designing a poker bot that would be virtually unexploitable and put up a fight against even the best human players (and hopefully be better than Pluribus - the poker bot built by facebook AI in the stone-age 2019)
+
+**地址:** https://github.com/alpha-trotsky/Attempt-at-a-multi-player-non-exploitable-poker-bot
+
+---
+
 ## mcdaqc/vulnerability-intelligence-diagrammatic-reasoning
 
 **关键字** CVE
@@ -993,6 +1013,16 @@
 **介绍:** This repo contains my solutions to the Damn Vulnerable DeFi challenges — rewritten and exploited using Foundry. Each challenge demonstrates a real-world DeFi vulnerability, such as reentrancy, flash loan abuse, and improper access control.
 
 **地址:** https://github.com/Achraf012/damn-vulnerable-defi
+
+---
+
+## kujotaroooo/meta-android-exploit-v10-below
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/kujotaroooo/meta-android-exploit-v10-below
 
 ---
 
