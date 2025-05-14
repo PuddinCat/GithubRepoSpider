@@ -2416,34 +2416,4 @@
 
 ---
 
-## Im0nk3yar0und/esp-webshell
-
-**关键字** webshell
-
-**介绍:** A secure SMS-controlled relay system using ESP-07 (ESP8266) and SIM800L, enhanced with a web-based terminal (WebShell) styled with the Gruvbox theme.
-
-**地址:** https://github.com/Im0nk3yar0und/esp-webshell
-
----
-
-## Im0nk3yar0und/esp-relay
-
-**关键字** webshell
-
-**介绍:** A secure SMS-controlled relay system using ESP-07 (ESP8266) and SIM800L, enhanced with a web-based terminal (WebShell) styled with the Gruvbox theme.
-
-**地址:** https://github.com/Im0nk3yar0und/esp-relay
-
----
-
-## syaifulandy/Nuclei-Template-CVE-2023-42793.yaml
-
-**关键字** CVE
-
-**介绍:** Windows & linux support
-
-**地址:** https://github.com/syaifulandy/Nuclei-Template-CVE-2023-42793.yaml
-
----
-
 
