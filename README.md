@@ -6,6 +6,96 @@
 
 ## 最新仓库
 
+## SarpantKeltiek/CVE-2024-37010
+
+**关键字** CVE
+
+**介绍:** Exploit for the CVE-2024-37010: access other user's external storage & lateral movement
+
+**地址:** https://github.com/SarpantKeltiek/CVE-2024-37010
+
+---
+
+## stnehoute7/Warzone-Exploit
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/stnehoute7/Warzone-Exploit
+
+---
+
+## rompatrikadams402/Exploit-Survarium
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/rompatrikadams402/Exploit-Survarium
+
+---
+
+## cemeka-1262/WoW-Exploit-Tool
+
+**关键字** Exploit
+
+**介绍:** 2025's Top WoW Hack Bot for Windows: Download and Install Guide🎮
+
+**地址:** https://github.com/cemeka-1262/WoW-Exploit-Tool
+
+---
+
+## cemeka-1262/ScpExploit-Repo
+
+**关键字** Exploit
+
+**介绍:** How to Get SCP Hack Free Download on Windows for 2025 Beginners 🎮
+
+**地址:** https://github.com/cemeka-1262/ScpExploit-Repo
+
+---
+
+## killergolden8/Showdown-Exploit
+
+**关键字** Exploit
+
+**介绍:** Download the Latest Hunt Showdown Hack for Windows in 2025 – Free 🎮
+
+**地址:** https://github.com/killergolden8/Showdown-Exploit
+
+---
+
+## stnehoute7/CompanyExploit
+
+**关键字** Exploit
+
+**介绍:** 2025 Ultimate Lethal Company Hacks: Free Download for Windows Users⚙️
+
+**地址:** https://github.com/stnehoute7/CompanyExploit
+
+---
+
+## mountainman350/FruitsExploit
+
+**关键字** Exploit
+
+**介绍:** Download Free Roblox Blox Fruits Scripts for 2025 – Windows Compatible 🎮
+
+**地址:** https://github.com/mountainman350/FruitsExploit
+
+---
+
+## accanepa/exploits
+
+**关键字** Exploit
+
+**介绍:** Exploits that were used for OSCP and HackTheBox
+
+**地址:** https://github.com/accanepa/exploits
+
+---
+
 ## Khushinayak2911/shellcodes
 
 **关键字** shellcode
@@ -16,6 +106,16 @@
 
 ---
 
+## ArnavTheExploit/ArnavTheExploit
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/ArnavTheExploit/ArnavTheExploit
+
+---
+
 ## cvertilus/cvertilus
 
 **关键字** CVE
@@ -23,6 +123,16 @@
 **介绍:** None
 
 **地址:** https://github.com/cvertilus/cvertilus
+
+---
+
+## x-raen/psfree-lapse-toolkit
+
+**关键字** Exploit
+
+**介绍:** Professional-grade tools for efficient binary analysis and automated ROP/JOP gadget map extraction, aimed at accelerating exploit development for PSFree Lapse and similar projects.
+
+**地址:** https://github.com/x-raen/psfree-lapse-toolkit
 
 ---
 
@@ -323,6 +433,16 @@
 **介绍:** None
 
 **地址:** https://github.com/enochgitgamefied/CVE-2025-27636-Pratctical-Lab
+
+---
+
+## enochgitgamefied/CVE-2025-27636-Practical-Lab
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/enochgitgamefied/CVE-2025-27636-Practical-Lab
 
 ---
 
@@ -1476,6 +1596,16 @@
 
 ---
 
+## B-Hensley/basic-pentesting-ctf
+
+**关键字** Exploit
+
+**介绍:** 🛠️ A walkthrough of TryHackMe's Basic Pentesting room focusing on web enumeration, brute-force attacks, and Linux privilege escalation. Includes tool usage, exploitation steps, and key takeaways for beginners in offensive security.
+
+**地址:** https://github.com/B-Hensley/basic-pentesting-ctf
+
+---
+
 ## JuaanReis/Lynx
 
 **关键字** RCE
@@ -2403,16 +2533,6 @@
 **介绍:** Seliware – A cutting-edge Roblox executor built for unparalleled scripting performance. Elevate your game exploits with next-gen execution technology and ultra-low latency.
 
 **地址:** https://github.com/new-dayk/Seliware-5l
-
----
-
-## ruiRun0916/skills-introduction-to-github
-
-**关键字** 绕过
-
-**介绍:** Exercise:其实呢，关于这个所谓的模块，也不知道该从何说起才好。说它是个模块吧，可这“模块”二字实在太过笼统了。它到底是个什么样子的模块呢？大的小的？方的圆的？是塑料材质的，还是金属打造的？又或者是看不见摸不着的虚拟模块？也不清楚它为什么叫模块，叫别的名字不行吗？叫这个名字对它自身来说有什么特殊含义吗？而且，它在这儿被叫做模块，那在别的地方会不会有不一样的称呼呢？真的很难说清啊，也不知道说这些有没有什么用，反正就是感觉围绕这个“这是一个模块”，能想好多好多没什么实际意义的事儿，却又好像也不知道到底该怎么深入说下去 ，就这么翻来覆去地琢磨这些没头没脑的想法，也不知道琢磨出个啥结果来。
-
-**地址:** https://github.com/ruiRun0916/skills-introduction-to-github
 
 ---
 
