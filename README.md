@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## arpcyber555/CVE
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/arpcyber555/CVE
+
+---
+
 ## furry-lansha/burp-suite-2023-pro
 
 **关键字** burp
@@ -26,6 +36,16 @@
 
 ---
 
+## cumakurt/CVE-SourceCodester-Best-Employee-Management-System-1.0
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/cumakurt/CVE-SourceCodester-Best-Employee-Management-System-1.0
+
+---
+
 ## JigenDaisuke66/wow_auto_fishing
 
 **关键字** 钓鱼
@@ -33,6 +53,16 @@
 **介绍:** 魔兽世界自动钓鱼
 
 **地址:** https://github.com/JigenDaisuke66/wow_auto_fishing
+
+---
+
+## stefanosimonetto/inference_cve-ttp
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/stefanosimonetto/inference_cve-ttp
 
 ---
 
@@ -53,6 +83,16 @@
 **介绍:** This contains single-file exploit for ProFTPd 1.3.5 mod_copy (CVE-2015-3306) vulnerability, especially for TryHackMe Kenobi Lab.
 
 **地址:** https://github.com/Z3R0-0x30/CVE-2015-3306
+
+---
+
+## enochgitgamefied/CVE-2025-27636-Pratctical-Lab
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/enochgitgamefied/CVE-2025-27636-Pratctical-Lab
 
 ---
 
