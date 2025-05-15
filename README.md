@@ -2536,14 +2536,4 @@
 
 ---
 
-## tntrock/CVE-2024-4577_PowerShell
-
-**关键字** CVE
-
-**介绍:** 使用PowsrShell掃描CVE-2024-4577
-
-**地址:** https://github.com/tntrock/CVE-2024-4577_PowerShell
-
----
-
 
