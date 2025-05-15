@@ -6,6 +6,46 @@
 
 ## 最新仓库
 
+## RoyalZJT/CVE
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/RoyalZJT/CVE
+
+---
+
+## crysalix4/CVE
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/crysalix4/CVE
+
+---
+
+## lstudlo/nextjs-cve-demo
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/lstudlo/nextjs-cve-demo
+
+---
+
+## lstudlo/Nextjs_CVE_Auth_Middleware_Bypass
+
+**关键字** CVE
+
+**介绍:** This project showcases the nextjs cve: Authorization Bypass in Next.js Middleware.
+
+**地址:** https://github.com/lstudlo/Nextjs_CVE_Auth_Middleware_Bypass
+
+---
+
 ## Gamer-MouyuseV6/Roblox-Exploits
 
 **关键字** Exploit
@@ -13,6 +53,16 @@
 **介绍:** None
 
 **地址:** https://github.com/Gamer-MouyuseV6/Roblox-Exploits
+
+---
+
+## duongdz96/CVE-2021-3156-main
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/duongdz96/CVE-2021-3156-main
 
 ---
 
@@ -53,6 +103,26 @@
 **介绍:** Made by WFYB Exploits in Mumbai, India.
 
 **地址:** https://github.com/wfybexploits/WFYB.GG
+
+---
+
+## suddenabnormalsecrets/cvelist
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/suddenabnormalsecrets/cvelist
+
+---
+
+## progprnv/CVE-Reports
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/progprnv/CVE-Reports
 
 ---
 
@@ -2433,46 +2503,6 @@
 **介绍:** An advanced AI-powered red team framework for dynamic and stealthy payload execution
 
 **地址:** https://github.com/igbin01/nebula-drift
-
----
-
-## bossdlyavsehkirk6/BreakerZero_PasswordCracker_v1.0-b1
-
-**关键字** Red Team
-
-**介绍:** Advanced red team password and hash cracking toolkit built for educational and ethical professional use.
-
-**地址:** https://github.com/bossdlyavsehkirk6/BreakerZero_PasswordCracker_v1.0-b1
-
----
-
-## batzionb/webpack-cve-2024-43788
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/batzionb/webpack-cve-2024-43788
-
----
-
-## shishirpandey18/CVE-2021-3156
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/shishirpandey18/CVE-2021-3156
-
----
-
-## wuquwuquwuqu/CVE
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/wuquwuquwuqu/CVE
 
 ---
 
