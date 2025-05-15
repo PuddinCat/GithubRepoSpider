@@ -6,6 +6,56 @@
 
 ## 最新仓库
 
+## GadaLuBau1337/CVE-2025-3605
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/GadaLuBau1337/CVE-2025-3605
+
+---
+
+## Stickman230/RealTime-CVE
+
+**关键字** CVE
+
+**介绍:** A real time monitoring system to get alerted of the latest in CVE news
+
+**地址:** https://github.com/Stickman230/RealTime-CVE
+
+---
+
+## rootwlen/Vulnerability-Wiki
+
+**关键字** 漏洞利用
+
+**介绍:** 一些漏洞复现和利用方法分享
+
+**地址:** https://github.com/rootwlen/Vulnerability-Wiki
+
+---
+
+## KTN1990/CVE-2024-51793
+
+**关键字** CVE
+
+**介绍:** (CVE-2024-51793) Wordpress Plugin: Computer Repair Shop <= 3.8115 - Unauthenticated Arbitrary File Upload
+
+**地址:** https://github.com/KTN1990/CVE-2024-51793
+
+---
+
+## GadaLuBau1337/CVE-2025-4190
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/GadaLuBau1337/CVE-2025-4190
+
+---
+
 ## fieldsjustus/BurpSuite
 
 **关键字** burp
@@ -2563,46 +2613,6 @@
 **介绍:** None
 
 **地址:** https://github.com/cyendd-sigma/RCE
-
----
-
-## thaont204/Secure-Programming-and-Exploiting-Vulnerabilities
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/thaont204/Secure-Programming-and-Exploiting-Vulnerabilities
-
----
-
-## saykino/CVE-2023-34732
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/saykino/CVE-2023-34732
-
----
-
-## GeoSn0w/CVE-2025-24203-iOS-Exploit-in-Swift
-
-**关键字** CVE
-
-**介绍:** A Swift exploit port of the CVE-2025-24203 iOS vulnerability by Ian Beer of Google Project Zero
-
-**地址:** https://github.com/GeoSn0w/CVE-2025-24203-iOS-Exploit-in-Swift
-
----
-
-## GeoSn0w/CVE-2025-24203-iOS-Exploit-With-Error-Logging
-
-**关键字** Exploit
-
-**介绍:** Slightly improved exploit of the CVE-2025-24203 iOS vulnerability by Ian Beer of Google Project Zero
-
-**地址:** https://github.com/GeoSn0w/CVE-2025-24203-iOS-Exploit-With-Error-Logging
 
 ---
 
