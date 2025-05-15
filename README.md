@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## Jimeradez/BloxFruitsExploits
+
+**关键字** Exploit
+
+**介绍:** Jimeradez’ BloxFruit exploits. Version 1.0
+
+**地址:** https://github.com/Jimeradez/BloxFruitsExploits
+
+---
+
 ## MONOLITH6/Burp-Mysterizer
 
 **关键字** burp
@@ -26,6 +36,26 @@
 
 ---
 
+## chaterm/Guardian
+
+**关键字** Exploit
+
+**介绍:** Guardian is a zero trust gateway which can protect your system get away from 0day exploit.
+
+**地址:** https://github.com/chaterm/Guardian
+
+---
+
+## PKOfficial/official-exploits
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/PKOfficial/official-exploits
+
+---
+
 ## byxs0x0/cve2
 
 **关键字** CVE
@@ -33,6 +63,16 @@
 **介绍:** None
 
 **地址:** https://github.com/byxs0x0/cve2
+
+---
+
+## MatteoPlayz/DeadLock-Exploit
+
+**关键字** Exploit
+
+**介绍:** Best Ways to Download DeadLock Hack for Windows in 2025 Edition
+
+**地址:** https://github.com/MatteoPlayz/DeadLock-Exploit
 
 ---
 
@@ -1806,6 +1846,76 @@
 
 ---
 
+## corn95cow/LumiTerra-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api-4w
+
+**关键字** Exploit
+
+**介绍:** Bot-that-automates-farming-and-clicker-activities-in-LumiTerra-game.-Includes-crypto-token-integration-and-API-support.-Features-cheats-and-hacks-to-maximize-profit.-Managed-via-Telegram-for-efficient-game-control.
+
+**地址:** https://github.com/corn95cow/LumiTerra-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api-4w
+
+---
+
+## termitandymirny735/Axie-Infinity-Bot-Crypto-Cheat-Auto-Farm-Clicker-Game-Api-Hack-km
+
+**关键字** Exploit
+
+**介绍:** Bot that automates farming and clicker activities in Axie Infinity game. Features include crypto integration and API support. Designed with cheats and hacks to maximize profits and enhance gameplay efficiency.
+
+**地址:** https://github.com/termitandymirny735/Axie-Infinity-Bot-Crypto-Cheat-Auto-Farm-Clicker-Game-Api-Hack-km
+
+---
+
+## tauruself/Axie-Infinity-Bot-Crypto-Cheat-Auto-Farm-Clicker-Game-Api-Hack-m0
+
+**关键字** Exploit
+
+**介绍:** Bot that automates farming and clicker activities in Axie Infinity game. Features include crypto integration and API support. Designed with cheats and hacks to maximize profits and enhance gameplay efficiency.
+
+**地址:** https://github.com/tauruself/Axie-Infinity-Bot-Crypto-Cheat-Auto-Farm-Clicker-Game-Api-Hack-m0
+
+---
+
+## doraevoluciya128/Aavegotchi-Cheat-Crypto-Bot-Auto-Farm-Clicker-Game-Api-Hack-7s
+
+**关键字** Exploit
+
+**介绍:** Bot that automates farming and clicker activities in Aavegotchi game. Features include crypto integration and API support. Equipped with cheats and hacks to optimize profits and enhance gameplay efficiency.
+
+**地址:** https://github.com/doraevoluciya128/Aavegotchi-Cheat-Crypto-Bot-Auto-Farm-Clicker-Game-Api-Hack-7s
+
+---
+
+## marget-hellofriend/Fableborne-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api-65
+
+**关键字** Exploit
+
+**介绍:** Bot that automates farming and clicker activities in Fableborne game. Features include crypto token integration and API support. Equipped with cheats and hacks to optimize profits and enhance gameplay efficiency.
+
+**地址:** https://github.com/marget-hellofriend/Fableborne-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api-65
+
+---
+
+## jerrypooh964/Muck-MASS-SMS-Sender-Whatsapp-Boomber-kr
+
+**关键字** Exploit
+
+**介绍:** SMS APIs and gateways enable services like messaging, verification, and spamming. Tools like SMS bombers or prank apps exploit these systems, while bypassing platforms like WhatsApp, Telegram, and Instagram for malicious or recreational hacking purposes.
+
+**地址:** https://github.com/jerrypooh964/Muck-MASS-SMS-Sender-Whatsapp-Boomber-kr
+
+---
+
+## madeon151/Blade-Ball-hd
+
+**关键字** Exploit
+
+**介绍:** Blade Ball Script Hack Auto Farm Pastebin 2025 No Key Exploit Keyless PC & MOBILE OP GUI Cheat Byfron Bypass Anti-Ban Undetected Script BEST AUTOPARRY
+
+**地址:** https://github.com/madeon151/Blade-Ball-hd
+
+---
+
 ## pxx917144686/12345
 
 **关键字** CVE
@@ -1813,6 +1923,16 @@
 **介绍:** CVE-2025-24085漏洞  和 Schemeshare漏洞
 
 **地址:** https://github.com/pxx917144686/12345
+
+---
+
+## stepic20000f/Muck-MASS-SMS-Sender-Whatsapp-Boomber-k8
+
+**关键字** Exploit
+
+**介绍:** SMS APIs and gateways enable services like messaging, verification, and spamming. Tools like SMS bombers or prank apps exploit these systems, while bypassing platforms like WhatsApp, Telegram, and Instagram for malicious or recreational hacking purposes.
+
+**地址:** https://github.com/stepic20000f/Muck-MASS-SMS-Sender-Whatsapp-Boomber-k8
 
 ---
 
@@ -2443,26 +2563,6 @@
 **介绍:** A simulated attack and countermeasures project using Mininet
 
 **地址:** https://github.com/kishore-1812/MiniNet-Exploitation
-
----
-
-## rebelle3/cve-2017-7117
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/rebelle3/cve-2017-7117
-
----
-
-## zfernm/Web-Shell-ZFERNM
-
-**关键字** webshell
-
-**介绍:** PHP WebShell 
-
-**地址:** https://github.com/zfernm/Web-Shell-ZFERNM
 
 ---
 
