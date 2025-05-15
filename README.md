@@ -2486,24 +2486,4 @@
 
 ---
 
-## karzanWang/CVE-2023-41992
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/karzanWang/CVE-2023-41992
-
----
-
-## Malforge-Maldev-Public-Organization/NT-API-Code-Injection
-
-**关键字** shellcode
-
-**介绍:** NT API Code Injection using NtCreateSection and NtMapViewOfSection to inject shellcode into a remote process. This method allows for efficient memory manipulation and code execution within target processes.
-
-**地址:** https://github.com/Malforge-Maldev-Public-Organization/NT-API-Code-Injection
-
----
-
 
