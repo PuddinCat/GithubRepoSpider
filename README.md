@@ -2606,14 +2606,4 @@
 
 ---
 
-## tinmarco/AirDefenseExploit
-
-**关键字** Exploit
-
-**介绍:** emulate ADS traffic for a RTL SDR
-
-**地址:** https://github.com/tinmarco/AirDefenseExploit
-
----
-
 
