@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## byxs0x0/cve2
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/byxs0x0/cve2
+
+---
+
 ## 0xezzdev/cvezz
 
 **关键字** CVE
