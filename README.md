@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## jenniferaqmew/avmhwlxzx
+
+**关键字** bypass av
+
+**介绍:** AVM HWID Spoofer is the ultimate HWID Changer tool designed to bypass hardware bans easily. Boost your gaming experience with a secure, fast, and reliable HWID Spoofer. Stay undetected, switch devices seamlessly, and play worry-free. Download now for safe HWID protection!
+
+**地址:** https://github.com/jenniferaqmew/avmhwlxzx
+
+---
+
 ## jugouin/CVE
 
 **关键字** CVE
