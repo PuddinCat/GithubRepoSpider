@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## wfybexploits/WFYB.GG
+
+**关键字** Exploit
+
+**介绍:** Made by WFYB Exploits in Mumbai, India.
+
+**地址:** https://github.com/wfybexploits/WFYB.GG
+
+---
+
 ## zzy-0812/-
 
 **关键字** 注入
