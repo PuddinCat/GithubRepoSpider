@@ -6,6 +6,46 @@
 
 ## 最新仓库
 
+## Gamer-MouyuseV6/Roblox-Exploits
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/Gamer-MouyuseV6/Roblox-Exploits
+
+---
+
+## vv01ls/SkriptGG
+
+**关键字** Exploit
+
+**介绍:** Offrant le meilleur menu de mods FiveM, RageMP, Alt-V, GTA V non détecté pour le PvP et avec des exploits jamais vus auparavant et plus de triches de jeu multijoueur.
+
+**地址:** https://github.com/vv01ls/SkriptGG
+
+---
+
+## terr1als/Luna-Executor
+
+**关键字** Exploit
+
+**介绍:** Lunar Executor is a tool for executing custom scripts within Roblox, providing users with the ability to exploit and modify game features.
+
+**地址:** https://github.com/terr1als/Luna-Executor
+
+---
+
+## Ltxixixi/files_manager
+
+**关键字** 提权
+
+**介绍:** 文件管理系统：  实现文件的上传，文件的管理  要求：  1、要求登录用户可以上传文件至公共文件或者私有文件和下载公共文件和自己的私有文件；  2、游客可以查看公共文件，但是不能下载  3、上传的文件分为公开和私有权限，公开的文件提供所有登录用户下载，私有文件只能自己下载  4、下载的文件显示下载的次数  5、管理员对资源举报进行处理，可以封存相关资源，不再允许下载  6、要求使用AJAX实现  7、要求文件进行分页展示
+
+**地址:** https://github.com/Ltxixixi/files_manager
+
+---
+
 ## wfybexploits/WFYB.GG
 
 **关键字** Exploit
@@ -2443,36 +2483,6 @@
 **介绍:** A timed-based SQLi approach to CVE-2017-8917
 
 **地址:** https://github.com/xcalts/CVE-2017-8917
-
----
-
-## hh-d/uni-router-guard
-
-**关键字** 提权
-
-**介绍:** `uni-router-guard` 是一款专为 **UniApp** 框架设计的路由守卫插件，基于 **Vue 3** 构建。它提供了强大的页面访问权限控制、登录拦截和白名单功能，帮助开发者轻松管理应用的路由权限，提升应用安全性和用户体验。
-
-**地址:** https://github.com/hh-d/uni-router-guard
-
----
-
-## Malforge-Maldev-Public-Organization/RatInject-Red-Team-Tool
-
-**关键字** Red Team
-
-**介绍:** None
-
-**地址:** https://github.com/Malforge-Maldev-Public-Organization/RatInject-Red-Team-Tool
-
----
-
-## Mr-Harley1/Blue-Team
-
-**关键字** Blue Team
-
-**介绍:** None
-
-**地址:** https://github.com/Mr-Harley1/Blue-Team
 
 ---
 
