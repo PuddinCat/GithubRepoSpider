@@ -2476,14 +2476,4 @@
 
 ---
 
-## xcalts/CVE-2017-8917
-
-**关键字** CVE
-
-**介绍:** A timed-based SQLi approach to CVE-2017-8917
-
-**地址:** https://github.com/xcalts/CVE-2017-8917
-
----
-
 
