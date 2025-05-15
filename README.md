@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## mmvest/InjectTools
+
+**关键字** shellcode
+
+**介绍:** A header-only bare-bones essentials you need to load a DLL or raw shellcode into a remote process.
+
+**地址:** https://github.com/mmvest/InjectTools
+
+---
+
 ## yozot/CVE_related_resources
 
 **关键字** CVE
@@ -2593,66 +2603,6 @@
 **介绍:** titan crypter-5o  edr/upp bypass fud stub (avcheck, kleenscan, websec, run4me, dyn) all av's bypass support/update  price: $180 all crypto - 1 month  DC: @titanadmindevelopment TG: @titanadmindevelopment
 
 **地址:** https://github.com/packages-2o/titan-crypter-5o
-
----
-
-## johnddias/vmtools-cve-summary
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/johnddias/vmtools-cve-summary
-
----
-
-## Anggaea0/burp
-
-**关键字** burp
-
-**介绍:** None
-
-**地址:** https://github.com/Anggaea0/burp
-
----
-
-## ssilvernail3/pyscan
-
-**关键字** CVE
-
-**介绍:** Lightweight Python-based vulnerability scanner. Built with sockets, banner grabbing, CVE matching, and HTML reports. Future features: multithreading, PDF export, API lookups, web interface.
-
-**地址:** https://github.com/ssilvernail3/pyscan
-
----
-
-## Syed-Farhan19/url-vulnerability-scanner
-
-**关键字** CVE
-
-**介绍:** A Python-based Google Colab tool that scans URLs for open ports, outdated software, CVEs, and OSINT data using Nmap, NVD API, and theHarvester.
-
-**地址:** https://github.com/Syed-Farhan19/url-vulnerability-scanner
-
----
-
-## alqhtane12/rce
-
-**关键字** RCE
-
-**介绍:** None
-
-**地址:** https://github.com/alqhtane12/rce
-
----
-
-## cybsecsid/ThingsBoard-IoT-Platform-CVE-2024-55466
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/cybsecsid/ThingsBoard-IoT-Platform-CVE-2024-55466
 
 ---
 
