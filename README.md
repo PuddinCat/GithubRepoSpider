@@ -6,6 +6,46 @@
 
 ## 最新仓库
 
+## nberr/cvent-battle
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/nberr/cvent-battle
+
+---
+
+## abrakadabra54/OW2-Exploit-Guide
+
+**关键字** Exploit
+
+**介绍:** Download Free Overwatch 2 Hack for Windows 2025: Aimbot and Wallhack
+
+**地址:** https://github.com/abrakadabra54/OW2-Exploit-Guide
+
+---
+
+## dwarf4325/BF2042-Exploit
+
+**关键字** Exploit
+
+**介绍:** Free BF2042 Hack Download Pack: Windows 2025 Exclusive Mods🌟
+
+**地址:** https://github.com/dwarf4325/BF2042-Exploit
+
+---
+
+## gennadii3290/exploit
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/gennadii3290/exploit
+
+---
+
 ## jenniferaqmew/avmhwlxzx
 
 **关键字** bypass av
@@ -13,6 +53,16 @@
 **介绍:** AVM HWID Spoofer is the ultimate HWID Changer tool designed to bypass hardware bans easily. Boost your gaming experience with a secure, fast, and reliable HWID Spoofer. Stay undetected, switch devices seamlessly, and play worry-free. Download now for safe HWID protection!
 
 **地址:** https://github.com/jenniferaqmew/avmhwlxzx
+
+---
+
+## promka42secret/Warzone-Exploit
+
+**关键字** Exploit
+
+**介绍:** Download Warzone ESP Hack 2025: Windows Compatible and Free! 👀
+
+**地址:** https://github.com/promka42secret/Warzone-Exploit
 
 ---
 
@@ -36,6 +86,16 @@
 
 ---
 
+## daddy5987/NMS-Exploit-Guide
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/daddy5987/NMS-Exploit-Guide
+
+---
+
 ## yozot/CVE-related-resources
 
 **关键字** CVE
@@ -46,6 +106,16 @@
 
 ---
 
+## deer6raisshaipow/BF2042-Exploit
+
+**关键字** Exploit
+
+**介绍:** 2025 Battlefield 2042 Hacks: Secure Download for Windows Users💻
+
+**地址:** https://github.com/deer6raisshaipow/BF2042-Exploit
+
+---
+
 ## mmvest/InjectTools
 
 **关键字** shellcode
@@ -53,6 +123,16 @@
 **介绍:** A header-only bare-bones essentials you need to load a DLL or raw shellcode into a remote process.
 
 **地址:** https://github.com/mmvest/InjectTools
+
+---
+
+## stansleeping/Terraria-Exploits
+
+**关键字** Exploit
+
+**介绍:** Ultimate Terraria Cheats for Windows: Free 2025 Download Now!🔥
+
+**地址:** https://github.com/stansleeping/Terraria-Exploits
 
 ---
 
@@ -713,6 +793,16 @@
 **介绍:** Advanced Roblox exploitation tool by #samauelisdumbaf. Intercepts, logs, replays remotes.
 
 **地址:** https://github.com/saneishere/SaneLittleHelper
+
+---
+
+## ctkqiang/BackdoorTheory
+
+**关键字** 红队
+
+**介绍:** 这是一个基于 Erlang 构建的高并发 TCP 后门模拟框架，旨在真实复刻黑客如何伪装一个正常应用的行为，实则在后台运行隐秘通信逻辑，支持十万级并发连接、自定义命令-数据分离协议、自动数据落地与 Mnesia 分布式持久化存储，并通过彩色日志与复杂度优化构建极致可控性和可扩展性，适用于教育、安全研究、红队演练与恶意软件行为模拟场景，全面揭示现代木马应用的工程结构与潜在攻击链。
+
+**地址:** https://github.com/ctkqiang/BackdoorTheory
 
 ---
 
