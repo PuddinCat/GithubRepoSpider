@@ -6,6 +6,56 @@
 
 ## 最新仓库
 
+## yozot/CVE_related_resources
+
+**关键字** CVE
+
+**介绍:** CVE related things
+
+**地址:** https://github.com/yozot/CVE_related_resources
+
+---
+
+## sahici/CVE-2025-4784
+
+**关键字** CVE
+
+**介绍:**  USOM Tarafından resmi yayın beklenmektedir. 
+
+**地址:** https://github.com/sahici/CVE-2025-4784
+
+---
+
+## sahici/CVE-2025-4688
+
+**关键字** CVE
+
+**介绍:**  USOM Tarafından resmi yayın beklenmektedir. 
+
+**地址:** https://github.com/sahici/CVE-2025-4688
+
+---
+
+## sahici/CVE-2025-4686
+
+**关键字** CVE
+
+**介绍:**  USOM Tarafından resmi yayın beklenmektedir. 
+
+**地址:** https://github.com/sahici/CVE-2025-4686
+
+---
+
+## 2020270127/container-cve-tracker
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/2020270127/container-cve-tracker
+
+---
+
 ## GadaLuBau1337/CVE-2025-3605
 
 **关键字** CVE
@@ -2603,36 +2653,6 @@
 **介绍:** None
 
 **地址:** https://github.com/cybsecsid/ThingsBoard-IoT-Platform-CVE-2024-55466
-
----
-
-## Lavender-exe/donut_wrapper
-
-**关键字** shellcode
-
-**介绍:** A Donut Shellcode Generator wrapper for Mythic Agents
-
-**地址:** https://github.com/Lavender-exe/donut_wrapper
-
----
-
-## srandres-git/cves-edo-cta-mlg
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/srandres-git/cves-edo-cta-mlg
-
----
-
-## AyeshaMajid025/Code-AuditingTool
-
-**关键字** CVE
-
-**介绍:** A Python-based code auditing tool that uses Bandit, Flake8, and Semgrep to detect security flaws, code quality issues, and map them to CVEs and CWEs. It generates summary and HTML reports to help developers identify and fix vulnerabilities efficiently during development.
-
-**地址:** https://github.com/AyeshaMajid025/Code-AuditingTool
 
 ---
 
