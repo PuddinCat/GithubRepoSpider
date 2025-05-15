@@ -2466,34 +2466,4 @@
 
 ---
 
-## KaanBicaklar/RedTeamChecklists
-
-**关键字** Red Team
-
-**介绍:** None
-
-**地址:** https://github.com/KaanBicaklar/RedTeamChecklists
-
----
-
-## kevinbin/mysqlcve
-
-**关键字** CVE
-
-**介绍:** 自动化获取、整理和扫描MySQL相关CVE信息，支持CVE数据同步、版本扫描与结果导出。
-
-**地址:** https://github.com/kevinbin/mysqlcve
-
----
-
-## gaellegoyon/devsecops-cli
-
-**关键字** CVE
-
-**介绍:** Scanne vulnérabilités CVE & conformité CIS (misconfig), exporte des rapports JSON & HTML.
-
-**地址:** https://github.com/gaellegoyon/devsecops-cli
-
----
-
 
