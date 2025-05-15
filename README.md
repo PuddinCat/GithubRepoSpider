@@ -716,6 +716,16 @@
 
 ---
 
+## YcZhangSing/AMD
+
+**关键字** Exploit
+
+**介绍:** The Coherence Trap: When MLLM-Crafted Narratives Exploit Manipulated Visual Context
+
+**地址:** https://github.com/YcZhangSing/AMD
+
+---
+
 ## roony5kl/AyanExploitsHub
 
 **关键字** Exploit
