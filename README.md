@@ -2666,34 +2666,4 @@
 
 ---
 
-## gavinroderick/ci-cerberus
-
-**关键字** CVE
-
-**介绍:** scan github workflows for known vulnerable actions using the nist national vulnerability database (nvd) api
-
-**地址:** https://github.com/gavinroderick/ci-cerberus
-
----
-
-## Amalelkhadem/RCE_Detect-Exploit
-
-**关键字** RCE
-
-**介绍:** None
-
-**地址:** https://github.com/Amalelkhadem/RCE_Detect-Exploit
-
----
-
-## Amalelkhadem/RCE_Detect_Exploit
-
-**关键字** RCE
-
-**介绍:** None
-
-**地址:** https://github.com/Amalelkhadem/RCE_Detect_Exploit
-
----
-
 
