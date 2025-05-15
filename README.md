@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## gisfakenews/sea-of-thieves-exploit
+
+**关键字** Exploit
+
+**介绍:** Sea of Thieves Exploit Cheat Free Download 2025
+
+**地址:** https://github.com/gisfakenews/sea-of-thieves-exploit
+
+---
+
 ## nberr/cvent-battle
 
 **关键字** CVE
@@ -2683,16 +2693,6 @@
 **介绍:** None
 
 **地址:** https://github.com/Amalelkhadem/RCE_Detect_Exploit
-
----
-
-## bmjanet/csc405-writeups-web-exploits
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/bmjanet/csc405-writeups-web-exploits
 
 ---
 
