@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## Joshua-Ghent/Triage-Enumeration-and-Exploitation-Lab
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/Joshua-Ghent/Triage-Enumeration-and-Exploitation-Lab
+
+---
+
+## tomagoyaky/keys_inject
+
+**关键字** 注入
+
+**介绍:** 密钥注入案例
+
+**地址:** https://github.com/tomagoyaky/keys_inject
+
+---
+
 ## h4cker-crypto/FreeExploits
 
 **关键字** Exploit
@@ -13,6 +33,16 @@
 **介绍:** Разрабатываем, оттачиваем и тестируем эксплоиты для самых разных уязвимостей.
 
 **地址:** https://github.com/h4cker-crypto/FreeExploits
+
+---
+
+## DeaconS19/BUBBLE
+
+**关键字** shellcode
+
+**介绍:** BUBBLE is a tool that gains full privilege shellcode execution on chrome OS via an out of bounds memory access, then evaluating threw chrome internal pages, then planting a full priviliged extension, then  tunneling threw service workers listening for post messages.
+
+**地址:** https://github.com/DeaconS19/BUBBLE
 
 ---
 
@@ -2483,36 +2513,6 @@
 **介绍:** None
 
 **地址:** https://github.com/adityaax/cves
-
----
-
-## naki-security/PWN-Writeup
-
-**关键字** Exploit
-
-**介绍:** A collection of beginner-friendly binary exploitation (PWN) writeups covering buffer overflows, ROP, and Linux exploitation techniques.
-
-**地址:** https://github.com/naki-security/PWN-Writeup
-
----
-
-## IpartmentXHC/security-chat-bot
-
-**关键字** 网络安全
-
-**介绍:** 基于大语言模型的网络安全辅助学习系统
-
-**地址:** https://github.com/IpartmentXHC/security-chat-bot
-
----
-
-## SilentisVox/PowerShell-Shellcode-Exec
-
-**关键字** shellcode
-
-**介绍:** None
-
-**地址:** https://github.com/SilentisVox/PowerShell-Shellcode-Exec
 
 ---
 
