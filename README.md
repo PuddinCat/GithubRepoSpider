@@ -2456,14 +2456,4 @@
 
 ---
 
-## KashishSonar/Deep-Learnng-for-exploit-generation
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/KashishSonar/Deep-Learnng-for-exploit-generation
-
----
-
 
