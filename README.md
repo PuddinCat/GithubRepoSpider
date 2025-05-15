@@ -76,6 +76,36 @@
 
 ---
 
+## bountyhunter453/OW2-Exploit-Guide
+
+**关键字** Exploit
+
+**介绍:** 2025 Overwatch 2 Cheats Download: Ultimate Guide for Windows 🎮
+
+**地址:** https://github.com/bountyhunter453/OW2-Exploit-Guide
+
+---
+
+## sinrinblackmysoul/BG3-ExploitGuide
+
+**关键字** Exploit
+
+**介绍:** Baldur's Gate 3 Cheats Free Download: 2025 Windows Version Revealed 🛡️
+
+**地址:** https://github.com/sinrinblackmysoul/BG3-ExploitGuide
+
+---
+
+## ateistalaeva86/WarfaceExploit
+
+**关键字** Exploit
+
+**介绍:** New Warface Cheats Pack 2025: Download for Windows Gamers 🎮
+
+**地址:** https://github.com/ateistalaeva86/WarfaceExploit
+
+---
+
 ## want2live233/nacos_derby_rce_custom_memshell
 
 **关键字** 漏洞利用
@@ -2603,16 +2633,6 @@
 **介绍:** A Python-based code auditing tool that uses Bandit, Flake8, and Semgrep to detect security flaws, code quality issues, and map them to CVEs and CWEs. It generates summary and HTML reports to help developers identify and fix vulnerabilities efficiently during development.
 
 **地址:** https://github.com/AyeshaMajid025/Code-AuditingTool
-
----
-
-## cyendd-sigma/RCE
-
-**关键字** RCE
-
-**介绍:** None
-
-**地址:** https://github.com/cyendd-sigma/RCE
 
 ---
 
