@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## 0xezzdev/cvezz
+
+**关键字** CVE
+
+**介绍:** mycv
+
+**地址:** https://github.com/0xezzdev/cvezz
+
+---
+
 ## RoyalZJT/CVE
 
 **关键字** CVE
@@ -2493,16 +2503,6 @@
 **介绍:** NT API Code Injection using NtCreateSection and NtMapViewOfSection to inject shellcode into a remote process. This method allows for efficient memory manipulation and code execution within target processes.
 
 **地址:** https://github.com/Malforge-Maldev-Public-Organization/NT-API-Code-Injection
-
----
-
-## igbin01/nebula-drift
-
-**关键字** Red Team
-
-**介绍:** An advanced AI-powered red team framework for dynamic and stealthy payload execution
-
-**地址:** https://github.com/igbin01/nebula-drift
 
 ---
 
