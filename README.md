@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## HashKam15859/CNIT-121-Computer-Forensics
+
+**关键字** Computer Forensics
+
+**介绍:** None
+
+**地址:** https://github.com/HashKam15859/CNIT-121-Computer-Forensics
+
+---
+
 ## mmvest/InjectTools
 
 **关键字** shellcode
@@ -2583,26 +2593,6 @@
 **介绍:** emulate ADS traffic for a RTL SDR
 
 **地址:** https://github.com/tinmarco/AirDefenseExploit
-
----
-
-## openginer/EXCEL-EXPLOIT
-
-**关键字** Exploit
-
-**介绍:** Advanced Excel XLSX Exploit
-
-**地址:** https://github.com/openginer/EXCEL-EXPLOIT
-
----
-
-## packages-2o/titan-crypter-5o
-
-**关键字** bypass av
-
-**介绍:** titan crypter-5o  edr/upp bypass fud stub (avcheck, kleenscan, websec, run4me, dyn) all av's bypass support/update  price: $180 all crypto - 1 month  DC: @titanadmindevelopment TG: @titanadmindevelopment
-
-**地址:** https://github.com/packages-2o/titan-crypter-5o
 
 ---
 
