@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## jugouin/CVE
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/jugouin/CVE
+
+---
+
 ## HashKam15859/CNIT-121-Computer-Forensics
 
 **关键字** Computer Forensics
@@ -13,6 +23,16 @@
 **介绍:** None
 
 **地址:** https://github.com/HashKam15859/CNIT-121-Computer-Forensics
+
+---
+
+## yozot/CVE-related-resources
+
+**关键字** CVE
+
+**介绍:** putting CVE related things
+
+**地址:** https://github.com/yozot/CVE-related-resources
 
 ---
 
