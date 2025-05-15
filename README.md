@@ -6,6 +6,36 @@
 
 ## 最新仓库
 
+## h4cker-crypto/FreeExploits
+
+**关键字** Exploit
+
+**介绍:** Разрабатываем, оттачиваем и тестируем эксплоиты для самых разных уязвимостей.
+
+**地址:** https://github.com/h4cker-crypto/FreeExploits
+
+---
+
+## chunned/CVEgraph
+
+**关键字** CVE
+
+**介绍:** Construct a Neo4j graph database from the cvelistV5 repository.
+
+**地址:** https://github.com/chunned/CVEgraph
+
+---
+
+## BODE987/CVE-2025-31258-PoC
+
+**关键字** CVE
+
+**介绍:** 1day practice - Escape macOS sandbox (partial) using RemoteViewServices
+
+**地址:** https://github.com/BODE987/CVE-2025-31258-PoC
+
+---
+
 ## m4s1um/CVE-2025-32756-RCE-PoC
 
 **关键字** RCE
@@ -26,6 +56,16 @@
 
 ---
 
+## unboxings/CLEARPASS
+
+**关键字** Exploit
+
+**介绍:** Reconnaissance Tools, Cracking Tools (netflix, spotify, hotmail, zip files), Web Testing Tools, Network Tools, Exploitation Tools, Post-Exploitation Tools.
+
+**地址:** https://github.com/unboxings/CLEARPASS
+
+---
+
 ## StefanIT10/cvele
 
 **关键字** CVE
@@ -33,6 +73,16 @@
 **介绍:** None
 
 **地址:** https://github.com/StefanIT10/cvele
+
+---
+
+## declanmiddleton/Automated-Local-File-Inclusion-Exploitation-Script
+
+**关键字** Exploit
+
+**介绍:** A Python script designed to automate the exploitation of Local File Inclusion (LFI) vulnerabilities. Built during Hack The Box CTF Titanic, this tool streamlines the process of testing LFI payloads and extracting sensitive files like /etc/passwd via GET requests.
+
+**地址:** https://github.com/declanmiddleton/Automated-Local-File-Inclusion-Exploitation-Script
 
 ---
 
@@ -93,6 +143,16 @@
 **介绍:** Find roblox exploits
 
 **地址:** https://github.com/CoolGuywhoisnotcool/My-Roblox-Scripts-Wiki
+
+---
+
+## saneishere/SaneLittleHelper
+
+**关键字** Exploit
+
+**介绍:** Advanced Roblox exploitation tool by #samauelisdumbaf. Intercepts, logs, replays remotes.
+
+**地址:** https://github.com/saneishere/SaneLittleHelper
 
 ---
 
@@ -206,6 +266,26 @@
 
 ---
 
+## zerodayjn/coinbasecontract
+
+**关键字** Exploit
+
+**介绍:** coinbase code exploit bug bounty
+
+**地址:** https://github.com/zerodayjn/coinbasecontract
+
+---
+
+## mhdgning131/WildcardsCTF
+
+**关键字** Exploit
+
+**介绍:** A minimal web exploitation ctf i made
+
+**地址:** https://github.com/mhdgning131/WildcardsCTF
+
+---
+
 ## Khushinayak2911/shellcodes
 
 **关键字** shellcode
@@ -243,6 +323,16 @@
 **介绍:** Professional-grade tools for efficient binary analysis and automated ROP/JOP gadget map extraction, aimed at accelerating exploit development for PSFree Lapse and similar projects.
 
 **地址:** https://github.com/x-raen/psfree-lapse-toolkit
+
+---
+
+## rsvptr/railsecure
+
+**关键字** CVE
+
+**介绍:** AI-powered cybersecurity awareness platform, a proof-of-concept for an Iarnród Éireann (Irish Rail) interview. Features engaging, interactive modules for practical learning in critical areas: recognizing phishing attempts, cultivating strong password habits, executing effective incident response, understanding CVEs, and navigating compliance.
+
+**地址:** https://github.com/rsvptr/railsecure
 
 ---
 
@@ -413,6 +503,16 @@
 **介绍:** None
 
 **地址:** https://github.com/Antxine/get-known-exploited-vulnerabilities-euvd
+
+---
+
+## Scotch-Archive/archive
+
+**关键字** Exploit
+
+**介绍:** An archive of Scotch College Perth exploits, tutorials and history
+
+**地址:** https://github.com/Scotch-Archive/archive
 
 ---
 
@@ -1066,6 +1166,16 @@
 
 ---
 
+## Kayden12341/Nameless-Admin-V2
+
+**关键字** Exploit
+
+**介绍:** This is a exploit created by: Cheese/Monkey
+
+**地址:** https://github.com/Kayden12341/Nameless-Admin-V2
+
+---
+
 ## Yucaerin/CVE-2025-2294
 
 **关键字** CVE
@@ -1476,6 +1586,16 @@
 
 ---
 
+## solacelilith/buffering-problems
+
+**关键字** Exploit
+
+**介绍:** A binary exploitation attack-defence challenge created for RabaCTF .
+
+**地址:** https://github.com/solacelilith/buffering-problems
+
+---
+
 ## CodeCore-exploits/CodeCore-exploits
 
 **关键字** Exploit
@@ -1543,6 +1663,16 @@
 **介绍:** None
 
 **地址:** https://github.com/shkch02/eBPF_cve_2024_23651
+
+---
+
+## TheHiddenCoder001/robloxluabackup
+
+**关键字** Exploit
+
+**介绍:** A backup of scripts for roblox exploiting
+
+**地址:** https://github.com/TheHiddenCoder001/robloxluabackup
 
 ---
 
@@ -2383,46 +2513,6 @@
 **介绍:** None
 
 **地址:** https://github.com/SilentisVox/PowerShell-Shellcode-Exec
-
----
-
-## laishouchao/Apache-RocketMQ-RCE-CVE-2023-37582-poc
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/laishouchao/Apache-RocketMQ-RCE-CVE-2023-37582-poc
-
----
-
-## noah2300/cverse-test3
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/noah2300/cverse-test3
-
----
-
-## Ankitha-Sreeramoju/Comprehensive-Analysis-of-Modern-Computer-Forensics
-
-**关键字** Computer Forensics
-
-**介绍:** Comprehensive Analysis of Modern Computer Forensics: Techniques, Challenges, and Legal Implications in the Digital Age
-
-**地址:** https://github.com/Ankitha-Sreeramoju/Comprehensive-Analysis-of-Modern-Computer-Forensics
-
----
-
-## swws141/CVE
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/swws141/CVE
 
 ---
 
