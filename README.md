@@ -16,6 +16,26 @@
 
 ---
 
+## hubCVE2025/CVE
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/hubCVE2025/CVE
+
+---
+
+## ghost-zz/test
+
+**关键字** CVE
+
+**介绍:** CVE-2020-999999, CVE-2020-999998 
+
+**地址:** https://github.com/ghost-zz/test
+
+---
+
 ## tomagoyaky/keys_inject
 
 **关键字** 注入
