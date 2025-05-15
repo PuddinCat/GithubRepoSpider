@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## maliqto/PoC-CVE-2025-24813
+
+**关键字** CVE
+
+**介绍:** PoC para o CVE-2025-24813
+
+**地址:** https://github.com/maliqto/PoC-CVE-2025-24813
+
+---
+
 ## Jimeradez/BloxFruitsExploits
 
 **关键字** Exploit
@@ -13,6 +23,16 @@
 **介绍:** Jimeradez’ BloxFruit exploits. Version 1.0
 
 **地址:** https://github.com/Jimeradez/BloxFruitsExploits
+
+---
+
+## Sratet/CVE-2025-30397-RCE
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/Sratet/CVE-2025-30397-RCE
 
 ---
 
@@ -2533,36 +2553,6 @@
 **介绍:** This is the project wiki page for UQ CSSE4011 Project Team Sisyphus - Blue
 
 **地址:** https://github.com/ThomasTang-UQ/Sisyphus-Blue
-
----
-
-## h31md4llr/libjpeg_cve-2018-14498
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/h31md4llr/libjpeg_cve-2018-14498
-
----
-
-## HYQ-A/ZombieTowerDefense
-
-**关键字** 攻防
-
-**介绍:** 一款3D塔防类游戏开发，实现玩家自由移动，攻击，造塔升级等功能。
-
-**地址:** https://github.com/HYQ-A/ZombieTowerDefense
-
----
-
-## kishore-1812/MiniNet-Exploitation
-
-**关键字** Exploit
-
-**介绍:** A simulated attack and countermeasures project using Mininet
-
-**地址:** https://github.com/kishore-1812/MiniNet-Exploitation
 
 ---
 
