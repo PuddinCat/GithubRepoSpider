@@ -2696,14 +2696,4 @@
 
 ---
 
-## DevelopmentFcuevas/Control-de-Ventas-y-Entrega-de-Productos-CVEP-
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/DevelopmentFcuevas/Control-de-Ventas-y-Entrega-de-Productos-CVEP-
-
----
-
 
