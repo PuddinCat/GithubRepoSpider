@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## fieldsjustus/BurpSuite
+
+**关键字** burp
+
+**介绍:** None
+
+**地址:** https://github.com/fieldsjustus/BurpSuite
+
+---
+
+## LubyRuffy/ProxyCraft
+
+**关键字** 网络安全
+
+**介绍:** ProxyCraft 是一款轻量级、高性能的命令行代理工具，本身为 HTTP 代理协议，支持 HTTPS/HTTP2/SSE 特性，用于进行本地抓包分析。它专为开发人员、安全测试人员和网络管理员设计，提供便捷的流量观察、分析和调试能力。
+
+**地址:** https://github.com/LubyRuffy/ProxyCraft
+
+---
+
 ## want2live233/nacos_derby_rce_custom_memshell
 
 **关键字** 漏洞利用
@@ -13,6 +33,16 @@
 **介绍:** Nacos Derby命令执行漏洞利用脚本，支持 jMG 生成的内存马
 
 **地址:** https://github.com/want2live233/nacos_derby_rce_custom_memshell
+
+---
+
+## Mohammad-mo-02/Ethical-Hacking-Labs
+
+**关键字** burp
+
+**介绍:** Penetration testing labs using Nmap, Metasploit, SQLMap, Wireshark, and Burp Suite across TryHackMe and DVWA environments. Tasks included recon, exploitation, reverse shells, FTP sniffing, and bug bounty simulation.
+
+**地址:** https://github.com/Mohammad-mo-02/Ethical-Hacking-Labs
 
 ---
 
