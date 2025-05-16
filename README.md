@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## dhstacksandsticks/obs-virtual-webcamera
+
+**关键字** RCE
+
+**介绍:** Obs recently disabled all Virtual Cameras, due to catfishing. This is the brand new method that uses rce that injects to hvnc, to infiltrate obs's systems and fixes your webcam, this also enables a webcam if you dont have one!
+
+**地址:** https://github.com/dhstacksandsticks/obs-virtual-webcamera
+
+---
+
 ## CirqueiraDev/botnet-exploits
 
 **关键字** Exploit
@@ -2683,16 +2693,6 @@
 **介绍:** 🛠️ A walkthrough of TryHackMe's Basic Pentesting room focusing on web enumeration, brute-force attacks, and Linux privilege escalation. Includes tool usage, exploitation steps, and key takeaways for beginners in offensive security.
 
 **地址:** https://github.com/B-Hensley/basic-pentesting-ctf
-
----
-
-## JuaanReis/Lynx
-
-**关键字** RCE
-
-**介绍:** Scanner web leve, rápido e modular pra caçar XSS, SQLi, RCE e mais. Feito em Python + C, com suporte a WAF bypass, multi-thread e payloads custom.
-
-**地址:** https://github.com/JuaanReis/Lynx
 
 ---
 
