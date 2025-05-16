@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## lhqs/BlazorServerPermissionManagement
+
+**关键字** 提权
+
+**介绍:** Blazor Server 权限管理系统模板， 旨在提供一个灵活且可扩展的权限管理解决方案，适用于各种 Web 应用程序
+
+**地址:** https://github.com/lhqs/BlazorServerPermissionManagement
+
+---
+
 ## GianlucaSanfi/cve-2021-4428
 
 **关键字** CVE
@@ -2833,66 +2843,6 @@
 **介绍:** cve
 
 **地址:** https://github.com/sumingwjl/cve
-
----
-
-## killjapandog/CF-OSS
-
-**关键字** 红队
-
-**介绍:** 云环境利用框架（Cloud exploitation framework）主要用来方便红队人员在获得 AK 的后续工作。
-
-**地址:** https://github.com/killjapandog/CF-OSS
-
----
-
-## ther0ok1eboy/get-cookie-of-189.cn
-
-**关键字** 后渗透
-
-**介绍:** 批量获取中国电信一次性认证token, 方便于后续渗透过程中的重放攻击
-
-**地址:** https://github.com/ther0ok1eboy/get-cookie-of-189.cn
-
----
-
-## ROHAN-BAGHEL/Exploit_Dev_Beginners
-
-**关键字** Exploit
-
-**介绍:** demonstrated how to start exploit development.
-
-**地址:** https://github.com/ROHAN-BAGHEL/Exploit_Dev_Beginners
-
----
-
-## ian1026/BBST
-
-**关键字** 注入
-
-**介绍:** BBST 是“Basis of Black-Box Testing”的缩写，全称为“黑盒测试基础”。它是一套系统化的软件测试基础知识体系，由 Cem Kaner 和 Rebecca L. Fiedler 编写的《Foundations of Software Testing: A BBST Workbook》一书所提出。 BBST 主要关注黑盒测试方法和实践，强调从用户的角度出发，通过测试软件的输入和输出来验证软件功能是否符合预期，而无需深入了解软件的内部实现逻辑。
-
-**地址:** https://github.com/ian1026/BBST
-
----
-
-## arpcyber040/CVE
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/arpcyber040/CVE
-
----
-
-## Shark-Forest/NLP-Tasks
-
-**关键字** 注入
-
-**介绍:** 根据b站博主@你可是处女座啊的讲解完成了一些基本的NLP-Tasks，修改了部分训练细节并在注释中加入了自己的理解。感谢@你可是处女座啊，他的github地址是：https://github.com/zyds/，大家多多支持他呀
-
-**地址:** https://github.com/Shark-Forest/NLP-Tasks
 
 ---
 
