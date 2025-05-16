@@ -6,6 +6,36 @@
 
 ## 最新仓库
 
+## glassley82/-Grow-a-Garden-Script
+
+**关键字** Exploit
+
+**介绍:** Roblox Grow a Garden Script | Auto Grow Plants + Harvest System | Free Roblox Garden Simulator Script | 2025 Updated Roblox Exploit
+
+**地址:** https://github.com/glassley82/-Grow-a-Garden-Script
+
+---
+
+## bowcow6456/PathExile2-Exploit
+
+**关键字** Exploit
+
+**介绍:** 2025 Path of Exile 2 Cheats Pack: Download Latest Hacks on Windows💥
+
+**地址:** https://github.com/bowcow6456/PathExile2-Exploit
+
+---
+
+## sexyguybarabashka1/WL3-Exploit-List
+
+**关键字** Exploit
+
+**介绍:** Best Wasteland 3 Cheats Collection: Download for Windows PC 2025 Update
+
+**地址:** https://github.com/sexyguybarabashka1/WL3-Exploit-List
+
+---
+
 ## vae-zq/Unity_Data-persistence
 
 **关键字** 反序列化
@@ -13,6 +43,46 @@
 **介绍:** Unity中用于序列化和反序列化数据的框架
 
 **地址:** https://github.com/vae-zq/Unity_Data-persistence
+
+---
+
+## bessone131/Grow-a-Garden-Script
+
+**关键字** Exploit
+
+**介绍:** Roblox Grow a Garden Script | Auto Grow Plants + Harvest System | Free Roblox Garden Simulator Script | 2025 Updated Roblox Exploit 
+
+**地址:** https://github.com/bessone131/Grow-a-Garden-Script
+
+---
+
+## bancow6314/--Grow-a-Garden-Script
+
+**关键字** Exploit
+
+**介绍:** Roblox Grow a Garden Script | Auto Grow Plants + Harvest System | Free Roblox Garden Simulator Script | 2025 Updated Roblox Exploit 
+
+**地址:** https://github.com/bancow6314/--Grow-a-Garden-Script
+
+---
+
+## Mister-Exploit/MisterExploit-Updates
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/Mister-Exploit/MisterExploit-Updates
+
+---
+
+## mrripkenytownsend2/--Grow-a-Garden-Script
+
+**关键字** Exploit
+
+**介绍:** Roblox Grow a Garden Script | Auto Grow Plants + Harvest System | Free Roblox Garden Simulator Script | 2025 Updated Roblox Exploit 
+
+**地址:** https://github.com/mrripkenytownsend2/--Grow-a-Garden-Script
 
 ---
 
@@ -2803,16 +2873,6 @@
 **介绍:** A lightweight penetration testing toolkit that integrates Nmap with AI models  to automatically analyze scan results and suggest next steps for enumeration and exploitation. 
 
 **地址:** https://github.com/WHOISshuvam/nai
-
----
-
-## bogdanbarbulescu/cve
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/bogdanbarbulescu/cve
 
 ---
 
