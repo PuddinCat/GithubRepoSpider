@@ -6,6 +6,66 @@
 
 ## 最新仓库
 
+## CirqueiraDev/botnet-exploits
+
+**关键字** Exploit
+
+**介绍:** Exploits para carregar bots para sua botnet
+
+**地址:** https://github.com/CirqueiraDev/botnet-exploits
+
+---
+
+## Ernket/SyncBuster
+
+**关键字** Exploit
+
+**介绍:** 条件竞争（并发）利用工具，支持通过正则提取请求结果后进行后续请求的操作    Race Condition (Concurrency) Exploit Tool with support for performing subsequent requests based on regex-extracted results from response data
+
+**地址:** https://github.com/Ernket/SyncBuster
+
+---
+
+## TSY244/GoSecScanner
+
+**关键字** 代码审计
+
+**介绍:** 主要是用于扫描go 代码中鉴权框架。也可以扫描安全函数或者非安全函数，有利于代码审计。
+
+**地址:** https://github.com/TSY244/GoSecScanner
+
+---
+
+## xie-22/CVE-2025-4428
+
+**关键字** RCE
+
+**介绍:** Ivanti EPMM Pre-Auth RCE Chain
+
+**地址:** https://github.com/xie-22/CVE-2025-4428
+
+---
+
+## kairos-hk/rce-commandi
+
+**关键字** RCE
+
+**介绍:** None
+
+**地址:** https://github.com/kairos-hk/rce-commandi
+
+---
+
+## smitborad13/Threatmeld
+
+**关键字** burp
+
+**介绍:** A plugin that automatically maps Burp Suite findings to OWASP WSTG test cases
+
+**地址:** https://github.com/smitborad13/Threatmeld
+
+---
+
 ## musa-isik/OpenCVEyeFilter
 
 **关键字** CVE
@@ -23,6 +83,16 @@
 **介绍:** Sea of Thieves Exploit Cheat Free Download 2025
 
 **地址:** https://github.com/gisfakenews/sea-of-thieves-exploit
+
+---
+
+## iquweh/https-github.com-MathV2official-exploits
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/iquweh/https-github.com-MathV2official-exploits
 
 ---
 
@@ -2623,56 +2693,6 @@
 **介绍:** Scanner web leve, rápido e modular pra caçar XSS, SQLi, RCE e mais. Feito em Python + C, com suporte a WAF bypass, multi-thread e payloads custom.
 
 **地址:** https://github.com/JuaanReis/Lynx
-
----
-
-## achrafAa/cventure
-
-**关键字** CVE
-
-**介绍:** A playful way to learn C programming through interactive exercises. Each exercise is designed to teach you a specific concept while having fun fixing bugs and completing challenges.
-
-**地址:** https://github.com/achrafAa/cventure
-
----
-
-## jgamblin/CNAVendorTypeStats
-
-**关键字** CVE
-
-**介绍:** CVE Stats By CNA Vendor Type
-
-**地址:** https://github.com/jgamblin/CNAVendorTypeStats
-
----
-
-## dievus/cognito-identity-sa
-
-**关键字** Exploit
-
-**介绍:** Cognito Identity Situational Awareness and Exploitation
-
-**地址:** https://github.com/dievus/cognito-identity-sa
-
----
-
-## pkpjs/CVE-TEST
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/pkpjs/CVE-TEST
-
----
-
-## wh1te4ever/CVE-2025-31258-PoC
-
-**关键字** CVE
-
-**介绍:** 1day practice - Escape macOS sandbox (partial) using RemoteViewServices
-
-**地址:** https://github.com/wh1te4ever/CVE-2025-31258-PoC
 
 ---
 
