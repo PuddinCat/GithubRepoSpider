@@ -2836,24 +2836,4 @@
 
 ---
 
-## MandipJoshi/CVE-2021-3560
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/MandipJoshi/CVE-2021-3560
-
----
-
-## jadyn455/RCE
-
-**关键字** RCE
-
-**介绍:** A rust bot for RCE
-
-**地址:** https://github.com/jadyn455/RCE
-
----
-
 
