@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## GadaLuBau1337/CVE-2025-32583
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/GadaLuBau1337/CVE-2025-32583
+
+---
+
+## 123654mjx/ICPAssetExpress
+
+**关键字** 信息收集
+
+**介绍:** 一款互联网有效资产发现工具，方便快速对多个企业进行信息收集（目前基于360 quake api）
+
+**地址:** https://github.com/123654mjx/ICPAssetExpress
+
+---
+
 ## HoViKhanh/CVE
 
 **关键字** CVE
@@ -13,6 +33,16 @@
 **介绍:** None
 
 **地址:** https://github.com/HoViKhanh/CVE
+
+---
+
+## T04R/collection
+
+**关键字** Exploit
+
+**介绍:** collection of post-exploitation techniques.
+
+**地址:** https://github.com/T04R/collection
 
 ---
 
@@ -2833,16 +2863,6 @@
 **介绍:** None
 
 **地址:** https://github.com/shiwanijain/cve_fix
-
----
-
-## cutecatcat16/Burp_Plugin_JWT_Update
-
-**关键字** burp
-
-**介绍:** None
-
-**地址:** https://github.com/cutecatcat16/Burp_Plugin_JWT_Update
 
 ---
 
