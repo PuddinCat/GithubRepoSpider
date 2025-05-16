@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## demopath/rcedit
+
+**关键字** RCE
+
+**介绍:** 添加图标和清单文件，美化 exe
+
+**地址:** https://github.com/demopath/rcedit
+
+---
+
 ## abir-ah616/cve3
 
 **关键字** CVE
