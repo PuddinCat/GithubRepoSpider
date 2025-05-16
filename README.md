@@ -6,6 +6,66 @@
 
 ## 最新仓库
 
+## k-priyansh/burp-extensions
+
+**关键字** burp
+
+**介绍:** None
+
+**地址:** https://github.com/k-priyansh/burp-extensions
+
+---
+
+## k-priyansh/tldraw-Launcher
+
+**关键字** burp
+
+**介绍:** tldraw Launcher is a lightweight Burp Suite extension that adds a custom tab with a button to quickly open in your default web browser.
+
+**地址:** https://github.com/k-priyansh/tldraw-Launcher
+
+---
+
+## WowT-sys/RCE-MS-Office
+
+**关键字** RCE
+
+**介绍:** None
+
+**地址:** https://github.com/WowT-sys/RCE-MS-Office
+
+---
+
+## k-priyansh/StatusCodeLogger
+
+**关键字** burp
+
+**介绍:** Burp Suite extension that monitors HTTP responses and logs status codes (e.g., 200, 202, 404) in a custom GUI tab, helping penetration testers quickly identify unusual or important HTTP response statuses during testing.
+
+**地址:** https://github.com/k-priyansh/StatusCodeLogger
+
+---
+
+## Giulia-Campagna/CS0225Exploit-Java-RMI
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/Giulia-Campagna/CS0225Exploit-Java-RMI
+
+---
+
+## AIwolfie/CORS-exploit
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/AIwolfie/CORS-exploit
+
+---
+
 ## GadaLuBau1337/CVE-2025-32583
 
 **关键字** CVE
@@ -2843,26 +2903,6 @@
 **介绍:** None
 
 **地址:** https://github.com/h31md4llr/libjpeg_cve-2018-14498_2
-
----
-
-## hazcod/euvd-go
-
-**关键字** CVE
-
-**介绍:** Go SDK to access the ENISA EUVD vulnerability database.
-
-**地址:** https://github.com/hazcod/euvd-go
-
----
-
-## shiwanijain/cve_fix
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/shiwanijain/cve_fix
 
 ---
 
