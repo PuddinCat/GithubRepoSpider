@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## Astonke/net-exploit
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/Astonke/net-exploit
+
+---
+
+## capture0x/magnolia-rce
+
+**关键字** RCE
+
+**介绍:** AdminCentral Groovy module (magnolia-groovy module) in Magnolia DX Core 6.3.8.
+
+**地址:** https://github.com/capture0x/magnolia-rce
+
+---
+
 ## take1nnoff/FiveM-External-Cheat
 
 **关键字** Exploit
@@ -933,6 +953,16 @@
 **介绍:** AVM HWID Spoofer is the ultimate HWID Changer tool designed to bypass hardware bans easily. Boost your gaming experience with a secure, fast, and reliable HWID Spoofer. Stay undetected, switch devices seamlessly, and play worry-free. Download now for safe HWID protection!
 
 **地址:** https://github.com/jenniferaqmew/avmhwlxzx
+
+---
+
+## hightowerakiko468/DressTo-wj
+
+**关键字** Exploit
+
+**介绍:** Roblox Dress To Impress Script 🚀 Roblox Dress To Impress Script & Executor 🚀 Roblox Dress To Impress Script Powerful Exploit
+
+**地址:** https://github.com/hightowerakiko468/DressTo-wj
 
 ---
 
@@ -2713,106 +2743,6 @@
 **介绍:** 2025 Windows Guide: Free Download of Roblox Blox Fruits Scripts Now
 
 **地址:** https://github.com/akiranoplayergame3/Roblox-FruitExploit
-
----
-
-## drdree-lang/drdree-lang
-
-**关键字** CVE
-
-**介绍:** cve 
-
-**地址:** https://github.com/drdree-lang/drdree-lang
-
----
-
-## Kayden12341/Nameless-Admin-V2
-
-**关键字** Exploit
-
-**介绍:** This is a exploit created by: Cheese/Monkey
-
-**地址:** https://github.com/Kayden12341/Nameless-Admin-V2
-
----
-
-## Yucaerin/CVE-2025-2294
-
-**关键字** CVE
-
-**介绍:** Kubio AI Page Builder <= 2.5.1 - Unauthenticated Local File Inclusion
-
-**地址:** https://github.com/Yucaerin/CVE-2025-2294
-
----
-
-## darkknigtboundless/Eve-Exploit-Pro
-
-**关键字** Exploit
-
-**介绍:** Ultimate Eve Online Hacking Tool: 2025 Windows Download Pack💻
-
-**地址:** https://github.com/darkknigtboundless/Eve-Exploit-Pro
-
----
-
-## teletubbies24/Divers2-Exploit
-
-**关键字** Exploit
-
-**介绍:** Helldivers 2 Ultimate Hack Pack: Download for Windows 2025 Edition 🌟
-
-**地址:** https://github.com/teletubbies24/Divers2-Exploit
-
----
-
-## bravespirit7665/OW2-Exploit
-
-**关键字** Exploit
-
-**介绍:** Best OverWatch 2 Cheat Tools: Download Now for Windows in 2025
-
-**地址:** https://github.com/bravespirit7665/OW2-Exploit
-
----
-
-## mowbetterhalf441/BlackOps6-Exploit
-
-**关键字** Exploit
-
-**介绍:** Unlock COD Black Ops 6 with 2025 Hack Download for Windows 🎮🔓
-
-**地址:** https://github.com/mowbetterhalf441/BlackOps6-Exploit
-
----
-
-## doreatha4507/Thieves-Exploit
-
-**关键字** Exploit
-
-**介绍:** Download Sea of Thieves Hack 2025 for Windows-Free & Unlimited Access ⚓
-
-**地址:** https://github.com/doreatha4507/Thieves-Exploit
-
----
-
-## animat53niko/ZeroZone-Exploit
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/animat53niko/ZeroZone-Exploit
-
----
-
-## meztinos62/Warface-Exploit
-
-**关键字** Exploit
-
-**介绍:** Free Warface Hack Download 2025 for Windows – Unlock All Features Now!🔥
-
-**地址:** https://github.com/meztinos62/Warface-Exploit
 
 ---
 
