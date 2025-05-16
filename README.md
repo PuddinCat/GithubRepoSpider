@@ -26,6 +26,26 @@
 
 ---
 
+## beydtech/Exploits-Payload
+
+**关键字** Exploit
+
+**介绍:** Develop a proof-of-concept exploit for a specific vulnerability (choose from a predetermined list or suggest your own). Describe the vulnerability, provide the necessary background information, and demonstrate the working exploit
+
+**地址:** https://github.com/beydtech/Exploits-Payload
+
+---
+
+## beydtech/Privilege-escalation-client-side-exploits
+
+**关键字** Exploit
+
+**介绍:** Perform a privilege escalation attack on a target system. Document the steps followed, including the techniques used to escalate privileges and gain unauthorized access. Additionally, demonstrate a client-side exploit, such as a browser-based attack, and discuss mitigation strategies.
+
+**地址:** https://github.com/beydtech/Privilege-escalation-client-side-exploits
+
+---
+
 ## KICKBUTOVSKI2/cvetnik26
 
 **关键字** CVE
@@ -2833,26 +2853,6 @@
 **介绍:** 根据b站博主@你可是处女座啊的讲解完成了一些基本的NLP-Tasks，修改了部分训练细节并在注释中加入了自己的理解。感谢@你可是处女座啊，他的github地址是：https://github.com/zyds/，大家多多支持他呀
 
 **地址:** https://github.com/Shark-Forest/NLP-Tasks
-
----
-
-## erdemaslan0600/ErExec-Pro
-
-**关键字** Exploit
-
-**介绍:** Roblox Exploit
-
-**地址:** https://github.com/erdemaslan0600/ErExec-Pro
-
----
-
-## ClementGuims/CVenligneclemguims
-
-**关键字** CVE
-
-**介绍:** Mon cv en ligne
-
-**地址:** https://github.com/ClementGuims/CVenligneclemguims
 
 ---
 
