@@ -6,6 +6,36 @@
 
 ## 最新仓库
 
+## allamiro/local-cve-api-server
+
+**关键字** CVE
+
+**介绍:** Dockerised CVE-Search stack (MongoDB 4.4 + Redis 7 + Flask API) built on Rocky Linux 8 / RHEL 8.
+
+**地址:** https://github.com/allamiro/local-cve-api-server
+
+---
+
+## b1nhack/CVE-2017-7184
+
+**关键字** CVE
+
+**介绍:** CVE-2017-7184 exp
+
+**地址:** https://github.com/b1nhack/CVE-2017-7184
+
+---
+
+## N1sa26/CVE
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/N1sa26/CVE
+
+---
+
 ## preetiksank/1337.github.io
 
 **关键字** webshell
@@ -86,6 +116,16 @@
 
 ---
 
+## Wh1t3Fox/CVE-2024-3661
+
+**关键字** CVE
+
+**介绍:** CVE-2024-3661 TunnelVision Testing
+
+**地址:** https://github.com/Wh1t3Fox/CVE-2024-3661
+
+---
+
 ## mrripkenytownsend2/--Grow-a-Garden-Script
 
 **关键字** Exploit
@@ -136,6 +176,26 @@
 
 ---
 
+## cvensingh/cvensingh
+
+**关键字** CVE
+
+**介绍:** Config files for my GitHub profile.
+
+**地址:** https://github.com/cvensingh/cvensingh
+
+---
+
+## lfparizzi/CVE-SolucoesCoop
+
+**关键字** CVE
+
+**介绍:** CVE request
+
+**地址:** https://github.com/lfparizzi/CVE-SolucoesCoop
+
+---
+
 ## bratbugger5857/MeepCity-GUI-Script
 
 **关键字** Exploit
@@ -153,6 +213,16 @@
 **介绍:** Natural Disaster Survival GUI Script - Free Undetected Hack | Teleport, God Mode, Exploits & More (2025)
 
 **地址:** https://github.com/bratbugger5857/Natural-Disaster-Survival-GUI-Script
+
+---
+
+## eqimd/cve-reports
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/eqimd/cve-reports
 
 ---
 
@@ -2833,56 +2903,6 @@
 **介绍:** Windows 2025 Hack Download:Enhance Your Insurgency Sandstorm Experience🌐
 
 **地址:** https://github.com/maumau3141/ISS-Exploit
-
----
-
-## afroze2334/cors-exploit-demo
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/afroze2334/cors-exploit-demo
-
----
-
-## bansheebigbang939/DeadLock-Exploit
-
-**关键字** Exploit
-
-**介绍:** Best Ways to Download DeadLock Hack for Windows in 2025 Edition
-
-**地址:** https://github.com/bansheebigbang939/DeadLock-Exploit
-
----
-
-## numb18noplayergame/Fifa2025-Exploit
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/numb18noplayergame/Fifa2025-Exploit
-
----
-
-## PolarSnowLeopard/rf4_helper_app
-
-**关键字** 钓鱼
-
-**介绍:** 俄罗斯钓鱼4小工具桌面客户端
-
-**地址:** https://github.com/PolarSnowLeopard/rf4_helper_app
-
----
-
-## WHOISshuvam/nai
-
-**关键字** Exploit
-
-**介绍:** A lightweight penetration testing toolkit that integrates Nmap with AI models  to automatically analyze scan results and suggest next steps for enumeration and exploitation. 
-
-**地址:** https://github.com/WHOISshuvam/nai
 
 ---
 
