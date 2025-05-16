@@ -6,6 +6,66 @@
 
 ## 最新仓库
 
+## bratbugger5857/Dead-Rails
+
+**关键字** Exploit
+
+**介绍:** Dead Rails - Cheat, Trainer, Exploit Tool (2025)
+
+**地址:** https://github.com/bratbugger5857/Dead-Rails
+
+---
+
+## djhaoswupsenpupsen/Grow-aGarden
+
+**关键字** Exploit
+
+**介绍:** Grow a Garden Script – Dupe Seeds, Auto Farm, Keyless Exploit 
+
+**地址:** https://github.com/djhaoswupsenpupsen/Grow-aGarden
+
+---
+
+## lareinehouse910/--Grow-a-Garden-Script
+
+**关键字** Exploit
+
+**介绍:** Roblox Grow a Garden Script | Auto Grow Plants + Harvest System | Free Roblox Garden Simulator Script | 2025 Updated Roblox Exploit 
+
+**地址:** https://github.com/lareinehouse910/--Grow-a-Garden-Script
+
+---
+
+## mrthomasminster65/-Grow-a-Garden-Script-
+
+**关键字** Exploit
+
+**介绍:** Roblox Grow a Garden Script | Auto Grow Plants + Harvest System | Free Roblox Garden Simulator Script | 2025 Updated Roblox Exploit 
+
+**地址:** https://github.com/mrthomasminster65/-Grow-a-Garden-Script-
+
+---
+
+## bratbugger5857/MeepCity-GUI-Script
+
+**关键字** Exploit
+
+**介绍:** MeepCity GUI Script - Free Undetected Hack | Auto Fishing, Auto Collect, Teleport, Exploits & More (2025)
+
+**地址:** https://github.com/bratbugger5857/MeepCity-GUI-Script
+
+---
+
+## bratbugger5857/Natural-Disaster-Survival-GUI-Script
+
+**关键字** Exploit
+
+**介绍:** Natural Disaster Survival GUI Script - Free Undetected Hack | Teleport, God Mode, Exploits & More (2025)
+
+**地址:** https://github.com/bratbugger5857/Natural-Disaster-Survival-GUI-Script
+
+---
+
 ## sknadklasdls/CVE
 
 **关键字** CVE
@@ -16,6 +76,16 @@
 
 ---
 
+## theendstory173/Grow-aGarden
+
+**关键字** Exploit
+
+**介绍:** Grow a Garden Script – Dupe Seeds, Auto Farm, Keyless Exploit 
+
+**地址:** https://github.com/theendstory173/Grow-aGarden
+
+---
+
 ## 0x4d61686469/burp-extensions
 
 **关键字** burp
@@ -23,6 +93,16 @@
 **介绍:** None
 
 **地址:** https://github.com/0x4d61686469/burp-extensions
+
+---
+
+## teenspiritsidnerni/-Grow-a-Garden-Script
+
+**关键字** Exploit
+
+**介绍:** Roblox Grow a Garden Script | Auto Grow Plants + Harvest System | Free Roblox Garden Simulator Script | 2025 Updated Roblox Exploit 
+
+**地址:** https://github.com/teenspiritsidnerni/-Grow-a-Garden-Script
 
 ---
 
@@ -2813,26 +2893,6 @@
 **介绍:** BurpWand - A tool for automating Burp Suite analysis with LLM integration
 
 **地址:** https://github.com/tkpdx01/burpwandrepo
-
----
-
-## reagan305/FUTURE_CS_01
-
-**关键字** burp
-
-**介绍:** Web application security testing using OWASP ZAP, Burp Suite, and SQLMap to identify and report vulnerabilities.
-
-**地址:** https://github.com/reagan305/FUTURE_CS_01
-
----
-
-## mariaeduardabe/RCEPRS
-
-**关键字** RCE
-
-**介绍:** Repositório para a Análise de Dados do projeto RCEPRS. 
-
-**地址:** https://github.com/mariaeduardabe/RCEPRS
 
 ---
 
