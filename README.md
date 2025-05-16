@@ -6,6 +6,96 @@
 
 ## 最新仓库
 
+## ChoSeitaku/Qt-4DOF-Arm
+
+**关键字** 注入
+
+**介绍:** 本项目是基于 Qt 框架开发的四自由度机械臂控制与仿真系统，专注于运动学计算与 3D 可视化交互。功能包括：  正/逆运动学计算：支持通过关节角度或末端位姿矩阵快速求解，结果实时同步至 3D 模型。  动态可视化：基于 Qt3D 实现机械臂模型渲染（含关节、连杆、末端执行器），支持视角缩放与坐标系辅助。  交互界面：提供输入表格、参数编辑和错误提示，操作直观，适合教学与工业仿真。
+
+**地址:** https://github.com/ChoSeitaku/Qt-4DOF-Arm
+
+---
+
+## SvanurH/Cve
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/SvanurH/Cve
+
+---
+
+## KICKBUTOVSKI2/cvetnik26
+
+**关键字** CVE
+
+**介绍:** ...
+
+**地址:** https://github.com/KICKBUTOVSKI2/cvetnik26
+
+---
+
+## xJasonShane/learn2GDScript
+
+**关键字** 注入
+
+**介绍:** 个人记录从零开始入门GDScript编程语言，不对该仓库内的(包括但不限于)代码、资源、注释等内容的时效性、准确性和实用性负责。
+
+**地址:** https://github.com/xJasonShane/learn2GDScript
+
+---
+
+## Nxploited/CVE-2025-47646
+
+**关键字** CVE
+
+**介绍:**  WordPress PSW Front-end Login &amp; Registration Plugin <= 1.12 is vulnerable to Broken Authentication 
+
+**地址:** https://github.com/Nxploited/CVE-2025-47646
+
+---
+
+## LastNoobDevAlive/Burp---Backup-Restore
+
+**关键字** burp
+
+**介绍:** None
+
+**地址:** https://github.com/LastNoobDevAlive/Burp---Backup-Restore
+
+---
+
+## LastNoobDevAlive/BURP---BackUp-and-Restore-Program
+
+**关键字** burp
+
+**介绍:** None
+
+**地址:** https://github.com/LastNoobDevAlive/BURP---BackUp-and-Restore-Program
+
+---
+
+## Saidurga13/Smart_CVE_Analyser
+
+**关键字** CVE
+
+**介绍:** An AI-powered CVE analyzer that automates the identification and remediation of vulnerable packages using CVE ID for SLES15 SP3.
+
+**地址:** https://github.com/Saidurga13/Smart_CVE_Analyser
+
+---
+
+## fortinet-fortisoar/solution-pack-outbreak-response-langflow-unauth-rce-attack
+
+**关键字** RCE
+
+**介绍:** None
+
+**地址:** https://github.com/fortinet-fortisoar/solution-pack-outbreak-response-langflow-unauth-rce-attack
+
+---
+
 ## nkcrda/jichangvpn
 
 **关键字** 网络安全
@@ -793,6 +883,16 @@
 **介绍:** CVE-2025-4094 – WordPress Digits Plugin < 8.4.6.1 - OTP Authentication Bypass
 
 **地址:** https://github.com/starawneh/CVE-2025-4094
+
+---
+
+## container-security-to-graduate/container-cve-tracker
+
+**关键字** CVE
+
+**介绍:** 캡스톤 5조
+
+**地址:** https://github.com/container-security-to-graduate/container-cve-tracker
 
 ---
 
@@ -2753,16 +2853,6 @@
 **介绍:** Mon cv en ligne
 
 **地址:** https://github.com/ClementGuims/CVenligneclemguims
-
----
-
-## Fauzan-Aldi/CVE-2022-21661
-
-**关键字** CVE
-
-**介绍:** A Python PoC for CVE-2022-21661, adapted from z92g's Go PoC, designed to demonstrate the vulnerability in a more accessible scripting environment.
-
-**地址:** https://github.com/Fauzan-Aldi/CVE-2022-21661
 
 ---
 
