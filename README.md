@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## take1nnoff/FiveM-External-Cheat
+
+**关键字** Exploit
+
+**介绍:** FiveM External cheat, offers various features like aimbot, triggerbot, exploits, and customizable settings, enhancing the gameplay experience. It is completely undetectable.
+
+**地址:** https://github.com/take1nnoff/FiveM-External-Cheat
+
+---
+
 ## allamiro/local-cve-api-server
 
 **关键字** CVE
@@ -23,6 +33,16 @@
 **介绍:** CVE-2017-7184 exp
 
 **地址:** https://github.com/b1nhack/CVE-2017-7184
+
+---
+
+## bottesblackflame38/BG3-ExploitGuide
+
+**关键字** Exploit
+
+**介绍:** New 2025 Baldur's Gate 3 Cheats Download Links for Windows Users 🎮
+
+**地址:** https://github.com/bottesblackflame38/BG3-ExploitGuide
 
 ---
 
@@ -2863,46 +2883,6 @@
 **介绍:** Top No Man's Sky Hacking Tools: Easy 2025 Download for Windows Systems
 
 **地址:** https://github.com/pixelspygarnet/SkyHack-Exploit
-
----
-
-## SrLiath/vuln-scan
-
-**关键字** RCE
-
-**介绍:** A Python-based static vulnerability scanner for PHP files that detects common issues like XSS, SQLi, and RCE
-
-**地址:** https://github.com/SrLiath/vuln-scan
-
----
-
-## syn-developmentlabs/rce-test-via-yt
-
-**关键字** RCE
-
-**介绍:** educational
-
-**地址:** https://github.com/syn-developmentlabs/rce-test-via-yt
-
----
-
-## vmer11raisshaipow/Overwatch2-Exploit
-
-**关键字** Exploit
-
-**介绍:** Latest Free OverWatch 2 Hack Tool: 2025 Windows Version🔑
-
-**地址:** https://github.com/vmer11raisshaipow/Overwatch2-Exploit
-
----
-
-## maumau3141/ISS-Exploit
-
-**关键字** Exploit
-
-**介绍:** Windows 2025 Hack Download:Enhance Your Insurgency Sandstorm Experience🌐
-
-**地址:** https://github.com/maumau3141/ISS-Exploit
 
 ---
 
