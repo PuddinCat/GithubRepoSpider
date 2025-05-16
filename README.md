@@ -6,6 +6,46 @@
 
 ## 最新仓库
 
+## GianlucaSanfi/cve-2021-4428
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/GianlucaSanfi/cve-2021-4428
+
+---
+
+## xinpengccc/cve-
+
+**关键字** CVE
+
+**介绍:** CVE
+
+**地址:** https://github.com/xinpengccc/cve-
+
+---
+
+## MAOGE555/shuidi
+
+**关键字** 免杀
+
+**介绍:** 水滴工具箱，集合各种渗透工具，web扫描，抓包，免杀等等
+
+**地址:** https://github.com/MAOGE555/shuidi
+
+---
+
+## xb-Bogger/pwn.hust
+
+**关键字** 漏洞利用
+
+**介绍:** 漏洞利用-内核攻防实践
+
+**地址:** https://github.com/xb-Bogger/pwn.hust
+
+---
+
 ## ChoSeitaku/Qt-4DOF-Arm
 
 **关键字** 注入
