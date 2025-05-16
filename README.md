@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## sknadklasdls/CVE
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/sknadklasdls/CVE
+
+---
+
 ## sahici/CVE-2025-4822
 
 **关键字** CVE
@@ -2833,86 +2843,6 @@
 **介绍:** A rust bot for RCE
 
 **地址:** https://github.com/jadyn455/RCE
-
----
-
-## ZPitor99/BD_Exploitation
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/ZPitor99/BD_Exploitation
-
----
-
-## corn95cow/LumiTerra-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api-4w
-
-**关键字** Exploit
-
-**介绍:** Bot-that-automates-farming-and-clicker-activities-in-LumiTerra-game.-Includes-crypto-token-integration-and-API-support.-Features-cheats-and-hacks-to-maximize-profit.-Managed-via-Telegram-for-efficient-game-control.
-
-**地址:** https://github.com/corn95cow/LumiTerra-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api-4w
-
----
-
-## termitandymirny735/Axie-Infinity-Bot-Crypto-Cheat-Auto-Farm-Clicker-Game-Api-Hack-km
-
-**关键字** Exploit
-
-**介绍:** Bot that automates farming and clicker activities in Axie Infinity game. Features include crypto integration and API support. Designed with cheats and hacks to maximize profits and enhance gameplay efficiency.
-
-**地址:** https://github.com/termitandymirny735/Axie-Infinity-Bot-Crypto-Cheat-Auto-Farm-Clicker-Game-Api-Hack-km
-
----
-
-## tauruself/Axie-Infinity-Bot-Crypto-Cheat-Auto-Farm-Clicker-Game-Api-Hack-m0
-
-**关键字** Exploit
-
-**介绍:** Bot that automates farming and clicker activities in Axie Infinity game. Features include crypto integration and API support. Designed with cheats and hacks to maximize profits and enhance gameplay efficiency.
-
-**地址:** https://github.com/tauruself/Axie-Infinity-Bot-Crypto-Cheat-Auto-Farm-Clicker-Game-Api-Hack-m0
-
----
-
-## doraevoluciya128/Aavegotchi-Cheat-Crypto-Bot-Auto-Farm-Clicker-Game-Api-Hack-7s
-
-**关键字** Exploit
-
-**介绍:** Bot that automates farming and clicker activities in Aavegotchi game. Features include crypto integration and API support. Equipped with cheats and hacks to optimize profits and enhance gameplay efficiency.
-
-**地址:** https://github.com/doraevoluciya128/Aavegotchi-Cheat-Crypto-Bot-Auto-Farm-Clicker-Game-Api-Hack-7s
-
----
-
-## marget-hellofriend/Fableborne-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api-65
-
-**关键字** Exploit
-
-**介绍:** Bot that automates farming and clicker activities in Fableborne game. Features include crypto token integration and API support. Equipped with cheats and hacks to optimize profits and enhance gameplay efficiency.
-
-**地址:** https://github.com/marget-hellofriend/Fableborne-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api-65
-
----
-
-## jerrypooh964/Muck-MASS-SMS-Sender-Whatsapp-Boomber-kr
-
-**关键字** Exploit
-
-**介绍:** SMS APIs and gateways enable services like messaging, verification, and spamming. Tools like SMS bombers or prank apps exploit these systems, while bypassing platforms like WhatsApp, Telegram, and Instagram for malicious or recreational hacking purposes.
-
-**地址:** https://github.com/jerrypooh964/Muck-MASS-SMS-Sender-Whatsapp-Boomber-kr
-
----
-
-## madeon151/Blade-Ball-hd
-
-**关键字** Exploit
-
-**介绍:** Blade Ball Script Hack Auto Farm Pastebin 2025 No Key Exploit Keyless PC & MOBILE OP GUI Cheat Byfron Bypass Anti-Ban Undetected Script BEST AUTOPARRY
-
-**地址:** https://github.com/madeon151/Blade-Ball-hd
 
 ---
 
