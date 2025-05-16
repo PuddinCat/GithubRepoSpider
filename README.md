@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## sahici/CVE-2025-4822
+
+**关键字** CVE
+
+**介绍:** USOM Tarafından resmi yayın beklenmektedir.
+
+**地址:** https://github.com/sahici/CVE-2025-4822
+
+---
+
 ## sweetpotatohack/AKUMA_Cobalt_profile
 
 **关键字** Cobalt Strike
@@ -13,6 +23,16 @@
 **介绍:** Это профиль для C2 Cobalt_Strike
 
 **地址:** https://github.com/sweetpotatohack/AKUMA_Cobalt_profile
+
+---
+
+## jlucas8/cve-test-scripts
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/jlucas8/cve-test-scripts
 
 ---
 
@@ -46,6 +66,16 @@
 
 ---
 
+## dongmanwangzhan/mxdongman
+
+**关键字** 注入
+
+**介绍:** MX动漫最新网站-专注在线动漫的樱花动漫备用最新网址入口
+
+**地址:** https://github.com/dongmanwangzhan/mxdongman
+
+---
+
 ## joaovarelas/aspx-webshell-executor
 
 **关键字** webshell
@@ -63,6 +93,16 @@
 **介绍:** Burp Suite extension that monitors HTTP responses and logs status codes (e.g., 200, 202, 404) in a custom GUI tab, helping penetration testers quickly identify unusual or important HTTP response statuses during testing.
 
 **地址:** https://github.com/k-priyansh/StatusCodeLogger
+
+---
+
+## Elrit6/cVector
+
+**关键字** CVE
+
+**介绍:** simple vector in c
+
+**地址:** https://github.com/Elrit6/cVector
 
 ---
 
@@ -2873,16 +2913,6 @@
 **介绍:** Blade Ball Script Hack Auto Farm Pastebin 2025 No Key Exploit Keyless PC & MOBILE OP GUI Cheat Byfron Bypass Anti-Ban Undetected Script BEST AUTOPARRY
 
 **地址:** https://github.com/madeon151/Blade-Ball-hd
-
----
-
-## pxx917144686/12345
-
-**关键字** CVE
-
-**介绍:** CVE-2025-24085漏洞  和 Schemeshare漏洞
-
-**地址:** https://github.com/pxx917144686/12345
 
 ---
 
