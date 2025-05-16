@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## conkel-497/Warzone-Exploit
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/conkel-497/Warzone-Exploit
+
+---
+
+## viperthepunisher/Deadfire-Exploit
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/viperthepunisher/Deadfire-Exploit
+
+---
+
 ## dhstacksandsticks/obs-virtual-webcamera
 
 **关键字** RCE
@@ -63,6 +83,16 @@
 **介绍:** None
 
 **地址:** https://github.com/kairos-hk/rce-commandi
+
+---
+
+## hhckon/BelajarBypassAV
+
+**关键字** bypass av
+
+**介绍:** None
+
+**地址:** https://github.com/hhckon/BelajarBypassAV
 
 ---
 
@@ -213,6 +243,16 @@
 **介绍:** 2025 Battlefield 2042 Hacks: Secure Download for Windows Users💻
 
 **地址:** https://github.com/deer6raisshaipow/BF2042-Exploit
+
+---
+
+## EvilSupahFly/DnD-Rule-Abuse
+
+**关键字** Exploit
+
+**介绍:** Dungeons & Dragons: The Exploit Codex – Rule Abuse for the Truly Unhinged
+
+**地址:** https://github.com/EvilSupahFly/DnD-Rule-Abuse
 
 ---
 
@@ -2673,16 +2713,6 @@
 **介绍:** None
 
 **地址:** https://github.com/modded-soldier-9/smowl-exploit
-
----
-
-## Neofetcher/Active-Directory-Lab-Exploitation
-
-**关键字** Exploit
-
-**介绍:** Simulated attacks on a vulnerable Active Directory environment, mimicking real-world internal penetration tests. Achieved domain admin privileges through privilege escalation and token impersonation techniques. Documented attack chains and mitigation strategies in detailed reports.
-
-**地址:** https://github.com/Neofetcher/Active-Directory-Lab-Exploitation
 
 ---
 
