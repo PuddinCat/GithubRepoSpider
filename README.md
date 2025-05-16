@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## abir-ah616/cve3
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/abir-ah616/cve3
+
+---
+
+## jgamblin/CVE-MCP
+
+**关键字** CVE
+
+**介绍:** A CVE Data MCP using the CVE.ORG API
+
+**地址:** https://github.com/jgamblin/CVE-MCP
+
+---
+
 ## 3xpl0its-exe/exploits_notify
 
 **关键字** Exploit
