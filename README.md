@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## preetiksank/1337.github.io
+
+**关键字** webshell
+
+**介绍:** 🛠️ Ultimate WebShell + Linux Kernel Exploit Collection (PHP Shells & LPE Archive)
+
+**地址:** https://github.com/preetiksank/1337.github.io
+
+---
+
 ## glassley82/-Grow-a-Garden-Script
 
 **关键字** Exploit
