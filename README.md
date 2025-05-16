@@ -166,6 +166,16 @@
 
 ---
 
+## iquweh/https-github.com-MathV2official-exploits-72fab
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/iquweh/https-github.com-MathV2official-exploits-72fab
+
+---
+
 ## iquweh/https-github.com-MathV2official-exploits
 
 **关键字** Exploit
