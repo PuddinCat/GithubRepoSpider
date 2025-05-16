@@ -2686,14 +2686,4 @@
 
 ---
 
-## B-Hensley/basic-pentesting-ctf
-
-**关键字** Exploit
-
-**介绍:** 🛠️ A walkthrough of TryHackMe's Basic Pentesting room focusing on web enumeration, brute-force attacks, and Linux privilege escalation. Includes tool usage, exploitation steps, and key takeaways for beginners in offensive security.
-
-**地址:** https://github.com/B-Hensley/basic-pentesting-ctf
-
----
-
 
