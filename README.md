@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## cdrom0/CVE-2025-4427
+
+**关键字** CVE
+
+**介绍:** CVE-2025-4427
+
+**地址:** https://github.com/cdrom0/CVE-2025-4427
+
+---
+
 ## Astonke/net-exploit
 
 **关键字** Exploit
@@ -13,6 +23,16 @@
 **介绍:** None
 
 **地址:** https://github.com/Astonke/net-exploit
+
+---
+
+## Khatcode/Memorymover
+
+**关键字** shellcode
+
+**介绍:** Simple C program to move calc shellcode throughout allocated memory.
+
+**地址:** https://github.com/Khatcode/Memorymover
 
 ---
 
@@ -2683,46 +2703,6 @@
 **介绍:** Vulnerability Intelligence with Diagrammatic Reasoning
 
 **地址:** https://github.com/mcdaqc/vulnerability-intelligence-diagrammatic-reasoning
-
----
-
-## apexkeyforloe8/TroveExploit
-
-**关键字** Exploit
-
-**介绍:** 🚀2025 Trove Hack: Easy Download for Windows Users
-
-**地址:** https://github.com/apexkeyforloe8/TroveExploit
-
----
-
-## withing8430/BO6-Exploit
-
-**关键字** Exploit
-
-**介绍:** Secure Call of Duty Black Ops 6 Hack Download Guide for Windows in 2025 🔒
-
-**地址:** https://github.com/withing8430/BO6-Exploit
-
----
-
-## goofyredzilla1990/POE2-ExploitKit
-
-**关键字** Exploit
-
-**介绍:** Free Path of Exile 2 Cheat Download: Windows Version 2025 Edition
-
-**地址:** https://github.com/goofyredzilla1990/POE2-ExploitKit
-
----
-
-## hungrybloodmoney/Defiant-Exploit
-
-**关键字** Exploit
-
-**介绍:** Download XDefiant Hack 2025 for Windows – Ultimate Aimbot and Cheats
-
-**地址:** https://github.com/hungrybloodmoney/Defiant-Exploit
 
 ---
 
