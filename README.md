@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## HoViKhanh/CVE
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/HoViKhanh/CVE
+
+---
+
+## VikyFlow/debian-cve-scan-pipeline
+
+**关键字** CVE
+
+**介绍:** Automated CVE scanning of Debian-based embedded Linux images using cve-bin-tool.
+
+**地址:** https://github.com/VikyFlow/debian-cve-scan-pipeline
+
+---
+
 ## KevinMendes/cors_exploit
 
 **关键字** Exploit
@@ -73,6 +93,16 @@
 **介绍:** Script en python pour encoder en xor + ascii + génération d'un code cpp avec une table d'association sur chaque caractère ascii du shellcode associé à chaque bytes hexadécimale du shellcode
 
 **地址:** https://github.com/Xor290/shellcode-encoder-polymorphics
+
+---
+
+## zhushen12580/MoodHue
+
+**关键字** 注入
+
+**介绍:** 🎨 将艺术灵感注入数字生活 —— 发现、创造并应用独特而富有情感的配色方案。
+
+**地址:** https://github.com/zhushen12580/MoodHue
 
 ---
 
@@ -2843,16 +2873,6 @@
 **介绍:** A backup of scripts for roblox exploiting
 
 **地址:** https://github.com/TheHiddenCoder001/robloxluabackup
-
----
-
-## Enzofrezzz/CvENZO
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/Enzofrezzz/CvENZO
 
 ---
 
