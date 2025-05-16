@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## sweetpotatohack/AKUMA_Cobalt_profile
+
+**关键字** Cobalt Strike
+
+**介绍:** Это профиль для C2 Cobalt_Strike
+
+**地址:** https://github.com/sweetpotatohack/AKUMA_Cobalt_profile
+
+---
+
 ## k-priyansh/burp-extensions
 
 **关键字** burp
@@ -33,6 +43,16 @@
 **介绍:** None
 
 **地址:** https://github.com/WowT-sys/RCE-MS-Office
+
+---
+
+## joaovarelas/aspx-webshell-executor
+
+**关键字** webshell
+
+**介绍:** An authenticated ASPX webshell that receives base64-encoded C# code, compiles it server-side, executes it, and returns the output.
+
+**地址:** https://github.com/joaovarelas/aspx-webshell-executor
 
 ---
 
@@ -2863,46 +2883,6 @@
 **介绍:** CVE-2025-24085漏洞  和 Schemeshare漏洞
 
 **地址:** https://github.com/pxx917144686/12345
-
----
-
-## stepic20000f/Muck-MASS-SMS-Sender-Whatsapp-Boomber-k8
-
-**关键字** Exploit
-
-**介绍:** SMS APIs and gateways enable services like messaging, verification, and spamming. Tools like SMS bombers or prank apps exploit these systems, while bypassing platforms like WhatsApp, Telegram, and Instagram for malicious or recreational hacking purposes.
-
-**地址:** https://github.com/stepic20000f/Muck-MASS-SMS-Sender-Whatsapp-Boomber-k8
-
----
-
-## solacelilith/buffering-problems
-
-**关键字** Exploit
-
-**介绍:** A binary exploitation attack-defence challenge created for RabaCTF .
-
-**地址:** https://github.com/solacelilith/buffering-problems
-
----
-
-## CodeCore-exploits/CodeCore-exploits
-
-**关键字** Exploit
-
-**介绍:** Config files for my GitHub profile.
-
-**地址:** https://github.com/CodeCore-exploits/CodeCore-exploits
-
----
-
-## h31md4llr/libjpeg_cve-2018-14498_2
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/h31md4llr/libjpeg_cve-2018-14498_2
 
 ---
 
