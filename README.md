@@ -2696,24 +2696,4 @@
 
 ---
 
-## alpha-trotsky/Attempt-at-a-multi-player-non-exploitable-poker-bot
-
-**关键字** Exploit
-
-**介绍:** Designing a poker bot that would be virtually unexploitable and put up a fight against even the best human players (and hopefully be better than Pluribus - the poker bot built by facebook AI in the stone-age 2019)
-
-**地址:** https://github.com/alpha-trotsky/Attempt-at-a-multi-player-non-exploitable-poker-bot
-
----
-
-## mcdaqc/vulnerability-intelligence-diagrammatic-reasoning
-
-**关键字** CVE
-
-**介绍:** Vulnerability Intelligence with Diagrammatic Reasoning
-
-**地址:** https://github.com/mcdaqc/vulnerability-intelligence-diagrammatic-reasoning
-
----
-
 
