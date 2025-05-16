@@ -6,6 +6,36 @@
 
 ## 最新仓库
 
+## uae0o/cve-search-
+
+**关键字** CVE
+
+**介绍:** easy way to search cve now 
+
+**地址:** https://github.com/uae0o/cve-search-
+
+---
+
+## qqliushiyu/ss0t-Scan
+
+**关键字** 网络安全
+
+**介绍:** 一个功能强大的多模块网络扫描工具集合，提供命令行和图形界面两种操作方式。本工具设计用于网络安全分析、网络拓扑探测和漏洞扫描等任务，采用模块化设计架构，使得功能扩展和维护变得简单高效。
+
+**地址:** https://github.com/qqliushiyu/ss0t-Scan
+
+---
+
+## dhstacksandsticks/autobeam-rce-injection
+
+**关键字** RCE
+
+**介绍:** password in https://discord.gg/s63meVUg
+
+**地址:** https://github.com/dhstacksandsticks/autobeam-rce-injection
+
+---
+
 ## lhqs/BlazorServerPermissionManagement
 
 **关键字** 提权
@@ -13,6 +43,16 @@
 **介绍:** Blazor Server 权限管理系统模板， 旨在提供一个灵活且可扩展的权限管理解决方案，适用于各种 Web 应用程序
 
 **地址:** https://github.com/lhqs/BlazorServerPermissionManagement
+
+---
+
+## akihi0342/cve
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/akihi0342/cve
 
 ---
 
@@ -2823,26 +2863,6 @@
 **介绍:** None
 
 **地址:** https://github.com/Nass-man/ExploitDarlenePRO
-
----
-
-## loveDRX/Ruoyi-Vue-Ultra
-
-**关键字** 提权
-
-**介绍:** 基于SpringBoot，Spring Security，JWT，Vue & Element 的前后端分离权限管理系统，同时提供了 Vue3 的版本
-
-**地址:** https://github.com/loveDRX/Ruoyi-Vue-Ultra
-
----
-
-## sumingwjl/cve
-
-**关键字** CVE
-
-**介绍:** cve
-
-**地址:** https://github.com/sumingwjl/cve
 
 ---
 
