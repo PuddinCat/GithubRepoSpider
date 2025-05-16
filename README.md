@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## 3xpl0its-exe/exploits_notify
+
+**关键字** Exploit
+
+**介绍:** Modern & Configurable FiveM Notifications
+
+**地址:** https://github.com/3xpl0its-exe/exploits_notify
+
+---
+
 ## cdrom0/CVE-2025-4427
 
 **关键字** CVE
