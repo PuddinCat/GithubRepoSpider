@@ -16,6 +16,16 @@
 
 ---
 
+## 0x4d61686469/burp-extensions
+
+**关键字** burp
+
+**介绍:** None
+
+**地址:** https://github.com/0x4d61686469/burp-extensions
+
+---
+
 ## sahici/CVE-2025-4822
 
 **关键字** CVE
