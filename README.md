@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## KevinMendes/cors_exploit
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/KevinMendes/cors_exploit
+
+---
+
 ## uae0o/cve-search-
 
 **关键字** CVE
@@ -53,6 +63,16 @@
 **介绍:** None
 
 **地址:** https://github.com/akihi0342/cve
+
+---
+
+## Xor290/shellcode-encoder-polymorphics
+
+**关键字** shellcode
+
+**介绍:** Script en python pour encoder en xor + ascii + génération d'un code cpp avec une table d'association sur chaque caractère ascii du shellcode associé à chaque bytes hexadécimale du shellcode
+
+**地址:** https://github.com/Xor290/shellcode-encoder-polymorphics
 
 ---
 
@@ -2833,36 +2853,6 @@
 **介绍:** None
 
 **地址:** https://github.com/Enzofrezzz/CvENZO
-
----
-
-## Cherish-Ink/CVE
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/Cherish-Ink/CVE
-
----
-
-## F-zivanovic/cvetkovicLaw
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/F-zivanovic/cvetkovicLaw
-
----
-
-## Nass-man/ExploitDarlenePRO
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/Nass-man/ExploitDarlenePRO
 
 ---
 
