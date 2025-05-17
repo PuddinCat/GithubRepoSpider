@@ -216,6 +216,16 @@
 
 ---
 
+## bishesh910/BeezScan
+
+**关键字** CVE
+
+**介绍:** BeezScan is a fast, vulnerability scanner that checks your system’s installed software against the NIST CVE database. It supports Linux, Windows, and macOS — with smart, patch-aware filtering to reduce false positives.
+
+**地址:** https://github.com/bishesh910/BeezScan
+
+---
+
 ## bowcow6456/PathExile2-Exploit
 
 **关键字** Exploit
@@ -2423,26 +2433,6 @@
 **介绍:** Now Available: COD Black Ops 6 Hack Download for Windows 2025 – Pro Tips 🌟
 
 **地址:** https://github.com/berkedigal/Ops6-Exploit-Pro
-
----
-
-## winchmikkiemouse4/7Days-Exploit
-
-**关键字** Exploit
-
-**介绍:** 2025 Exclusive: 7 Days To Die Hack Tool Download for Windows 🎮
-
-**地址:** https://github.com/winchmikkiemouse4/7Days-Exploit
-
----
-
-## murazorrofellosh1/BF1-Exploit-Kit
-
-**关键字** Exploit
-
-**介绍:** Secure 2025 Battlefield 1 Multiplayer Hack Pack: Free Download on Windows 💥
-
-**地址:** https://github.com/murazorrofellosh1/BF1-Exploit-Kit
 
 ---
 
