@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## jjyuorg/reproduce-cve-2024-2887
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/jjyuorg/reproduce-cve-2024-2887
+
+---
+
+## Markbarkar/ddos-dection
+
+**关键字** 攻防
+
+**介绍:** ddos攻击溯源防御系统
+
+**地址:** https://github.com/Markbarkar/ddos-dection
+
+---
+
 ## erdemaslan0600/geterexec.github.io
 
 **关键字** Exploit
@@ -2423,16 +2443,6 @@
 **介绍:** None
 
 **地址:** https://github.com/BACMiao/PoC-camel-RCE
-
----
-
-## Z3R0-0x30/CVE-2015-3306
-
-**关键字** CVE
-
-**介绍:** This contains single-file exploit for ProFTPd 1.3.5 mod_copy (CVE-2015-3306) vulnerability, especially for TryHackMe Kenobi Lab.
-
-**地址:** https://github.com/Z3R0-0x30/CVE-2015-3306
 
 ---
 
