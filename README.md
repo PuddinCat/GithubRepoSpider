@@ -1446,6 +1446,16 @@
 
 ---
 
+## Stickman230/CVE_Watcher
+
+**关键字** CVE
+
+**介绍:** A real time monitoring system to get alerted of the latest in CVE news
+
+**地址:** https://github.com/Stickman230/CVE_Watcher
+
+---
+
 ## rootwlen/Vulnerability-Wiki
 
 **关键字** 漏洞利用
@@ -2263,36 +2273,6 @@
 **介绍:** None
 
 **地址:** https://github.com/kimgeonmin0309/SARD-vs-CVE
-
----
-
-## HeaZzY/bash2shellcode
-
-**关键字** shellcode
-
-**介绍:** None
-
-**地址:** https://github.com/HeaZzY/bash2shellcode
-
----
-
-## userhhh-tech/RNA-2.0
-
-**关键字** 注入
-
-**介绍:** 此Python脚本构建图神经网络（GNN）模型，从RNA三维坐标预测其核苷酸序列。关键步骤包括：从坐标提取详细几何特征（如原子间距离、角度、二面角）作为图节点输入；利用含多头注意力、残差连接及层归一化的GATv2层处理图数据。为提升性能，脚本采用坐标加噪进行数据增强，并使用Dropout正则化。最终模型输出对RNA序列的预测。
-
-**地址:** https://github.com/userhhh-tech/RNA-2.0
-
----
-
-## alby0304/Meltdown_Exploit
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/alby0304/Meltdown_Exploit
 
 ---
 
