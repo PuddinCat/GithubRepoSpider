@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## tirrelirre/wemb-exploit
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/tirrelirre/wemb-exploit
+
+---
+
+## Taonauz/Anydesk-Exploit-CVE-2025-12654-RCE-Builder
+
+**关键字** RCE
+
+**介绍:** Exploit development targets vulnerabilities using tools like exploitation frameworks. CVE databases list risks, while CVE-2025-44228 is an example of a flaw. AnyDesk exploits highlight security gaps.
+
+**地址:** https://github.com/Taonauz/Anydesk-Exploit-CVE-2025-12654-RCE-Builder
+
+---
+
 ## Haitmnen/Sakura-Windows-SmartScreen-Bypass-Chrome-Exe-Edge
 
 **关键字** bypass AntiVirus
@@ -2303,26 +2323,6 @@
 **介绍:** coinbase code exploit bug bounty
 
 **地址:** https://github.com/zerodayjn/coinbasecontract
-
----
-
-## mhdgning131/WildcardsCTF
-
-**关键字** Exploit
-
-**介绍:** A minimal web exploitation ctf i made
-
-**地址:** https://github.com/mhdgning131/WildcardsCTF
-
----
-
-## Khushinayak2911/shellcodes
-
-**关键字** shellcode
-
-**介绍:** None
-
-**地址:** https://github.com/Khushinayak2911/shellcodes
 
 ---
 
