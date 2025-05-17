@@ -2416,24 +2416,4 @@
 
 ---
 
-## Z3R0-0x30/CVE-2021-4034
-
-**关键字** CVE
-
-**介绍:** This contains single-file exploit for cve-2021-4034 which is a Polkit Local Privilege Escalation. Use it wisely!
-
-**地址:** https://github.com/Z3R0-0x30/CVE-2021-4034
-
----
-
-## berkedigal/Ops6-Exploit-Pro
-
-**关键字** Exploit
-
-**介绍:** Now Available: COD Black Ops 6 Hack Download for Windows 2025 – Pro Tips 🌟
-
-**地址:** https://github.com/berkedigal/Ops6-Exploit-Pro
-
----
-
 
