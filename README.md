@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## cerdajasser/cve-search-tool
+
+**关键字** CVE
+
+**介绍:** cve search tool
+
+**地址:** https://github.com/cerdajasser/cve-search-tool
+
+---
+
 ## Aarusakthi-NextGenIT2025/CVEWD
 
 **关键字** CVE
@@ -2183,16 +2193,6 @@
 **介绍:** Reconnaissance Tools, Cracking Tools (netflix, spotify, hotmail, zip files), Web Testing Tools, Network Tools, Exploitation Tools, Post-Exploitation Tools.
 
 **地址:** https://github.com/unboxings/CLEARPASS
-
----
-
-## StefanIT10/cvele
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/StefanIT10/cvele
 
 ---
 
