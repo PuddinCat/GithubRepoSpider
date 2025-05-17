@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## rikserok/XWorm-v5.6-RCE-patch-source-code
+
+**关键字** RCE
+
+**介绍:** xworm v5.6 source code with removed the hrdp rce vuln
+
+**地址:** https://github.com/rikserok/XWorm-v5.6-RCE-patch-source-code
+
+---
+
+## JGoyd/CVE-2025-31200-iOS-AudioConverter-RCE
+
+**关键字** RCE
+
+**介绍:** Public disclosure of CVE-2025-31200 – Zero-click RCE in iOS 18.X via AudioConverterService and malicious audio file.
+
+**地址:** https://github.com/JGoyd/CVE-2025-31200-iOS-AudioConverter-RCE
+
+---
+
 ## Kshitij/cve-dashboard
 
 **关键字** CVE
@@ -2403,16 +2423,6 @@
 **介绍:** This project demonstrates a full red team and blue team cybersecurity workflow — from exploiting SMB vulnerabilities using Metasploit to hardening, patching, and securing a Windows Server against further compromise.
 
 **地址:** https://github.com/Hashi-Git/Patching-and-Securing-Windows-Server
-
----
-
-## m4s1um/CVE-2025-32756-RCE-PoC
-
-**关键字** RCE
-
-**介绍:** CVE-2025-32756 — Fortinet FortiVoice Unauthenticated RCE (PoC)
-
-**地址:** https://github.com/m4s1um/CVE-2025-32756-RCE-PoC
 
 ---
 
