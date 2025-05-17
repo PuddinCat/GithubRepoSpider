@@ -16,6 +16,16 @@
 
 ---
 
+## Virantek254/Burp2Code
+
+**关键字** burp
+
+**介绍:** Convert an easily intercepted request into code.
+
+**地址:** https://github.com/Virantek254/Burp2Code
+
+---
+
 ## Thirukrishnan/ADCS-Exploitation-Playbook
 
 **关键字** Exploit
@@ -33,6 +43,16 @@
 **介绍:** None
 
 **地址:** https://github.com/TehanG07/Vitejs-exploit
+
+---
+
+## Josh-007/FUTURE_CS_01
+
+**关键字** burp
+
+**介绍:** This repository contains a detailed penetration testing report of a sample web application. The assessment focuses on identifying common web vulnerabilities such as SQL Injection and Cross-Site Scripting (XSS) using tools like Burp Suite and SQLMap.
+
+**地址:** https://github.com/Josh-007/FUTURE_CS_01
 
 ---
 
