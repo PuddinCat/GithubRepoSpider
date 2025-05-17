@@ -6,6 +6,46 @@
 
 ## 最新仓库
 
+## erdemaslan0600/geterexec.github.io
+
+**关键字** Exploit
+
+**介绍:** Roblox Exploit Website
+
+**地址:** https://github.com/erdemaslan0600/geterexec.github.io
+
+---
+
+## erdemaslan0600/geterexec.xyz
+
+**关键字** Exploit
+
+**介绍:** Roblox Exploit Website
+
+**地址:** https://github.com/erdemaslan0600/geterexec.xyz
+
+---
+
+## erdemaslan0600/ErExec-Pro-Website
+
+**关键字** Exploit
+
+**介绍:** Roblox Exploit Website
+
+**地址:** https://github.com/erdemaslan0600/ErExec-Pro-Website
+
+---
+
+## kali-guru/Pwnkit-CVE-2021-4034
+
+**关键字** Exploit
+
+**介绍:** Automation Exploit
+
+**地址:** https://github.com/kali-guru/Pwnkit-CVE-2021-4034
+
+---
+
 ## x-raen/echoshift-engine
 
 **关键字** Exploit
@@ -43,6 +83,16 @@
 **介绍:** 🚀 SQLFang 是一款用 Erlang 实现的轻量级 SQL 注入检测工具，专注于快速扫描网页参数，探测潜在的注入风险和数据库类型。适合想用 Erlang 玩安全检测的你，稳、准、狠。
 
 **地址:** https://github.com/ctkqiang/sqlfang
+
+---
+
+## ocalasans/cbug-detection
+
+**关键字** Exploit
+
+**介绍:** Cbug Detection is an include for SA-MP (San Andreas Multiplayer) that detects the C-Bug exploit, allowing identification of actions that provide unfair advantages in combat.
+
+**地址:** https://github.com/ocalasans/cbug-detection
 
 ---
 
@@ -2383,26 +2433,6 @@
 **介绍:** This contains single-file exploit for ProFTPd 1.3.5 mod_copy (CVE-2015-3306) vulnerability, especially for TryHackMe Kenobi Lab.
 
 **地址:** https://github.com/Z3R0-0x30/CVE-2015-3306
-
----
-
-## enochgitgamefied/CVE-2025-27636-Pratctical-Lab
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/enochgitgamefied/CVE-2025-27636-Pratctical-Lab
-
----
-
-## enochgitgamefied/CVE-2025-27636-Practical-Lab
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/enochgitgamefied/CVE-2025-27636-Practical-Lab
 
 ---
 
