@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## Aarusakthi-NextGenIT2025/CVEWD
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/Aarusakthi-NextGenIT2025/CVEWD
+
+---
+
+## AlephNullCTF/backdrop_exploit
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/AlephNullCTF/backdrop_exploit
+
+---
+
 ## strivepan/cve-scanner
 
 **关键字** 漏洞POC
@@ -13,6 +33,16 @@
 **介绍:** CVE漏洞信息查询工具，支持单个CVE查询、批量查询、关键词搜索，以及POC/EXP信息搜索
 
 **地址:** https://github.com/strivepan/cve-scanner
+
+---
+
+## Jakelobys/Xeno-Roblox-Execu
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/Jakelobys/Xeno-Roblox-Execu
 
 ---
 
@@ -2213,26 +2243,6 @@
 **介绍:** Config files for my GitHub profile.
 
 **地址:** https://github.com/Rce2686/Rce2686
-
----
-
-## diegovargasj/CVE-2025-32407
-
-**关键字** CVE
-
-**介绍:** CVE-2025-32407 PoC
-
-**地址:** https://github.com/diegovargasj/CVE-2025-32407
-
----
-
-## CoolGuywhoisnotcool/My-Roblox-Scripts-Wiki
-
-**关键字** Exploit
-
-**介绍:** Find roblox exploits
-
-**地址:** https://github.com/CoolGuywhoisnotcool/My-Roblox-Scripts-Wiki
 
 ---
 
