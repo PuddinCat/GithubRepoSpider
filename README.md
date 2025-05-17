@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## strivepan/cve-scanner
+
+**关键字** 漏洞POC
+
+**介绍:** CVE漏洞信息查询工具，支持单个CVE查询、批量查询、关键词搜索，以及POC/EXP信息搜索
+
+**地址:** https://github.com/strivepan/cve-scanner
+
+---
+
+## MartinPSDev/BlackWidow
+
+**关键字** burp
+
+**介绍:** Un navegador web orientado al bugbounty y hacking ético, con funcionalidades nativas similares a herramientas como Burp Suite, Nmap y Nuclei.
+
+**地址:** https://github.com/MartinPSDev/BlackWidow
+
+---
+
 ## rootwlen/offsec-playbook
 
 **关键字** 攻防
@@ -13,6 +33,16 @@
 **介绍:** 记录一点攻防知识
 
 **地址:** https://github.com/rootwlen/offsec-playbook
+
+---
+
+## vencordthemer/burple
+
+**关键字** burp
+
+**介绍:** None
+
+**地址:** https://github.com/vencordthemer/burple
 
 ---
 
@@ -2203,26 +2233,6 @@
 **介绍:** Find roblox exploits
 
 **地址:** https://github.com/CoolGuywhoisnotcool/My-Roblox-Scripts-Wiki
-
----
-
-## saneishere/SaneLittleHelper
-
-**关键字** Exploit
-
-**介绍:** Advanced Roblox exploitation tool by #samauelisdumbaf. Intercepts, logs, replays remotes.
-
-**地址:** https://github.com/saneishere/SaneLittleHelper
-
----
-
-## ctkqiang/BackdoorTheory
-
-**关键字** 红队
-
-**介绍:** 这是一个基于 Erlang 构建的高并发 TCP 后门模拟框架，旨在真实复刻黑客如何伪装一个正常应用的行为，实则在后台运行隐秘通信逻辑，支持十万级并发连接、自定义命令-数据分离协议、自动数据落地与 Mnesia 分布式持久化存储，并通过彩色日志与复杂度优化构建极致可控性和可扩展性，适用于教育、安全研究、红队演练与恶意软件行为模拟场景，全面揭示现代木马应用的工程结构与潜在攻击链。
-
-**地址:** https://github.com/ctkqiang/BackdoorTheory
 
 ---
 
