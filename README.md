@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## dangssssa/Argent-Lizing-Exploit
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/dangssssa/Argent-Lizing-Exploit
+
+---
+
+## Thirukrishnan/ADCS-Exploitation-Playbook
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/Thirukrishnan/ADCS-Exploitation-Playbook
+
+---
+
 ## TehanG07/Vitejs-exploit
 
 **关键字** Exploit
