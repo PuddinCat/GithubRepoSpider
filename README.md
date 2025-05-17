@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## platypus-perry03/CVE-2023-24813
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/platypus-perry03/CVE-2023-24813
+
+---
+
 ## jjyuorg/reproduce-cve-2024-2887
 
 **关键字** CVE
