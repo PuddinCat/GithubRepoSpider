@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## rootwlen/offsec-playbook
+
+**关键字** 攻防
+
+**介绍:** 记录一点攻防知识
+
+**地址:** https://github.com/rootwlen/offsec-playbook
+
+---
+
+## MacUchegit/SOC336---Windows-OLE-Zero-Click-RCE-Exploitation-Investigation
+
+**关键字** RCE
+
+**介绍:** None
+
+**地址:** https://github.com/MacUchegit/SOC336---Windows-OLE-Zero-Click-RCE-Exploitation-Investigation
+
+---
+
 ## tirrelirre/wemb-exploit
 
 **关键字** Exploit
@@ -2263,56 +2283,6 @@
 **介绍:** 2025's Top WoW Hack Bot for Windows: Download and Install Guide🎮
 
 **地址:** https://github.com/cemeka-1262/WoW-Exploit-Tool
-
----
-
-## cemeka-1262/ScpExploit-Repo
-
-**关键字** Exploit
-
-**介绍:** How to Get SCP Hack Free Download on Windows for 2025 Beginners 🎮
-
-**地址:** https://github.com/cemeka-1262/ScpExploit-Repo
-
----
-
-## killergolden8/Showdown-Exploit
-
-**关键字** Exploit
-
-**介绍:** Download the Latest Hunt Showdown Hack for Windows in 2025 – Free 🎮
-
-**地址:** https://github.com/killergolden8/Showdown-Exploit
-
----
-
-## stnehoute7/CompanyExploit
-
-**关键字** Exploit
-
-**介绍:** 2025 Ultimate Lethal Company Hacks: Free Download for Windows Users⚙️
-
-**地址:** https://github.com/stnehoute7/CompanyExploit
-
----
-
-## mountainman350/FruitsExploit
-
-**关键字** Exploit
-
-**介绍:** Download Free Roblox Blox Fruits Scripts for 2025 – Windows Compatible 🎮
-
-**地址:** https://github.com/mountainman350/FruitsExploit
-
----
-
-## accanepa/exploits
-
-**关键字** Exploit
-
-**介绍:** Exploits that were used for OSCP and HackTheBox
-
-**地址:** https://github.com/accanepa/exploits
 
 ---
 
