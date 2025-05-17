@@ -2316,14 +2316,4 @@
 
 ---
 
-## zerodayjn/coinbasecontract
-
-**关键字** Exploit
-
-**介绍:** coinbase code exploit bug bounty
-
-**地址:** https://github.com/zerodayjn/coinbasecontract
-
----
-
 
