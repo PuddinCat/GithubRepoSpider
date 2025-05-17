@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## TehanG07/Vitejs-exploit
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/TehanG07/Vitejs-exploit
+
+---
+
 ## servais1983/cve-tracker
 
 **关键字** CVE
@@ -2333,56 +2343,6 @@
 **介绍:** None
 
 **地址:** https://github.com/faccimatteo/CVE-2018-25031
-
----
-
-## BiFangKNT/mtga
-
-**关键字** 绕过
-
-**介绍:** 基于本地代理的方式，绕过 IDE 的固定模型服务商限制
-
-**地址:** https://github.com/BiFangKNT/mtga
-
----
-
-## Sirrrrri/Cyber_NER-RE
-
-**关键字** 网络安全
-
-**介绍:** 针对网络安全领域的命名实体识别和关系抽取系统
-
-**地址:** https://github.com/Sirrrrri/Cyber_NER-RE
-
----
-
-## Antxine/get-known-exploited-vulnerabilities-euvd
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/Antxine/get-known-exploited-vulnerabilities-euvd
-
----
-
-## Scotch-Archive/archive
-
-**关键字** Exploit
-
-**介绍:** An archive of Scotch College Perth exploits, tutorials and history
-
-**地址:** https://github.com/Scotch-Archive/archive
-
----
-
-## 80houde/lottery
-
-**关键字** 注入
-
-**介绍:** DeLotGame 是一款基于以太坊的预测游戏，玩家质押ETH获得DLT代币参与竞猜。首次1ETH=1DLT，后续按比例分配。玩家发送含十六进制数据的ETH交易参与游戏，系统会检查上次投注是否匹配目标区块哈希末位字符，匹配则按公式计算奖励（如1ETH+4字节数据=3.6ETH）。可随时赎回ETH，按持币比例分配资金池余额。合约采用防重入保护，结果由区块哈希保证公平性。
-
-**地址:** https://github.com/80houde/lottery
 
 ---
 
