@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## Haitmnen/Sakura-Windows-SmartScreen-Bypass-Chrome-Exe-Edge
+
+**关键字** bypass AntiVirus
+
+**介绍:** Crypters and FUD tools focus on obfuscation to bypass antivirus, SmartScreen, and Windows Defender. These tools encrypt payloads, create backdoors, and ensure stealthy execution on Windows systems while evading detection through advanced techniques.
+
+**地址:** https://github.com/Haitmnen/Sakura-Windows-SmartScreen-Bypass-Chrome-Exe-Edge
+
+---
+
 ## Janenema/HTA-Exploit
 
 **关键字** Exploit
@@ -133,6 +143,16 @@
 **介绍:** This repository contains a detailed penetration testing report of a sample web application. The assessment focuses on identifying common web vulnerabilities such as SQL Injection and Cross-Site Scripting (XSS) using tools like Burp Suite and SQLMap.
 
 **地址:** https://github.com/Josh-007/FUTURE_CS_01
+
+---
+
+## ozanunal0/viper
+
+**关键字** CVE
+
+**介绍:** 🛡️ VIPER: Stay ahead of threats with AI-driven vulnerability intelligence. Prioritize CVEs effectively using NVD, EPSS, CISA KEV, and Google Gemini insights, all on an interactive dashboard
+
+**地址:** https://github.com/ozanunal0/viper
 
 ---
 
@@ -353,6 +373,16 @@
 **介绍:** CVE-2025-4427
 
 **地址:** https://github.com/cdrom0/CVE-2025-4427
+
+---
+
+## doomygloom/CVE-2025-4427
+
+**关键字** CVE
+
+**介绍:** CVE-2025-4427
+
+**地址:** https://github.com/doomygloom/CVE-2025-4427
 
 ---
 
@@ -2293,16 +2323,6 @@
 **介绍:** None
 
 **地址:** https://github.com/Khushinayak2911/shellcodes
-
----
-
-## ArnavTheExploit/ArnavTheExploit
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/ArnavTheExploit/ArnavTheExploit
 
 ---
 
