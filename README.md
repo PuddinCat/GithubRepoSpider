@@ -2426,14 +2426,4 @@
 
 ---
 
-## unboxings/CLEARPASS
-
-**关键字** Exploit
-
-**介绍:** Reconnaissance Tools, Cracking Tools (netflix, spotify, hotmail, zip files), Web Testing Tools, Network Tools, Exploitation Tools, Post-Exploitation Tools.
-
-**地址:** https://github.com/unboxings/CLEARPASS
-
----
-
 
