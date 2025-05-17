@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## ayush1918/Simulating-Network-Exploitation
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/ayush1918/Simulating-Network-Exploitation
+
+---
+
 ## cuent17/Luna-Executor
 
 **关键字** Exploit
@@ -2433,26 +2443,6 @@
 **介绍:** 数据质量评价系统：在当今数字化的时代背景下，数据已成为驱动各行业发展的关键要素，其重要性日益凸显。随着数据资产入表等相关需求的兴起，如何精准评估数据质量成为了众多企业与机构亟待解决的核心问题。在此背景下，数据质量评价系统应运而生，成为助力企业掌控数据质量状况的得力助手。 数据质量评价系统是依据数据要素的相关特性及数据资产入表等多维度需求所打造，专注于全面检测数据质量的综合性工具。包括检测：完整性，一致性，准确性，唯一性，有效性，规范性
 
 **地址:** https://github.com/lancezhe/-
-
----
-
-## g3ngi/CobaltStrike-4.9
-
-**关键字** Cobalt Strike
-
-**介绍:** None
-
-**地址:** https://github.com/g3ngi/CobaltStrike-4.9
-
----
-
-## JigenDaisuke66/wow_auto_fishing
-
-**关键字** 钓鱼
-
-**介绍:** 魔兽世界自动钓鱼
-
-**地址:** https://github.com/JigenDaisuke66/wow_auto_fishing
 
 ---
 
