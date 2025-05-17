@@ -16,6 +16,16 @@
 
 ---
 
+## SunDay2t/burp-xss-scan
+
+**关键字** burp
+
+**介绍:** burp中的插件，主要用于检测XSS无攻击流量只检测可避免部分waf拦截
+
+**地址:** https://github.com/SunDay2t/burp-xss-scan
+
+---
+
 ## pouriam23/nobin-exploit
 
 **关键字** Exploit
@@ -2273,26 +2283,6 @@
 **介绍:** Professional-grade tools for efficient binary analysis and automated ROP/JOP gadget map extraction, aimed at accelerating exploit development for PSFree Lapse and similar projects.
 
 **地址:** https://github.com/x-raen/psfree-lapse-toolkit
-
----
-
-## rsvptr/railsecure
-
-**关键字** CVE
-
-**介绍:** AI-powered cybersecurity awareness platform, a proof-of-concept for an Iarnród Éireann (Irish Rail) interview. Features engaging, interactive modules for practical learning in critical areas: recognizing phishing attempts, cultivating strong password habits, executing effective incident response, understanding CVEs, and navigating compliance.
-
-**地址:** https://github.com/rsvptr/railsecure
-
----
-
-## tantien-hmtt/cve_101
-
-**关键字** CVE
-
-**介绍:** this repo contains some interesting cve 
-
-**地址:** https://github.com/tantien-hmtt/cve_101
 
 ---
 
