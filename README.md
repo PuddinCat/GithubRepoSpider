@@ -26,6 +26,16 @@
 
 ---
 
+## rikserok/XWorm-v5.6-RCE-patch
+
+**关键字** RCE
+
+**介绍:** XWorm v5.6 hrdp rce patch with source code
+
+**地址:** https://github.com/rikserok/XWorm-v5.6-RCE-patch
+
+---
+
 ## AlephNullCTF/backdrop_exploit
 
 **关键字** Exploit
