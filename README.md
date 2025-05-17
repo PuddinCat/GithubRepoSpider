@@ -2226,24 +2226,4 @@
 
 ---
 
-## EliseZeroTwo/ml1hax
-
-**关键字** Exploit
-
-**介绍:** An exploit chain for the Magic Leap One (and probably other TX2 devices)
-
-**地址:** https://github.com/EliseZeroTwo/ml1hax
-
----
-
-## Rce2686/Rce2686
-
-**关键字** RCE
-
-**介绍:** Config files for my GitHub profile.
-
-**地址:** https://github.com/Rce2686/Rce2686
-
----
-
 
