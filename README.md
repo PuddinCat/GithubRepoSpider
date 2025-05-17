@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## servais1983/cve-tracker
+
+**关键字** CVE
+
+**介绍:** Un outil de suivi des dernières CVE (Common Vulnerabilities and Exposures) qui génère des rapports HTML interactifs
+
+**地址:** https://github.com/servais1983/cve-tracker
+
+---
+
 ## ayush1918/Simulating-Network-Exploitation
 
 **关键字** Exploit
@@ -2373,16 +2383,6 @@
 **介绍:** DeLotGame 是一款基于以太坊的预测游戏，玩家质押ETH获得DLT代币参与竞猜。首次1ETH=1DLT，后续按比例分配。玩家发送含十六进制数据的ETH交易参与游戏，系统会检查上次投注是否匹配目标区块哈希末位字符，匹配则按公式计算奖励（如1ETH+4字节数据=3.6ETH）。可随时赎回ETH，按持币比例分配资金池余额。合约采用防重入保护，结果由区块哈希保证公平性。
 
 **地址:** https://github.com/80houde/lottery
-
----
-
-## arpcyber555/CVE
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/arpcyber555/CVE
 
 ---
 
