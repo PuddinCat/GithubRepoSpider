@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## cuent17/Luna-Executor
+
+**关键字** Exploit
+
+**介绍:** Lunar Executor is a tool for executing custom scripts within Roblox, providing users with the ability to exploit and modify game features.
+
+**地址:** https://github.com/cuent17/Luna-Executor
+
+---
+
 ## platypus-perry03/CVE-2023-24813
 
 **关键字** CVE
@@ -13,6 +23,16 @@
 **介绍:** None
 
 **地址:** https://github.com/platypus-perry03/CVE-2023-24813
+
+---
+
+## platypus-perry03/CVE-2023-25813
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/platypus-perry03/CVE-2023-25813
 
 ---
 
@@ -2433,26 +2453,6 @@
 **介绍:** 魔兽世界自动钓鱼
 
 **地址:** https://github.com/JigenDaisuke66/wow_auto_fishing
-
----
-
-## stefanosimonetto/inference_cve-ttp
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/stefanosimonetto/inference_cve-ttp
-
----
-
-## BACMiao/PoC-camel-RCE
-
-**关键字** RCE
-
-**介绍:** None
-
-**地址:** https://github.com/BACMiao/PoC-camel-RCE
 
 ---
 
