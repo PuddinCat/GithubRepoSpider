@@ -2406,14 +2406,4 @@
 
 ---
 
-## Aiyakami/CVE-2
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/Aiyakami/CVE-2
-
----
-
 
