@@ -6,6 +6,36 @@
 
 ## 最新仓库
 
+## administrator85/Cyber_NER-RE
+
+**关键字** 网络安全
+
+**介绍:** 针对网络安全领域的命名实体识别和关系抽取系统
+
+**地址:** https://github.com/administrator85/Cyber_NER-RE
+
+---
+
+## pergirmest1/sea-of-thieves-exploit
+
+**关键字** Exploit
+
+**介绍:** Sea of Thieves Cheats and Hacks Download
+
+**地址:** https://github.com/pergirmest1/sea-of-thieves-exploit
+
+---
+
+## ctkqiang/sqlfang
+
+**关键字** sql注入
+
+**介绍:** 🚀 SQLFang 是一款用 Erlang 实现的轻量级 SQL 注入检测工具，专注于快速扫描网页参数，探测潜在的注入风险和数据库类型。适合想用 Erlang 玩安全检测的你，稳、准、狠。
+
+**地址:** https://github.com/ctkqiang/sqlfang
+
+---
+
 ## demopath/rcedit
 
 **关键字** RCE
@@ -23,6 +53,16 @@
 **介绍:** None
 
 **地址:** https://github.com/abir-ah616/cve3
+
+---
+
+## breatheco-de/kernel-exploit-dirtycow-project
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/breatheco-de/kernel-exploit-dirtycow-project
 
 ---
 
@@ -236,6 +276,16 @@
 
 ---
 
+## selecitevww/Win11-Goverment-exploit-in-my-system
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/selecitevww/Win11-Goverment-exploit-in-my-system
+
+---
+
 ## mrripkenytownsend2/--Grow-a-Garden-Script
 
 **关键字** Exploit
@@ -293,6 +343,16 @@
 **介绍:** Config files for my GitHub profile.
 
 **地址:** https://github.com/cvensingh/cvensingh
+
+---
+
+## azathoth2025/Netease-Mc-Pyrpc-Pet-Coords-Exploit
+
+**关键字** Exploit
+
+**介绍:** PoC for unauthenticated friend coordinate leak via original pet feature using pyrpc in NetEase Minecraft server.
+
+**地址:** https://github.com/azathoth2025/Netease-Mc-Pyrpc-Pet-Coords-Exploit
 
 ---
 
@@ -393,6 +453,16 @@
 **介绍:** Это профиль для C2 Cobalt_Strike
 
 **地址:** https://github.com/sweetpotatohack/AKUMA_Cobalt_profile
+
+---
+
+## CyprianAtsyor/LetsDefend-CVE-2022-41082-Exploitation-Attempt
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/CyprianAtsyor/LetsDefend-CVE-2022-41082-Exploitation-Attempt
 
 ---
 
@@ -2523,206 +2593,6 @@
 **介绍:** Secure Runescape Hack Downloads for Windows in 2025 – Expert Tips 🌐
 
 **地址:** https://github.com/kingofarms609/RS-Exploit
-
----
-
-## kaeldetlaff/Exploit-Survarium
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/kaeldetlaff/Exploit-Survarium
-
----
-
-## kk12-30/subfinder-x
-
-**关键字** 渗透测试
-
-**介绍:** subfinder-x是一款高性能的子域名爆破工具，使用 Go 语言开发，专为信息收集和渗透测试场景设计。该工具能够快速发现目标域名的子域名，并支持多级子域名扫描、HTTP服务识别和指纹识别等功能。
-
-**地址:** https://github.com/kk12-30/subfinder-x
-
----
-
-## griwieldgayd11/Showdown-Exploit
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/griwieldgayd11/Showdown-Exploit
-
----
-
-## lattexbunch59/Die7-Exploit
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/lattexbunch59/Die7-Exploit
-
----
-
-## andrangoston802/R6-Exploit-Kit
-
-**关键字** Exploit
-
-**介绍:** Secure Rainbow Six Siege Hack Download 2025 for Windows Users Now 🎯
-
-**地址:** https://github.com/andrangoston802/R6-Exploit-Kit
-
----
-
-## mrjesonmaratkozlov/ZeroZone-Exploit
-
-**关键字** Exploit
-
-**介绍:** Exclusive Free Hack Download for Zenless Zone Zero 2025⚡
-
-**地址:** https://github.com/mrjesonmaratkozlov/ZeroZone-Exploit
-
----
-
-## lordland642/FruitsExploit
-
-**关键字** Exploit
-
-**介绍:** Secure Roblox Blox Fruits Script Downloads for 2025 Windows Users 🔒
-
-**地址:** https://github.com/lordland642/FruitsExploit
-
----
-
-## absolutezero628/D2-Exploit-Guide
-
-**关键字** Exploit
-
-**介绍:** 🔥Free Download Destiny 2 Hack 2025 for Windows – Ultimate Guide and Tips
-
-**地址:** https://github.com/absolutezero628/D2-Exploit-Guide
-
----
-
-## immortalfearxatabu/Villa-Exploit
-
-**关键字** Exploit
-
-**介绍:** Horny Villa Free Hack Download 2025 – Compatible with Windows and Secure
-
-**地址:** https://github.com/immortalfearxatabu/Villa-Exploit
-
----
-
-## encrypter15/CVE-2025-29824
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/encrypter15/CVE-2025-29824
-
----
-
-## BACMiao/PoC-Adala-RCE
-
-**关键字** RCE
-
-**介绍:** None
-
-**地址:** https://github.com/BACMiao/PoC-Adala-RCE
-
----
-
-## 4xura/house-of-muney
-
-**关键字** Exploit
-
-**介绍:** PoC script for House of Muney in heap exploitation 
-
-**地址:** https://github.com/4xura/house-of-muney
-
----
-
-## GogoZin/jeikaiDDOS
-
-**关键字** 攻防
-
-**介绍:** JeiKai 是一款免費且開源的壓力測試工具，專為開發者與測試人員設計。  你可以使用 JeiKai 進行網站抗攻擊能力測試，包括：  每秒請求上限 HTTP/2 特性測試 標頭 (Header) 規則測試 TCP 連線數測試 讓你能夠更輕鬆地找到適合你網站的防火牆設定。
-
-**地址:** https://github.com/GogoZin/jeikaiDDOS
-
----
-
-## ifraise/PenTestReportGen
-
-**关键字** 渗透测试
-
-**介绍:** 渗透测试报告生成工具 - 自动化生成专业渗透测试报告
-
-**地址:** https://github.com/ifraise/PenTestReportGen
-
----
-
-## UnknownAirtist/rce-poc-workers-sdk
-
-**关键字** RCE
-
-**介绍:** PoC for RCE vulnerability in cloudflare/workers-sdk
-
-**地址:** https://github.com/UnknownAirtist/rce-poc-workers-sdk
-
----
-
-## pootieogre/D2-Exploit-Guide
-
-**关键字** Exploit
-
-**介绍:** Secure Destiny 2 Enhancement Hacks: Free Download for Windows in 2025
-
-**地址:** https://github.com/pootieogre/D2-Exploit-Guide
-
----
-
-## Rbio80/Rcecagno
-
-**关键字** RCE
-
-**介绍:** None
-
-**地址:** https://github.com/Rbio80/Rcecagno
-
----
-
-## tariffengineering/portswigger-sqli-conditional-error-exploit
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/tariffengineering/portswigger-sqli-conditional-error-exploit
-
----
-
-## nessie739/Hack-Z1-Exploit
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/nessie739/Hack-Z1-Exploit
-
----
-
-## akiraronaldinio2/CompanyExploit
-
-**关键字** Exploit
-
-**介绍:** Best Lethal Company Mods and Hacks: 2025 Windows Free Download🎮
-
-**地址:** https://github.com/akiraronaldinio2/CompanyExploit
 
 ---
 
