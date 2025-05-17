@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## adibarsyad/android_adb_exploit
+
+**关键字** Exploit
+
+**介绍:** exploit some of the misconfiguration at android manifest which are involve intent, broadcast and deeeplink
+
+**地址:** https://github.com/adibarsyad/android_adb_exploit
+
+---
+
 ## pouriam23/nobin-exploit
 
 **关键字** Exploit
@@ -2283,16 +2293,6 @@
 **介绍:** this repo contains some interesting cve 
 
 **地址:** https://github.com/tantien-hmtt/cve_101
-
----
-
-## Feralthedogg/CVE-2025-24132-Scanner
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/Feralthedogg/CVE-2025-24132-Scanner
 
 ---
 
