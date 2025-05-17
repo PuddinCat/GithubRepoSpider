@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## pouriam23/nobin-exploit
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/pouriam23/nobin-exploit
+
+---
+
+## kinder1488/exploit.html
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/kinder1488/exploit.html
+
+---
+
 ## dangssssa/Argent-Lizing-Exploit
 
 **关键字** Exploit
@@ -623,6 +643,16 @@
 **介绍:** Roblox Grow a Garden Script | Auto Grow Plants + Harvest System | Free Roblox Garden Simulator Script | 2025 Updated Roblox Exploit 
 
 **地址:** https://github.com/teenspiritsidnerni/-Grow-a-Garden-Script
+
+---
+
+## selecitevww/INTEGRETED-EXPLOITS-IN-OS-WINDOWS-11-PRO-AND-PC
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/selecitevww/INTEGRETED-EXPLOITS-IN-OS-WINDOWS-11-PRO-AND-PC
 
 ---
 
@@ -2263,16 +2293,6 @@
 **介绍:** None
 
 **地址:** https://github.com/Feralthedogg/CVE-2025-24132-Scanner
-
----
-
-## kimgeonmin0309/SARD-vs-CVE
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/kimgeonmin0309/SARD-vs-CVE
 
 ---
 
