@@ -2196,24 +2196,4 @@
 
 ---
 
-## declanmiddleton/Automated-Local-File-Inclusion-Exploitation-Script
-
-**关键字** Exploit
-
-**介绍:** A Python script designed to automate the exploitation of Local File Inclusion (LFI) vulnerabilities. Built during Hack The Box CTF Titanic, this tool streamlines the process of testing LFI payloads and extracting sensitive files like /etc/passwd via GET requests.
-
-**地址:** https://github.com/declanmiddleton/Automated-Local-File-Inclusion-Exploitation-Script
-
----
-
-## 3xpl0its-exe/exploits_speedometer
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/3xpl0its-exe/exploits_speedometer
-
----
-
 
