@@ -6,6 +6,46 @@
 
 ## 最新仓库
 
+## Janenema/HTA-Exploit
+
+**关键字** Exploit
+
+**介绍:** Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution
+
+**地址:** https://github.com/Janenema/HTA-Exploit
+
+---
+
+## Janenema/Slient-URL-Exploit
+
+**关键字** Exploit
+
+**介绍:** URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.
+
+**地址:** https://github.com/Janenema/Slient-URL-Exploit
+
+---
+
+## Janenema/PDF-FUD-Exploit
+
+**关键字** Exploit
+
+**介绍:** A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates
+
+**地址:** https://github.com/Janenema/PDF-FUD-Exploit
+
+---
+
+## BlackHack4521/Havoc-bypas-AV
+
+**关键字** shellcode
+
+**介绍:** Create a shellcode with Havoc, Then execute the command: "Python aes.py FILE_NAME.bin" and on the victim machine execute the command "rundll32.exe new.loader.dll DllRegisterServer" and there you have pwned the machine
+
+**地址:** https://github.com/BlackHack4521/Havoc-bypas-AV
+
+---
+
 ## adibarsyad/android_adb_exploit
 
 **关键字** Exploit
@@ -2263,26 +2303,6 @@
 **介绍:** None
 
 **地址:** https://github.com/ArnavTheExploit/ArnavTheExploit
-
----
-
-## cvertilus/cvertilus
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/cvertilus/cvertilus
-
----
-
-## x-raen/psfree-lapse-toolkit
-
-**关键字** Exploit
-
-**介绍:** Professional-grade tools for efficient binary analysis and automated ROP/JOP gadget map extraction, aimed at accelerating exploit development for PSFree Lapse and similar projects.
-
-**地址:** https://github.com/x-raen/psfree-lapse-toolkit
 
 ---
 
