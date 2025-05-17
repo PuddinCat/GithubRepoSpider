@@ -2306,34 +2306,4 @@
 
 ---
 
-## tyroneml/CVE-2020-0796-Exploit-Demo
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/tyroneml/CVE-2020-0796-Exploit-Demo
-
----
-
-## Malforge-Maldev-Public-Organization/EarlyBird-APC-Code-Injection
-
-**关键字** shellcode
-
-**介绍:** EarlyBird APC Injection is a stealthy process injection technique that queues malicious shellcode into a suspended thread of a newly created process. Once the thread is resumed, the payload executes, making detection and analysis more difficult.
-
-**地址:** https://github.com/Malforge-Maldev-Public-Organization/EarlyBird-APC-Code-Injection
-
----
-
-## nyascla/binary_exploitation
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/nyascla/binary_exploitation
-
----
-
 
