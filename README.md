@@ -2556,14 +2556,4 @@
 
 ---
 
-## want2live233/nacos_derby_rce_custom_memshell
-
-**关键字** 漏洞利用
-
-**介绍:** Nacos Derby命令执行漏洞利用脚本，支持 jMG 生成的内存马
-
-**地址:** https://github.com/want2live233/nacos_derby_rce_custom_memshell
-
----
-
 
