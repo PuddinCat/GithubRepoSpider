@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## kelm88valeraxolera/adoptme
+
+**关键字** Exploit
+
+**介绍:** adopt me script, roblox adopt me hacks, adopt me pet spawn script, adopt me auto farm, adopt me cheats, roblox cheats, roblox adopt me mod, adopt me tool, adopt me exploit, roblox script for adopt me.
+
+**地址:** https://github.com/kelm88valeraxolera/adoptme
+
+---
+
+## brolyk7807/fortnite
+
+**关键字** Exploit
+
+**介绍:** fortnite cheat, fortnite aimbot, fortnite hacks, fortnite mod, fortnite exploit, fortnite cheat tool, fortnite unlimited resources, fortnite skin unlocker, fortnite cheat download.
+
+**地址:** https://github.com/brolyk7807/fortnite
+
+---
+
 ## alfatraktor2312/rivals
 
 **关键字** Exploit
