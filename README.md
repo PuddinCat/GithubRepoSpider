@@ -36,6 +36,16 @@
 
 ---
 
+## Raulisr00t/ShellCodeGenerator
+
+**关键字** shellcode
+
+**介绍:** Generate x86 reverse shell shellcode for Windows Environment
+
+**地址:** https://github.com/Raulisr00t/ShellCodeGenerator
+
+---
+
 ## SereneValor/cve-trend-analyzer
 
 **关键字** CVE
@@ -73,6 +83,16 @@
 **介绍:** 🕳️ Void — Fortnite Exploit Suite + Rage Aimbot 👾🧨
 
 **地址:** https://github.com/spear0021/Void-Fortnite
+
+---
+
+## 0xWhoami35/Presta-Webshell
+
+**关键字** webshell
+
+**介绍:** None
+
+**地址:** https://github.com/0xWhoami35/Presta-Webshell
 
 ---
 
