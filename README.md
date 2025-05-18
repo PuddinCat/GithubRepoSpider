@@ -6,6 +6,56 @@
 
 ## 最新仓库
 
+## eridona03/CVexercises
+
+**关键字** CVE
+
+**介绍:** Solutions for Computer Vision exercises
+
+**地址:** https://github.com/eridona03/CVexercises
+
+---
+
+## giordanobsf/cve-analysis-agent
+
+**关键字** CVE
+
+**介绍:** Generative AI agent to analyze vulnerabilities (CVEs) during incidents.
+
+**地址:** https://github.com/giordanobsf/cve-analysis-agent
+
+---
+
+## huangyi234/CVE
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/huangyi234/CVE
+
+---
+
+## SereneValor/cve-trend-analyzer
+
+**关键字** CVE
+
+**介绍:** A lightweight Python tool that ingests the NVD (National Vulnerability Database) RSS feed, stores CVE metadata in a local dataframe, and visualizes month-over-month CVSS trends.
+
+**地址:** https://github.com/SereneValor/cve-trend-analyzer
+
+---
+
+## KaterinaKKalinina/Cvetochni
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/KaterinaKKalinina/Cvetochni
+
+---
+
 ## puneetkeshri95/Zero-Day-Exploit-Prediction
 
 **关键字** Exploit
@@ -2493,36 +2543,6 @@
 **介绍:** None
 
 **地址:** https://github.com/watchtowrlabs/watchTowr-vs-Ivanti-EPMM-CVE-2025-4427-CVE-2025-4428
-
----
-
-## sudo3r/massxss
-
-**关键字** Exploit
-
-**介绍:** Mass XSS Exploitation
-
-**地址:** https://github.com/sudo3r/massxss
-
----
-
-## idorokni/CVE-Scanner
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/idorokni/CVE-Scanner
-
----
-
-## POCPioneer/CVE-2025-4094-POC
-
-**关键字** CVE
-
-**介绍:** WordPress Plugin Digits < 8.4.6.1 - OTP Auth Bypass via Bruteforce (CVE-2025-4094)
-
-**地址:** https://github.com/POCPioneer/CVE-2025-4094-POC
 
 ---
 
