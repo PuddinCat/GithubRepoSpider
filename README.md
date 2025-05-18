@@ -2526,24 +2526,4 @@
 
 ---
 
-## lstudlo/nextjs-cve-demo
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/lstudlo/nextjs-cve-demo
-
----
-
-## lstudlo/Nextjs_CVE_Auth_Middleware_Bypass
-
-**关键字** CVE
-
-**介绍:** This project showcases the nextjs cve: Authorization Bypass in Next.js Middleware.
-
-**地址:** https://github.com/lstudlo/Nextjs_CVE_Auth_Middleware_Bypass
-
----
-
 
