@@ -2606,34 +2606,4 @@
 
 ---
 
-## zzy-0812/-
-
-**关键字** 注入
-
-**介绍:** 基于 Python Tkinter 的图形化图书管理系统，支持多用户权限管理、图书全生命周期管理及借阅流程自动化，适合小型图书馆、学校或企业内部图书管理场景。 核心功能 用户管理：管理员 / 普通用户双角色权限控制 用户注册、登录、密码修改及信息维护 图书管理：图书录入、删除、批量更新及多条件检索（按 ID / 名称 / 作者 / 类型） 实时库存管理（总数量 / 可借数量动态更新） 借阅流程：支持通过 ID、书名、作者 借阅图书，通过 ID / 书名 归还图书 多结果匹配时支持手动选择，避免误操作 借阅状态跟踪（借阅日期、应还日期、逾期提醒） 数据持久化：使用文本文件存储图书及用户数据（book_data.txt/user.txt） 自动保存操作记录，确保数据不丢失
-
-**地址:** https://github.com/zzy-0812/-
-
----
-
-## starawneh/CVE-2025-4094
-
-**关键字** CVE
-
-**介绍:** CVE-2025-4094 – WordPress Digits Plugin < 8.4.6.1 - OTP Authentication Bypass
-
-**地址:** https://github.com/starawneh/CVE-2025-4094
-
----
-
-## container-security-to-graduate/container-cve-tracker
-
-**关键字** CVE
-
-**介绍:** 캡스톤 5조
-
-**地址:** https://github.com/container-security-to-graduate/container-cve-tracker
-
----
-
 
