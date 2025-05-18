@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## mejarredfyru765/sea-of-thieves-exploit
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/mejarredfyru765/sea-of-thieves-exploit
+
+---
+
 ## kelm88valeraxolera/adoptme
 
 **关键字** Exploit
@@ -2543,36 +2553,6 @@
 **介绍:** None
 
 **地址:** https://github.com/duongdz96/CVE-2021-3156-main
-
----
-
-## vv01ls/SkriptGG
-
-**关键字** Exploit
-
-**介绍:** Offrant le meilleur menu de mods FiveM, RageMP, Alt-V, GTA V non détecté pour le PvP et avec des exploits jamais vus auparavant et plus de triches de jeu multijoueur.
-
-**地址:** https://github.com/vv01ls/SkriptGG
-
----
-
-## terr1als/Luna-Executor
-
-**关键字** Exploit
-
-**介绍:** Lunar Executor is a tool for executing custom scripts within Roblox, providing users with the ability to exploit and modify game features.
-
-**地址:** https://github.com/terr1als/Luna-Executor
-
----
-
-## Ltxixixi/files_manager
-
-**关键字** 提权
-
-**介绍:** 文件管理系统：  实现文件的上传，文件的管理  要求：  1、要求登录用户可以上传文件至公共文件或者私有文件和下载公共文件和自己的私有文件；  2、游客可以查看公共文件，但是不能下载  3、上传的文件分为公开和私有权限，公开的文件提供所有登录用户下载，私有文件只能自己下载  4、下载的文件显示下载的次数  5、管理员对资源举报进行处理，可以封存相关资源，不再允许下载  6、要求使用AJAX实现  7、要求文件进行分页展示
-
-**地址:** https://github.com/Ltxixixi/files_manager
 
 ---
 
