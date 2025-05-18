@@ -2526,24 +2526,4 @@
 
 ---
 
-## maliqto/PoC-CVE-2025-24813
-
-**关键字** CVE
-
-**介绍:** PoC para o CVE-2025-24813
-
-**地址:** https://github.com/maliqto/PoC-CVE-2025-24813
-
----
-
-## axcaptainkrrow42/Postman-API-Exploit
-
-**关键字** Exploit
-
-**介绍:** Postman API Exploit 2025 | Pentesting & Bug Bounty Toolkit
-
-**地址:** https://github.com/axcaptainkrrow42/Postman-API-Exploit
-
----
-
 
