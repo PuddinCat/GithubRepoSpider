@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## missaels235/POC-CVE-2025-24104-Py
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/missaels235/POC-CVE-2025-24104-Py
+
+---
+
+## sathish-varnan/CVEServer
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/sathish-varnan/CVEServer
+
+---
+
 ## suonanjiexi/Cyber-RPC
 
 **关键字** 反序列化
@@ -2253,206 +2273,6 @@
 **介绍:** None
 
 **地址:** https://github.com/daddy5987/NMS-Exploit-Guide
-
----
-
-## yozot/CVE-related-resources
-
-**关键字** CVE
-
-**介绍:** putting CVE related things
-
-**地址:** https://github.com/yozot/CVE-related-resources
-
----
-
-## deer6raisshaipow/BF2042-Exploit
-
-**关键字** Exploit
-
-**介绍:** 2025 Battlefield 2042 Hacks: Secure Download for Windows Users💻
-
-**地址:** https://github.com/deer6raisshaipow/BF2042-Exploit
-
----
-
-## numbbaspedeo63/JJsploit-75
-
-**关键字** Exploit
-
-**介绍:** JJSploit, now available for free, is a widely-used Roblox exploit favored for its simplicity and accessibility. With the ability to execute Lua s, it enables users to customize their gaming experience, though users should remain vigilant about potential risks associated with exploiting software.
-
-**地址:** https://github.com/numbbaspedeo63/JJsploit-75
-
----
-
-## EvilSupahFly/DnD-Rule-Abuse
-
-**关键字** Exploit
-
-**介绍:** Dungeons & Dragons: The Exploit Codex – Rule Abuse for the Truly Unhinged
-
-**地址:** https://github.com/EvilSupahFly/DnD-Rule-Abuse
-
----
-
-## sken-1009w/Roblox-Frostware-ns
-
-**关键字** Exploit
-
-**介绍:** FrostWare Executor is a sophisticated  execution tool for Roblox, designed to allow users to run custom s and alter game mechanics, providing a wide range of exploits and enhancements for an enhanced gaming experience.
-
-**地址:** https://github.com/sken-1009w/Roblox-Frostware-ns
-
----
-
-## golden100lx/Celex-Executor-zg
-
-**关键字** Exploit
-
-**介绍:** Celex Executor is an external Windows-based  execution tool for Roblox, allowing users to run custom s and modify game mechanics for enhanced gameplay and exploits.
-
-**地址:** https://github.com/golden100lx/Celex-Executor-zg
-
----
-
-## infectedbeetleg97/Lunar-Executor-j0
-
-**关键字** Exploit
-
-**介绍:** Lunar Executor is a tool for executing custom s within Roblox, providing users with the ability to exploit and modify game features.
-
-**地址:** https://github.com/infectedbeetleg97/Lunar-Executor-j0
-
----
-
-## terminator25vj/ware-Executer-hn
-
-**关键字** Exploit
-
-**介绍:** Roblox ware Executor. Transforming Ideas into Reality. At -Ware, we develop software experiences that push the boundaries of what's typical.
-
-**地址:** https://github.com/terminator25vj/ware-Executer-hn
-
----
-
-## opidorakrasavchik7a/Hydrogen-Executor-5u
-
-**关键字** Exploit
-
-**介绍:** Hydrogen Executor is a most popular Roblox Exploit for Android and PC in the market nowadays. You can install it on any Android, iOS or Windows PC.
-
-**地址:** https://github.com/opidorakrasavchik7a/Hydrogen-Executor-5u
-
----
-
-## bingo85lion/Roblox-Nihon-zt
-
-**关键字** Exploit
-
-**介绍:** Nihon is a leading Roblox exploit founded in 2020, known for its intuitive user interface, robust features, and exceptional performance. Developed by top industry professionals, it offers enhanced security, customization options, and a globally trusted service.
-
-**地址:** https://github.com/bingo85lion/Roblox-Nihon-zt
-
----
-
-## grebblyburgh-2000/Arceus-Executor-9r
-
-**关键字** Exploit
-
-**介绍:** Arceus X Exploit & Executor is a universal cheating tool that allows users to activate various cheats, s, and hacks within the mobile version of Roblox, available on Android and iOS devices. This program offers a wide range of functions to select from, enabling the implementation of s without any charges or viruses.
-
-**地址:** https://github.com/grebblyburgh-2000/Arceus-Executor-9r
-
----
-
-## mmvest/InjectTools
-
-**关键字** shellcode
-
-**介绍:** A header-only bare-bones essentials you need to load a DLL or raw shellcode into a remote process.
-
-**地址:** https://github.com/mmvest/InjectTools
-
----
-
-## gravelshaper682/Luna-Executor-zd
-
-**关键字** Exploit
-
-**介绍:** Lunar Executor is a tool for executing custom s within Roblox, providing users with the ability to exploit and modify game features.
-
-**地址:** https://github.com/gravelshaper682/Luna-Executor-zd
-
----
-
-## stansleeping/Terraria-Exploits
-
-**关键字** Exploit
-
-**介绍:** Ultimate Terraria Cheats for Windows: Free 2025 Download Now!🔥
-
-**地址:** https://github.com/stansleeping/Terraria-Exploits
-
----
-
-## noname500kv/JJsploit-94
-
-**关键字** Exploit
-
-**介绍:** JJSploit, now available for free, is a widely-used Roblox exploit favored for its simplicity and accessibility. With the ability to execute Lua s, it enables users to customize their gaming experience, though users should remain vigilant about potential risks associated with exploiting software.
-
-**地址:** https://github.com/noname500kv/JJsploit-94
-
----
-
-## akula-100jw/Evon-Executor-42
-
-**关键字** Exploit
-
-**介绍:** Evon – Near-perfect 99.9% script compatibility through UNC. The gold standard for hassle-free integration with trending Roblox exploits.
-
-**地址:** https://github.com/akula-100jw/Evon-Executor-42
-
----
-
-## brink2000xc/JJsploit-gm
-
-**关键字** Exploit
-
-**介绍:** JJSploit – The legendary free exploit now open to all. Execute basic Lua scripts effortlessly, but stay cautious—its accessibility comes with inherent Roblox TOS risks.
-
-**地址:** https://github.com/brink2000xc/JJsploit-gm
-
----
-
-## sapperpromen/Carbon-Executor-kz
-
-**关键字** Exploit
-
-**介绍:** Carbon Executor – Cutting-edge exploit with Level 8 execution and 90% UNC support (Win7-11). Redefine Roblox scripting through bulletproof security and raw processing power.
-
-**地址:** https://github.com/sapperpromen/Carbon-Executor-kz
-
----
-
-## makaroon99l9/Arceus-Executor-4b
-
-**关键字** Exploit
-
-**介绍:** Arceus X Exploit & Executor – The ultimate mobile cheating suite for Roblox (Android/iOS). Activate premium hacks, scripts, and mods with zero cost or malware risks—dominate any game with one tap.
-
-**地址:** https://github.com/makaroon99l9/Arceus-Executor-4b
-
----
-
-## broamaprokaktak9/Seliware-ro
-
-**关键字** Exploit
-
-**介绍:** Seliware – A cutting-edge Roblox executor built for unparalleled scripting performance. Elevate your game exploits with next-gen execution technology and ultra-low latency.
-
-**地址:** https://github.com/broamaprokaktak9/Seliware-ro
 
 ---
 
