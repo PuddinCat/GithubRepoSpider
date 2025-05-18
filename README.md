@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## exfil0/CVE-2025-32756-POC
+
+**关键字** CVE
+
+**介绍:** Designed for Demonstration of Deep Exploitation.
+
+**地址:** https://github.com/exfil0/CVE-2025-32756-POC
+
+---
+
 ## morningstarxcdcode/ZeroDay-Exploit-Detector
 
 **关键字** Exploit
@@ -2543,26 +2553,6 @@
 **介绍:** Please check it before using it 
 
 **地址:** https://github.com/lemnyscate/WB-Burp-CLI-Tool---Enhanced-Version
-
----
-
-## chaterm/Guardian
-
-**关键字** Exploit
-
-**介绍:** Guardian is a zero trust gateway which can protect your system get away from 0day exploit.
-
-**地址:** https://github.com/chaterm/Guardian
-
----
-
-## PKOfficial/official-exploits
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/PKOfficial/official-exploits
 
 ---
 
