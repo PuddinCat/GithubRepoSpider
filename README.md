@@ -2576,24 +2576,4 @@
 
 ---
 
-## wfybexploits/WFYB.GG
-
-**关键字** Exploit
-
-**介绍:** Made by WFYB Exploits in Mumbai, India.
-
-**地址:** https://github.com/wfybexploits/WFYB.GG
-
----
-
-## suddenabnormalsecrets/cvelist
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/suddenabnormalsecrets/cvelist
-
----
-
 
