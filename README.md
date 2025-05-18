@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## torfqy/SecMisc
+
+**关键字** 护网
+
+**介绍:** SecMisc 是一个开源的网络安全杂项工具集，涵盖了各种安全检测、优化、分析和防护功能，专为网络管理员、安全研究人员以及开发者设计。该工具集提供了一些实用工具，用于帮助处理网络安全中常见的各种问题。
+
+**地址:** https://github.com/torfqy/SecMisc
+
+---
+
 ## Zhang-ZaiTian/phpmyadmin-Weak-Password-Detection
 
 **关键字** 弱口令
@@ -2553,16 +2563,6 @@
 **介绍:** Best Ways to Download DeadLock Hack for Windows in 2025 Edition
 
 **地址:** https://github.com/MatteoPlayz/DeadLock-Exploit
-
----
-
-## 0xezzdev/cvezz
-
-**关键字** CVE
-
-**介绍:** mycv
-
-**地址:** https://github.com/0xezzdev/cvezz
 
 ---
 
