@@ -6,6 +6,46 @@
 
 ## 最新仓库
 
+## Zhang-ZaiTian/phpmyadmin-Weak-Password-Detection
+
+**关键字** 弱口令
+
+**介绍:** phpmyadmin 弱口令探测脚本
+
+**地址:** https://github.com/Zhang-ZaiTian/phpmyadmin-Weak-Password-Detection
+
+---
+
+## gunyakit/CVE-2024-41713-PoC-exploit
+
+**关键字** CVE
+
+**介绍:** Mitel MiCollab Authentication Bypass to Arbitrary File Read
+
+**地址:** https://github.com/gunyakit/CVE-2024-41713-PoC-exploit
+
+---
+
+## mow33breadsun/sea-of-thieves-cheats
+
+**关键字** Exploit
+
+**介绍:** Best Sea of Thieves Exploit Hack Free
+
+**地址:** https://github.com/mow33breadsun/sea-of-thieves-cheats
+
+---
+
+## Hemant-maker44/Ethical-hacking-project1
+
+**关键字** Exploit
+
+**介绍:** Ethical Hacking Project - Simulating Real-World Network Exploitation and Defense
+
+**地址:** https://github.com/Hemant-maker44/Ethical-hacking-project1
+
+---
+
 ## proint-qw/pytool
 
 **关键字** 渗透测试
@@ -23,6 +63,16 @@
 **介绍:** None
 
 **地址:** https://github.com/mejarredfyru765/sea-of-thieves-exploit
+
+---
+
+## Kai-One001/cve-
+
+**关键字** CVE
+
+**介绍:** cve系列更新
+
+**地址:** https://github.com/Kai-One001/cve-
 
 ---
 
@@ -1446,6 +1496,16 @@
 
 ---
 
+## lucadibello/tmux-fuzzing
+
+**关键字** CVE
+
+**介绍:** Software Security Lab: Enhanced fuzzing for tmux using OSS-Fuzz. Developed new harnesses (cmd-fuzzer, argument-fuzzer) to improve code coverage and analyzed CVE-2020-27347 with a PoC.
+
+**地址:** https://github.com/lucadibello/tmux-fuzzing
+
+---
+
 ## uae0o/cve-search-
 
 **关键字** CVE
@@ -2503,26 +2563,6 @@
 **介绍:** mycv
 
 **地址:** https://github.com/0xezzdev/cvezz
-
----
-
-## RoyalZJT/CVE
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/RoyalZJT/CVE
-
----
-
-## crysalix4/CVE
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/crysalix4/CVE
 
 ---
 
