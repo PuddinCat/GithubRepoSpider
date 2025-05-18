@@ -56,6 +56,16 @@
 
 ---
 
+## Namtium/Meltdown_exploit
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/Namtium/Meltdown_exploit
+
+---
+
 ## suonanjiexi/Cyber-RPC
 
 **关键字** 反序列化
@@ -2223,36 +2233,6 @@
 **介绍:** Free BF2042 Hack Download Pack: Windows 2025 Exclusive Mods🌟
 
 **地址:** https://github.com/dwarf4325/BF2042-Exploit
-
----
-
-## DOMINIC471/qub-network-security-cve-2023-20198
-
-**关键字** CVE
-
-**介绍:** Analysis, detection, and mitigation of CVE-2023-20198 exploitation in Cisco IOS XE – QUB CSC3064 Network Security Assessment
-
-**地址:** https://github.com/DOMINIC471/qub-network-security-cve-2023-20198
-
----
-
-## gennadii3290/exploit
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/gennadii3290/exploit
-
----
-
-## jenniferaqmew/avmhwlxzx
-
-**关键字** bypass av
-
-**介绍:** AVM HWID Spoofer is the ultimate HWID Changer tool designed to bypass hardware bans easily. Boost your gaming experience with a secure, fast, and reliable HWID Spoofer. Stay undetected, switch devices seamlessly, and play worry-free. Download now for safe HWID protection!
-
-**地址:** https://github.com/jenniferaqmew/avmhwlxzx
 
 ---
 
