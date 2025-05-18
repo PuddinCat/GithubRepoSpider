@@ -6,6 +6,146 @@
 
 ## 最新仓库
 
+## alfatraktor2312/rivals
+
+**关键字** Exploit
+
+**介绍:** Rivals Roblox Script, Roblox Script, Rivals Script, Roblox Game Mods, Roblox Cheats, Roblox Hacks, Game Scripting for Roblox, Rivals Game Script, Roblox Exploits, Roblox Script for Cheats, Roblox Game Enhancement Scripts, Roblox Modding, Roblox Exploits for Rivals, Roblox Script Features
+
+**地址:** https://github.com/alfatraktor2312/rivals
+
+---
+
+## alfatraktor2312/cs2
+
+**关键字** Exploit
+
+**介绍:** cs2 cheat, cs2 hacks, cs2 aimbot, counter-strike 2 cheats, cs2 wallhack, cs2 exploit, cs2 mod, cs2 ESP, counter-strike cheat tool, free cs2 cheat.
+
+**地址:** https://github.com/alfatraktor2312/cs2
+
+---
+
+## senatorpage8278/Super-Champs-Game-Crypto-Bot
+
+**关键字** Exploit
+
+**介绍:** Super Champs Game Crypto Bot – Auto Farm, Clicker, Cheat, Token Hack & API Exploit
+
+**地址:** https://github.com/senatorpage8278/Super-Champs-Game-Crypto-Bot
+
+---
+
+## senatorpage8278/Forgotten-Runiverse-Crypto-Bot-Auto-Farm-Clicker
+
+**关键字** Exploit
+
+**介绍:** Forgotten Runiverse Crypto Bot – Auto Farm, Clicker, Cheat, Token Hack & API Exploit
+
+**地址:** https://github.com/senatorpage8278/Forgotten-Runiverse-Crypto-Bot-Auto-Farm-Clicker
+
+---
+
+## iwanticanshield/repo
+
+**关键字** Exploit
+
+**介绍:** repo cheat, cheat tool for games, game hack, unlock game features, repo exploit, cheat repo, game modding, automated gameplay, unlock hidden content.
+
+**地址:** https://github.com/iwanticanshield/repo
+
+---
+
+## darkknigtbeetleg6/MeepCity-GUI-Script
+
+**关键字** Exploit
+
+**介绍:** MeepCity GUI Script - Free Undetected Hack | Auto Fishing, Auto Collect, Teleport, Exploits & More (2025)
+
+**地址:** https://github.com/darkknigtbeetleg6/MeepCity-GUI-Script
+
+---
+
+## darkknigtbeetleg6/Natural-Disaster-Survival-GUI-Script
+
+**关键字** Exploit
+
+**介绍:** Natural Disaster Survival GUI Script - Free Undetected Hack | Teleport, God Mode, Exploits & More (2025)
+
+**地址:** https://github.com/darkknigtbeetleg6/Natural-Disaster-Survival-GUI-Script
+
+---
+
+## darkknigtbeetleg6/Pancake-Protectors-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat
+
+**关键字** Exploit
+
+**介绍:** Pancake Protectors Crypto Bot – Auto Farm, Clicker, Cheat, Token Hack & API Exploit
+
+**地址:** https://github.com/darkknigtbeetleg6/Pancake-Protectors-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat
+
+---
+
+## darkknigtbeetleg6/Qorpo-World-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack
+
+**关键字** Exploit
+
+**介绍:** Qorpo World Crypto Bot – Auto Farm, Clicker, Crypto & Token Hack, API Exploit
+
+**地址:** https://github.com/darkknigtbeetleg6/Qorpo-World-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack
+
+---
+
+## darkknigtbeetleg6/Wild-Forest-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token
+
+**关键字** Exploit
+
+**介绍:** Wild Forest Crypto Bot – Auto Farm, Clicker, Cheat, Token Hack & API Exploit
+
+**地址:** https://github.com/darkknigtbeetleg6/Wild-Forest-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token
+
+---
+
+## 123ants/Exploits-database-
+
+**关键字** Exploit
+
+**介绍:** a library of web exploits,Google dorks, and exposed IP cameras etc, for educational purposes only! 
+
+**地址:** https://github.com/123ants/Exploits-database-
+
+---
+
+## browneyes3987/Xborg-Game-Crypto-Bot-Auto-Farm-Clicker
+
+**关键字** Exploit
+
+**介绍:** Xborg Game Crypto Bot – Auto Farm, Clicker, Cheat, API Hack & Exploit
+
+**地址:** https://github.com/browneyes3987/Xborg-Game-Crypto-Bot-Auto-Farm-Clicker
+
+---
+
+## browneyes3987/Splinterlands-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack
+
+**关键字** Exploit
+
+**介绍:** Splinterlands Crypto Bot – Auto Farm, Clicker, Token Hack & API Exploit
+
+**地址:** https://github.com/browneyes3987/Splinterlands-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack
+
+---
+
+## browneyes3987/LumiTerra-Crypto-Bot-Auto-Farm-Clicker
+
+**关键字** Exploit
+
+**介绍:** LumiTerra Crypto Bot – Auto Farm, Clicker, Cheat, Token Hack & API Exploit
+
+**地址:** https://github.com/browneyes3987/LumiTerra-Crypto-Bot-Auto-Farm-Clicker
+
+---
+
 ## HossamEAhmed/wp-ulike-cve-2025-32259-poc
 
 **关键字** CVE
@@ -43,6 +183,16 @@
 **介绍:** None
 
 **地址:** https://github.com/missaels235/POC-CVE-2024-44258-Py
+
+---
+
+## ktbl2003/ktbl-word-compare
+
+**关键字** 注入
+
+**介绍:** KTBL文档比较是一套半语义替换式的Word文档比较工具，采用独特比对算法，把市面基于词的删除-增加方式优化为基于目录-段-词的替换方式，通过批注展现比较的结果，不但解决文档比对内容的大篇幅错位，还能对文档的内容、表格等基本上作到无侵入和破坏。对于改动较大的大文档而言，其比对效果尤其明显。下载地址：https://www.alipan.com/s/LyvUPFfyCh2
+
+**地址:** https://github.com/ktbl2003/ktbl-word-compare
 
 ---
 
@@ -2463,46 +2613,6 @@
 **介绍:** 캡스톤 5조
 
 **地址:** https://github.com/container-security-to-graduate/container-cve-tracker
-
----
-
-## Joshua-Ghent/Triage-Enumeration-and-Exploitation-Lab
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/Joshua-Ghent/Triage-Enumeration-and-Exploitation-Lab
-
----
-
-## hubCVE2025/CVE
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/hubCVE2025/CVE
-
----
-
-## ghost-zz/test
-
-**关键字** CVE
-
-**介绍:** CVE-2020-999999, CVE-2020-999998 
-
-**地址:** https://github.com/ghost-zz/test
-
----
-
-## tomagoyaky/keys_inject
-
-**关键字** 注入
-
-**介绍:** 密钥注入案例
-
-**地址:** https://github.com/tomagoyaky/keys_inject
 
 ---
 
