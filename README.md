@@ -2456,24 +2456,4 @@
 
 ---
 
-## numberoneboy1al/Seliware-s2
-
-**关键字** Exploit
-
-**介绍:** Seliware – A cutting-edge Roblox executor built for unparalleled scripting performance. Elevate your game exploits with next-gen execution technology and ultra-low latency.
-
-**地址:** https://github.com/numberoneboy1al/Seliware-s2
-
----
-
-## topgamer0q1/Seliware-wh
-
-**关键字** Exploit
-
-**介绍:** Seliware – A cutting-edge Roblox executor built for unparalleled scripting performance. Elevate your game exploits with next-gen execution technology and ultra-low latency.
-
-**地址:** https://github.com/topgamer0q1/Seliware-wh
-
----
-
 
