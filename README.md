@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## AdityaBhatt3010/Exploiting-NoSQL-Injection-to-Extract-Data-BurpSuite-Lab-Walkthrough
+
+**关键字** burp
+
+**介绍:** Exploiting NoSQL injection to extract admin credentials from a MongoDB-backed application using BurpSuite and Boolean-based payloads.
+
+**地址:** https://github.com/AdityaBhatt3010/Exploiting-NoSQL-Injection-to-Extract-Data-BurpSuite-Lab-Walkthrough
+
+---
+
 ## welcomethell/RceExploit
 
 **关键字** RCE
@@ -33,6 +43,16 @@
 **介绍:** None
 
 **地址:** https://github.com/sathish-varnan/CVEServer
+
+---
+
+## sarathymurugan/pentesting-lab-setup
+
+**关键字** burp
+
+**介绍:** Web Application Pentesting Environment Setup - DVWA + Burp Suite by SARATHY M
+
+**地址:** https://github.com/sarathymurugan/pentesting-lab-setup
 
 ---
 
