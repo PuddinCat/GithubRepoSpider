@@ -46,6 +46,16 @@
 
 ---
 
+## uqesykhcn/uqe-jo8j
+
+**关键字** 钓鱼
+
+**介绍:** 天天钓鱼加速器下载免费
+
+**地址:** https://github.com/uqesykhcn/uqe-jo8j
+
+---
+
 ## mow33breadsun/sea-of-thieves-cheats
 
 **关键字** Exploit
@@ -2553,16 +2563,6 @@
 **介绍:** None
 
 **地址:** https://github.com/PKOfficial/official-exploits
-
----
-
-## byxs0x0/cve2
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/byxs0x0/cve2
 
 ---
 
