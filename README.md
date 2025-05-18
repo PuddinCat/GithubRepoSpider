@@ -6,6 +6,56 @@
 
 ## 最新仓库
 
+## doomygloom/CVE-2025-4428
+
+**关键字** CVE
+
+**介绍:** CVE-2025-4428
+
+**地址:** https://github.com/doomygloom/CVE-2025-4428
+
+---
+
+## dimonvorlow/Apex-Exploit-Kit
+
+**关键字** Exploit
+
+**介绍:** Apex Legends Cracked Hack 2025: Download for Windows Now 🔥
+
+**地址:** https://github.com/dimonvorlow/Apex-Exploit-Kit
+
+---
+
+## crossmatthew706/CS2-ExploitX
+
+**关键字** Exploit
+
+**介绍:**  CS2 Hacking Software 2025 - Download for Windows 
+
+**地址:** https://github.com/crossmatthew706/CS2-ExploitX
+
+---
+
+## asedyebbejonasson/Rust-Exploit-Hub
+
+**关键字** Exploit
+
+**介绍:**  Get Rust Hacks Free 2025 
+
+**地址:** https://github.com/asedyebbejonasson/Rust-Exploit-Hub
+
+---
+
+## nofresh0068/Div2-ExploitKit
+
+**关键字** Exploit
+
+**介绍:** The Division 2 Hack Tool Download - Windows Compatible 2025
+
+**地址:** https://github.com/nofresh0068/Div2-ExploitKit
+
+---
+
 ## AdityaBhatt3010/Exploiting-NoSQL-Injection-to-Extract-Data-BurpSuite-Lab-Walkthrough
 
 **关键字** burp
@@ -2183,16 +2233,6 @@
 **介绍:** None
 
 **地址:** https://github.com/musa-isik/OpenCVEyeFilter
-
----
-
-## gisfakenews/sea-of-thieves-exploit
-
-**关键字** Exploit
-
-**介绍:** Sea of Thieves Exploit Cheat Free Download 2025
-
-**地址:** https://github.com/gisfakenews/sea-of-thieves-exploit
 
 ---
 
