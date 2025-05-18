@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## Ramsadaye/Crypter-Horus-Protector
+
+**关键字** bypass AntiVirus
+
+**介绍:** Horus Protector 100% FUD Crypter xWorm Bypass Windows Defender Antivirus with Startup and persistance
+
+**地址:** https://github.com/Ramsadaye/Crypter-Horus-Protector
+
+---
+
+## cvenkataravikiran/CVenkataraviKiran-Portfolio
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/cvenkataravikiran/CVenkataraviKiran-Portfolio
+
+---
+
 ## eridona03/CVexercises
 
 **关键字** CVE
@@ -2543,26 +2563,6 @@
 **介绍:** Nacos Derby命令执行漏洞利用脚本，支持 jMG 生成的内存马
 
 **地址:** https://github.com/want2live233/nacos_derby_rce_custom_memshell
-
----
-
-## Mohammad-mo-02/Ethical-Hacking-Labs
-
-**关键字** burp
-
-**介绍:** Penetration testing labs using Nmap, Metasploit, SQLMap, Wireshark, and Burp Suite across TryHackMe and DVWA environments. Tasks included recon, exploitation, reverse shells, FTP sniffing, and bug bounty simulation.
-
-**地址:** https://github.com/Mohammad-mo-02/Ethical-Hacking-Labs
-
----
-
-## watchtowrlabs/watchTowr-vs-Ivanti-EPMM-CVE-2025-4427-CVE-2025-4428
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/watchtowrlabs/watchTowr-vs-Ivanti-EPMM-CVE-2025-4427-CVE-2025-4428
 
 ---
 
