@@ -2546,14 +2546,4 @@
 
 ---
 
-## Jimeradez/BloxFruitsExploits
-
-**关键字** Exploit
-
-**介绍:** Jimeradez’ BloxFruit exploits. Version 1.0
-
-**地址:** https://github.com/Jimeradez/BloxFruitsExploits
-
----
-
 
