@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## puneetkeshri95/Zero-Day-Exploit-Prediction
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/puneetkeshri95/Zero-Day-Exploit-Prediction
+
+---
+
+## spear0021/Void-Fortnite
+
+**关键字** Exploit
+
+**介绍:** 🕳️ Void — Fortnite Exploit Suite + Rage Aimbot 👾🧨
+
+**地址:** https://github.com/spear0021/Void-Fortnite
+
+---
+
 ## exfil0/CVE-2025-32756-POC
 
 **关键字** CVE
@@ -2533,16 +2553,6 @@
 **介绍:** Jimeradez’ BloxFruit exploits. Version 1.0
 
 **地址:** https://github.com/Jimeradez/BloxFruitsExploits
-
----
-
-## Sratet/CVE-2025-30397-RCE
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/Sratet/CVE-2025-30397-RCE
 
 ---
 
