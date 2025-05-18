@@ -6,6 +6,76 @@
 
 ## 最新仓库
 
+## HossamEAhmed/wp-ulike-cve-2025-32259-poc
+
+**关键字** CVE
+
+**介绍:** In affected versions of the WP ULike plugin, there is no proper authorization check before allowing certain AJAX actions or vote manipulations. This allows unauthenticated users to interact with the plugin in ways only logged-in users should be able to — potentially skewing votes or injecting misleading data.
+
+**地址:** https://github.com/HossamEAhmed/wp-ulike-cve-2025-32259-poc
+
+---
+
+## doomygloom/CVE-2025-4664
+
+**关键字** CVE
+
+**介绍:** CVE-2025-4664
+
+**地址:** https://github.com/doomygloom/CVE-2025-4664
+
+---
+
+## doomygloom/CVE-2025-4921
+
+**关键字** CVE
+
+**介绍:** CVE-2025-4921
+
+**地址:** https://github.com/doomygloom/CVE-2025-4921
+
+---
+
+## missaels235/POC-CVE-2024-44258-Py
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/missaels235/POC-CVE-2024-44258-Py
+
+---
+
+## abdullah-x909/ViperScan
+
+**关键字** burp
+
+**介绍:** Open-source Burp Suite Pro alternative with ZAP & fuzzing integration
+
+**地址:** https://github.com/abdullah-x909/ViperScan
+
+---
+
+## emamamic/botnet-exploits
+
+**关键字** Exploit
+
+**介绍:** Coleção de Scanners de Vulnerabilidade em Rede (botnet loaders/exploits)
+
+**地址:** https://github.com/emamamic/botnet-exploits
+
+---
+
+## respectfulmor/C2PE
+
+**关键字** Exploit
+
+**介绍:** Red Team C2 and Post Exploitation Code c2, offensive-security, post-exploitation, python3, redteam
+
+**地址:** https://github.com/respectfulmor/C2PE
+
+---
+
 ## rikserok/XWorm-v5.6-RCE-patch-source-code
 
 **关键字** RCE
@@ -46,6 +116,16 @@
 
 ---
 
+## TheOmRaj/Network-Penetration-Testing-with-the-real-world-exploits
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/TheOmRaj/Network-Penetration-Testing-with-the-real-world-exploits
+
+---
+
 ## pentagon404uzb/Reconnaissance-and-Exploitation-technique
 
 **关键字** Exploit
@@ -63,6 +143,16 @@
 **介绍:** Eventin <= 4.0.26 - Missing Authorization to Unauthenticated Privilege Escalation
 
 **地址:** https://github.com/Nxploited/CVE-2025-47539
+
+---
+
+## ionchad/linux-postex-toolkit
+
+**关键字** Exploit
+
+**介绍:** Linux post exploitation tool
+
+**地址:** https://github.com/ionchad/linux-postex-toolkit
 
 ---
 
@@ -246,6 +336,16 @@
 
 ---
 
+## ayush1918/CEH_project_Simulating-Real-World-Network-Exploitation-and-Defense
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/ayush1918/CEH_project_Simulating-Real-World-Network-Exploitation-and-Defense
+
+---
+
 ## adibarsyad/android_adb_exploit
 
 **关键字** Exploit
@@ -263,6 +363,16 @@
 **介绍:** burp中的插件，主要用于检测XSS无攻击流量只检测可避免部分waf拦截
 
 **地址:** https://github.com/SunDay2t/burp-xss-scan
+
+---
+
+## alukashenkov/Vulners-MCP
+
+**关键字** CVE
+
+**介绍:** MCP that returns CVE information using Vulners API
+
+**地址:** https://github.com/alukashenkov/Vulners-MCP
 
 ---
 
@@ -536,6 +646,16 @@
 
 ---
 
+## ksrin/more-fixes-mcp
+
+**关键字** CVE
+
+**介绍:** An MCP server for the more fixes database of CVEs
+
+**地址:** https://github.com/ksrin/more-fixes-mcp
+
+---
+
 ## jgamblin/CVE-MCP
 
 **关键字** CVE
@@ -683,6 +803,16 @@
 **介绍:** Roblox Grow a Garden Script | Auto Grow Plants + Harvest System | Free Roblox Garden Simulator Script | 2025 Updated Roblox Exploit
 
 **地址:** https://github.com/glassley82/-Grow-a-Garden-Script
+
+---
+
+## Roberto2332/U2S3Esame3PenTestExploit
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/Roberto2332/U2S3Esame3PenTestExploit
 
 ---
 
@@ -2373,56 +2503,6 @@
 **介绍:** 密钥注入案例
 
 **地址:** https://github.com/tomagoyaky/keys_inject
-
----
-
-## h4cker-crypto/FreeExploits
-
-**关键字** Exploit
-
-**介绍:** Разрабатываем, оттачиваем и тестируем эксплоиты для самых разных уязвимостей.
-
-**地址:** https://github.com/h4cker-crypto/FreeExploits
-
----
-
-## DeaconS19/BUBBLE
-
-**关键字** shellcode
-
-**介绍:** BUBBLE is a tool that gains full privilege shellcode execution on chrome OS via an out of bounds memory access, then evaluating threw chrome internal pages, then planting a full priviliged extension, then  tunneling threw service workers listening for post messages.
-
-**地址:** https://github.com/DeaconS19/BUBBLE
-
----
-
-## chunned/CVEgraph
-
-**关键字** CVE
-
-**介绍:** Construct a Neo4j graph database from the cvelistV5 repository.
-
-**地址:** https://github.com/chunned/CVEgraph
-
----
-
-## BODE987/CVE-2025-31258-PoC
-
-**关键字** CVE
-
-**介绍:** 1day practice - Escape macOS sandbox (partial) using RemoteViewServices
-
-**地址:** https://github.com/BODE987/CVE-2025-31258-PoC
-
----
-
-## Hashi-Git/Patching-and-Securing-Windows-Server
-
-**关键字** Exploit
-
-**介绍:** This project demonstrates a full red team and blue team cybersecurity workflow — from exploiting SMB vulnerabilities using Metasploit to hardening, patching, and securing a Windows Server against further compromise.
-
-**地址:** https://github.com/Hashi-Git/Patching-and-Securing-Windows-Server
 
 ---
 
