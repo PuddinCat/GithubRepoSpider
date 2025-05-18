@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## sakkis91/TBRES-unprotect
+
+**关键字** Cobalt Strike
+
+**介绍:** Cobalt Strike BOF to fetch tokens from Token Broker cache
+
+**地址:** https://github.com/sakkis91/TBRES-unprotect
+
+---
+
+## intrud3rX777/Burp-Regex-Extractor
+
+**关键字** burp
+
+**介绍:** None
+
+**地址:** https://github.com/intrud3rX777/Burp-Regex-Extractor
+
+---
+
 ## Ramsadaye/Crypter-Horus-Protector
 
 **关键字** bypass AntiVirus
@@ -2503,16 +2523,6 @@
 **介绍:** None
 
 **地址:** https://github.com/GadaLuBau1337/CVE-2025-4190
-
----
-
-## fieldsjustus/BurpSuite
-
-**关键字** burp
-
-**介绍:** None
-
-**地址:** https://github.com/fieldsjustus/BurpSuite
 
 ---
 
