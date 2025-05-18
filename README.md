@@ -6,6 +6,46 @@
 
 ## 最新仓库
 
+## suonanjiexi/Cyber-RPC
+
+**关键字** 反序列化
+
+**介绍:** Cyber-RPC 是一个基于 Java 开发的轻量级 RPC（远程过程调用）框架，旨在提供高性能、易扩展的分布式服务调用解决方案。该框架支持服务注册与发现、负载均衡、序列化/反序列化等核心功能。
+
+**地址:** https://github.com/suonanjiexi/Cyber-RPC
+
+---
+
+## AstonishedLiker/DynamicJitPatch
+
+**关键字** shellcode
+
+**介绍:** Simple C# PoC that shows how to dynamically patch a JIT-compiled method at runtime with custom shellcode. 
+
+**地址:** https://github.com/AstonishedLiker/DynamicJitPatch
+
+---
+
+## suicide-101/2b2t-Base-Finder
+
+**关键字** Exploit
+
+**介绍:** 🧭 2b2t Base Finder Exploit — Coordinate Scan Tool for Anarchy 🗺️🔍
+
+**地址:** https://github.com/suicide-101/2b2t-Base-Finder
+
+---
+
+## frizytmrzamo8079/Crimzon-Warzone
+
+**关键字** Exploit
+
+**介绍:** 🔴 Crimzon — Ragebot + Exploits + Radar for Warzone 💣💀
+
+**地址:** https://github.com/frizytmrzamo8079/Crimzon-Warzone
+
+---
+
 ## cvenkataravikiran/CVenkataravikiran-portfolio
 
 **关键字** CVE
@@ -33,6 +73,16 @@
 **介绍:** None
 
 **地址:** https://github.com/intrud3rX777/Burp-Regex-Extractor
+
+---
+
+## doomygloom/QueueUserAPC
+
+**关键字** shellcode
+
+**介绍:** PowerShell Shellcode Injection via APC Queuing
+
+**地址:** https://github.com/doomygloom/QueueUserAPC
 
 ---
 
@@ -2423,16 +2473,6 @@
 **介绍:** Seliware – A cutting-edge Roblox executor built for unparalleled scripting performance. Elevate your game exploits with next-gen execution technology and ultra-low latency.
 
 **地址:** https://github.com/topgamer0q1/Seliware-wh
-
----
-
-## yozot/CVE_related_resources
-
-**关键字** CVE
-
-**介绍:** CVE related things
-
-**地址:** https://github.com/yozot/CVE_related_resources
 
 ---
 
