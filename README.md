@@ -16,6 +16,16 @@
 
 ---
 
+## Yuragy/Bypass-Protection0x00
+
+**关键字** bypass AntiVirus
+
+**介绍:** EDR & AV Bypass Arsenal— a comprehensive collection of tools, patches, and techniques for evading modern EDR and antivirus defenses. Everything you need to develop and integrate evasion methods in one repository.
+
+**地址:** https://github.com/Yuragy/Bypass-Protection0x00
+
+---
+
 ## morningstarxcdcode/ZeroDay-Exploit-Detector
 
 **关键字** Exploit
@@ -2533,26 +2543,6 @@
 **介绍:** None
 
 **地址:** https://github.com/Sratet/CVE-2025-30397-RCE
-
----
-
-## MONOLITH6/Burp-Mysterizer
-
-**关键字** burp
-
-**介绍:** None
-
-**地址:** https://github.com/MONOLITH6/Burp-Mysterizer
-
----
-
-## lemnyscate/WB-Burp-CLI-Tool---Enhanced-Version
-
-**关键字** burp
-
-**介绍:** Please check it before using it 
-
-**地址:** https://github.com/lemnyscate/WB-Burp-CLI-Tool---Enhanced-Version
 
 ---
 
