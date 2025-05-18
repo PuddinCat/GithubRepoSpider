@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## morningstarxcdcode/ZeroDay-Exploit-Detector
+
+**关键字** Exploit
+
+**介绍:** An AI-powered zero-day exploit detection system.
+
+**地址:** https://github.com/morningstarxcdcode/ZeroDay-Exploit-Detector
+
+---
+
 ## torfqy/SecMisc
 
 **关键字** 护网
@@ -2553,16 +2563,6 @@
 **介绍:** None
 
 **地址:** https://github.com/byxs0x0/cve2
-
----
-
-## MatteoPlayz/DeadLock-Exploit
-
-**关键字** Exploit
-
-**介绍:** Best Ways to Download DeadLock Hack for Windows in 2025 Edition
-
-**地址:** https://github.com/MatteoPlayz/DeadLock-Exploit
 
 ---
 
