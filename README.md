@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## chaimaegwwg/payload-encryptor-
+
+**关键字** shellcode
+
+**介绍:** C shellcode AES encryptor
+
+**地址:** https://github.com/chaimaegwwg/payload-encryptor-
+
+---
+
 ## joey-melo/CVEs
 
 **关键字** CVE
@@ -2013,36 +2023,6 @@
 **介绍:** FiveM External cheat, offers various features like aimbot, triggerbot, exploits, and customizable settings, enhancing the gameplay experience. It is completely undetectable.
 
 **地址:** https://github.com/take1nnoff/FiveM-External-Cheat
-
----
-
-## allamiro/local-cve-api-server
-
-**关键字** CVE
-
-**介绍:** Dockerised CVE-Search stack (MongoDB 4.4 + Redis 7 + Flask API) built on Rocky Linux 8 / RHEL 8.
-
-**地址:** https://github.com/allamiro/local-cve-api-server
-
----
-
-## b1nhack/CVE-2017-7184
-
-**关键字** CVE
-
-**介绍:** CVE-2017-7184 exp
-
-**地址:** https://github.com/b1nhack/CVE-2017-7184
-
----
-
-## bottesblackflame38/BG3-ExploitGuide
-
-**关键字** Exploit
-
-**介绍:** New 2025 Baldur's Gate 3 Cheats Download Links for Windows Users 🎮
-
-**地址:** https://github.com/bottesblackflame38/BG3-ExploitGuide
 
 ---
 
