@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## ddddhm1234/clash-verge-rce
+
+**关键字** RCE
+
+**介绍:** None
+
+**地址:** https://github.com/ddddhm1234/clash-verge-rce
+
+---
+
+## mikey2x2/Xworm-Reverse-shell-rce-
+
+**关键字** RCE
+
+**介绍:** 💻 Usage Guide Run the tool  Enter:  Xworm Key (from victim's client)  Target IP (your server IP)  Port (your listening port)  Payload URL (direct EXE/BAT download link)  When victim runs Xworm:  Your payload silently installs  RDP crashes (mstsc.exe killed)  You get full access
+
+**地址:** https://github.com/mikey2x2/Xworm-Reverse-shell-rce-
+
+---
+
 ## lulusec/burp
 
 **关键字** burp
@@ -2123,96 +2143,6 @@
 **介绍:** None
 
 **地址:** https://github.com/CyprianAtsyor/LetsDefend-CVE-2022-41082-Exploitation-Attempt
-
----
-
-## jlucas8/cve-test-scripts
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/jlucas8/cve-test-scripts
-
----
-
-## k-priyansh/burp-extensions
-
-**关键字** burp
-
-**介绍:** None
-
-**地址:** https://github.com/k-priyansh/burp-extensions
-
----
-
-## k-priyansh/tldraw-Launcher
-
-**关键字** burp
-
-**介绍:** tldraw Launcher is a lightweight Burp Suite extension that adds a custom tab with a button to quickly open in your default web browser.
-
-**地址:** https://github.com/k-priyansh/tldraw-Launcher
-
----
-
-## WowT-sys/RCE-MS-Office
-
-**关键字** RCE
-
-**介绍:** None
-
-**地址:** https://github.com/WowT-sys/RCE-MS-Office
-
----
-
-## dongmanwangzhan/mxdongman
-
-**关键字** 注入
-
-**介绍:** MX动漫最新网站-专注在线动漫的樱花动漫备用最新网址入口
-
-**地址:** https://github.com/dongmanwangzhan/mxdongman
-
----
-
-## joaovarelas/aspx-webshell-executor
-
-**关键字** webshell
-
-**介绍:** An authenticated ASPX webshell that receives base64-encoded C# code, compiles it server-side, executes it, and returns the output.
-
-**地址:** https://github.com/joaovarelas/aspx-webshell-executor
-
----
-
-## k-priyansh/StatusCodeLogger
-
-**关键字** burp
-
-**介绍:** Burp Suite extension that monitors HTTP responses and logs status codes (e.g., 200, 202, 404) in a custom GUI tab, helping penetration testers quickly identify unusual or important HTTP response statuses during testing.
-
-**地址:** https://github.com/k-priyansh/StatusCodeLogger
-
----
-
-## Elrit6/cVector
-
-**关键字** CVE
-
-**介绍:** simple vector in c
-
-**地址:** https://github.com/Elrit6/cVector
-
----
-
-## Giulia-Campagna/CS0225Exploit-Java-RMI
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/Giulia-Campagna/CS0225Exploit-Java-RMI
 
 ---
 
