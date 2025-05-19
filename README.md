@@ -2226,14 +2226,4 @@
 
 ---
 
-## GadaLuBau1337/CVE-2025-32583
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/GadaLuBau1337/CVE-2025-32583
-
----
-
 
