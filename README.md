@@ -2256,24 +2256,4 @@
 
 ---
 
-## GianlucaSanfi/cve-2021-4428
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/GianlucaSanfi/cve-2021-4428
-
----
-
-## xinpengccc/cve-
-
-**关键字** CVE
-
-**介绍:** CVE
-
-**地址:** https://github.com/xinpengccc/cve-
-
----
-
 
