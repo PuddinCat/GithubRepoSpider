@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## xiaomao-wq/feifei
+
+**关键字** 网络安全
+
+**介绍:** 网络安全实验或心得
+
+**地址:** https://github.com/xiaomao-wq/feifei
+
+---
+
+## otaman21/win-exploit-binaries
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/otaman21/win-exploit-binaries
+
+---
+
 ## AndreyFreitax/CVE-2011-0762
 
 **关键字** CVE
@@ -2293,36 +2313,6 @@
 **介绍:** None
 
 **地址:** https://github.com/fortinet-fortisoar/solution-pack-outbreak-response-langflow-unauth-rce-attack
-
----
-
-## nkcrda/jichangvpn
-
-**关键字** 网络安全
-
-**介绍:** 外网梯子是帮助用户绕过网络封锁、访问被限制内容的工具，本文介绍科学上网魔法梯子、翻墙机场节点和VPN的基本概念，分析了它们在安全性、隐私保护、稳定性和速度方面的差异，并推荐了几款稳定安全的SS,SSR,V2ray,Trojan协议节点机场的手机电脑付费梯子，帮助用户根据需求预算选择最佳的Clash或小火箭节点订阅，实现网络自由和隐私保护。
-
-**地址:** https://github.com/nkcrda/jichangvpn
-
----
-
-## conkel-497/Warzone-Exploit
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/conkel-497/Warzone-Exploit
-
----
-
-## viperthepunisher/Deadfire-Exploit
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/viperthepunisher/Deadfire-Exploit
 
 ---
 
