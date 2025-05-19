@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## xiaomao-wq/-
+
+**关键字** 网络安全
+
+**介绍:** 网络安全实验或心得，基础知识，具体操作
+
+**地址:** https://github.com/xiaomao-wq/-
+
+---
+
 ## xiaomao-wq/feifei
 
 **关键字** 网络安全
@@ -2293,26 +2303,6 @@
 **介绍:** None
 
 **地址:** https://github.com/LastNoobDevAlive/BURP---BackUp-and-Restore-Program
-
----
-
-## Saidurga13/Smart_CVE_Analyser
-
-**关键字** CVE
-
-**介绍:** An AI-powered CVE analyzer that automates the identification and remediation of vulnerable packages using CVE ID for SLES15 SP3.
-
-**地址:** https://github.com/Saidurga13/Smart_CVE_Analyser
-
----
-
-## fortinet-fortisoar/solution-pack-outbreak-response-langflow-unauth-rce-attack
-
-**关键字** RCE
-
-**介绍:** None
-
-**地址:** https://github.com/fortinet-fortisoar/solution-pack-outbreak-response-langflow-unauth-rce-attack
 
 ---
 
