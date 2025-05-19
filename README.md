@@ -1986,34 +1986,4 @@
 
 ---
 
-## demopath/rcedit
-
-**关键字** RCE
-
-**介绍:** 添加图标和清单文件，美化 exe
-
-**地址:** https://github.com/demopath/rcedit
-
----
-
-## abir-ah616/cve3
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/abir-ah616/cve3
-
----
-
-## breatheco-de/kernel-exploit-dirtycow-project
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/breatheco-de/kernel-exploit-dirtycow-project
-
----
-
 
