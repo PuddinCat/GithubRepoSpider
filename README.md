@@ -6,6 +6,46 @@
 
 ## 最新仓库
 
+## CarlosSapien03/CVExtra
+
+**关键字** CVE
+
+**介绍:** Curriculum Vitae para la materia de tópicos.
+
+**地址:** https://github.com/CarlosSapien03/CVExtra
+
+---
+
+## 3nvz/cvegrep
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/3nvz/cvegrep
+
+---
+
+## undefined-name12/CheatSheet-CobaltStrike
+
+**关键字** Cobalt Strike
+
+**介绍:** Algunas notas y ejemplos sobre la funcionalidad de Cobalt Strike
+
+**地址:** https://github.com/undefined-name12/CheatSheet-CobaltStrike
+
+---
+
+## heAdz0r/toron_cvetochek_rupert
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/heAdz0r/toron_cvetochek_rupert
+
+---
+
 ## matteoverzi/Rekall-Penetration-Test-Project
 
 **关键字** burp
