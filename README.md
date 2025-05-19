@@ -6,6 +6,36 @@
 
 ## 最新仓库
 
+## Housma/CVE-2019-9978-Social-Warfare-WordPress-Plugin-RCE
+
+**关键字** CVE
+
+**介绍:** The `swp_debug` parameter in `admin-post.php` allows remote attackers to include external files containing malicious PHP code, which are evaluated on the server. By supplying a crafted URL that hosts a reverse shell payload, an attacker can gain command execution.
+
+**地址:** https://github.com/Housma/CVE-2019-9978-Social-Warfare-WordPress-Plugin-RCE
+
+---
+
+## Rickerd12/exploit-cve-2025-1974
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/Rickerd12/exploit-cve-2025-1974
+
+---
+
+## qalvynn/CVE-2021-41773
+
+**关键字** CVE
+
+**介绍:** Proof of Concept for CVE-2021-41773: Apache path traversal exploit primarily used by Mirai botnets
+
+**地址:** https://github.com/qalvynn/CVE-2021-41773
+
+---
+
 ## Fv3R-Dizzy/burp
 
 **关键字** burp
@@ -13,6 +43,16 @@
 **介绍:** None
 
 **地址:** https://github.com/Fv3R-Dizzy/burp
+
+---
+
+## kpdzvvfm/kpd-rce
+
+**关键字** RCE
+
+**介绍:** bibi加速器免费下载广告
+
+**地址:** https://github.com/kpdzvvfm/kpd-rce
 
 ---
 
@@ -93,6 +133,16 @@
 **介绍:** 💻 Usage Guide Run the tool  Enter:  Xworm Key (from victim's client)  Target IP (your server IP)  Port (your listening port)  Payload URL (direct EXE/BAT download link)  When victim runs Xworm:  Your payload silently installs  RDP crashes (mstsc.exe killed)  You get full access
 
 **地址:** https://github.com/mikey2x2/Xworm-Reverse-shell-rce-
+
+---
+
+## sbgumen/authorization-system
+
+**关键字** 提权
+
+**介绍:** 一个完整的授权码管理系统，支持多应用授权管理，用户授权验证，提供REST API供应用集成。
+
+**地址:** https://github.com/sbgumen/authorization-system
 
 ---
 
@@ -2093,66 +2143,6 @@
 **介绍:** Grow a Garden Script – Dupe Seeds, Auto Farm, Keyless Exploit 
 
 **地址:** https://github.com/djhaoswupsenpupsen/Grow-aGarden
-
----
-
-## lareinehouse910/--Grow-a-Garden-Script
-
-**关键字** Exploit
-
-**介绍:** Roblox Grow a Garden Script | Auto Grow Plants + Harvest System | Free Roblox Garden Simulator Script | 2025 Updated Roblox Exploit 
-
-**地址:** https://github.com/lareinehouse910/--Grow-a-Garden-Script
-
----
-
-## mrthomasminster65/-Grow-a-Garden-Script-
-
-**关键字** Exploit
-
-**介绍:** Roblox Grow a Garden Script | Auto Grow Plants + Harvest System | Free Roblox Garden Simulator Script | 2025 Updated Roblox Exploit 
-
-**地址:** https://github.com/mrthomasminster65/-Grow-a-Garden-Script-
-
----
-
-## cvensingh/cvensingh
-
-**关键字** CVE
-
-**介绍:** Config files for my GitHub profile.
-
-**地址:** https://github.com/cvensingh/cvensingh
-
----
-
-## azathoth2025/Netease-Mc-Pyrpc-Pet-Coords-Exploit
-
-**关键字** Exploit
-
-**介绍:** PoC for unauthenticated friend coordinate leak via original pet feature using pyrpc in NetEase Minecraft server.
-
-**地址:** https://github.com/azathoth2025/Netease-Mc-Pyrpc-Pet-Coords-Exploit
-
----
-
-## lfparizzi/CVE-SolucoesCoop
-
-**关键字** CVE
-
-**介绍:** CVE request
-
-**地址:** https://github.com/lfparizzi/CVE-SolucoesCoop
-
----
-
-## bratbugger5857/MeepCity-GUI-Script
-
-**关键字** Exploit
-
-**介绍:** MeepCity GUI Script - Free Undetected Hack | Auto Fishing, Auto Collect, Teleport, Exploits & More (2025)
-
-**地址:** https://github.com/bratbugger5857/MeepCity-GUI-Script
 
 ---
 
