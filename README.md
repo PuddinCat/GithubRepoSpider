@@ -2016,14 +2016,4 @@
 
 ---
 
-## take1nnoff/FiveM-External-Cheat
-
-**关键字** Exploit
-
-**介绍:** FiveM External cheat, offers various features like aimbot, triggerbot, exploits, and customizable settings, enhancing the gameplay experience. It is completely undetectable.
-
-**地址:** https://github.com/take1nnoff/FiveM-External-Cheat
-
----
-
 
