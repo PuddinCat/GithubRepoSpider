@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## jam89706049/CVE
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/jam89706049/CVE
+
+---
+
+## LIGHTS-POWER/YOLOv10-Strawberry-ripening-detection
+
+**关键字** 提权
+
+**介绍:** 本研究利用YOLOv10框架，通过对5605张涵盖成熟与未成熟草莓的图像数据集 ，训练了一个较为高效的草莓成熟度目标检测模型。该模型能够判断草莓成熟与否 ，为草莓的采摘、分类等生产环节提供了有力的技术支持。并利用PyQT5框架为其设 计了简洁的图形化操作界面。该系统不仅支持对单张图片、视频文件进行检测，还 能够利用摄像头实时判断画面中的草莓成熟状况，并将检测结果直观呈现出来，同 时提供检测结果保存功能，便于后续的数据分析与利用。最后使用了PyInstaller工 具将系统打包为Windous可执行的exe文件.项目解释权归本人所有，实验仅供参考学习。
+
+**地址:** https://github.com/LIGHTS-POWER/YOLOv10-Strawberry-ripening-detection
+
+---
+
 ## Max-John-code/-Server-360-degree_Intelligent-Driving-Assistance-System
 
 **关键字** 注入
@@ -73,6 +93,16 @@
 **介绍:** None
 
 **地址:** https://github.com/otaman21/win-exploit-binaries
+
+---
+
+## Panda-Z-Coding/Flight-management-system
+
+**关键字** 提权
+
+**介绍:** 本项目是一个基于Spring Boot和Vue.js的航班预订系统，采用前后端分离架构设计。根据角色的权限不同，系统为普通用户提供了航班查询、乘客管理和订单查询等功能，支持普通用户查询航班、预订机票、管理个人信息等操作。同时为管理员提供了航班管理、用户管理订单管理以及数据统计等功能，满足了管理员对后台数据的管理需求。
+
+**地址:** https://github.com/Panda-Z-Coding/Flight-management-system
 
 ---
 
@@ -2243,26 +2273,6 @@
 **介绍:** CVE
 
 **地址:** https://github.com/xinpengccc/cve-
-
----
-
-## MAOGE555/shuidi
-
-**关键字** 免杀
-
-**介绍:** 水滴工具箱，集合各种渗透工具，web扫描，抓包，免杀等等
-
-**地址:** https://github.com/MAOGE555/shuidi
-
----
-
-## xb-Bogger/pwn.hust
-
-**关键字** 漏洞利用
-
-**介绍:** 漏洞利用-内核攻防实践
-
-**地址:** https://github.com/xb-Bogger/pwn.hust
 
 ---
 
