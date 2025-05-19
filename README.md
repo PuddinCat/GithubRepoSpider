@@ -106,6 +106,16 @@
 
 ---
 
+## NapNeko/napcat-linux-launcher
+
+**关键字** 注入
+
+**介绍:** 目的在于简化安装流程 动态注入式启动
+
+**地址:** https://github.com/NapNeko/napcat-linux-launcher
+
+---
+
 ## Malakaidaniel/exploits-50057
 
 **关键字** Exploit
