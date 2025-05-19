@@ -6,6 +6,36 @@
 
 ## 最新仓库
 
+## Abbbbbqvq/Cobalt-strike-cna
+
+**关键字** Cobalt Strike
+
+**介绍:** Cobalt strike 后渗透插件合集
+
+**地址:** https://github.com/Abbbbbqvq/Cobalt-strike-cna
+
+---
+
+## xiaoyuxiaoyuqwq/cve
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/xiaoyuxiaoyuqwq/cve
+
+---
+
+## abuyazeen/CVE-2021-43798-Grafana-path-traversal-tester
+
+**关键字** CVE
+
+**介绍:** Automated path traversal testing tool for Grafana plugin endpoints using curl and Bash.
+
+**地址:** https://github.com/abuyazeen/CVE-2021-43798-Grafana-path-traversal-tester
+
+---
+
 ## pentest-labz/sql-exploit-service
 
 **关键字** Exploit
@@ -2183,36 +2213,6 @@
 **介绍:** None
 
 **地址:** https://github.com/KevinMendes/cors_exploit
-
----
-
-## lucadibello/tmux-fuzzing
-
-**关键字** CVE
-
-**介绍:** Software Security Lab: Enhanced fuzzing for tmux using OSS-Fuzz. Developed new harnesses (cmd-fuzzer, argument-fuzzer) to improve code coverage and analyzed CVE-2020-27347 with a PoC.
-
-**地址:** https://github.com/lucadibello/tmux-fuzzing
-
----
-
-## uae0o/cve-search-
-
-**关键字** CVE
-
-**介绍:** easy way to search cve now 
-
-**地址:** https://github.com/uae0o/cve-search-
-
----
-
-## qqliushiyu/ss0t-Scan
-
-**关键字** 网络安全
-
-**介绍:** 一个功能强大的多模块网络扫描工具集合，提供命令行和图形界面两种操作方式。本工具设计用于网络安全分析、网络拓扑探测和漏洞扫描等任务，采用模块化设计架构，使得功能扩展和维护变得简单高效。
-
-**地址:** https://github.com/qqliushiyu/ss0t-Scan
 
 ---
 
