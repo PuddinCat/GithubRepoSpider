@@ -2296,14 +2296,4 @@
 
 ---
 
-## Nxploited/CVE-2025-47646
-
-**关键字** CVE
-
-**介绍:**  WordPress PSW Front-end Login &amp; Registration Plugin <= 1.12 is vulnerable to Broken Authentication 
-
-**地址:** https://github.com/Nxploited/CVE-2025-47646
-
----
-
 
