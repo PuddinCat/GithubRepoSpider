@@ -16,6 +16,26 @@
 
 ---
 
+## reyzee0/Rce-virtualize
+
+**关键字** RCE
+
+**介绍:** None
+
+**地址:** https://github.com/reyzee0/Rce-virtualize
+
+---
+
+## apple-star18/sushiswap-exploit
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/apple-star18/sushiswap-exploit
+
+---
+
 ## CXeon/traefik_support
 
 **关键字** 护网
