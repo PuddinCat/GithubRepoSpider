@@ -6,6 +6,66 @@
 
 ## 最新仓库
 
+## MagpieRYL/memshell_xenomorph
+
+**关键字** 内存马
+
+**介绍:** 生异形吗？挖掘构建你自己的Java内存马！
+
+**地址:** https://github.com/MagpieRYL/memshell_xenomorph
+
+---
+
+## SyncMeIn/FP-Browser
+
+**关键字** 注入
+
+**介绍:** 开源免费跨平台的移动端指纹浏览器，可编程浏览器底层动态注入，免费创建无限制不同型号手机浏览器测试环境。
+
+**地址:** https://github.com/SyncMeIn/FP-Browser
+
+---
+
+## Kilqwes/ALTV-Exploit
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/Kilqwes/ALTV-Exploit
+
+---
+
+## aparnaa19/Vulnerability-Scanning-and-Exploitation
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/aparnaa19/Vulnerability-Scanning-and-Exploitation
+
+---
+
+## MickeyMeles/Warframe-Exploit
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/MickeyMeles/Warframe-Exploit
+
+---
+
+## codelassey/vsftpd-backdoor-exploit
+
+**关键字** Exploit
+
+**介绍:** Hands-on exploitation of the VSFTPD 2.3.4 backdoor vulnerability using Metasploit to gain shell access, create users, modify logs, and attempt privilege escalation in a secure lab environment.
+
+**地址:** https://github.com/codelassey/vsftpd-backdoor-exploit
+
+---
+
 ## doomygloom/CVE-2025-4428
 
 **关键字** CVE
@@ -26,6 +86,16 @@
 
 ---
 
+## ladylucknameless11/OverWatch2-Exploit
+
+**关键字** Exploit
+
+**介绍:** Ultimate OverWatch 2 Hacks Download - Dominate in 2025 🕹️
+
+**地址:** https://github.com/ladylucknameless11/OverWatch2-Exploit
+
+---
+
 ## crossmatthew706/CS2-ExploitX
 
 **关键字** Exploit
@@ -33,6 +103,16 @@
 **介绍:**  CS2 Hacking Software 2025 - Download for Windows 
 
 **地址:** https://github.com/crossmatthew706/CS2-ExploitX
+
+---
+
+## buckshot3ximik/Battle-Ton-Exploit
+
+**关键字** Exploit
+
+**介绍:** Ton Battlegrounds Mod Hack - Secure Download for Windows Now
+
+**地址:** https://github.com/buckshot3ximik/Battle-Ton-Exploit
 
 ---
 
@@ -53,6 +133,16 @@
 **介绍:** The Division 2 Hack Tool Download - Windows Compatible 2025
 
 **地址:** https://github.com/nofresh0068/Div2-ExploitKit
+
+---
+
+## CiteFLag/citeflag-2025
+
+**关键字** Exploit
+
+**介绍:** A premier cybersecurity CTF featuring challenges across web, crypto, pwn, reverse engineering, and more. This repository contains detailed writeups and technical solutions showcasing practical exploitation techniques and problem-solving strategies.
+
+**地址:** https://github.com/CiteFLag/citeflag-2025
 
 ---
 
@@ -2143,86 +2233,6 @@
 **介绍:** Obs recently disabled all Virtual Cameras, due to catfishing. This is the brand new method that uses rce that injects to hvnc, to infiltrate obs's systems and fixes your webcam, this also enables a webcam if you dont have one!
 
 **地址:** https://github.com/dhstacksandsticks/obs-virtual-webcamera
-
----
-
-## CirqueiraDev/botnet-exploits
-
-**关键字** Exploit
-
-**介绍:** Exploits para carregar bots para sua botnet
-
-**地址:** https://github.com/CirqueiraDev/botnet-exploits
-
----
-
-## Ernket/SyncBuster
-
-**关键字** Exploit
-
-**介绍:** 条件竞争（并发）利用工具，支持通过正则提取请求结果后进行后续请求的操作    Race Condition (Concurrency) Exploit Tool with support for performing subsequent requests based on regex-extracted results from response data
-
-**地址:** https://github.com/Ernket/SyncBuster
-
----
-
-## TSY244/GoSecScanner
-
-**关键字** 代码审计
-
-**介绍:** 主要是用于扫描go 代码中鉴权框架。也可以扫描安全函数或者非安全函数，有利于代码审计。
-
-**地址:** https://github.com/TSY244/GoSecScanner
-
----
-
-## xie-22/CVE-2025-4428
-
-**关键字** RCE
-
-**介绍:** Ivanti EPMM Pre-Auth RCE Chain
-
-**地址:** https://github.com/xie-22/CVE-2025-4428
-
----
-
-## kairos-hk/rce-commandi
-
-**关键字** RCE
-
-**介绍:** None
-
-**地址:** https://github.com/kairos-hk/rce-commandi
-
----
-
-## hhckon/BelajarBypassAV
-
-**关键字** bypass av
-
-**介绍:** None
-
-**地址:** https://github.com/hhckon/BelajarBypassAV
-
----
-
-## smitborad13/Threatmeld
-
-**关键字** burp
-
-**介绍:** A plugin that automatically maps Burp Suite findings to OWASP WSTG test cases
-
-**地址:** https://github.com/smitborad13/Threatmeld
-
----
-
-## Scavenger503/CVE
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/Scavenger503/CVE
 
 ---
 
