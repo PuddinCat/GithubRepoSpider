@@ -1976,14 +1976,4 @@
 
 ---
 
-## ocalasans/cbug-detection
-
-**关键字** Exploit
-
-**介绍:** Cbug Detection is an include for SA-MP (San Andreas Multiplayer) that detects the C-Bug exploit, allowing identification of actions that provide unfair advantages in combat.
-
-**地址:** https://github.com/ocalasans/cbug-detection
-
----
-
 
