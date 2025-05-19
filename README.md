@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## reyzee0/rce-virtualize
+
+**关键字** RCE
+
+**介绍:** None
+
+**地址:** https://github.com/reyzee0/rce-virtualize
+
+---
+
 ## CXeon/traefik_support
 
 **关键字** 护网
