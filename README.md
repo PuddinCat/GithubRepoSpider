@@ -6,6 +6,36 @@
 
 ## 最新仓库
 
+## Max-John-code/-Server-360-degree_Intelligent-Driving-Assistance-System
+
+**关键字** 注入
+
+**介绍:** 本服务器是360度智能行车辅助系统的核心组成部分，基于Socket网络通信技术构建，支持高并发连接和稳定的数据传输。服务器负责处理客户端的接入请求、用户登录注册、视频播放记录上传、特征数据上传等业务逻辑，并通过心跳机制维护长连接，确保通信可靠性。同时，服务器采用线程池和共享内存机制提升性能，支持200-300并发业务处理，并提供实时日志与完整日志功能，便于系统监控与调试，保障系统的高效运行与后期维护。
+
+**地址:** https://github.com/Max-John-code/-Server-360-degree_Intelligent-Driving-Assistance-System
+
+---
+
+## Dragonborn1117/cve-report
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/Dragonborn1117/cve-report
+
+---
+
+## Mattb709/RCE-Exfil-Tool
+
+**关键字** RCE
+
+**介绍:** Stealthy RCE exfiltration tool using .HTA (LOLBin) for encrypted data exfil over HTTPS. Self-destruct, recursive dir dumping, and in-memory execution.
+
+**地址:** https://github.com/Mattb709/RCE-Exfil-Tool
+
+---
+
 ## bunyaminbilenkaratas/binary-exploitation
 
 **关键字** Exploit
@@ -2233,66 +2263,6 @@
 **介绍:** 漏洞利用-内核攻防实践
 
 **地址:** https://github.com/xb-Bogger/pwn.hust
-
----
-
-## ChoSeitaku/Qt-4DOF-Arm
-
-**关键字** 注入
-
-**介绍:** 本项目是基于 Qt 框架开发的四自由度机械臂控制与仿真系统，专注于运动学计算与 3D 可视化交互。功能包括：  正/逆运动学计算：支持通过关节角度或末端位姿矩阵快速求解，结果实时同步至 3D 模型。  动态可视化：基于 Qt3D 实现机械臂模型渲染（含关节、连杆、末端执行器），支持视角缩放与坐标系辅助。  交互界面：提供输入表格、参数编辑和错误提示，操作直观，适合教学与工业仿真。
-
-**地址:** https://github.com/ChoSeitaku/Qt-4DOF-Arm
-
----
-
-## SvanurH/Cve
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/SvanurH/Cve
-
----
-
-## beydtech/Exploits-Payload
-
-**关键字** Exploit
-
-**介绍:** Develop a proof-of-concept exploit for a specific vulnerability (choose from a predetermined list or suggest your own). Describe the vulnerability, provide the necessary background information, and demonstrate the working exploit
-
-**地址:** https://github.com/beydtech/Exploits-Payload
-
----
-
-## beydtech/Privilege-escalation-client-side-exploits
-
-**关键字** Exploit
-
-**介绍:** Perform a privilege escalation attack on a target system. Document the steps followed, including the techniques used to escalate privileges and gain unauthorized access. Additionally, demonstrate a client-side exploit, such as a browser-based attack, and discuss mitigation strategies.
-
-**地址:** https://github.com/beydtech/Privilege-escalation-client-side-exploits
-
----
-
-## KICKBUTOVSKI2/cvetnik26
-
-**关键字** CVE
-
-**介绍:** ...
-
-**地址:** https://github.com/KICKBUTOVSKI2/cvetnik26
-
----
-
-## xJasonShane/learn2GDScript
-
-**关键字** 注入
-
-**介绍:** 个人记录从零开始入门GDScript编程语言，不对该仓库内的(包括但不限于)代码、资源、注释等内容的时效性、准确性和实用性负责。
-
-**地址:** https://github.com/xJasonShane/learn2GDScript
 
 ---
 
