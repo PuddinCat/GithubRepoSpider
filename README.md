@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## AndreyFreitax/CVE-2011-0762
+
+**关键字** CVE
+
+**介绍:** Um script automatizado melhorando o exploit do cve-2011-0762 postado no exploit-db
+
+**地址:** https://github.com/AndreyFreitax/CVE-2011-0762
+
+---
+
 ## MagpieRYL/memshell_xenomorph
 
 **关键字** 内存马
@@ -13,6 +23,16 @@
 **介绍:** 生异形吗？挖掘构建你自己的Java内存马！
 
 **地址:** https://github.com/MagpieRYL/memshell_xenomorph
+
+---
+
+## Wa1nut4/CVE-2025-2135
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/Wa1nut4/CVE-2025-2135
 
 ---
 
@@ -56,6 +76,36 @@
 
 ---
 
+## aparnaa19/CVE-Exploits-on-Metasploitable2
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/aparnaa19/CVE-Exploits-on-Metasploitable2
+
+---
+
+## Loucy1231/Nexus-Repository-Manager3-EL-CVE-2018-16621-https-www.cve.org-CVERecord-id-CVE-2018-16621-
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/Loucy1231/Nexus-Repository-Manager3-EL-CVE-2018-16621-https-www.cve.org-CVERecord-id-CVE-2018-16621-
+
+---
+
+## AchrafDriouiche/cve-tracker-dashboard
+
+**关键字** CVE
+
+**介绍:** A modern web app built with React and Node.js to browse, filter, and save CVE vulnerabilities from public sources.
+
+**地址:** https://github.com/AchrafDriouiche/cve-tracker-dashboard
+
+---
+
 ## codelassey/vsftpd-backdoor-exploit
 
 **关键字** Exploit
@@ -73,6 +123,16 @@
 **介绍:** CVE-2025-4428
 
 **地址:** https://github.com/doomygloom/CVE-2025-4428
+
+---
+
+## doomygloom/Stratos
+
+**关键字** CVE
+
+**介绍:** S.T.R.A.T.O.S. is a vulnerability monitoring system for aggregating, tracking, and analyzing CVEs.
+
+**地址:** https://github.com/doomygloom/Stratos
 
 ---
 
@@ -246,6 +306,16 @@
 
 ---
 
+## carvajaldz9/VulnrabilityScanner
+
+**关键字** CVE
+
+**介绍:** A Python-based tool that automates initial vulnerability scanning by combining Nmap results with exploit database lookups and CVE matching.
+
+**地址:** https://github.com/carvajaldz9/VulnrabilityScanner
+
+---
+
 ## frizytmrzamo8079/Crimzon-Warzone
 
 **关键字** Exploit
@@ -263,6 +333,26 @@
 **介绍:** None
 
 **地址:** https://github.com/cvenkataravikiran/CVenkataravikiran-portfolio
+
+---
+
+## NazininMiramini/gitvisor
+
+**关键字** CVE
+
+**介绍:** Scan Git repositories for vulnerabilities, CVEs, hard-coded credentials and more
+
+**地址:** https://github.com/NazininMiramini/gitvisor
+
+---
+
+## sarahz101/AI-Enhanced-Zaproxy
+
+**关键字** CVE
+
+**介绍:** My attempt at an AI enhanced zaproxy tool for a non technical user to understand zaproxy output. Also maps CWEs with CVEs and provides mitigation technique.
+
+**地址:** https://github.com/sarahz101/AI-Enhanced-Zaproxy
 
 ---
 
@@ -523,6 +613,16 @@
 **介绍:** cve系列更新
 
 **地址:** https://github.com/Kai-One001/cve-
+
+---
+
+## salishba/AIES-CCP-Project
+
+**关键字** CVE
+
+**介绍:** My attemp at AI enhanced zaproxy tool for non technical user to understand zaproxy output. Also maps cwe's with CVEs and provides mitigation technique
+
+**地址:** https://github.com/salishba/AIES-CCP-Project
 
 ---
 
@@ -853,6 +953,16 @@
 **介绍:** cve search tool
 
 **地址:** https://github.com/cerdajasser/cve-search-tool
+
+---
+
+## shikyo13/zeronexus-website
+
+**关键字** CVE
+
+**介绍:** ZeroNexus personal website - A digital portfolio for Adam Hunt featuring security news, creative showcase, CVE dashboard, and network admin tools
+
+**地址:** https://github.com/shikyo13/zeronexus-website
 
 ---
 
@@ -1906,6 +2016,16 @@
 
 ---
 
+## Milad-Rafie/PwnKit-Local-Privilege-Escalation-Vulnerability-Discovered-in-polkit-s-pkexec-CVE-2021-4034-
+
+**关键字** CVE
+
+**介绍:** Software Vulnerabilities and mitigation university course, to show exploitation and remediation caused by this vulnerability 
+
+**地址:** https://github.com/Milad-Rafie/PwnKit-Local-Privilege-Escalation-Vulnerability-Discovered-in-polkit-s-pkexec-CVE-2021-4034-
+
+---
+
 ## HoViKhanh/CVE
 
 **关键字** CVE
@@ -2203,26 +2323,6 @@
 **介绍:** None
 
 **地址:** https://github.com/viperthepunisher/Deadfire-Exploit
-
----
-
-## Scavenger503/cve_bug
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/Scavenger503/cve_bug
-
----
-
-## GeraldLim60/CVE-Projects
-
-**关键字** CVE
-
-**介绍:** Image Manipulation, Image Modifications, Artificial Neural Networks (ANNs)
-
-**地址:** https://github.com/GeraldLim60/CVE-Projects
 
 ---
 
