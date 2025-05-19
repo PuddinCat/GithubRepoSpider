@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## markdrzy/exploit-tests
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/markdrzy/exploit-tests
+
+---
+
+## Vladimirlevin1189/Web_exploit
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/Vladimirlevin1189/Web_exploit
+
+---
+
 ## Housma/CVE-2019-9978-Social-Warfare-WordPress-Plugin-RCE
 
 **关键字** CVE
@@ -2113,36 +2133,6 @@
 **介绍:** None
 
 **地址:** https://github.com/selecitevww/Win11-Goverment-exploit-in-my-system
-
----
-
-## mrripkenytownsend2/--Grow-a-Garden-Script
-
-**关键字** Exploit
-
-**介绍:** Roblox Grow a Garden Script | Auto Grow Plants + Harvest System | Free Roblox Garden Simulator Script | 2025 Updated Roblox Exploit 
-
-**地址:** https://github.com/mrripkenytownsend2/--Grow-a-Garden-Script
-
----
-
-## bratbugger5857/Dead-Rails
-
-**关键字** Exploit
-
-**介绍:** Dead Rails - Cheat, Trainer, Exploit Tool (2025)
-
-**地址:** https://github.com/bratbugger5857/Dead-Rails
-
----
-
-## djhaoswupsenpupsen/Grow-aGarden
-
-**关键字** Exploit
-
-**介绍:** Grow a Garden Script – Dupe Seeds, Auto Farm, Keyless Exploit 
-
-**地址:** https://github.com/djhaoswupsenpupsen/Grow-aGarden
 
 ---
 
