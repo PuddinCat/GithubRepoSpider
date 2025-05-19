@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## shockingbonu/CVE-2024-4577-PHP-RCE
+
+**关键字** RCE
+
+**介绍:** PHP RCE PoC for CVE-2024-4577 written in bash, go, python and a nuclei template cve-2024-4577, pentest, php, poc, rce-exploit, redteam
+
+**地址:** https://github.com/shockingbonu/CVE-2024-4577-PHP-RCE
+
+---
+
 ## HExploited/CVE-2025-4919-Exploit
 
 **关键字** Exploit
