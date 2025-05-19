@@ -6,6 +6,66 @@
 
 ## 最新仓库
 
+## Fv3R-Dizzy/burp
+
+**关键字** burp
+
+**介绍:** None
+
+**地址:** https://github.com/Fv3R-Dizzy/burp
+
+---
+
+## Malakaidaniel/exploits-50057
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/Malakaidaniel/exploits-50057
+
+---
+
+## Malakaidaniel/exploits-3144b
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/Malakaidaniel/exploits-3144b
+
+---
+
+## Malakaidaniel/exploits-bd54a
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/Malakaidaniel/exploits-bd54a
+
+---
+
+## Malakaidaniel/exploits
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/Malakaidaniel/exploits
+
+---
+
+## sm0k3net/www-exploit-by
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/sm0k3net/www-exploit-by
+
+---
+
 ## HWeiney/EnterpriseAttendenceManagementSystem
 
 **关键字** 权限提升
@@ -2093,26 +2153,6 @@
 **介绍:** MeepCity GUI Script - Free Undetected Hack | Auto Fishing, Auto Collect, Teleport, Exploits & More (2025)
 
 **地址:** https://github.com/bratbugger5857/MeepCity-GUI-Script
-
----
-
-## bratbugger5857/Natural-Disaster-Survival-GUI-Script
-
-**关键字** Exploit
-
-**介绍:** Natural Disaster Survival GUI Script - Free Undetected Hack | Teleport, God Mode, Exploits & More (2025)
-
-**地址:** https://github.com/bratbugger5857/Natural-Disaster-Survival-GUI-Script
-
----
-
-## eqimd/cve-reports
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/eqimd/cve-reports
 
 ---
 
