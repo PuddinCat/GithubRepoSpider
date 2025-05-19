@@ -16,6 +16,16 @@
 
 ---
 
+## ByteTheCookies/CookieFarmExploiter
+
+**关键字** Exploit
+
+**介绍:** Exploiter Python that collaborate with @CookieFarm Project
+
+**地址:** https://github.com/ByteTheCookies/CookieFarmExploiter
+
+---
+
 ## markdrzy/exploit-tests
 
 **关键字** Exploit
@@ -86,6 +96,16 @@
 
 ---
 
+## Nithin-099/Port-Scanning-and-Exploitation
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/Nithin-099/Port-Scanning-and-Exploitation
+
+---
+
 ## Malakaidaniel/exploits-50057
 
 **关键字** Exploit
@@ -113,6 +133,16 @@
 **介绍:** None
 
 **地址:** https://github.com/Malakaidaniel/exploits-bd54a
+
+---
+
+## Malakaidaniel/exploits-8da12
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/Malakaidaniel/exploits-8da12
 
 ---
 
@@ -2003,36 +2033,6 @@
 **介绍:** New 2025 Baldur's Gate 3 Cheats Download Links for Windows Users 🎮
 
 **地址:** https://github.com/bottesblackflame38/BG3-ExploitGuide
-
----
-
-## N1sa26/CVE
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/N1sa26/CVE
-
----
-
-## preetiksank/1337.github.io
-
-**关键字** webshell
-
-**介绍:** 🛠️ Ultimate WebShell + Linux Kernel Exploit Collection (PHP Shells & LPE Archive)
-
-**地址:** https://github.com/preetiksank/1337.github.io
-
----
-
-## zcflanzer/rcew-water-budget
-
-**关键字** RCE
-
-**介绍:** None
-
-**地址:** https://github.com/zcflanzer/rcew-water-budget
 
 ---
 
