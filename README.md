@@ -16,6 +16,16 @@
 
 ---
 
+## moften/CVE-2025-24054
+
+**关键字** CVE
+
+**介绍:** Vulnerabilidad NTLM (CVE-2025-24054) explotada para robo de hashes
+
+**地址:** https://github.com/moften/CVE-2025-24054
+
+---
+
 ## HExploited/CVE-2025-4919-Exploit
 
 **关键字** Exploit
