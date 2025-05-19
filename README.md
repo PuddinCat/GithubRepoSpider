@@ -1976,24 +1976,4 @@
 
 ---
 
-## ksrin/more-fixes-mcp
-
-**关键字** CVE
-
-**介绍:** An MCP server for the more fixes database of CVEs
-
-**地址:** https://github.com/ksrin/more-fixes-mcp
-
----
-
-## jgamblin/CVE-MCP
-
-**关键字** CVE
-
-**介绍:** A CVE Data MCP using the CVE.ORG API
-
-**地址:** https://github.com/jgamblin/CVE-MCP
-
----
-
 
