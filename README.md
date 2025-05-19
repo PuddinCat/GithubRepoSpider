@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## bunyaminbilenkaratas/binary-exploitation
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/bunyaminbilenkaratas/binary-exploitation
+
+---
+
 ## xiaomao-wq/-
 
 **关键字** 网络安全
@@ -133,6 +143,16 @@
 **介绍:** A modern web app built with React and Node.js to browse, filter, and save CVE vulnerabilities from public sources.
 
 **地址:** https://github.com/AchrafDriouiche/cve-tracker-dashboard
+
+---
+
+## noureldine67/payload-process-injection
+
+**关键字** shellcode
+
+**介绍:** Shellcode Injection into a Remote Process using ptrace
+
+**地址:** https://github.com/noureldine67/payload-process-injection
 
 ---
 
@@ -2283,26 +2303,6 @@
 **介绍:**  WordPress PSW Front-end Login &amp; Registration Plugin <= 1.12 is vulnerable to Broken Authentication 
 
 **地址:** https://github.com/Nxploited/CVE-2025-47646
-
----
-
-## LastNoobDevAlive/Burp---Backup-Restore
-
-**关键字** burp
-
-**介绍:** None
-
-**地址:** https://github.com/LastNoobDevAlive/Burp---Backup-Restore
-
----
-
-## LastNoobDevAlive/BURP---BackUp-and-Restore-Program
-
-**关键字** burp
-
-**介绍:** None
-
-**地址:** https://github.com/LastNoobDevAlive/BURP---BackUp-and-Restore-Program
 
 ---
 
