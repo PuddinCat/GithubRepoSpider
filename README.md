@@ -2226,14 +2226,4 @@
 
 ---
 
-## dhstacksandsticks/obs-virtual-webcamera
-
-**关键字** RCE
-
-**介绍:** Obs recently disabled all Virtual Cameras, due to catfishing. This is the brand new method that uses rce that injects to hvnc, to infiltrate obs's systems and fixes your webcam, this also enables a webcam if you dont have one!
-
-**地址:** https://github.com/dhstacksandsticks/obs-virtual-webcamera
-
----
-
 
