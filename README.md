@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## lulusec/burp
+
+**关键字** burp
+
+**介绍:** None
+
+**地址:** https://github.com/lulusec/burp
+
+---
+
+## Sratet/CVE-2025-29813-PE
+
+**关键字** CVE
+
+**介绍:** CVE-2025-29813 – Visual Studio Privilege Escalation via Improper Pipeline Job Token Handling
+
+**地址:** https://github.com/Sratet/CVE-2025-29813-PE
+
+---
+
 ## reyzee0/rce-virtualize
 
 **关键字** RCE
@@ -43,6 +63,26 @@
 **介绍:** 一个traefik网关支持服务，用于配置和维护dashboard和公共中间件
 
 **地址:** https://github.com/CXeon/traefik_support
+
+---
+
+## HalfRain/NFCBridge
+
+**关键字** 网络安全
+
+**介绍:** NFC Bridge是一个创新的Android应用系统,实现了银行卡信息的无线读取、传输与模拟功能。该系统由两个主要组件构成:读卡端和模拟端,通过网络连接实现数据的安全传输。
+
+**地址:** https://github.com/HalfRain/NFCBridge
+
+---
+
+## honestcorrupt/SQL-Injection-in-John-XXIII-College-Website-gallary.php-
+
+**关键字** CVE
+
+**介绍:** This repo is made for CVE requets and POC
+
+**地址:** https://github.com/honestcorrupt/SQL-Injection-in-John-XXIII-College-Website-gallary.php-
 
 ---
 
@@ -2193,16 +2233,6 @@
 **介绍:** None
 
 **地址:** https://github.com/GadaLuBau1337/CVE-2025-32583
-
----
-
-## 123654mjx/ICPAssetExpress
-
-**关键字** 信息收集
-
-**介绍:** 一款互联网有效资产发现工具，方便快速对多个企业进行信息收集（目前基于360 quake api）
-
-**地址:** https://github.com/123654mjx/ICPAssetExpress
 
 ---
 
