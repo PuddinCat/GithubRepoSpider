@@ -46,6 +46,16 @@
 
 ---
 
+## Cristian23PC/burpextension_dnisgenerator
+
+**关键字** burp
+
+**介绍:** generador de ruts
+
+**地址:** https://github.com/Cristian23PC/burpextension_dnisgenerator
+
+---
+
 ## pwnpalace/burpsuite
 
 **关键字** burp
