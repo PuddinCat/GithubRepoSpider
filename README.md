@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## ggodaohang/mxdongman
+
+**关键字** 注入
+
+**介绍:** mx动漫官网，专注在线动漫的樱花动漫备用网站|网页版入口|下载
+
+**地址:** https://github.com/ggodaohang/mxdongman
+
+---
+
 ## dico-Z/CVE
 
 **关键字** CVE
@@ -2223,36 +2233,6 @@
 **介绍:** Create a shellcode with Havoc, Then execute the command: "Python aes.py FILE_NAME.bin" and on the victim machine execute the command "rundll32.exe new.loader.dll DllRegisterServer" and there you have pwned the machine
 
 **地址:** https://github.com/BlackHack4521/Havoc-bypas-AV
-
----
-
-## ayush1918/CEH_project_Simulating-Real-World-Network-Exploitation-and-Defense
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/ayush1918/CEH_project_Simulating-Real-World-Network-Exploitation-and-Defense
-
----
-
-## adibarsyad/android_adb_exploit
-
-**关键字** Exploit
-
-**介绍:** exploit some of the misconfiguration at android manifest which are involve intent, broadcast and deeeplink
-
-**地址:** https://github.com/adibarsyad/android_adb_exploit
-
----
-
-## SunDay2t/burp-xss-scan
-
-**关键字** burp
-
-**介绍:** burp中的插件，主要用于检测XSS无攻击流量只检测可避免部分waf拦截
-
-**地址:** https://github.com/SunDay2t/burp-xss-scan
 
 ---
 
