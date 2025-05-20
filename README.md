@@ -2386,14 +2386,4 @@
 
 ---
 
-## ionchad/linux-postex-toolkit
-
-**关键字** Exploit
-
-**介绍:** Linux post exploitation tool
-
-**地址:** https://github.com/ionchad/linux-postex-toolkit
-
----
-
 
