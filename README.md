@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## Apor/Vulnerabilities
+
+**关键字** CVE
+
+**介绍:** collection of CVEs
+
+**地址:** https://github.com/Apor/Vulnerabilities
+
+---
+
+## Kanzkibe/my-amazing-application
+
+**关键字** CVE
+
+**介绍:** Application Repository to test CVE Patching
+
+**地址:** https://github.com/Kanzkibe/my-amazing-application
+
+---
+
 ## Love-Lumine/Bypassing-Safe-Exam-Browser
 
 **关键字** 绕过
@@ -13,6 +33,36 @@
 **介绍:** 我自己对于绕过SEB的一些尝试。 Mijn eigen SEB te BYPASSING manier.
 
 **地址:** https://github.com/Love-Lumine/Bypassing-Safe-Exam-Browser
+
+---
+
+## voxmenthe/contextual-cve-agent
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/voxmenthe/contextual-cve-agent
+
+---
+
+## hacefresko/CVE-2025-40634
+
+**关键字** CVE
+
+**介绍:**  Exploit for stack-based buffer overflow found in the conn-indicator binary in the TP-Link Archer AX50 router
+
+**地址:** https://github.com/hacefresko/CVE-2025-40634
+
+---
+
+## Sratet/CVE-2025-46801
+
+**关键字** CVE
+
+**介绍:** CVE-2025-46801 – Pgpool-II Authentication Bypass PoC
+
+**地址:** https://github.com/Sratet/CVE-2025-46801
 
 ---
 
@@ -2213,36 +2263,6 @@
 **介绍:** cve search tool
 
 **地址:** https://github.com/cerdajasser/cve-search-tool
-
----
-
-## shikyo13/zeronexus-website
-
-**关键字** CVE
-
-**介绍:** ZeroNexus personal website - A digital portfolio for Adam Hunt featuring security news, creative showcase, CVE dashboard, and network admin tools
-
-**地址:** https://github.com/shikyo13/zeronexus-website
-
----
-
-## mikhailde/burpsuite-pro-archlinux
-
-**关键字** burp
-
-**介绍:** None
-
-**地址:** https://github.com/mikhailde/burpsuite-pro-archlinux
-
----
-
-## Aarusakthi-NextGenIT2025/CVEWD
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/Aarusakthi-NextGenIT2025/CVEWD
 
 ---
 
