@@ -186,6 +186,16 @@
 
 ---
 
+## 521-baby/-Dark-Mode-Helper-Auto-Switch-Theme
+
+**关键字** 护网
+
+**介绍:** ✨ 定时自动切换夜间模式 | 4种主题切换（夜间1，暗色2，护眼3，白天4）|自定义当前模式|自定义昼夜时间| 网站白名单 | 护眼模式 🛡️👁️
+
+**地址:** https://github.com/521-baby/-Dark-Mode-Helper-Auto-Switch-Theme
+
+---
+
 ## IndominusRexes/CVE-2025-4322-Exploit
 
 **关键字** CVE
@@ -2243,16 +2253,6 @@
 **介绍:** burp中的插件，主要用于检测XSS无攻击流量只检测可避免部分waf拦截
 
 **地址:** https://github.com/SunDay2t/burp-xss-scan
-
----
-
-## alukashenkov/Vulners-MCP
-
-**关键字** CVE
-
-**介绍:** MCP that returns CVE information using Vulners API
-
-**地址:** https://github.com/alukashenkov/Vulners-MCP
 
 ---
 
