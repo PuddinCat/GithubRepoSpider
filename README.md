@@ -6,6 +6,36 @@
 
 ## 最新仓库
 
+## dico-Z/CVE
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/dico-Z/CVE
+
+---
+
+## GeniusWang23/CVE
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/GeniusWang23/CVE
+
+---
+
+## AlxxlaF/CVE_Watcher
+
+**关键字** CVE
+
+**介绍:** 🛡️ CVE Watcher – Automatisation de la veille sécurité par mot-clé
+
+**地址:** https://github.com/AlxxlaF/CVE_Watcher
+
+---
+
 ## laxmikumari615/Linux---Security---Detect-and-Mitigate-CVE-2024-3094
 
 **关键字** CVE
