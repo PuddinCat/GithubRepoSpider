@@ -2006,24 +2006,4 @@
 
 ---
 
-## erdemaslan0600/ErExec-Pro-Website
-
-**关键字** Exploit
-
-**介绍:** Roblox Exploit Website
-
-**地址:** https://github.com/erdemaslan0600/ErExec-Pro-Website
-
----
-
-## kali-guru/Pwnkit-CVE-2021-4034
-
-**关键字** Exploit
-
-**介绍:** Automation Exploit
-
-**地址:** https://github.com/kali-guru/Pwnkit-CVE-2021-4034
-
----
-
 
