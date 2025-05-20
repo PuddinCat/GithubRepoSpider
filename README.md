@@ -2246,14 +2246,4 @@
 
 ---
 
-## MacUchegit/SOC336---Windows-OLE-Zero-Click-RCE-Exploitation-Investigation
-
-**关键字** RCE
-
-**介绍:** None
-
-**地址:** https://github.com/MacUchegit/SOC336---Windows-OLE-Zero-Click-RCE-Exploitation-Investigation
-
----
-
 
