@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## Love-Lumine/Bypassing-Safe-Exam-Browser
+
+**关键字** 绕过
+
+**介绍:** 我自己对于绕过SEB的一些尝试。 Mijn eigen SEB te BYPASSING manier.
+
+**地址:** https://github.com/Love-Lumine/Bypassing-Safe-Exam-Browser
+
+---
+
 ## punisher21maximum/rce
 
 **关键字** RCE
@@ -13,6 +23,16 @@
 **介绍:** None
 
 **地址:** https://github.com/punisher21maximum/rce
+
+---
+
+## gaoqi9/64
+
+**关键字** 后渗透
+
+**介绍:** 亲情是渗透在生活里的背景音。离家后才懂得妈妈唠叨里的配方，爸爸沉默中的温度。那些曾经想逃离的日常，后来都成了最奢侈的想念。
+
+**地址:** https://github.com/gaoqi9/64
 
 ---
 
@@ -2223,36 +2243,6 @@
 **介绍:** None
 
 **地址:** https://github.com/Aarusakthi-NextGenIT2025/CVEWD
-
----
-
-## rikserok/XWorm-v5.6-RCE-patch
-
-**关键字** RCE
-
-**介绍:** XWorm v5.6 hrdp rce patch with source code
-
-**地址:** https://github.com/rikserok/XWorm-v5.6-RCE-patch
-
----
-
-## AlephNullCTF/backdrop_exploit
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/AlephNullCTF/backdrop_exploit
-
----
-
-## strivepan/cve-scanner
-
-**关键字** 漏洞POC
-
-**介绍:** CVE漏洞信息查询工具，支持单个CVE查询、批量查询、关键词搜索，以及POC/EXP信息搜索
-
-**地址:** https://github.com/strivepan/cve-scanner
 
 ---
 
