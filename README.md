@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## Zedeldi/CVE-2025-47827
+
+**关键字** CVE
+
+**介绍:** PoC and vulnerability report for CVE-2025-47827.
+
+**地址:** https://github.com/Zedeldi/CVE-2025-47827
+
+---
+
 ## krcenov/BezGradskiApiExploit
 
 **关键字** Exploit
@@ -13,6 +23,16 @@
 **介绍:** None
 
 **地址:** https://github.com/krcenov/BezGradskiApiExploit
+
+---
+
+## zzxx-1949/webshell
+
+**关键字** webshell
+
+**介绍:** webshell
+
+**地址:** https://github.com/zzxx-1949/webshell
 
 ---
 
@@ -2173,16 +2193,6 @@
 **介绍:** None
 
 **地址:** https://github.com/pouriam23/nobin-exploit
-
----
-
-## kinder1488/exploit.html
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/kinder1488/exploit.html
 
 ---
 
