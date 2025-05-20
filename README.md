@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## sasquatchchicken/ios-app-traffic-analysis-with-burp
+
+**关键字** burp
+
+**介绍:** None
+
+**地址:** https://github.com/sasquatchchicken/ios-app-traffic-analysis-with-burp
+
+---
+
+## SagarNegi10/Burp-It
+
+**关键字** burp
+
+**介绍:** None
+
+**地址:** https://github.com/SagarNegi10/Burp-It
+
+---
+
 ## Totunm/CVE-2025-4918
 
 **关键字** CVE
@@ -2233,66 +2253,6 @@
 **介绍:** None
 
 **地址:** https://github.com/tirrelirre/wemb-exploit
-
----
-
-## Taonauz/Anydesk-Exploit-CVE-2025-12654-RCE-Builder
-
-**关键字** RCE
-
-**介绍:** Exploit development targets vulnerabilities using tools like exploitation frameworks. CVE databases list risks, while CVE-2025-44228 is an example of a flaw. AnyDesk exploits highlight security gaps.
-
-**地址:** https://github.com/Taonauz/Anydesk-Exploit-CVE-2025-12654-RCE-Builder
-
----
-
-## Haitmnen/Sakura-Windows-SmartScreen-Bypass-Chrome-Exe-Edge
-
-**关键字** bypass AntiVirus
-
-**介绍:** Crypters and FUD tools focus on obfuscation to bypass antivirus, SmartScreen, and Windows Defender. These tools encrypt payloads, create backdoors, and ensure stealthy execution on Windows systems while evading detection through advanced techniques.
-
-**地址:** https://github.com/Haitmnen/Sakura-Windows-SmartScreen-Bypass-Chrome-Exe-Edge
-
----
-
-## Janenema/HTA-Exploit
-
-**关键字** Exploit
-
-**介绍:** Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution
-
-**地址:** https://github.com/Janenema/HTA-Exploit
-
----
-
-## Janenema/Discord-Image-Logger-Stealer
-
-**关键字** CVE
-
-**介绍:** Ephemeral discourse is embodied by the likes of Messenger Sessions, the digital portraits of Accounts, and the enigmatic Token
-
-**地址:** https://github.com/Janenema/Discord-Image-Logger-Stealer
-
----
-
-## Janenema/Slient-URL-Exploit
-
-**关键字** Exploit
-
-**介绍:** URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.
-
-**地址:** https://github.com/Janenema/Slient-URL-Exploit
-
----
-
-## Janenema/PDF-FUD-Exploit
-
-**关键字** Exploit
-
-**介绍:** A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates
-
-**地址:** https://github.com/Janenema/PDF-FUD-Exploit
 
 ---
 
