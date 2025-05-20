@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## joinsime/Adobe-Acrobat
+
+**关键字** RCE
+
+**介绍:** Adobe Acrobat is a powerful PDF solution for creating, editing, managing, and securing documents
+
+**地址:** https://github.com/joinsime/Adobe-Acrobat
+
+---
+
 ## Medamine-creator/fluxus-exploit
 
 **关键字** Exploit
@@ -2373,16 +2383,6 @@
 **介绍:** xworm v5.6 source code with removed the hrdp rce vuln
 
 **地址:** https://github.com/rikserok/XWorm-v5.6-RCE-patch-source-code
-
----
-
-## JGoyd/CVE-2025-31200-iOS-AudioConverter-RCE
-
-**关键字** RCE
-
-**介绍:** Public disclosure of CVE-2025-31200 – Zero-click RCE in iOS 18.X via AudioConverterService and malicious audio file.
-
-**地址:** https://github.com/JGoyd/CVE-2025-31200-iOS-AudioConverter-RCE
 
 ---
 
