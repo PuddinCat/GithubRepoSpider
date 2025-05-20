@@ -6,6 +6,36 @@
 
 ## 最新仓库
 
+## WhoisBulud/CVE-2024-53677
+
+**关键字** CVE
+
+**介绍:** CVE-2024-53677
+
+**地址:** https://github.com/WhoisBulud/CVE-2024-53677
+
+---
+
+## koifish2021/viper
+
+**关键字** CVE
+
+**介绍:** 🛡️ VIPER: Stay ahead of threats with AI-driven vulnerability intelligence. Prioritize CVEs effectively using NVD, EPSS, CISA KEV, and Google Gemini insights, all on an interactive dashboard
+
+**地址:** https://github.com/koifish2021/viper
+
+---
+
+## LLSJinw/shodan_cve
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/LLSJinw/shodan_cve
+
+---
+
 ## Jacob-z691/CVE
 
 **关键字** CVE
@@ -63,6 +93,16 @@
 **介绍:** 海杀免费加速器下载
 
 **地址:** https://github.com/nf8rxx3b5rs/nf8-eh0
+
+---
+
+## hzbb2221/linux-process-exporter
+
+**关键字** 信息收集
+
+**介绍:** 这是一个用Go语言编写的Prometheus exporter，用于收集Linux系统中所有进程的信息，包括PID、进程名称、CPU使用率和内存使用率。
+
+**地址:** https://github.com/hzbb2221/linux-process-exporter
 
 ---
 
@@ -343,6 +383,16 @@
 **介绍:** None
 
 **地址:** https://github.com/Fv3R-Dizzy/burp
+
+---
+
+## santanamichigan/burp
+
+**关键字** burp
+
+**介绍:** None
+
+**地址:** https://github.com/santanamichigan/burp
 
 ---
 
@@ -2043,26 +2093,6 @@
 **介绍:** This repository contains a detailed penetration testing report of a sample web application. The assessment focuses on identifying common web vulnerabilities such as SQL Injection and Cross-Site Scripting (XSS) using tools like Burp Suite and SQLMap.
 
 **地址:** https://github.com/Josh-007/FUTURE_CS_01
-
----
-
-## ozanunal0/viper
-
-**关键字** CVE
-
-**介绍:** 🛡️ VIPER: Stay ahead of threats with AI-driven vulnerability intelligence. Prioritize CVEs effectively using NVD, EPSS, CISA KEV, and Google Gemini insights, all on an interactive dashboard
-
-**地址:** https://github.com/ozanunal0/viper
-
----
-
-## servais1983/cve-tracker
-
-**关键字** CVE
-
-**介绍:** Un outil de suivi des dernières CVE (Common Vulnerabilities and Exposures) qui génère des rapports HTML interactifs
-
-**地址:** https://github.com/servais1983/cve-tracker
 
 ---
 
