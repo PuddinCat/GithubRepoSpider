@@ -6,6 +6,76 @@
 
 ## 最新仓库
 
+## pwnpalace/burpsuite
+
+**关键字** burp
+
+**介绍:** Burpsuite extensions
+
+**地址:** https://github.com/pwnpalace/burpsuite
+
+---
+
+## skech9002/Axie-Exploit-Code
+
+**关键字** Exploit
+
+**介绍:** Free Axie Infinity Exploit: Secure Windows Download 2025 Now! 🔒
+
+**地址:** https://github.com/skech9002/Axie-Exploit-Code
+
+---
+
+## elkkoresh1/XDefiant-Exploit
+
+**关键字** Exploit
+
+**介绍:** Download Free XDefiant Hack 2025 for Windows:Safe&Easy Guide🚀
+
+**地址:** https://github.com/elkkoresh1/XDefiant-Exploit
+
+---
+
+## inkeyneobxodim/OW2-Exploit-Guide
+
+**关键字** Exploit
+
+**介绍:** Top OW2 Mods 2025: Simple Hack Download for Windows Gamers Today🔧
+
+**地址:** https://github.com/inkeyneobxodim/OW2-Exploit-Guide
+
+---
+
+## akiraqwenty38/Dayz-Exploit-Pro
+
+**关键字** Exploit
+
+**介绍:** Top Dayz Mods and Hacks: Windows Download 2025 Edition 🌟
+
+**地址:** https://github.com/akiraqwenty38/Dayz-Exploit-Pro
+
+---
+
+## gutsyheart3044/Vault76-Exploit
+
+**关键字** Exploit
+
+**介绍:** 2025 Fallout 76 Hack Free Download: Best Windows Tools and Cheats 🔥
+
+**地址:** https://github.com/gutsyheart3044/Vault76-Exploit
+
+---
+
+## hxlh/webshell
+
+**关键字** webshell
+
+**介绍:** None
+
+**地址:** https://github.com/hxlh/webshell
+
+---
+
 ## Apor/Vulnerabilities
 
 **关键字** CVE
@@ -46,6 +116,26 @@
 
 ---
 
+## artyang/exploitdb
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/artyang/exploitdb
+
+---
+
+## MyNameIsDheeraj/Burpsuit-Web-Security-Academy
+
+**关键字** burp
+
+**介绍:** None
+
+**地址:** https://github.com/MyNameIsDheeraj/Burpsuit-Web-Security-Academy
+
+---
+
 ## hacefresko/CVE-2025-40634
 
 **关键字** CVE
@@ -56,6 +146,16 @@
 
 ---
 
+## ibrahimsql/web-pentest-guide
+
+**关键字** Exploit
+
+**介绍:** Comprehensive web penetration testing guide covering reconnaissance, vulnerability assessment, exploitation techniques and security best practices. Includes examples for SQL injection, XSS, CSRF, API security and other web security topics for ethical hackers and security professionals.
+
+**地址:** https://github.com/ibrahimsql/web-pentest-guide
+
+---
+
 ## Sratet/CVE-2025-46801
 
 **关键字** CVE
@@ -63,6 +163,16 @@
 **介绍:** CVE-2025-46801 – Pgpool-II Authentication Bypass PoC
 
 **地址:** https://github.com/Sratet/CVE-2025-46801
+
+---
+
+## Alexs2256/Cybersecurity-Vulnerability-Exploits
+
+**关键字** Exploit
+
+**介绍:** A collection of cybersecurity vulnerability assessment and exploit development reports from academic projects. Demonstrates hands-on experience with identifying, exploiting, and mitigating common software vulnerabilities.
+
+**地址:** https://github.com/Alexs2256/Cybersecurity-Vulnerability-Exploits
 
 ---
 
@@ -106,6 +216,16 @@
 
 ---
 
+## hmode1122/ps4-exploit
+
+**关键字** Exploit
+
+**介绍:** ps4-exploit
+
+**地址:** https://github.com/hmode1122/ps4-exploit
+
+---
+
 ## ghxiao208/gh.verygood19.icu
 
 **关键字** 提权
@@ -113,6 +233,16 @@
 **介绍:** 极易机房直营店欢迎您访问本站，本站是机房直营，百分百一手，八年行业信誉，平台提供24小时自动发号，欢迎各大号商对接。 1. 请不要用作任何违法途径，或者用作不法犯罪活动，本站只有义务出售，但无法行使使用权，您拥有使用权以后，请您合法利用，切勿游走法律边缘！ 2. 本站所出售的账号主要用于游戏等合法用途。 3. 凡在本站购买的用户，一旦本站发现用于非法用途，本站将全力配合有关部门予以打击！ 4. 本人因在国外，所以按照北京时间每天早上8点左右补货，不要催！！ 5. 所有账号包售前违规，订单问题联系左边在线客服，提供订单号和问题，收到消息会第一时间回复，没回复就是在忙，不要催，一定会给您满意处理。
 
 **地址:** https://github.com/ghxiao208/gh.verygood19.icu
+
+---
+
+## AdityaBhatt3010/Field-Enumeration-to-Full-Account-Takeover-with-NoSQL-Injection
+
+**关键字** Exploit
+
+**介绍:** Exploited a NoSQL injection flaw to enumerate hidden fields and extract a valid password reset token, leading to a seamless account takeover.
+
+**地址:** https://github.com/AdityaBhatt3010/Field-Enumeration-to-Full-Account-Takeover-with-NoSQL-Injection
 
 ---
 
@@ -1496,6 +1626,16 @@
 
 ---
 
+## AdityaBhatt3010/From-Recon-to-Root-A-MongoDB-NoSQL-Injection-Bug-Bounty-Journey
+
+**关键字** Exploit
+
+**介绍:** Exploiting NoSQL injection to extract admin credentials from a MongoDB-backed application using BurpSuite and Boolean-based payloads.
+
+**地址:** https://github.com/AdityaBhatt3010/From-Recon-to-Root-A-MongoDB-NoSQL-Injection-Bug-Bounty-Journey
+
+---
+
 ## welcomethell/RceExploit
 
 **关键字** RCE
@@ -2253,16 +2393,6 @@
 **介绍:** Linux post exploitation tool
 
 **地址:** https://github.com/ionchad/linux-postex-toolkit
-
----
-
-## cerdajasser/cve-search-tool
-
-**关键字** CVE
-
-**介绍:** cve search tool
-
-**地址:** https://github.com/cerdajasser/cve-search-tool
 
 ---
 
