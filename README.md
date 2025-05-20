@@ -6,6 +6,46 @@
 
 ## 最新仓库
 
+## proton4377/xworm-rce
+
+**关键字** RCE
+
+**介绍:** Allows execution of Powershell scripts and files on a XWorm C2. aka remote code execution on XWorm
+
+**地址:** https://github.com/proton4377/xworm-rce
+
+---
+
+## gcfdeptq/gcf-ywt
+
+**关键字** 免杀
+
+**介绍:** 鸦杀免费加速器下载
+
+**地址:** https://github.com/gcfdeptq/gcf-ywt
+
+---
+
+## vpxuser/flink-memshell
+
+**关键字** 注入
+
+**介绍:** apache flink 132和190版本内存码注入工具
+
+**地址:** https://github.com/vpxuser/flink-memshell
+
+---
+
+## nf8rxx3b5rs/nf8-eh0
+
+**关键字** 免杀
+
+**介绍:** 海杀免费加速器下载
+
+**地址:** https://github.com/nf8rxx3b5rs/nf8-eh0
+
+---
+
 ## yintao0303/InjectJS
 
 **关键字** 注入
@@ -2043,26 +2083,6 @@
 **介绍:** None
 
 **地址:** https://github.com/platypus-perry03/CVE-2023-25813
-
----
-
-## jjyuorg/reproduce-cve-2024-2887
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/jjyuorg/reproduce-cve-2024-2887
-
----
-
-## Markbarkar/ddos-dection
-
-**关键字** 攻防
-
-**介绍:** ddos攻击溯源防御系统
-
-**地址:** https://github.com/Markbarkar/ddos-dection
 
 ---
 
