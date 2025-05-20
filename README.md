@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## FouadCPC/Sakura-Windows-SmartScreen-Bypass-Chrome-Exe-Edge
+
+**关键字** bypass AntiVirus
+
+**介绍:** Crypters and FUD tools focus on obfuscation to bypass antivirus, SmartScreen, and Windows Defender. These tools encrypt payloads, create backdoors, and ensure stealthy execution on Windows systems while evading detection through advanced techniques.
+
+**地址:** https://github.com/FouadCPC/Sakura-Windows-SmartScreen-Bypass-Chrome-Exe-Edge
+
+---
+
 ## IndominusRexes/CVE-2025-4322-Exploit
 
 **关键字** CVE
@@ -2083,26 +2093,6 @@
 **介绍:** None
 
 **地址:** https://github.com/Thirukrishnan/ADCS-Exploitation-Playbook
-
----
-
-## TehanG07/Vitejs-exploit
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/TehanG07/Vitejs-exploit
-
----
-
-## Josh-007/FUTURE_CS_01
-
-**关键字** burp
-
-**介绍:** This repository contains a detailed penetration testing report of a sample web application. The assessment focuses on identifying common web vulnerabilities such as SQL Injection and Cross-Site Scripting (XSS) using tools like Burp Suite and SQLMap.
-
-**地址:** https://github.com/Josh-007/FUTURE_CS_01
 
 ---
 
