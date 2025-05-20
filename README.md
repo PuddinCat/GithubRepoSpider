@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## Jacob-z691/CVE
+
+**关键字** CVE
+
+**介绍:** Some CVEs I had Found in the Internet
+
+**地址:** https://github.com/Jacob-z691/CVE
+
+---
+
 ## proton4377/xworm-rce
 
 **关键字** RCE
@@ -23,6 +33,16 @@
 **介绍:** 鸦杀免费加速器下载
 
 **地址:** https://github.com/gcfdeptq/gcf-ywt
+
+---
+
+## p3test/kyocera-exploit-snmp
+
+**关键字** Exploit
+
+**介绍:** Exploit allows extracting accounts from the address book of some Kyocera MFPs via SNMP protocol
+
+**地址:** https://github.com/p3test/kyocera-exploit-snmp
 
 ---
 
