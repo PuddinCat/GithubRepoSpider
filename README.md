@@ -6,6 +6,76 @@
 
 ## 最新仓库
 
+## krcenov/BezGradskiApiExploit
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/krcenov/BezGradskiApiExploit
+
+---
+
+## RUTHER-DEV/Process-Hider
+
+**关键字** RCE
+
+**介绍:** Hide processes from Task Manager by manually mapping itself into it and hooking NtQuerySystemInformation
+
+**地址:** https://github.com/RUTHER-DEV/Process-Hider
+
+---
+
+## BeyondMachines/ScoreRecon
+
+**关键字** CVE
+
+**介绍:** Collecting CVSS scores for multiple CVEs
+
+**地址:** https://github.com/BeyondMachines/ScoreRecon
+
+---
+
+## cyruscostini/CVE-2025-4918-RCE
+
+**关键字** CVE
+
+**介绍:** CVE-2025-4918 is a memory corruption vulnerability in Mozilla Firefox, specifically affecting JavaScript `Promise` objects. An attacker can perform out-of-bounds memory reads or writes, leading to remote code execution and application crashes.
+
+**地址:** https://github.com/cyruscostini/CVE-2025-4918-RCE
+
+---
+
+## RootHarpy/CVE-2025-47646
+
+**关键字** CVE
+
+**介绍:** PoC for CVE-2025-47646 - WordPress PSW Front-end Login Registration Plugin ≤ 1.12 Unauthenticated Privilege Escalation
+
+**地址:** https://github.com/RootHarpy/CVE-2025-47646
+
+---
+
+## Y4y17/CVE
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/Y4y17/CVE
+
+---
+
+## Toba0z/Detecting-Remote-Code-Execution-RCE-
+
+**关键字** RCE
+
+**介绍:** None
+
+**地址:** https://github.com/Toba0z/Detecting-Remote-Code-Execution-RCE-
+
+---
+
 ## dobin/ShellcodeObfuscationLab
 
 **关键字** shellcode
@@ -2103,36 +2173,6 @@
 **介绍:** None
 
 **地址:** https://github.com/kinder1488/exploit.html
-
----
-
-## dangssssa/Argent-Lizing-Exploit
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/dangssssa/Argent-Lizing-Exploit
-
----
-
-## Virantek254/Burp2Code
-
-**关键字** burp
-
-**介绍:** Convert an easily intercepted request into code.
-
-**地址:** https://github.com/Virantek254/Burp2Code
-
----
-
-## Thirukrishnan/ADCS-Exploitation-Playbook
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/Thirukrishnan/ADCS-Exploitation-Playbook
 
 ---
 
