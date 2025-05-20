@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## Totunm/CVE-2025-4918
+
+**关键字** CVE
+
+**介绍:** CVE-2025-4918 – Out-of-Bounds Memory Corruption in Mozilla Firefox
+
+**地址:** https://github.com/Totunm/CVE-2025-4918
+
+---
+
 ## ggodaohang/mxdongman
 
 **关键字** 注入
@@ -13,6 +23,66 @@
 **介绍:** mx动漫官网，专注在线动漫的樱花动漫备用网站|网页版入口|下载
 
 **地址:** https://github.com/ggodaohang/mxdongman
+
+---
+
+## herrymoot0/Thieves-Exploit-9x
+
+**关键字** Exploit
+
+**介绍:** Download Sea of Thieves Hack 2025 for Windows-Free & Unlimited Access ⚓
+
+**地址:** https://github.com/herrymoot0/Thieves-Exploit-9x
+
+---
+
+## SagarNegi10/Burp-it
+
+**关键字** burp
+
+**介绍:** None
+
+**地址:** https://github.com/SagarNegi10/Burp-it
+
+---
+
+## Pratham2011/VAPT_Scanner
+
+**关键字** burp
+
+**介绍:** A Python-based tool that automates scanning of web apps and networks for vulnerabilities. It identifies OWASP Top 10 issues and generates detailed reports. Relevant for roles like VAPT Analyst and Security Analyst, showcasing skills in vulnerability assessment and penetration testing using tools like Nmap, ZAP, and Burp Suite.
+
+**地址:** https://github.com/Pratham2011/VAPT_Scanner
+
+---
+
+## mandemadhu-1007j/BF4-ExploitKit-lu
+
+**关键字** Exploit
+
+**介绍:** 2025 Windows BF4 Multiplayer Hack: Secure Download Now!🔥
+
+**地址:** https://github.com/mandemadhu-1007j/BF4-ExploitKit-lu
+
+---
+
+## heartbreaker-2000/Defiant-Exploit-i1
+
+**关键字** Exploit
+
+**介绍:** Download XDefiant Hack 2025 for Windows – Ultimate Aimbot and Cheats
+
+**地址:** https://github.com/heartbreaker-2000/Defiant-Exploit-i1
+
+---
+
+## ahmedgomaaa/SQLMapGUI-BurpExtension-Windows
+
+**关键字** burp
+
+**介绍:** None
+
+**地址:** https://github.com/ahmedgomaaa/SQLMapGUI-BurpExtension-Windows
 
 ---
 
@@ -2223,16 +2293,6 @@
 **介绍:** A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates
 
 **地址:** https://github.com/Janenema/PDF-FUD-Exploit
-
----
-
-## BlackHack4521/Havoc-bypas-AV
-
-**关键字** shellcode
-
-**介绍:** Create a shellcode with Havoc, Then execute the command: "Python aes.py FILE_NAME.bin" and on the victim machine execute the command "rundll32.exe new.loader.dll DllRegisterServer" and there you have pwned the machine
-
-**地址:** https://github.com/BlackHack4521/Havoc-bypas-AV
 
 ---
 
