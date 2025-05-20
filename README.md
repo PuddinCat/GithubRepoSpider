@@ -6,6 +6,36 @@
 
 ## 最新仓库
 
+## laxmikumari615/Linux---Security---Detect-and-Mitigate-CVE-2024-3094
+
+**关键字** CVE
+
+**介绍:** It was determined that malicious code was discovered in the upstream tarballs of xz, starting with version 5.6.0. #    It was determined that only certain operating systems and operating system versions were affected by this vulnerability.
+
+**地址:** https://github.com/laxmikumari615/Linux---Security---Detect-and-Mitigate-CVE-2024-3094
+
+---
+
+## Zearish/Hannah
+
+**关键字** Exploit
+
+**介绍:** exploit library
+
+**地址:** https://github.com/Zearish/Hannah
+
+---
+
+## Computer-Science-and-Maths-KS3-To-KS5/classroom12cversion2-dijkstra-two-stack-calculator-Dijkstra2StackTemplate
+
+**关键字** CVE
+
+**介绍:** classroom12cversion2-dijkstra-two-stack-calculator-Dijkstra2StackTemplate created by GitHub Classroom
+
+**地址:** https://github.com/Computer-Science-and-Maths-KS3-To-KS5/classroom12cversion2-dijkstra-two-stack-calculator-Dijkstra2StackTemplate
+
+---
+
 ## Zedeldi/CVE-2025-47827
 
 **关键字** CVE
@@ -1376,6 +1406,16 @@
 
 ---
 
+## prodeveloper0/PSFree-Luckfox
+
+**关键字** Exploit
+
+**介绍:** PSFree WebKit Exploit & Lapse Kernel Exploit For PS4 9.00 Luckfox Mini Porting with Web Dashboard
+
+**地址:** https://github.com/prodeveloper0/PSFree-Luckfox
+
+---
+
 ## Ramsadaye/Crypter-Horus-Protector
 
 **关键字** bypass AntiVirus
@@ -2183,16 +2223,6 @@
 **介绍:** MCP that returns CVE information using Vulners API
 
 **地址:** https://github.com/alukashenkov/Vulners-MCP
-
----
-
-## pouriam23/nobin-exploit
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/pouriam23/nobin-exploit
 
 ---
 
