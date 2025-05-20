@@ -2366,24 +2366,4 @@
 
 ---
 
-## pentagon404uzb/Reconnaissance-and-Exploitation-technique
-
-**关键字** Exploit
-
-**介绍:** in this capture the flag (CTF) : will be examined the technique of the reconnaissance,  discovering open and common ports, sniffing, analyzing traffic with Wireshark and exploiting a vulnerability
-
-**地址:** https://github.com/pentagon404uzb/Reconnaissance-and-Exploitation-technique
-
----
-
-## Nxploited/CVE-2025-47539
-
-**关键字** CVE
-
-**介绍:** Eventin <= 4.0.26 - Missing Authorization to Unauthenticated Privilege Escalation
-
-**地址:** https://github.com/Nxploited/CVE-2025-47539
-
----
-
 
