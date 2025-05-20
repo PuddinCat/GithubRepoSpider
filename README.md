@@ -16,6 +16,26 @@
 
 ---
 
+## emmanuelgjr/llm-threat-modeling-agents
+
+**关键字** CVE
+
+**介绍:** Multi-agent LLM threat modeling framework using MAESTRO and OWASP COMPASS, with modular agents for security risk analysis, CVE mapping, and remediation recommendations.
+
+**地址:** https://github.com/emmanuelgjr/llm-threat-modeling-agents
+
+---
+
+## ThatTotallyRealMyth/Exploits-CVEs
+
+**关键字** CVE
+
+**介绍:** This repo exists as a personal project for me to learn more about exploit development but also contribute to the wider community. Many PoCs avaliable on places like exploitdb and other websites often are written in outdated python2 or obscure langauges or borderline barley work.
+
+**地址:** https://github.com/ThatTotallyRealMyth/Exploits-CVEs
+
+---
+
 ## CarlosSapien03/CVExtra
 
 **关键字** CVE
@@ -46,6 +66,16 @@
 
 ---
 
+## udibabaskydeck/ralk
+
+**关键字** CVE
+
+**介绍:** Reachability analysis tool for Linux kernel to flag CVEs that matter
+
+**地址:** https://github.com/udibabaskydeck/ralk
+
+---
+
 ## heAdz0r/toron_cvetochek_rupert
 
 **关键字** CVE
@@ -53,6 +83,16 @@
 **介绍:** None
 
 **地址:** https://github.com/heAdz0r/toron_cvetochek_rupert
+
+---
+
+## weird1826/hackopolis
+
+**关键字** CVE
+
+**介绍:** Hackopolis is a vulnerable web application which contains a wide range of vulnerabilities inspired from real-world reports, POCs and CVEs.
+
+**地址:** https://github.com/weird1826/hackopolis
 
 ---
 
@@ -76,6 +116,16 @@
 
 ---
 
+## Paulinhx/aegisflow
+
+**关键字** CVE
+
+**介绍:** AegisFlow is a threat-aware CI/CD pipeline that integrates real-time threat intelligence (AlienVault OTX), MITRE ATT&CK-based static analysis, and SBOM-driven CVE detection to automate secure software delivery.
+
+**地址:** https://github.com/Paulinhx/aegisflow
+
+---
+
 ## moften/CVE-2025-24054
 
 **关键字** CVE
@@ -83,6 +133,16 @@
 **介绍:** Vulnerabilidad NTLM (CVE-2025-24054) explotada para robo de hashes
 
 **地址:** https://github.com/moften/CVE-2025-24054
+
+---
+
+## caffeinedoom/CVE-2021-38003
+
+**关键字** CVE
+
+**介绍:** Write Up & Exploitation For CVE-2021-38003
+
+**地址:** https://github.com/caffeinedoom/CVE-2021-38003
 
 ---
 
@@ -313,6 +373,16 @@
 **介绍:** 一个完整的授权码管理系统，支持多应用授权管理，用户授权验证，提供REST API供应用集成。
 
 **地址:** https://github.com/sbgumen/authorization-system
+
+---
+
+## javiifu/dep-checker-bot
+
+**关键字** CVE
+
+**介绍:** A Python tool that analyzes dependency files (requirements.txt, pyproject.toml) to detect:      📦 Outdated dependencies      ⚠️ Known vulnerabilities (CVEs)      📄 Potentially problematic licenses  Integrates tools like pip-audit, safety, liccheck, and the GitHub API.
+
+**地址:** https://github.com/javiifu/dep-checker-bot
 
 ---
 
@@ -1683,6 +1753,16 @@
 **介绍:** Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution
 
 **地址:** https://github.com/Janenema/HTA-Exploit
+
+---
+
+## Janenema/Discord-Image-Logger-Stealer
+
+**关键字** CVE
+
+**介绍:** Ephemeral discourse is embodied by the likes of Messenger Sessions, the digital portraits of Accounts, and the enigmatic Token
+
+**地址:** https://github.com/Janenema/Discord-Image-Logger-Stealer
 
 ---
 
