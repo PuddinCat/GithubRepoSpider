@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## dobin/ShellcodeObfuscationLab
+
+**关键字** shellcode
+
+**介绍:** Test bench lab for Shellcode Obfuscation
+
+**地址:** https://github.com/dobin/ShellcodeObfuscationLab
+
+---
+
+## Headcorvo/HTA-Exploit
+
+**关键字** CVE
+
+**介绍:** Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution
+
+**地址:** https://github.com/Headcorvo/HTA-Exploit
+
+---
+
 ## FouadCPC/Sakura-Windows-SmartScreen-Bypass-Chrome-Exe-Edge
 
 **关键字** bypass AntiVirus
@@ -716,6 +736,16 @@
 
 ---
 
+## mmvanheusden/meteor-5b5t-addon
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/mmvanheusden/meteor-5b5t-addon
+
+---
+
 ## abuyazeen/CVE-2021-43798-Grafana-path-traversal-tester
 
 **关键字** CVE
@@ -1123,6 +1153,16 @@
 **介绍:** None
 
 **地址:** https://github.com/Namtium/Meltdown_exploit
+
+---
+
+## HeroX22/BurpToAPI
+
+**关键字** burp
+
+**介绍:** None
+
+**地址:** https://github.com/HeroX22/BurpToAPI
 
 ---
 
