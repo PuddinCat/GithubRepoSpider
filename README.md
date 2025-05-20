@@ -46,6 +46,16 @@
 
 ---
 
+## alvieg/Web-exploit
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/alvieg/Web-exploit
+
+---
+
 ## 3nvz/cvegrep
 
 **关键字** CVE
@@ -63,6 +73,16 @@
 **介绍:** Algunas notas y ejemplos sobre la funcionalidad de Cobalt Strike
 
 **地址:** https://github.com/undefined-name12/CheatSheet-CobaltStrike
+
+---
+
+## timdigga/exploit_server
+
+**关键字** Exploit
+
+**介绍:** Exploiting Server HTML for Bug Bounty since github.io is usually not blacklisted
+
+**地址:** https://github.com/timdigga/exploit_server
 
 ---
 
@@ -126,6 +146,16 @@
 
 ---
 
+## PathogenicKatt/PWN-Lab
+
+**关键字** Exploit
+
+**介绍:** Binary Exploitation playground
+
+**地址:** https://github.com/PathogenicKatt/PWN-Lab
+
+---
+
 ## moften/CVE-2025-24054
 
 **关键字** CVE
@@ -153,6 +183,16 @@
 **介绍:** None
 
 **地址:** https://github.com/HExploited/CVE-2025-4919-Exploit
+
+---
+
+## TW-D/CrEF
+
+**关键字** Exploit
+
+**介绍:** CrEF - Chromium Exploitation Framework
+
+**地址:** https://github.com/TW-D/CrEF
 
 ---
 
@@ -243,6 +283,16 @@
 **介绍:** None
 
 **地址:** https://github.com/Fv3R-Dizzy/burp
+
+---
+
+## Stoobyy/Kyocera-A101BM-Exploitation
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/Stoobyy/Kyocera-A101BM-Exploitation
 
 ---
 
@@ -433,6 +483,16 @@
 **介绍:** None
 
 **地址:** https://github.com/lulusec/burp
+
+---
+
+## juankroos/RustNetwork
+
+**关键字** Exploit
+
+**介绍:** some exploit maybe....
+
+**地址:** https://github.com/juankroos/RustNetwork
 
 ---
 
@@ -743,6 +803,16 @@
 **介绍:** A modern web app built with React and Node.js to browse, filter, and save CVE vulnerabilities from public sources.
 
 **地址:** https://github.com/AchrafDriouiche/cve-tracker-dashboard
+
+---
+
+## harryhaxor/tools-2025-exploits-zero-day-
+
+**关键字** Exploit
+
+**介绍:** zero day auto exploits here 
+
+**地址:** https://github.com/harryhaxor/tools-2025-exploits-zero-day-
 
 ---
 
@@ -1253,6 +1323,16 @@
 **介绍:** None
 
 **地址:** https://github.com/mejarredfyru765/sea-of-thieves-exploit
+
+---
+
+## djbender7/cybersecurity-labs
+
+**关键字** Exploit
+
+**介绍:** Hands-on practice in offensive security: exploitation, privilege escalation, and post-exploitation.
+
+**地址:** https://github.com/djbender7/cybersecurity-labs
 
 ---
 
@@ -1983,26 +2063,6 @@
 **介绍:** ddos攻击溯源防御系统
 
 **地址:** https://github.com/Markbarkar/ddos-dection
-
----
-
-## erdemaslan0600/geterexec.github.io
-
-**关键字** Exploit
-
-**介绍:** Roblox Exploit Website
-
-**地址:** https://github.com/erdemaslan0600/geterexec.github.io
-
----
-
-## erdemaslan0600/geterexec.xyz
-
-**关键字** Exploit
-
-**介绍:** Roblox Exploit Website
-
-**地址:** https://github.com/erdemaslan0600/geterexec.xyz
 
 ---
 
