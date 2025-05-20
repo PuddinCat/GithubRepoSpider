@@ -6,6 +6,46 @@
 
 ## 最新仓库
 
+## Medamine-creator/fluxus-exploit
+
+**关键字** Exploit
+
+**介绍:** Discovering the Fluxus Exploit: Latest Insights and Mitigations for Enhanced Security on GitHub
+
+**地址:** https://github.com/Medamine-creator/fluxus-exploit
+
+---
+
+## nnonng/Roblox-luna-exploit
+
+**关键字** Exploit
+
+**介绍:** Discover the Latest Roblox Luna Exploit: Enhance Your Gameplay with Hacks and Tips for Ultimate Fun and Success
+
+**地址:** https://github.com/nnonng/Roblox-luna-exploit
+
+---
+
+## ekkk849/Predicting-the-Exploit-Availability-for-CVEs
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/ekkk849/Predicting-the-Exploit-Availability-for-CVEs
+
+---
+
+## windz3r0day/CVE-2025-24085
+
+**关键字** CVE
+
+**介绍:** report for CVE-2025-24085 Apple CoreMedia
+
+**地址:** https://github.com/windz3r0day/CVE-2025-24085
+
+---
+
 ## pwnpalace/burpsuite
 
 **关键字** burp
@@ -2333,16 +2373,6 @@
 **介绍:** Public disclosure of CVE-2025-31200 – Zero-click RCE in iOS 18.X via AudioConverterService and malicious audio file.
 
 **地址:** https://github.com/JGoyd/CVE-2025-31200-iOS-AudioConverter-RCE
-
----
-
-## Kshitij/cve-dashboard
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/Kshitij/cve-dashboard
 
 ---
 
