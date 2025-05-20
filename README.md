@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## yintao0303/InjectJS
+
+**关键字** 注入
+
+**介绍:** 强大的脚本注入插件，支持多语言，暗黑主题
+
+**地址:** https://github.com/yintao0303/InjectJS
+
+---
+
 ## CarlosSapien03/CVExtra
 
 **关键字** CVE
