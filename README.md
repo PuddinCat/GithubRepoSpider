@@ -2346,24 +2346,4 @@
 
 ---
 
-## HumbertoBM2/CVExercises
-
-**关键字** CVE
-
-**介绍:** Computer vision exercises
-
-**地址:** https://github.com/HumbertoBM2/CVExercises
-
----
-
-## TheOmRaj/Network-Penetration-Testing-with-the-real-world-exploits
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/TheOmRaj/Network-Penetration-Testing-with-the-real-world-exploits
-
----
-
 
