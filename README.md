@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## ratnaker-gautam/cvefixessssssss
+
+**关键字** CVE
+
+**介绍:** afjnasjfnsajkfnjkafn
+
+**地址:** https://github.com/ratnaker-gautam/cvefixessssssss
+
+---
+
+## ratnaker-gautam/cvefixes_file__level
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/ratnaker-gautam/cvefixes_file__level
+
+---
+
 ## ghxiao208/gh.verygood19.icu
 
 **关键字** 提权
@@ -13,6 +33,16 @@
 **介绍:** 极易机房直营店欢迎您访问本站，本站是机房直营，百分百一手，八年行业信誉，平台提供24小时自动发号，欢迎各大号商对接。 1. 请不要用作任何违法途径，或者用作不法犯罪活动，本站只有义务出售，但无法行使使用权，您拥有使用权以后，请您合法利用，切勿游走法律边缘！ 2. 本站所出售的账号主要用于游戏等合法用途。 3. 凡在本站购买的用户，一旦本站发现用于非法用途，本站将全力配合有关部门予以打击！ 4. 本人因在国外，所以按照北京时间每天早上8点左右补货，不要催！！ 5. 所有账号包售前违规，订单问题联系左边在线客服，提供订单号和问题，收到消息会第一时间回复，没回复就是在忙，不要催，一定会给您满意处理。
 
 **地址:** https://github.com/ghxiao208/gh.verygood19.icu
+
+---
+
+## shriya08903/agentless-windows-vulnerability-scanner
+
+**关键字** CVE
+
+**介绍:** A Python-based agentless scanner to detect vulnerabilities in Windows systems using WinRM, Nmap, and CVE lookups.
+
+**地址:** https://github.com/shriya08903/agentless-windows-vulnerability-scanner
 
 ---
 
@@ -333,6 +363,16 @@
 **介绍:** 🛡️ VIPER: Stay ahead of threats with AI-driven vulnerability intelligence. Prioritize CVEs effectively using NVD, EPSS, CISA KEV, and Google Gemini insights, all on an interactive dashboard
 
 **地址:** https://github.com/koifish2021/viper
+
+---
+
+## migros/migros-security-advisories
+
+**关键字** CVE
+
+**介绍:** Migros Security Advisories
+
+**地址:** https://github.com/migros/migros-security-advisories
 
 ---
 
@@ -2203,46 +2243,6 @@
 **介绍:** CVE漏洞信息查询工具，支持单个CVE查询、批量查询、关键词搜索，以及POC/EXP信息搜索
 
 **地址:** https://github.com/strivepan/cve-scanner
-
----
-
-## Jakelobys/Xeno-Roblox-Execu
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/Jakelobys/Xeno-Roblox-Execu
-
----
-
-## MartinPSDev/BlackWidow
-
-**关键字** burp
-
-**介绍:** Un navegador web orientado al bugbounty y hacking ético, con funcionalidades nativas similares a herramientas como Burp Suite, Nmap y Nuclei.
-
-**地址:** https://github.com/MartinPSDev/BlackWidow
-
----
-
-## rootwlen/offsec-playbook
-
-**关键字** 攻防
-
-**介绍:** 记录一点攻防知识
-
-**地址:** https://github.com/rootwlen/offsec-playbook
-
----
-
-## vencordthemer/burple
-
-**关键字** burp
-
-**介绍:** None
-
-**地址:** https://github.com/vencordthemer/burple
 
 ---
 
