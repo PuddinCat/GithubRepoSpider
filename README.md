@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## Xenonesis/cvent
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/Xenonesis/cvent
+
+---
+
+## stonaderr/AppExploiter
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/stonaderr/AppExploiter
+
+---
+
 ## devmariomtz/burp
 
 **关键字** burp
@@ -36,6 +56,16 @@
 
 ---
 
+## lordland2808/Mordhau-Exploit
+
+**关键字** Exploit
+
+**介绍:** Essential Mordhau Mod Downloads for Windows Users in 2025
+
+**地址:** https://github.com/lordland2808/Mordhau-Exploit
+
+---
+
 ## dodiorne/cve-2022-31813
 
 **关键字** CVE
@@ -43,6 +73,26 @@
 **介绍:** tester for cve-2022-31813
 
 **地址:** https://github.com/dodiorne/cve-2022-31813
+
+---
+
+## skypipe4171/Unturned-Exploit
+
+**关键字** Exploit
+
+**介绍:** Exclusive Unturned Hacks 2025: Free Windows Download and Install
+
+**地址:** https://github.com/skypipe4171/Unturned-Exploit
+
+---
+
+## craillers0/Luna-Executor
+
+**关键字** Exploit
+
+**介绍:** Lunar Executor is a tool for executing custom scripts within Roblox, providing users with the ability to exploit and modify game features.
+
+**地址:** https://github.com/craillers0/Luna-Executor
 
 ---
 
@@ -2383,16 +2433,6 @@
 **介绍:** CVE-2025-4428
 
 **地址:** https://github.com/doomygloom/CVE-2025-4428
-
----
-
-## doomygloom/Stratos
-
-**关键字** CVE
-
-**介绍:** S.T.R.A.T.O.S. is a vulnerability monitoring system for aggregating, tracking, and analyzing CVEs.
-
-**地址:** https://github.com/doomygloom/Stratos
 
 ---
 
