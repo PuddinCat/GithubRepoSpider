@@ -6,6 +6,36 @@
 
 ## 最新仓库
 
+## jonhny-santos/cve-search-privacy-policy
+
+**关键字** CVE
+
+**介绍:** cve-search-privacy-policy
+
+**地址:** https://github.com/jonhny-santos/cve-search-privacy-policy
+
+---
+
+## maximo896/CVE-2025-4322
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/maximo896/CVE-2025-4322
+
+---
+
+## AUSK1LL9/CVE-2021-34527
+
+**关键字** CVE
+
+**介绍:** CVE-2021-34527 is a critical remote code execution and local privilege escalation vulnerability dubbed "PrintNightmare."
+
+**地址:** https://github.com/AUSK1LL9/CVE-2021-34527
+
+---
+
 ## Xenonesis/cvent
 
 **关键字** CVE
@@ -2423,16 +2453,6 @@
 **介绍:** Shellcode Injection into a Remote Process using ptrace
 
 **地址:** https://github.com/noureldine67/payload-process-injection
-
----
-
-## codelassey/vsftpd-backdoor-exploit
-
-**关键字** Exploit
-
-**介绍:** Hands-on exploitation of the VSFTPD 2.3.4 backdoor vulnerability using Metasploit to gain shell access, create users, modify logs, and attempt privilege escalation in a secure lab environment.
-
-**地址:** https://github.com/codelassey/vsftpd-backdoor-exploit
 
 ---
 
