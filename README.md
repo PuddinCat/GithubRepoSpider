@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## MetadataGitTesting/7TUYeCVE
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/MetadataGitTesting/7TUYeCVE
+
+---
+
+## lisa-2905/CVE-2024-56429
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/lisa-2905/CVE-2024-56429
+
+---
+
 ## 25S22/CVE-Watcher
 
 **关键字** CVE
@@ -33,6 +53,16 @@
 **介绍:** None
 
 **地址:** https://github.com/emmanueltb94/Edgar-Emmanuel-Tovar-B-rcenas
+
+---
+
+## Regent8SH/PanOsExploitMultitool
+
+**关键字** CVE
+
+**介绍:** Exploitation and Post-Exploitation Multitool for Palo Alto PAN-OS Systems affected by vulnerabilities CVE-2024-0012 and CVE-2024-9474
+
+**地址:** https://github.com/Regent8SH/PanOsExploitMultitool
 
 ---
 
