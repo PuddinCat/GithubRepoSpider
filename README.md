@@ -56,6 +56,16 @@
 
 ---
 
+## matthewwt7/Evil-PDF
+
+**关键字** shellcode
+
+**介绍:** A completely fake but fun PDF scanner that pretends to detect embedded threats like JavaScript and shellcode in documents. Perfect for terminal pranks or hacker vibes.
+
+**地址:** https://github.com/matthewwt7/Evil-PDF
+
+---
+
 ## Cristian23PC/burpextension_dnisgenerator
 
 **关键字** burp
@@ -2323,66 +2333,6 @@
 **介绍:** CVE-2025-4921
 
 **地址:** https://github.com/doomygloom/CVE-2025-4921
-
----
-
-## missaels235/POC-CVE-2024-44258-Py
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/missaels235/POC-CVE-2024-44258-Py
-
----
-
-## ktbl2003/ktbl-word-compare
-
-**关键字** 注入
-
-**介绍:** KTBL文档比较是一套半语义替换式的Word文档比较工具，采用独特比对算法，把市面基于词的删除-增加方式优化为基于目录-段-词的替换方式，通过批注展现比较的结果，不但解决文档比对内容的大篇幅错位，还能对文档的内容、表格等基本上作到无侵入和破坏。对于改动较大的大文档而言，其比对效果尤其明显。下载地址：https://www.alipan.com/s/LyvUPFfyCh2
-
-**地址:** https://github.com/ktbl2003/ktbl-word-compare
-
----
-
-## abdullah-x909/ViperScan
-
-**关键字** burp
-
-**介绍:** Open-source Burp Suite Pro alternative with ZAP & fuzzing integration
-
-**地址:** https://github.com/abdullah-x909/ViperScan
-
----
-
-## emamamic/botnet-exploits
-
-**关键字** Exploit
-
-**介绍:** Coleção de Scanners de Vulnerabilidade em Rede (botnet loaders/exploits)
-
-**地址:** https://github.com/emamamic/botnet-exploits
-
----
-
-## respectfulmor/C2PE
-
-**关键字** Exploit
-
-**介绍:** Red Team C2 and Post Exploitation Code c2, offensive-security, post-exploitation, python3, redteam
-
-**地址:** https://github.com/respectfulmor/C2PE
-
----
-
-## rikserok/XWorm-v5.6-RCE-patch-source-code
-
-**关键字** RCE
-
-**介绍:** xworm v5.6 source code with removed the hrdp rce vuln
-
-**地址:** https://github.com/rikserok/XWorm-v5.6-RCE-patch-source-code
 
 ---
 
