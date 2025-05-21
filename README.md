@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## trh4ckn0n/Invision-RCE-Exp
+
+**关键字** RCE
+
+**介绍:** None
+
+**地址:** https://github.com/trh4ckn0n/Invision-RCE-Exp
+
+---
+
+## liwu1015/SkriptGG
+
+**关键字** Exploit
+
+**介绍:** Offrant le meilleur menu de mods FiveM, RageMP, Alt-V, GTA V non détecté pour le PvP et avec des exploits jamais vus auparavant et plus de triches de jeu multijoueur.
+
+**地址:** https://github.com/liwu1015/SkriptGG
+
+---
+
 ## R4gd0ll/ruoyi-4.8.0-RCE
 
 **关键字** RCE
@@ -13,6 +33,26 @@
 **介绍:** 若依4.8.0后台RCE
 
 **地址:** https://github.com/R4gd0ll/ruoyi-4.8.0-RCE
+
+---
+
+## nitishplay/FiveMExternalCheat
+
+**关键字** Exploit
+
+**介绍:** FiveM External cheat, offers various features like aimbot, triggerbot, exploits, and customizable settings, enhancing the gameplay experience. It is completely undetectable.
+
+**地址:** https://github.com/nitishplay/FiveMExternalCheat
+
+---
+
+## nitishplay/FiveM-External-Cheat
+
+**关键字** Exploit
+
+**介绍:** FiveM External cheat, offers various features like aimbot, triggerbot, exploits, and customizable settings, enhancing the gameplay experience. It is completely undetectable.
+
+**地址:** https://github.com/nitishplay/FiveM-External-Cheat
 
 ---
 
