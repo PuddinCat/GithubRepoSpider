@@ -6,6 +6,36 @@
 
 ## 最新仓库
 
+## cveslrasxcor/cveslrasxcor
+
+**关键字** CVE
+
+**介绍:** Config files for my GitHub profile.
+
+**地址:** https://github.com/cveslrasxcor/cveslrasxcor
+
+---
+
+## finn79426/CVE-2020-10199
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/finn79426/CVE-2020-10199
+
+---
+
+## wzylky/CVE
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/wzylky/CVE
+
+---
+
 ## officialchristheg/cpp-lua-rce
 
 **关键字** RCE
@@ -13,6 +43,16 @@
 **介绍:** None
 
 **地址:** https://github.com/officialchristheg/cpp-lua-rce
+
+---
+
+## ShadowStrikeHQ/cve-codetokenizer
+
+**关键字** CVE
+
+**介绍:** A simple utility to tokenize source code and output a frequency analysis of keywords and operators. 
+
+**地址:** https://github.com/ShadowStrikeHQ/cve-codetokenizer
 
 ---
 
@@ -33,6 +73,16 @@
 **介绍:** None
 
 **地址:** https://github.com/medxpy/WpExploit
+
+---
+
+## windingacqui/bw-dump
+
+**关键字** CVE
+
+**介绍:** A proof-of-concept for (CVE-2023-38840) that extracts plaintext master passwords from a locked Bitwarden vault. forensics, password-manager, redteam, security, windows, windowsapi
+
+**地址:** https://github.com/windingacqui/bw-dump
 
 ---
 
@@ -2193,26 +2243,6 @@
 **介绍:** adopt me script, roblox adopt me hacks, adopt me pet spawn script, adopt me auto farm, adopt me cheats, roblox cheats, roblox adopt me mod, adopt me tool, adopt me exploit, roblox script for adopt me.
 
 **地址:** https://github.com/kelm88valeraxolera/adoptme
-
----
-
-## brolyk7807/fortnite
-
-**关键字** Exploit
-
-**介绍:** fortnite cheat, fortnite aimbot, fortnite hacks, fortnite mod, fortnite exploit, fortnite cheat tool, fortnite unlimited resources, fortnite skin unlocker, fortnite cheat download.
-
-**地址:** https://github.com/brolyk7807/fortnite
-
----
-
-## alfatraktor2312/rivals
-
-**关键字** Exploit
-
-**介绍:** Rivals Roblox Script, Roblox Script, Rivals Script, Roblox Game Mods, Roblox Cheats, Roblox Hacks, Game Scripting for Roblox, Rivals Game Script, Roblox Exploits, Roblox Script for Cheats, Roblox Game Enhancement Scripts, Roblox Modding, Roblox Exploits for Rivals, Roblox Script Features
-
-**地址:** https://github.com/alfatraktor2312/rivals
 
 ---
 
