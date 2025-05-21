@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## sundayz-hunter/AI_Request_Analyser
+
+**关键字** burp
+
+**介绍:** A Burp Suite extension for analyzing HTTP requests and responses with AI.
+
+**地址:** https://github.com/sundayz-hunter/AI_Request_Analyser
+
+---
+
 ## trh4ckn0n/Invision-RCE-Exp
 
 **关键字** RCE
@@ -13,6 +23,16 @@
 **介绍:** None
 
 **地址:** https://github.com/trh4ckn0n/Invision-RCE-Exp
+
+---
+
+## bugzymalone/Authbreaker
+
+**关键字** burp
+
+**介绍:** Jython Burp proxy plugin to test for authorisation issues in web apps
+
+**地址:** https://github.com/bugzymalone/Authbreaker
 
 ---
 
@@ -2243,26 +2263,6 @@
 **介绍:** None
 
 **地址:** https://github.com/KaterinaKKalinina/Cvetochni
-
----
-
-## puneetkeshri95/Zero-Day-Exploit-Prediction
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/puneetkeshri95/Zero-Day-Exploit-Prediction
-
----
-
-## spear0021/Void-Fortnite
-
-**关键字** Exploit
-
-**介绍:** 🕳️ Void — Fortnite Exploit Suite + Rage Aimbot 👾🧨
-
-**地址:** https://github.com/spear0021/Void-Fortnite
 
 ---
 
