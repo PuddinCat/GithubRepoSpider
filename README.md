@@ -6,6 +6,36 @@
 
 ## 最新仓库
 
+## sowaboubacar/cvenligne
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/sowaboubacar/cvenligne
+
+---
+
+## RdBBB3/SHELL-POC-CVE-2022-46169
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/RdBBB3/SHELL-POC-CVE-2022-46169
+
+---
+
+## Logan-codes-21/cve_to_attack_mapping_project
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/Logan-codes-21/cve_to_attack_mapping_project
+
+---
+
 ## sundayz-hunter/AI_Request_Analyzer
 
 **关键字** burp
@@ -2303,26 +2333,6 @@
 **介绍:** None
 
 **地址:** https://github.com/cvenkataravikiran/CVenkataraviKiran-Portfolio
-
----
-
-## eridona03/CVexercises
-
-**关键字** CVE
-
-**介绍:** Solutions for Computer Vision exercises
-
-**地址:** https://github.com/eridona03/CVexercises
-
----
-
-## giordanobsf/cve-analysis-agent
-
-**关键字** CVE
-
-**介绍:** Generative AI agent to analyze vulnerabilities (CVEs) during incidents.
-
-**地址:** https://github.com/giordanobsf/cve-analysis-agent
 
 ---
 
