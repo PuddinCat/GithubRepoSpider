@@ -96,6 +96,16 @@
 
 ---
 
+## xiaozhang-yyds/PyNetScan
+
+**关键字** 网络安全
+
+**介绍:** TJ 系统安全实验 网络扫描器设计
+
+**地址:** https://github.com/xiaozhang-yyds/PyNetScan
+
+---
+
 ## joinsime/Adobe-Acrobat
 
 **关键字** RCE
@@ -2213,36 +2223,6 @@
 **介绍:** None
 
 **地址:** https://github.com/mejarredfyru765/sea-of-thieves-exploit
-
----
-
-## djbender7/cybersecurity-labs
-
-**关键字** Exploit
-
-**介绍:** Hands-on practice in offensive security: exploitation, privilege escalation, and post-exploitation.
-
-**地址:** https://github.com/djbender7/cybersecurity-labs
-
----
-
-## Kai-One001/cve-
-
-**关键字** CVE
-
-**介绍:** cve系列更新
-
-**地址:** https://github.com/Kai-One001/cve-
-
----
-
-## salishba/AIES-CCP-Project
-
-**关键字** CVE
-
-**介绍:** My attemp at AI enhanced zaproxy tool for non technical user to understand zaproxy output. Also maps cwe's with CVEs and provides mitigation technique
-
-**地址:** https://github.com/salishba/AIES-CCP-Project
 
 ---
 
