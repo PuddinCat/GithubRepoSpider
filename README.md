@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## bambinanoangel/PunkExploit-Hack
+
+**关键字** Exploit
+
+**介绍:** Exclusive FragPunk Cheat Tool 2025 for Windows – Download Now! ⚡
+
+**地址:** https://github.com/bambinanoangel/PunkExploit-Hack
+
+---
+
+## guisgoodidea9/Defiant-Exploit
+
+**关键字** Exploit
+
+**介绍:** Free XDefiant Aimbot Hack Download for 2025 – Boost Gameplay Instantly!
+
+**地址:** https://github.com/guisgoodidea9/Defiant-Exploit
+
+---
+
 ## sowaboubacar/cvenligne
 
 **关键字** CVE
@@ -2323,16 +2343,6 @@
 **介绍:** Horus Protector 100% FUD Crypter xWorm Bypass Windows Defender Antivirus with Startup and persistance
 
 **地址:** https://github.com/Ramsadaye/Crypter-Horus-Protector
-
----
-
-## cvenkataravikiran/CVenkataraviKiran-Portfolio
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/cvenkataravikiran/CVenkataraviKiran-Portfolio
 
 ---
 
