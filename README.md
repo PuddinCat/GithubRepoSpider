@@ -2176,6 +2176,16 @@
 
 ---
 
+## blue0x1/Remote-Keyboard-Desktop-RCE
+
+**关键字** RCE
+
+**介绍:** This exploit abuses the Remote Keyboard Desktop 1.0.1 WebSocket interface to simulate keystrokes and execute a remote payload via SMB, leading to unauthenticated remote code execution on Windows systems.
+
+**地址:** https://github.com/blue0x1/Remote-Keyboard-Desktop-RCE
+
+---
+
 ## kelm88valeraxolera/adoptme
 
 **关键字** Exploit
@@ -2203,136 +2213,6 @@
 **介绍:** Rivals Roblox Script, Roblox Script, Rivals Script, Roblox Game Mods, Roblox Cheats, Roblox Hacks, Game Scripting for Roblox, Rivals Game Script, Roblox Exploits, Roblox Script for Cheats, Roblox Game Enhancement Scripts, Roblox Modding, Roblox Exploits for Rivals, Roblox Script Features
 
 **地址:** https://github.com/alfatraktor2312/rivals
-
----
-
-## alfatraktor2312/cs2
-
-**关键字** Exploit
-
-**介绍:** cs2 cheat, cs2 hacks, cs2 aimbot, counter-strike 2 cheats, cs2 wallhack, cs2 exploit, cs2 mod, cs2 ESP, counter-strike cheat tool, free cs2 cheat.
-
-**地址:** https://github.com/alfatraktor2312/cs2
-
----
-
-## senatorpage8278/Super-Champs-Game-Crypto-Bot
-
-**关键字** Exploit
-
-**介绍:** Super Champs Game Crypto Bot – Auto Farm, Clicker, Cheat, Token Hack & API Exploit
-
-**地址:** https://github.com/senatorpage8278/Super-Champs-Game-Crypto-Bot
-
----
-
-## senatorpage8278/Forgotten-Runiverse-Crypto-Bot-Auto-Farm-Clicker
-
-**关键字** Exploit
-
-**介绍:** Forgotten Runiverse Crypto Bot – Auto Farm, Clicker, Cheat, Token Hack & API Exploit
-
-**地址:** https://github.com/senatorpage8278/Forgotten-Runiverse-Crypto-Bot-Auto-Farm-Clicker
-
----
-
-## iwanticanshield/repo
-
-**关键字** Exploit
-
-**介绍:** repo cheat, cheat tool for games, game hack, unlock game features, repo exploit, cheat repo, game modding, automated gameplay, unlock hidden content.
-
-**地址:** https://github.com/iwanticanshield/repo
-
----
-
-## darkknigtbeetleg6/MeepCity-GUI-Script
-
-**关键字** Exploit
-
-**介绍:** MeepCity GUI Script - Free Undetected Hack | Auto Fishing, Auto Collect, Teleport, Exploits & More (2025)
-
-**地址:** https://github.com/darkknigtbeetleg6/MeepCity-GUI-Script
-
----
-
-## darkknigtbeetleg6/Natural-Disaster-Survival-GUI-Script
-
-**关键字** Exploit
-
-**介绍:** Natural Disaster Survival GUI Script - Free Undetected Hack | Teleport, God Mode, Exploits & More (2025)
-
-**地址:** https://github.com/darkknigtbeetleg6/Natural-Disaster-Survival-GUI-Script
-
----
-
-## darkknigtbeetleg6/Pancake-Protectors-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat
-
-**关键字** Exploit
-
-**介绍:** Pancake Protectors Crypto Bot – Auto Farm, Clicker, Cheat, Token Hack & API Exploit
-
-**地址:** https://github.com/darkknigtbeetleg6/Pancake-Protectors-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat
-
----
-
-## darkknigtbeetleg6/Qorpo-World-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack
-
-**关键字** Exploit
-
-**介绍:** Qorpo World Crypto Bot – Auto Farm, Clicker, Crypto & Token Hack, API Exploit
-
-**地址:** https://github.com/darkknigtbeetleg6/Qorpo-World-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack
-
----
-
-## darkknigtbeetleg6/Wild-Forest-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token
-
-**关键字** Exploit
-
-**介绍:** Wild Forest Crypto Bot – Auto Farm, Clicker, Cheat, Token Hack & API Exploit
-
-**地址:** https://github.com/darkknigtbeetleg6/Wild-Forest-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token
-
----
-
-## 123ants/Exploits-database-
-
-**关键字** Exploit
-
-**介绍:** a library of web exploits,Google dorks, and exposed IP cameras etc, for educational purposes only! 
-
-**地址:** https://github.com/123ants/Exploits-database-
-
----
-
-## browneyes3987/Xborg-Game-Crypto-Bot-Auto-Farm-Clicker
-
-**关键字** Exploit
-
-**介绍:** Xborg Game Crypto Bot – Auto Farm, Clicker, Cheat, API Hack & Exploit
-
-**地址:** https://github.com/browneyes3987/Xborg-Game-Crypto-Bot-Auto-Farm-Clicker
-
----
-
-## browneyes3987/Splinterlands-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack
-
-**关键字** Exploit
-
-**介绍:** Splinterlands Crypto Bot – Auto Farm, Clicker, Token Hack & API Exploit
-
-**地址:** https://github.com/browneyes3987/Splinterlands-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack
-
----
-
-## browneyes3987/LumiTerra-Crypto-Bot-Auto-Farm-Clicker
-
-**关键字** Exploit
-
-**介绍:** LumiTerra Crypto Bot – Auto Farm, Clicker, Cheat, Token Hack & API Exploit
-
-**地址:** https://github.com/browneyes3987/LumiTerra-Crypto-Bot-Auto-Farm-Clicker
 
 ---
 
