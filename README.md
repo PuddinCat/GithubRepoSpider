@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## Theinxm/Batch-Malware-Builder-FUD-Crypter-AV-UAC-Bypass
+
+**关键字** bypass av
+
+**介绍:** Crypter hides malware with encryption, often providing FUD features. Tools like crypter FUD or batch FUD ensure undetected execution. Obfuscation bypasses antivirus and Windows Defender. Batch malware, trojans, and stealers are built using specialized tools.
+
+**地址:** https://github.com/Theinxm/Batch-Malware-Builder-FUD-Crypter-AV-UAC-Bypass
+
+---
+
 ## fladsey639/Metin2-Exploits
 
 **关键字** Exploit
@@ -2383,26 +2393,6 @@
 **介绍:** None
 
 **地址:** https://github.com/intrud3rX777/Burp-Regex-Extractor
-
----
-
-## doomygloom/QueueUserAPC
-
-**关键字** shellcode
-
-**介绍:** PowerShell Shellcode Injection via APC Queuing
-
-**地址:** https://github.com/doomygloom/QueueUserAPC
-
----
-
-## Salah-boutayeb/CVE-importer
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/Salah-boutayeb/CVE-importer
 
 ---
 
