@@ -16,6 +16,16 @@
 
 ---
 
+## regeneronius7461/Infinity-Exploit
+
+**关键字** Exploit
+
+**介绍:** Get Free Axie Infinity Hacking Mod Download on Windows 2025 Edition💻
+
+**地址:** https://github.com/regeneronius7461/Infinity-Exploit
+
+---
+
 ## pouriam23/CVE-2024-12583-
 
 **关键字** CVE
@@ -23,6 +33,46 @@
 **介绍:** None
 
 **地址:** https://github.com/pouriam23/CVE-2024-12583-
+
+---
+
+## uffing5599/Eve-Exploit-Kit
+
+**关键字** Exploit
+
+**介绍:** Ultimate Eve Online Hacking Tools: Free Download for Windows in 2025
+
+**地址:** https://github.com/uffing5599/Eve-Exploit-Kit
+
+---
+
+## wootprogibator6867/Sandstorm-Exploit
+
+**关键字** Exploit
+
+**介绍:** Free Insurgency Sandstorm Mods and Hacks Download for Windows 2025 Users🌟
+
+**地址:** https://github.com/wootprogibator6867/Sandstorm-Exploit
+
+---
+
+## Daniel1234mata/vsftpd-backdoor-exploit
+
+**关键字** Exploit
+
+**介绍:** Hands-on exploitation of the VSFTPD 2.3.4 backdoor vulnerability using Metasploit to gain shell access, create users, modify logs, and attempt privilege escalation in a secure lab environment.
+
+**地址:** https://github.com/Daniel1234mata/vsftpd-backdoor-exploit
+
+---
+
+## MuffinAestaragon/ExploitationClass
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/MuffinAestaragon/ExploitationClass
 
 ---
 
@@ -73,6 +123,46 @@
 **介绍:** A Rust ransomware framework that bypasses some antivirus solutions e.g. ESET, Avast and Huorong.
 
 **地址:** https://github.com/Fadouse/rustransomware
+
+---
+
+## wellcomescreamer68/ExploitUnturned
+
+**关键字** Exploit
+
+**介绍:** Download Unturned Hack 2025 for Windows: Free Cheats, Mods & Tools🎮
+
+**地址:** https://github.com/wellcomescreamer68/ExploitUnturned
+
+---
+
+## skipgarnet/Mordhau-Exploit
+
+**关键字** Exploit
+
+**介绍:** Top Rated 2025 Mordhau Cheat Download: Windows Compatible🌐
+
+**地址:** https://github.com/skipgarnet/Mordhau-Exploit
+
+---
+
+## freakmrgamefun6/ZoneZero-Exploit
+
+**关键字** Exploit
+
+**介绍:** Get the Latest Zenless Zone Zero Hack Download in 2025 for Windows 🌟
+
+**地址:** https://github.com/freakmrgamefun6/ZoneZero-Exploit
+
+---
+
+## gromila38/Rivals-Exploit-Pro
+
+**关键字** Exploit
+
+**介绍:** Free Marvel Rivals Hack Tool Download – Windows Compatible 2025 Guide
+
+**地址:** https://github.com/gromila38/Rivals-Exploit-Pro
 
 ---
 
@@ -2373,26 +2463,6 @@
 **介绍:** Cyber-RPC 是一个基于 Java 开发的轻量级 RPC（远程过程调用）框架，旨在提供高性能、易扩展的分布式服务调用解决方案。该框架支持服务注册与发现、负载均衡、序列化/反序列化等核心功能。
 
 **地址:** https://github.com/suonanjiexi/Cyber-RPC
-
----
-
-## AstonishedLiker/DynamicJitPatch
-
-**关键字** shellcode
-
-**介绍:** Simple C# PoC that shows how to dynamically patch a JIT-compiled method at runtime with custom shellcode. 
-
-**地址:** https://github.com/AstonishedLiker/DynamicJitPatch
-
----
-
-## suicide-101/2b2t-Base-Finder
-
-**关键字** Exploit
-
-**介绍:** 🧭 2b2t Base Finder Exploit — Coordinate Scan Tool for Anarchy 🗺️🔍
-
-**地址:** https://github.com/suicide-101/2b2t-Base-Finder
 
 ---
 
