@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## RS7325/cve
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/RS7325/cve
+
+---
+
+## lisa-2905/CVE-2024-56428
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/lisa-2905/CVE-2024-56428
+
+---
+
 ## MetadataGitTesting/7TUYeCVE
 
 **关键字** CVE
@@ -23,6 +43,26 @@
 **介绍:** None
 
 **地址:** https://github.com/lisa-2905/CVE-2024-56429
+
+---
+
+## strav1l/FiveM-External-Cheat
+
+**关键字** Exploit
+
+**介绍:** FiveM External cheat, offers various features like aimbot, triggerbot, exploits, and customizable settings, enhancing the gameplay experience. It is completely undetectable.
+
+**地址:** https://github.com/strav1l/FiveM-External-Cheat
+
+---
+
+## AdityaBhatt3010/Bug-Bounty-Practical-Lab-Finding-and-Exploiting-an-Unused-API-Endpoint
+
+**关键字** Exploit
+
+**介绍:** Manipulate a hidden API endpoint to change product pricing using HTTP method tampering and JSON injection, exposing a critical authorization flaw.
+
+**地址:** https://github.com/AdityaBhatt3010/Bug-Bounty-Practical-Lab-Finding-and-Exploiting-an-Unused-API-Endpoint
 
 ---
 
@@ -2213,26 +2253,6 @@
 **介绍:** SecMisc 是一个开源的网络安全杂项工具集，涵盖了各种安全检测、优化、分析和防护功能，专为网络管理员、安全研究人员以及开发者设计。该工具集提供了一些实用工具，用于帮助处理网络安全中常见的各种问题。
 
 **地址:** https://github.com/torfqy/SecMisc
-
----
-
-## Zhang-ZaiTian/phpmyadmin-Weak-Password-Detection
-
-**关键字** 弱口令
-
-**介绍:** phpmyadmin 弱口令探测脚本
-
-**地址:** https://github.com/Zhang-ZaiTian/phpmyadmin-Weak-Password-Detection
-
----
-
-## gunyakit/CVE-2024-41713-PoC-exploit
-
-**关键字** CVE
-
-**介绍:** Mitel MiCollab Authentication Bypass to Arbitrary File Read
-
-**地址:** https://github.com/gunyakit/CVE-2024-41713-PoC-exploit
 
 ---
 
