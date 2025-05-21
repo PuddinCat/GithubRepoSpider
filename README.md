@@ -206,6 +206,16 @@
 
 ---
 
+## CockaCocka/web-security-notes
+
+**关键字** 网络安全
+
+**介绍:** 记录我的网络安全学习笔记，从Web渗透到CTF实战的成长之路
+
+**地址:** https://github.com/CockaCocka/web-security-notes
+
+---
+
 ## trh4ckn0n/Invision-RCE-Exp
 
 **关键字** RCE
@@ -2363,36 +2373,6 @@
 **介绍:** Scan Git repositories for vulnerabilities, CVEs, hard-coded credentials and more
 
 **地址:** https://github.com/NazininMiramini/gitvisor
-
----
-
-## sarahz101/AI-Enhanced-Zaproxy
-
-**关键字** CVE
-
-**介绍:** My attempt at an AI enhanced zaproxy tool for a non technical user to understand zaproxy output. Also maps CWEs with CVEs and provides mitigation technique.
-
-**地址:** https://github.com/sarahz101/AI-Enhanced-Zaproxy
-
----
-
-## sakkis91/TBRES-unprotect
-
-**关键字** Cobalt Strike
-
-**介绍:** Cobalt Strike BOF to fetch tokens from Token Broker cache
-
-**地址:** https://github.com/sakkis91/TBRES-unprotect
-
----
-
-## intrud3rX777/Burp-Regex-Extractor
-
-**关键字** burp
-
-**介绍:** None
-
-**地址:** https://github.com/intrud3rX777/Burp-Regex-Extractor
 
 ---
 
