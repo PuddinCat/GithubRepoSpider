@@ -696,6 +696,16 @@
 
 ---
 
+## quyenbaone/Bypassing-Safe-Exam-Browser
+
+**关键字** 绕过
+
+**介绍:** 我自己对于绕过SEB的一些尝试。 Mijn eigen SEB te BYPASSING manier. Contact me: Discord: LoveLumine , QQ: 3676714827. \ 𝑳𝒐𝒗𝒆 𝑳𝒖𝒎𝒊𝒏𝒆
+
+**地址:** https://github.com/quyenbaone/Bypassing-Safe-Exam-Browser
+
+---
+
 ## Jackie1732/CVE
 
 **关键字** CVE
