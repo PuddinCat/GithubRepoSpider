@@ -6,6 +6,36 @@
 
 ## 最新仓库
 
+## giorgio0s0codes/BurpPythonTesting
+
+**关键字** burp
+
+**介绍:** None
+
+**地址:** https://github.com/giorgio0s0codes/BurpPythonTesting
+
+---
+
+## PuddinCat/PoC-mihomo-file-write
+
+**关键字** RCE
+
+**介绍:** Mihomo任意文件写，可通过写SSH密钥、cron任务等实现RCE
+
+**地址:** https://github.com/PuddinCat/PoC-mihomo-file-write
+
+---
+
+## smhnaqvi/cveeker
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/smhnaqvi/cveeker
+
+---
+
 ## jemus17/FOCI-Toolkit
 
 **关键字** 网络安全
@@ -2453,16 +2483,6 @@
 **介绍:** None
 
 **地址:** https://github.com/HeroX22/BurpToAPI
-
----
-
-## suonanjiexi/Cyber-RPC
-
-**关键字** 反序列化
-
-**介绍:** Cyber-RPC 是一个基于 Java 开发的轻量级 RPC（远程过程调用）框架，旨在提供高性能、易扩展的分布式服务调用解决方案。该框架支持服务注册与发现、负载均衡、序列化/反序列化等核心功能。
-
-**地址:** https://github.com/suonanjiexi/Cyber-RPC
 
 ---
 
