@@ -6,6 +6,46 @@
 
 ## 最新仓库
 
+## ssxywc54xcv/ssx-d6o
+
+**关键字** 免杀
+
+**介绍:** 杀手3免费加速器下载
+
+**地址:** https://github.com/ssxywc54xcv/ssx-d6o
+
+---
+
+## jinshengsoul/Exploit-factory
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/jinshengsoul/Exploit-factory
+
+---
+
+## sadq00p/poc
+
+**关键字** Exploit
+
+**介绍:** exploit poc
+
+**地址:** https://github.com/sadq00p/poc
+
+---
+
+## lordlordbillytim81/Battlefield3-Exploit
+
+**关键字** Exploit
+
+**介绍:** 2025 Edition: Free Battlefield 3 Hack Download for Windows PC💻
+
+**地址:** https://github.com/lordlordbillytim81/Battlefield3-Exploit
+
+---
+
 ## sundayz-hunter/AI_Request_Analyser
 
 **关键字** burp
