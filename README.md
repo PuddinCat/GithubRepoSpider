@@ -306,6 +306,16 @@
 
 ---
 
+## xxKawa/xxkawa.github.io
+
+**关键字** 注入
+
+**介绍:** 可用于PS4 9.0 的 PSFree漏洞 中文在线注入网站
+
+**地址:** https://github.com/xxKawa/xxkawa.github.io
+
+---
+
 ## guisgoodidea9/Defiant-Exploit
 
 **关键字** Exploit
@@ -2413,26 +2423,6 @@
 **介绍:** A premier cybersecurity CTF featuring challenges across web, crypto, pwn, reverse engineering, and more. This repository contains detailed writeups and technical solutions showcasing practical exploitation techniques and problem-solving strategies.
 
 **地址:** https://github.com/CiteFLag/citeflag-2025
-
----
-
-## AdityaBhatt3010/Exploiting-NoSQL-Injection-to-Extract-Data-BurpSuite-Lab-Walkthrough
-
-**关键字** burp
-
-**介绍:** Exploiting NoSQL injection to extract admin credentials from a MongoDB-backed application using BurpSuite and Boolean-based payloads.
-
-**地址:** https://github.com/AdityaBhatt3010/Exploiting-NoSQL-Injection-to-Extract-Data-BurpSuite-Lab-Walkthrough
-
----
-
-## AdityaBhatt3010/From-Recon-to-Root-A-MongoDB-NoSQL-Injection-Bug-Bounty-Journey
-
-**关键字** Exploit
-
-**介绍:** Exploiting NoSQL injection to extract admin credentials from a MongoDB-backed application using BurpSuite and Boolean-based payloads.
-
-**地址:** https://github.com/AdityaBhatt3010/From-Recon-to-Root-A-MongoDB-NoSQL-Injection-Bug-Bounty-Journey
 
 ---
 
