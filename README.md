@@ -2226,24 +2226,4 @@
 
 ---
 
-## Yuragy/Bypass-Protection0x00
-
-**关键字** bypass AntiVirus
-
-**介绍:** EDR & AV Bypass Arsenal— a comprehensive collection of tools, patches, and techniques for evading modern EDR and antivirus defenses. Everything you need to develop and integrate evasion methods in one repository.
-
-**地址:** https://github.com/Yuragy/Bypass-Protection0x00
-
----
-
-## morningstarxcdcode/ZeroDay-Exploit-Detector
-
-**关键字** Exploit
-
-**介绍:** An AI-powered zero-day exploit detection system.
-
-**地址:** https://github.com/morningstarxcdcode/ZeroDay-Exploit-Detector
-
----
-
 
