@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## Jackie1732/CVE
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/Jackie1732/CVE
+
+---
+
 ## emmanueltb94/Edgar-Emmanuel-Tovar-B-rcenas
 
 **关键字** RCE
@@ -2213,16 +2223,6 @@
 **介绍:** python工具开发（渗透测试）
 
 **地址:** https://github.com/proint-qw/pytool
-
----
-
-## mejarredfyru765/sea-of-thieves-exploit
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/mejarredfyru765/sea-of-thieves-exploit
 
 ---
 
