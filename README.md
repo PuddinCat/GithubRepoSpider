@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## EXPLOITFINDER/ExploitFinder-MLWAF
+
+**关键字** Exploit
+
+**介绍:** Advanced Web Application Firewall combining regex-based pattern matching and machine learning to detect and block threats like SQLi, XSS, RFI, and more. Features deep payload decoding, IP blocking, logging, retraining, and FastAPI-powered API.
+
+**地址:** https://github.com/EXPLOITFINDER/ExploitFinder-MLWAF
+
+---
+
 ## giorgio0s0codes/BurpPythonTesting
 
 **关键字** burp
@@ -2433,56 +2443,6 @@
 **介绍:** None
 
 **地址:** https://github.com/welcomethell/RceExploit
-
----
-
-## yyh-12/5.18-Lake-Tanganyika-Images
-
-**关键字** 钓鱼
-
-**介绍:** 钓鱼
-
-**地址:** https://github.com/yyh-12/5.18-Lake-Tanganyika-Images
-
----
-
-## missaels235/POC-CVE-2025-24104-Py
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/missaels235/POC-CVE-2025-24104-Py
-
----
-
-## sathish-varnan/CVEServer
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/sathish-varnan/CVEServer
-
----
-
-## sarathymurugan/pentesting-lab-setup
-
-**关键字** burp
-
-**介绍:** Web Application Pentesting Environment Setup - DVWA + Burp Suite by SARATHY M
-
-**地址:** https://github.com/sarathymurugan/pentesting-lab-setup
-
----
-
-## Namtium/Meltdown_exploit
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/Namtium/Meltdown_exploit
 
 ---
 
