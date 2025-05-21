@@ -149,7 +149,7 @@ async def send_repo_messages(bot: telegram.Bot, repos: List[FoundRepo]):
 
 async def is_valuable_repo(client: httpx.AsyncClient, repo: Dict[str, Any]) -> bool:
 
-    if "description" in repo and repo["description"] is not None and DESC_BLACKLIST_REGEX.search(repo["description"]):
+    if DESC_BLACKLIST_REGEX.search(repo["description"]):
         return False
     
     contributors_url = repo.get("contributors_url")
