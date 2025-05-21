@@ -6,6 +6,36 @@
 
 ## 最新仓库
 
+## ateist392/SCP-ExploitPro
+
+**关键字** Exploit
+
+**介绍:** Ultimate SCP Hacking Download for Windows in 2025🔥
+
+**地址:** https://github.com/ateist392/SCP-ExploitPro
+
+---
+
+## marowslern548/GMod-Exploit
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/marowslern548/GMod-Exploit
+
+---
+
+## numbbottle854/Zula-Exploit-Kit
+
+**关键字** Exploit
+
+**介绍:** Ultimate Guide to Zula Hack Downloads for 2025: Free Cheats and Tips for Windows 🚀
+
+**地址:** https://github.com/numbbottle854/Zula-Exploit-Kit
+
+---
+
 ## bambinanoangel/PunkExploit-Hack
 
 **关键字** Exploit
@@ -2333,16 +2363,6 @@
 **介绍:** PSFree WebKit Exploit & Lapse Kernel Exploit For PS4 9.00 Luckfox Mini Porting with Web Dashboard
 
 **地址:** https://github.com/prodeveloper0/PSFree-Luckfox
-
----
-
-## Ramsadaye/Crypter-Horus-Protector
-
-**关键字** bypass AntiVirus
-
-**介绍:** Horus Protector 100% FUD Crypter xWorm Bypass Windows Defender Antivirus with Startup and persistance
-
-**地址:** https://github.com/Ramsadaye/Crypter-Horus-Protector
 
 ---
 
