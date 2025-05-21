@@ -2426,14 +2426,4 @@
 
 ---
 
-## doomygloom/CVE-2025-4428
-
-**关键字** CVE
-
-**介绍:** CVE-2025-4428
-
-**地址:** https://github.com/doomygloom/CVE-2025-4428
-
----
-
 
