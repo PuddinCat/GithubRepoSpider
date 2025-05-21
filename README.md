@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## emmanueltb94/Edgar-Emmanuel-Tovar-B-rcenas
+
+**关键字** RCE
+
+**介绍:** None
+
+**地址:** https://github.com/emmanueltb94/Edgar-Emmanuel-Tovar-B-rcenas
+
+---
+
 ## cveslrasxcor/cveslrasxcor
 
 **关键字** CVE
@@ -823,6 +833,16 @@
 **介绍:** 强大的脚本注入插件，支持多语言，暗黑主题
 
 **地址:** https://github.com/yintao0303/InjectJS
+
+---
+
+## bonyintegral/steampipe-plugin-shodan
+
+**关键字** Exploit
+
+**介绍:** Use SQL to instantly query host, DNS and exploit information using Shodan. Open source CLI. No DB required. backup, etl, hacktoberfest, postgres, postgres-fdw, postgresql, postgresql-fdw, shodan, shodan-plugin, sql, sqlite, steampipe, steampipe-community, steampipe-plugin, zero-etl
+
+**地址:** https://github.com/bonyintegral/steampipe-plugin-shodan
 
 ---
 
@@ -2223,26 +2243,6 @@
 **介绍:** My attemp at AI enhanced zaproxy tool for non technical user to understand zaproxy output. Also maps cwe's with CVEs and provides mitigation technique
 
 **地址:** https://github.com/salishba/AIES-CCP-Project
-
----
-
-## blue0x1/Remote-Keyboard-Desktop-RCE
-
-**关键字** RCE
-
-**介绍:** This exploit abuses the Remote Keyboard Desktop 1.0.1 WebSocket interface to simulate keystrokes and execute a remote payload via SMB, leading to unauthenticated remote code execution on Windows systems.
-
-**地址:** https://github.com/blue0x1/Remote-Keyboard-Desktop-RCE
-
----
-
-## kelm88valeraxolera/adoptme
-
-**关键字** Exploit
-
-**介绍:** adopt me script, roblox adopt me hacks, adopt me pet spawn script, adopt me auto farm, adopt me cheats, roblox cheats, roblox adopt me mod, adopt me tool, adopt me exploit, roblox script for adopt me.
-
-**地址:** https://github.com/kelm88valeraxolera/adoptme
 
 ---
 
