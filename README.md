@@ -6,6 +6,56 @@
 
 ## 最新仓库
 
+## jemus17/FOCI-Toolkit
+
+**关键字** 网络安全
+
+**介绍:** FOCI Toolkit 是一款集资产扫描、漏洞验证与ICP备案查询于一体的自动化安全分析工具，专为技术团队和安全研究人员设计。通过集成 FOFA 资产批量查询、POC 漏洞验证以及 ICP 备案合规性检查三大核心模块，FOCI Toolkit 提供了从资产发现到风险评估的完整流程支持，助力企业快速识别暴露面风险、验证潜在漏洞，并确保网络资产的合规性。
+
+**地址:** https://github.com/jemus17/FOCI-Toolkit
+
+---
+
+## pouriam23/CVE-2024-12583-
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/pouriam23/CVE-2024-12583-
+
+---
+
+## EDanilkov/sauna-na-cvetochnoy-backend
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/EDanilkov/sauna-na-cvetochnoy-backend
+
+---
+
+## Laertharaz/Anydesk-Exploit-CVE-2025-12654-RCE-Builder
+
+**关键字** RCE
+
+**介绍:** Exploit development targets vulnerabilities using tools like exploitation frameworks. CVE databases list risks, while CVE-2025-44228 is an example of a flaw. AnyDesk exploits highlight security gaps.
+
+**地址:** https://github.com/Laertharaz/Anydesk-Exploit-CVE-2025-12654-RCE-Builder
+
+---
+
+## random-robbie/wordpress-security-test-tool
+
+**关键字** RCE
+
+**介绍:** WordPress Security Test Tool for RCE
+
+**地址:** https://github.com/random-robbie/wordpress-security-test-tool
+
+---
+
 ## Theinxm/Batch-Malware-Builder-FUD-Crypter-AV-UAC-Bypass
 
 **关键字** bypass av
@@ -13,6 +63,16 @@
 **介绍:** Crypter hides malware with encryption, often providing FUD features. Tools like crypter FUD or batch FUD ensure undetected execution. Obfuscation bypasses antivirus and Windows Defender. Batch malware, trojans, and stealers are built using specialized tools.
 
 **地址:** https://github.com/Theinxm/Batch-Malware-Builder-FUD-Crypter-AV-UAC-Bypass
+
+---
+
+## Fadouse/rustransomware
+
+**关键字** bypass AntiVirus
+
+**介绍:** A Rust ransomware framework that bypasses some antivirus solutions e.g. ESET, Avast and Huorong.
+
+**地址:** https://github.com/Fadouse/rustransomware
 
 ---
 
@@ -2333,46 +2393,6 @@
 **介绍:** 🧭 2b2t Base Finder Exploit — Coordinate Scan Tool for Anarchy 🗺️🔍
 
 **地址:** https://github.com/suicide-101/2b2t-Base-Finder
-
----
-
-## carvajaldz9/VulnrabilityScanner
-
-**关键字** CVE
-
-**介绍:** A Python-based tool that automates initial vulnerability scanning by combining Nmap results with exploit database lookups and CVE matching.
-
-**地址:** https://github.com/carvajaldz9/VulnrabilityScanner
-
----
-
-## frizytmrzamo8079/Crimzon-Warzone
-
-**关键字** Exploit
-
-**介绍:** 🔴 Crimzon — Ragebot + Exploits + Radar for Warzone 💣💀
-
-**地址:** https://github.com/frizytmrzamo8079/Crimzon-Warzone
-
----
-
-## cvenkataravikiran/CVenkataravikiran-portfolio
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/cvenkataravikiran/CVenkataravikiran-portfolio
-
----
-
-## NazininMiramini/gitvisor
-
-**关键字** CVE
-
-**介绍:** Scan Git repositories for vulnerabilities, CVEs, hard-coded credentials and more
-
-**地址:** https://github.com/NazininMiramini/gitvisor
 
 ---
 
