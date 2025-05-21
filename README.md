@@ -16,6 +16,16 @@
 
 ---
 
+## IgorDuino/BurpHistTabs
+
+**关键字** burp
+
+**介绍:** BurpSuite extension for tabs in http history 
+
+**地址:** https://github.com/IgorDuino/BurpHistTabs
+
+---
+
 ## lisa-2905/CVE-2024-56428
 
 **关键字** CVE
@@ -2213,16 +2223,6 @@
 **介绍:** None
 
 **地址:** https://github.com/0xWhoami35/Presta-Webshell
-
----
-
-## exfil0/CVE-2025-32756-POC
-
-**关键字** CVE
-
-**介绍:** Designed for Demonstration of Deep Exploitation.
-
-**地址:** https://github.com/exfil0/CVE-2025-32756-POC
 
 ---
 
