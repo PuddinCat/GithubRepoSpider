@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## 25S22/CVE-Watcher
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/25S22/CVE-Watcher
+
+---
+
 ## Jackie1732/CVE
 
 **关键字** CVE
@@ -2203,26 +2213,6 @@
 **介绍:** Best Sea of Thieves Exploit Hack Free
 
 **地址:** https://github.com/mow33breadsun/sea-of-thieves-cheats
-
----
-
-## Hemant-maker44/Ethical-hacking-project1
-
-**关键字** Exploit
-
-**介绍:** Ethical Hacking Project - Simulating Real-World Network Exploitation and Defense
-
-**地址:** https://github.com/Hemant-maker44/Ethical-hacking-project1
-
----
-
-## proint-qw/pytool
-
-**关键字** 渗透测试
-
-**介绍:** python工具开发（渗透测试）
-
-**地址:** https://github.com/proint-qw/pytool
 
 ---
 
