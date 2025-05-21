@@ -46,6 +46,26 @@
 
 ---
 
+## LucaMarastoni/cve_detector
+
+**关键字** CVE
+
+**介绍:** Monitoraggio giornaliero delle nuove vulnerabilità CVE critiche correlate alle tecnologie specificate.
+
+**地址:** https://github.com/LucaMarastoni/cve_detector
+
+---
+
+## ting-006/myCVE
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/ting-006/myCVE
+
+---
+
 ## R4gd0ll/ruoyi-4.8.0-RCE
 
 **关键字** RCE
@@ -73,6 +93,16 @@
 **介绍:** FiveM External cheat, offers various features like aimbot, triggerbot, exploits, and customizable settings, enhancing the gameplay experience. It is completely undetectable.
 
 **地址:** https://github.com/nitishplay/FiveM-External-Cheat
+
+---
+
+## volodymyr-hladkyi-symphony/demo-cve-2022-21449
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/volodymyr-hladkyi-symphony/demo-cve-2022-21449
 
 ---
 
@@ -2173,6 +2203,16 @@
 **介绍:** PowerShell Shellcode Injection via APC Queuing
 
 **地址:** https://github.com/doomygloom/QueueUserAPC
+
+---
+
+## Salah-boutayeb/CVE-importer
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/Salah-boutayeb/CVE-importer
 
 ---
 
