@@ -6,6 +6,46 @@
 
 ## 最新仓库
 
+## fladsey639/Metin2-Exploits
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/fladsey639/Metin2-Exploits
+
+---
+
+## trappeykeyforloe6/Siege-Exploit
+
+**关键字** Exploit
+
+**介绍:** Step-by-Step: Rainbow Six Siege Hack Installation for Windows 2025 📚
+
+**地址:** https://github.com/trappeykeyforloe6/Siege-Exploit
+
+---
+
+## IG-04/PaulScans
+
+**关键字** CVE
+
+**介绍:** PaulScans is a simple tool that does TCP port scans, banner grabs, and CVE lookup using Vulners. 
+
+**地址:** https://github.com/IG-04/PaulScans
+
+---
+
+## hendrewna/CVE-2025-4918
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/hendrewna/CVE-2025-4918
+
+---
+
 ## ateist392/SCP-ExploitPro
 
 **关键字** Exploit
@@ -13,6 +53,16 @@
 **介绍:** Ultimate SCP Hacking Download for Windows in 2025🔥
 
 **地址:** https://github.com/ateist392/SCP-ExploitPro
+
+---
+
+## hendrewna/CVE-2025-46801
+
+**关键字** CVE
+
+**介绍:** CVE-2025-46801 – Pgpool-II Authentication Bypass PoC
+
+**地址:** https://github.com/hendrewna/CVE-2025-46801
 
 ---
 
@@ -2353,16 +2403,6 @@
 **介绍:** None
 
 **地址:** https://github.com/Salah-boutayeb/CVE-importer
-
----
-
-## prodeveloper0/PSFree-Luckfox
-
-**关键字** Exploit
-
-**介绍:** PSFree WebKit Exploit & Lapse Kernel Exploit For PS4 9.00 Luckfox Mini Porting with Web Dashboard
-
-**地址:** https://github.com/prodeveloper0/PSFree-Luckfox
 
 ---
 
