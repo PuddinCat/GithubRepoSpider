@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## xfmbyejekc/xfm-6hs
+
+**关键字** 免杀
+
+**介绍:** 海杀免费加速器下载
+
+**地址:** https://github.com/xfmbyejekc/xfm-6hs
+
+---
+
 ## dodiorne/cve-2022-31813
 
 **关键字** CVE
