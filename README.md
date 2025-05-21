@@ -6,6 +6,36 @@
 
 ## 最新仓库
 
+## officialchristheg/cpp-lua-rce
+
+**关键字** RCE
+
+**介绍:** None
+
+**地址:** https://github.com/officialchristheg/cpp-lua-rce
+
+---
+
+## rubakpoptart/sea-of-thieves-exploit
+
+**关键字** Exploit
+
+**介绍:** Latest Sea of Thieves Cheats Free Download 2025
+
+**地址:** https://github.com/rubakpoptart/sea-of-thieves-exploit
+
+---
+
+## medxpy/WpExploit
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/medxpy/WpExploit
+
+---
+
 ## joinsime/Adobe-Acrobat
 
 **关键字** RCE
@@ -2303,36 +2333,6 @@
 **介绍:** LumiTerra Crypto Bot – Auto Farm, Clicker, Cheat, Token Hack & API Exploit
 
 **地址:** https://github.com/browneyes3987/LumiTerra-Crypto-Bot-Auto-Farm-Clicker
-
----
-
-## HossamEAhmed/wp-ulike-cve-2025-32259-poc
-
-**关键字** CVE
-
-**介绍:** In affected versions of the WP ULike plugin, there is no proper authorization check before allowing certain AJAX actions or vote manipulations. This allows unauthenticated users to interact with the plugin in ways only logged-in users should be able to — potentially skewing votes or injecting misleading data.
-
-**地址:** https://github.com/HossamEAhmed/wp-ulike-cve-2025-32259-poc
-
----
-
-## doomygloom/CVE-2025-4664
-
-**关键字** CVE
-
-**介绍:** CVE-2025-4664
-
-**地址:** https://github.com/doomygloom/CVE-2025-4664
-
----
-
-## doomygloom/CVE-2025-4921
-
-**关键字** CVE
-
-**介绍:** CVE-2025-4921
-
-**地址:** https://github.com/doomygloom/CVE-2025-4921
 
 ---
 
