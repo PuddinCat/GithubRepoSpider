@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## EXPLOITFINDER/ExploitFinder-WAF
+
+**关键字** Exploit
+
+**介绍:** ExploitFinder WAF is an advanced Web Application Firewall built with FastAPI. It protects web applications from a wide range of attacks using a hybrid detection approach: pattern matching with regular expressions and a machine learning classifier for unknown threats. 
+
+**地址:** https://github.com/EXPLOITFINDER/ExploitFinder-WAF
+
+---
+
 ## jonhny-santos/cve-search-privacy-policy
 
 **关键字** CVE
@@ -43,6 +53,16 @@
 **介绍:** None
 
 **地址:** https://github.com/Xenonesis/cvent
+
+---
+
+## Fcvebf/ExporterBurpSuiteExtension
+
+**关键字** burp
+
+**介绍:** This Burp Suite extension allows the user to upload the identified security issues directly to Pwndoc or export them in various document formats.
+
+**地址:** https://github.com/Fcvebf/ExporterBurpSuiteExtension
 
 ---
 
