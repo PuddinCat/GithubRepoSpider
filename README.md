@@ -16,6 +16,16 @@
 
 ---
 
+## Cr4ntz/exploits
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/Cr4ntz/exploits
+
+---
+
 ## PuddinCat/PoC-mihomo-file-write
 
 **关键字** RCE
@@ -2473,16 +2483,6 @@
 **介绍:** None
 
 **地址:** https://github.com/Namtium/Meltdown_exploit
-
----
-
-## HeroX22/BurpToAPI
-
-**关键字** burp
-
-**介绍:** None
-
-**地址:** https://github.com/HeroX22/BurpToAPI
 
 ---
 
