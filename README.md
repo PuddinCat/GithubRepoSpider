@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## sundayz-hunter/AI_Request_Analyzer
+
+**关键字** burp
+
+**介绍:** A Burp Suite extension for analyzing HTTP requests and responses with AI.
+
+**地址:** https://github.com/sundayz-hunter/AI_Request_Analyzer
+
+---
+
 ## ssxywc54xcv/ssx-d6o
 
 **关键字** 免杀
@@ -103,6 +113,16 @@
 **介绍:** None
 
 **地址:** https://github.com/ting-006/myCVE
+
+---
+
+## ting-06a/myCVE
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/ting-06a/myCVE
 
 ---
 
@@ -2303,46 +2323,6 @@
 **介绍:** Generative AI agent to analyze vulnerabilities (CVEs) during incidents.
 
 **地址:** https://github.com/giordanobsf/cve-analysis-agent
-
----
-
-## huangyi234/CVE
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/huangyi234/CVE
-
----
-
-## Raulisr00t/ShellCodeGenerator
-
-**关键字** shellcode
-
-**介绍:** Generate x86 reverse shell shellcode for Windows Environment
-
-**地址:** https://github.com/Raulisr00t/ShellCodeGenerator
-
----
-
-## SereneValor/cve-trend-analyzer
-
-**关键字** CVE
-
-**介绍:** A lightweight Python tool that ingests the NVD (National Vulnerability Database) RSS feed, stores CVE metadata in a local dataframe, and visualizes month-over-month CVSS trends.
-
-**地址:** https://github.com/SereneValor/cve-trend-analyzer
-
----
-
-## KaterinaKKalinina/Cvetochni
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/KaterinaKKalinina/Cvetochni
 
 ---
 
