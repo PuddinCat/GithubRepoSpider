@@ -26,6 +26,8 @@ GitHub又有新仓库了! #{keyword}
 链接: {url}
 """
 
+DESC_BLACKLIST_REGEX = re.compile(r"cheat|free download", re.I)
+
 MIN_REQUEST_INTERVAL = 0.03
 last_request_time_lock = asyncio.Lock()
 last_request_time = 0
@@ -145,6 +147,10 @@ async def send_repo_messages(bot: telegram.Bot, repos: List[FoundRepo]):
 
 
 async def is_valuable_repo(client: httpx.AsyncClient, repo: Dict[str, Any]) -> bool:
+
+    if "description" in repo and repo["description"] is not None and DESC_BLACKLIST_REGEX.search(repo["description"]):
+        return False
+    
     contributors_url = repo.get("contributors_url")
     if not contributors_url:
         return False
