@@ -1606,6 +1606,16 @@
 
 ---
 
+## nquangit/plockchain
+
+**关键字** burp
+
+**介绍:** plockchain support for send request flow by write yaml config
+
+**地址:** https://github.com/nquangit/plockchain
+
+---
+
 ## MagpieRYL/memshell_xenomorph
 
 **关键字** 内存马
@@ -2193,26 +2203,6 @@
 **介绍:** Mitel MiCollab Authentication Bypass to Arbitrary File Read
 
 **地址:** https://github.com/gunyakit/CVE-2024-41713-PoC-exploit
-
----
-
-## uqesykhcn/uqe-jo8j
-
-**关键字** 钓鱼
-
-**介绍:** 天天钓鱼加速器下载免费
-
-**地址:** https://github.com/uqesykhcn/uqe-jo8j
-
----
-
-## mow33breadsun/sea-of-thieves-cheats
-
-**关键字** Exploit
-
-**介绍:** Best Sea of Thieves Exploit Hack Free
-
-**地址:** https://github.com/mow33breadsun/sea-of-thieves-cheats
 
 ---
 
