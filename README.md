@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## SeanHeelan/o3_finds_cve-2025-37899
+
+**关键字** CVE
+
+**介绍:** Artefacts for blog post on finding CVE-2025-37899 with o3
+
+**地址:** https://github.com/SeanHeelan/o3_finds_cve-2025-37899
+
+---
+
 ## MetadataGitTesting/fRceWwnL
 
 **关键字** RCE
@@ -2473,26 +2483,6 @@
 **介绍:** 银发卫士 - 老年人网络安全守护者
 
 **地址:** https://github.com/ws6661/phishing_detector
-
----
-
-## lulusec/burp
-
-**关键字** burp
-
-**介绍:** None
-
-**地址:** https://github.com/lulusec/burp
-
----
-
-## juankroos/RustNetwork
-
-**关键字** Exploit
-
-**介绍:** some exploit maybe....
-
-**地址:** https://github.com/juankroos/RustNetwork
 
 ---
 
