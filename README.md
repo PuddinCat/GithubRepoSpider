@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## Faroukcr7/Adobe-Acrobat
+
+**关键字** RCE
+
+**介绍:** This repository offers practical tools and scripts to enhance your use of Adobe Acrobat. Explore features like PDF manipulation and form creation to streamline your workflow. 🛠️📄
+
+**地址:** https://github.com/Faroukcr7/Adobe-Acrobat
+
+---
+
+## apololifter/fuelcms-rce
+
+**关键字** RCE
+
+**介绍:** None
+
+**地址:** https://github.com/apololifter/fuelcms-rce
+
+---
+
 ## undefined-name12/SSTI-map-exploitation
 
 **关键字** Exploit
@@ -2343,16 +2363,6 @@
 **介绍:** Exploiter Python that collaborate with @CookieFarm Project
 
 **地址:** https://github.com/ByteTheCookies/CookieFarmExploiter
-
----
-
-## markdrzy/exploit-tests
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/markdrzy/exploit-tests
 
 ---
 
