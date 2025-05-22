@@ -2396,14 +2396,4 @@
 
 ---
 
-## HExploited/CVE-2025-4919-Exploit
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/HExploited/CVE-2025-4919-Exploit
-
----
-
 
