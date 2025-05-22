@@ -6,6 +6,46 @@
 
 ## 最新仓库
 
+## kitasahauser63/Burp-Suite-Professional-2025.4.3-Version
+
+**关键字** burp
+
+**介绍:** None
+
+**地址:** https://github.com/kitasahauser63/Burp-Suite-Professional-2025.4.3-Version
+
+---
+
+## ReanimatingTheNew/lanhu-mcp
+
+**关键字** 蓝队
+
+**介绍:** 蓝湖MCP，革命性的设计转换工具，将设计师的创意无缝转化为Unity UGUI预制体，节省开发时间，提升团队效率。
+
+**地址:** https://github.com/ReanimatingTheNew/lanhu-mcp
+
+---
+
+## ReanimatingTheNew/lanhumcp
+
+**关键字** 蓝队
+
+**介绍:** 蓝湖MCP，革命性的设计转换工具，将设计师的创意无缝转化为Unity UGUI预制体，节省开发时间，提升团队效率。
+
+**地址:** https://github.com/ReanimatingTheNew/lanhumcp
+
+---
+
+## richard0day/Mihomo-RCE
+
+**关键字** RCE
+
+**介绍:** None
+
+**地址:** https://github.com/richard0day/Mihomo-RCE
+
+---
+
 ## wxwhhh/webshell_bypass
 
 **关键字** 免杀
@@ -2373,36 +2413,6 @@
 **介绍:** 本项目是一个基于Spring Boot和Vue.js的航班预订系统，采用前后端分离架构设计。根据角色的权限不同，系统为普通用户提供了航班查询、乘客管理和订单查询等功能，支持普通用户查询航班、预订机票、管理个人信息等操作。同时为管理员提供了航班管理、用户管理订单管理以及数据统计等功能，满足了管理员对后台数据的管理需求。
 
 **地址:** https://github.com/Panda-Z-Coding/Flight-management-system
-
----
-
-## AndreyFreitax/CVE-2011-0762
-
-**关键字** CVE
-
-**介绍:** Um script automatizado melhorando o exploit do cve-2011-0762 postado no exploit-db
-
-**地址:** https://github.com/AndreyFreitax/CVE-2011-0762
-
----
-
-## nquangit/plockchain
-
-**关键字** burp
-
-**介绍:** plockchain support for send request flow by write yaml config
-
-**地址:** https://github.com/nquangit/plockchain
-
----
-
-## MagpieRYL/memshell_xenomorph
-
-**关键字** 内存马
-
-**介绍:** 生异形吗？挖掘构建你自己的Java内存马！
-
-**地址:** https://github.com/MagpieRYL/memshell_xenomorph
 
 ---
 
