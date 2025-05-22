@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## stonaderr/AppExploit-built
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/stonaderr/AppExploit-built
+
+---
+
+## stonaderr/AppExploit-PC
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/stonaderr/AppExploit-PC
+
+---
+
 ## dovkanner/kernel-exploit
 
 **关键字** Exploit
@@ -13,6 +33,16 @@
 **介绍:** None
 
 **地址:** https://github.com/dovkanner/kernel-exploit
+
+---
+
+## elnerd/tunnel
+
+**关键字** webshell
+
+**介绍:** Create TCP tunnels over webshells
+
+**地址:** https://github.com/elnerd/tunnel
 
 ---
 
