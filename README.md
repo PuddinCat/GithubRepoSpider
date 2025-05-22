@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## Smilekaim/rcee
+
+**关键字** RCE
+
+**介绍:** None
+
+**地址:** https://github.com/Smilekaim/rcee
+
+---
+
 ## cyspa/CVEs
 
 **关键字** CVE
@@ -2483,16 +2493,6 @@
 **介绍:** Automated path traversal testing tool for Grafana plugin endpoints using curl and Bash.
 
 **地址:** https://github.com/abuyazeen/CVE-2021-43798-Grafana-path-traversal-tester
-
----
-
-## pentest-labz/sql-exploit-service
-
-**关键字** Exploit
-
-**介绍:** A microservice for checking SQL vulnerabilites
-
-**地址:** https://github.com/pentest-labz/sql-exploit-service
 
 ---
 
