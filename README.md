@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## MetadataGitTesting/fRceWwnL
+
+**关键字** RCE
+
+**介绍:** None
+
+**地址:** https://github.com/MetadataGitTesting/fRceWwnL
+
+---
+
+## Saptaktdk/go-get-RCE
+
+**关键字** RCE
+
+**介绍:** This is the exploit of CVE-2018-6574: go get RCE
+
+**地址:** https://github.com/Saptaktdk/go-get-RCE
+
+---
+
 ## Riya7113/cvent
 
 **关键字** CVE
@@ -2473,16 +2493,6 @@
 **介绍:** some exploit maybe....
 
 **地址:** https://github.com/juankroos/RustNetwork
-
----
-
-## Sratet/CVE-2025-29813-PE
-
-**关键字** CVE
-
-**介绍:** CVE-2025-29813 – Visual Studio Privilege Escalation via Improper Pipeline Job Token Handling
-
-**地址:** https://github.com/Sratet/CVE-2025-29813-PE
 
 ---
 
