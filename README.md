@@ -6,6 +6,36 @@
 
 ## 最新仓库
 
+## cyspa/CVEs
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/cyspa/CVEs
+
+---
+
+## Yveslawtox/CVE
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/Yveslawtox/CVE
+
+---
+
+## luokuang1/CVE
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/luokuang1/CVE
+
+---
+
 ## harish0x/CVE-2025-44108-SXSS
 
 **关键字** CVE
@@ -2483,36 +2513,6 @@
 **介绍:** 本研究利用YOLOv10框架，通过对5605张涵盖成熟与未成熟草莓的图像数据集 ，训练了一个较为高效的草莓成熟度目标检测模型。该模型能够判断草莓成熟与否 ，为草莓的采摘、分类等生产环节提供了有力的技术支持。并利用PyQT5框架为其设 计了简洁的图形化操作界面。该系统不仅支持对单张图片、视频文件进行检测，还 能够利用摄像头实时判断画面中的草莓成熟状况，并将检测结果直观呈现出来，同 时提供检测结果保存功能，便于后续的数据分析与利用。最后使用了PyInstaller工 具将系统打包为Windous可执行的exe文件.项目解释权归本人所有，实验仅供参考学习。
 
 **地址:** https://github.com/LIGHTS-POWER/YOLOv10-Strawberry-ripening-detection
-
----
-
-## Max-John-code/-Server-360-degree_Intelligent-Driving-Assistance-System
-
-**关键字** 注入
-
-**介绍:** 本服务器是360度智能行车辅助系统的核心组成部分，基于Socket网络通信技术构建，支持高并发连接和稳定的数据传输。服务器负责处理客户端的接入请求、用户登录注册、视频播放记录上传、特征数据上传等业务逻辑，并通过心跳机制维护长连接，确保通信可靠性。同时，服务器采用线程池和共享内存机制提升性能，支持200-300并发业务处理，并提供实时日志与完整日志功能，便于系统监控与调试，保障系统的高效运行与后期维护。
-
-**地址:** https://github.com/Max-John-code/-Server-360-degree_Intelligent-Driving-Assistance-System
-
----
-
-## Dragonborn1117/cve-report
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/Dragonborn1117/cve-report
-
----
-
-## Mattb709/RCE-Exfil-Tool
-
-**关键字** RCE
-
-**介绍:** Stealthy RCE exfiltration tool using .HTA (LOLBin) for encrypted data exfil over HTTPS. Self-destruct, recursive dir dumping, and in-memory execution.
-
-**地址:** https://github.com/Mattb709/RCE-Exfil-Tool
 
 ---
 
