@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## wxwhhh/webshell_bypass
+
+**关键字** 免杀
+
+**介绍:** 一个一键生成免杀的webshell工具
+
+**地址:** https://github.com/wxwhhh/webshell_bypass
+
+---
+
+## MoshOfferman/CVENT
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/MoshOfferman/CVENT
+
+---
+
 ## EXPLOITFINDER/ExploitFinder-WAF
 
 **关键字** Exploit
@@ -43,6 +63,16 @@
 **介绍:** CVE-2021-34527 is a critical remote code execution and local privilege escalation vulnerability dubbed "PrintNightmare."
 
 **地址:** https://github.com/AUSK1LL9/CVE-2021-34527
+
+---
+
+## domino79/healthcare-vuln-agent
+
+**关键字** CVE
+
+**介绍:** AI-powered agent for scanning healthcare information systems for vulnerabilities and anomalies using CVEs and machine learning.
+
+**地址:** https://github.com/domino79/healthcare-vuln-agent
 
 ---
 
@@ -2373,106 +2403,6 @@
 **介绍:** 生异形吗？挖掘构建你自己的Java内存马！
 
 **地址:** https://github.com/MagpieRYL/memshell_xenomorph
-
----
-
-## Wa1nut4/CVE-2025-2135
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/Wa1nut4/CVE-2025-2135
-
----
-
-## SyncMeIn/FP-Browser
-
-**关键字** 注入
-
-**介绍:** 开源免费跨平台的移动端指纹浏览器，可编程浏览器底层动态注入，免费创建无限制不同型号手机浏览器测试环境。
-
-**地址:** https://github.com/SyncMeIn/FP-Browser
-
----
-
-## Kilqwes/ALTV-Exploit
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/Kilqwes/ALTV-Exploit
-
----
-
-## aparnaa19/Vulnerability-Scanning-and-Exploitation
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/aparnaa19/Vulnerability-Scanning-and-Exploitation
-
----
-
-## MickeyMeles/Warframe-Exploit
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/MickeyMeles/Warframe-Exploit
-
----
-
-## aparnaa19/CVE-Exploits-on-Metasploitable2
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/aparnaa19/CVE-Exploits-on-Metasploitable2
-
----
-
-## Loucy1231/Nexus-Repository-Manager3-EL-CVE-2018-16621-https-www.cve.org-CVERecord-id-CVE-2018-16621-
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/Loucy1231/Nexus-Repository-Manager3-EL-CVE-2018-16621-https-www.cve.org-CVERecord-id-CVE-2018-16621-
-
----
-
-## AchrafDriouiche/cve-tracker-dashboard
-
-**关键字** CVE
-
-**介绍:** A modern web app built with React and Node.js to browse, filter, and save CVE vulnerabilities from public sources.
-
-**地址:** https://github.com/AchrafDriouiche/cve-tracker-dashboard
-
----
-
-## harryhaxor/tools-2025-exploits-zero-day-
-
-**关键字** Exploit
-
-**介绍:** zero day auto exploits here 
-
-**地址:** https://github.com/harryhaxor/tools-2025-exploits-zero-day-
-
----
-
-## noureldine67/payload-process-injection
-
-**关键字** shellcode
-
-**介绍:** Shellcode Injection into a Remote Process using ptrace
-
-**地址:** https://github.com/noureldine67/payload-process-injection
 
 ---
 
