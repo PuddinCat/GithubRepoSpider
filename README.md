@@ -2476,24 +2476,4 @@
 
 ---
 
-## mmvanheusden/meteor-5b5t-addon
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/mmvanheusden/meteor-5b5t-addon
-
----
-
-## abuyazeen/CVE-2021-43798-Grafana-path-traversal-tester
-
-**关键字** CVE
-
-**介绍:** Automated path traversal testing tool for Grafana plugin endpoints using curl and Bash.
-
-**地址:** https://github.com/abuyazeen/CVE-2021-43798-Grafana-path-traversal-tester
-
----
-
 
