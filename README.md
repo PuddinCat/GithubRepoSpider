@@ -2356,34 +2356,4 @@
 
 ---
 
-## undefined-name12/CheatSheet-CobaltStrike
-
-**关键字** Cobalt Strike
-
-**介绍:** Algunas notas y ejemplos sobre la funcionalidad de Cobalt Strike
-
-**地址:** https://github.com/undefined-name12/CheatSheet-CobaltStrike
-
----
-
-## timdigga/exploit_server
-
-**关键字** Exploit
-
-**介绍:** Exploiting Server HTML for Bug Bounty since github.io is usually not blacklisted
-
-**地址:** https://github.com/timdigga/exploit_server
-
----
-
-## udibabaskydeck/ralk
-
-**关键字** CVE
-
-**介绍:** Reachability analysis tool for Linux kernel to flag CVEs that matter
-
-**地址:** https://github.com/udibabaskydeck/ralk
-
----
-
 
