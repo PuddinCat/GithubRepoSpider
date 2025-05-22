@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## dreamer-7744/RCEOC
+
+**关键字** RCE
+
+**介绍:** Random neighborhood ensemble-based one-class classification algorithm
+
+**地址:** https://github.com/dreamer-7744/RCEOC
+
+---
+
 ## Chr1sTo4F/cve_report
 
 **关键字** CVE
@@ -103,6 +113,16 @@
 **介绍:** None
 
 **地址:** https://github.com/MoshOfferman/CVENT
+
+---
+
+## friendlyproo/honeypot
+
+**关键字** 网络安全
+
+**介绍:** Honeypot 蜜罐系统 基于Go语言开发的分布式蜜罐系统，用于网络安全监测、攻击行为捕获与分析。A distributed honeypot system developed in Go for network security monitoring, attack behavior capture and analysis.
+
+**地址:** https://github.com/friendlyproo/honeypot
 
 ---
 
