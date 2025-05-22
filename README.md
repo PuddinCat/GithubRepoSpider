@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## Chr1sTo4F/cve_report
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/Chr1sTo4F/cve_report
+
+---
+
 ## kitasahauser63/Burp-Suite-Professional-2025.4.3-Version
 
 **关键字** burp
@@ -13,6 +23,16 @@
 **介绍:** None
 
 **地址:** https://github.com/kitasahauser63/Burp-Suite-Professional-2025.4.3-Version
+
+---
+
+## xiaobor123/cve-dlink-dcs5020l
+
+**关键字** CVE
+
+**介绍:** About Details of the vulnerability found in the dlink dcs5020l
+
+**地址:** https://github.com/xiaobor123/cve-dlink-dcs5020l
 
 ---
 
@@ -53,6 +73,26 @@
 **介绍:** 一个一键生成免杀的webshell工具
 
 **地址:** https://github.com/wxwhhh/webshell_bypass
+
+---
+
+## deeznutz2176826/Post-exploits
+
+**关键字** Exploit
+
+**介绍:** With this u can post ur roblox scripts exploits
+
+**地址:** https://github.com/deeznutz2176826/Post-exploits
+
+---
+
+## TshentroTech/Anti-Exploit
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/TshentroTech/Anti-Exploit
 
 ---
 
@@ -196,6 +236,16 @@
 
 ---
 
+## mzerocode/gitlab-ssrf-exploit
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/mzerocode/gitlab-ssrf-exploit
+
+---
+
 ## skypipe4171/Unturned-Exploit
 
 **关键字** Exploit
@@ -213,6 +263,16 @@
 **介绍:** Lunar Executor is a tool for executing custom scripts within Roblox, providing users with the ability to exploit and modify game features.
 
 **地址:** https://github.com/craillers0/Luna-Executor
+
+---
+
+## xchel-rico/TDs_Systemes_Exploitation-
+
+**关键字** Exploit
+
+**介绍:** Ce github est pour la mise en place des TDs de mes cours d'OS
+
+**地址:** https://github.com/xchel-rico/TDs_Systemes_Exploitation-
 
 ---
 
@@ -2383,36 +2443,6 @@
 **介绍:** 网络安全实验或心得，基础知识，具体操作
 
 **地址:** https://github.com/xiaomao-wq/-
-
----
-
-## xiaomao-wq/feifei
-
-**关键字** 网络安全
-
-**介绍:** 网络安全实验或心得
-
-**地址:** https://github.com/xiaomao-wq/feifei
-
----
-
-## otaman21/win-exploit-binaries
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/otaman21/win-exploit-binaries
-
----
-
-## Panda-Z-Coding/Flight-management-system
-
-**关键字** 提权
-
-**介绍:** 本项目是一个基于Spring Boot和Vue.js的航班预订系统，采用前后端分离架构设计。根据角色的权限不同，系统为普通用户提供了航班查询、乘客管理和订单查询等功能，支持普通用户查询航班、预订机票、管理个人信息等操作。同时为管理员提供了航班管理、用户管理订单管理以及数据统计等功能，满足了管理员对后台数据的管理需求。
-
-**地址:** https://github.com/Panda-Z-Coding/Flight-management-system
 
 ---
 
