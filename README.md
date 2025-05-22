@@ -2396,24 +2396,4 @@
 
 ---
 
-## weird1826/hackopolis
-
-**关键字** CVE
-
-**介绍:** Hackopolis is a vulnerable web application which contains a wide range of vulnerabilities inspired from real-world reports, POCs and CVEs.
-
-**地址:** https://github.com/weird1826/hackopolis
-
----
-
-## matteoverzi/Rekall-Penetration-Test-Project
-
-**关键字** burp
-
-**介绍:** Simulated penetration test of a fictional company, Rekall Corp. Conducted vulnerability scanning, exploitation, and reporting using tools like Nmap, Burp Suite, and Metasploit. Authored detailed findings and remediation recommendations as part of the PhantomSec team.
-
-**地址:** https://github.com/matteoverzi/Rekall-Penetration-Test-Project
-
----
-
 
