@@ -2346,24 +2346,4 @@
 
 ---
 
-## joey-melo/CVEs
-
-**关键字** CVE
-
-**介绍:** CVEs published by Joey Melo
-
-**地址:** https://github.com/joey-melo/CVEs
-
----
-
-## ByteTheCookies/CookieFarmExploiter
-
-**关键字** Exploit
-
-**介绍:** Exploiter Python that collaborate with @CookieFarm Project
-
-**地址:** https://github.com/ByteTheCookies/CookieFarmExploiter
-
----
-
 
