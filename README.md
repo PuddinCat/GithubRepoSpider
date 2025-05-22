@@ -16,6 +16,26 @@
 
 ---
 
+## ayon0x0/AutoReplaceX
+
+**关键字** burp
+
+**介绍:** A Burp Suite extension for managing and replacing HTTP headers, cookies, and JWT tokens.
+
+**地址:** https://github.com/ayon0x0/AutoReplaceX
+
+---
+
+## mxnxxbhshjsswe/-Burp-Suite-Professional-2025.4.3-
+
+**关键字** burp
+
+**介绍:** None
+
+**地址:** https://github.com/mxnxxbhshjsswe/-Burp-Suite-Professional-2025.4.3-
+
+---
+
 ## Chr1sTo4F/cve_report
 
 **关键字** CVE
@@ -2443,26 +2463,6 @@
 **介绍:** Stealthy RCE exfiltration tool using .HTA (LOLBin) for encrypted data exfil over HTTPS. Self-destruct, recursive dir dumping, and in-memory execution.
 
 **地址:** https://github.com/Mattb709/RCE-Exfil-Tool
-
----
-
-## bunyaminbilenkaratas/binary-exploitation
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/bunyaminbilenkaratas/binary-exploitation
-
----
-
-## xiaomao-wq/-
-
-**关键字** 网络安全
-
-**介绍:** 网络安全实验或心得，基础知识，具体操作
-
-**地址:** https://github.com/xiaomao-wq/-
 
 ---
 
