@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## onastroll4408/XDefiant-Exploit
+
+**关键字** Exploit
+
+**介绍:** Exclusive Free XDefiant Cheats Download 2025 for Windows Users
+
+**地址:** https://github.com/onastroll4408/XDefiant-Exploit
+
+---
+
+## caiopyz/Paste-Exploit
+
+**关键字** Exploit
+
+**介绍:** codigo em JS que permite colar textos em redacoes no site Sala Do Futuro
+
+**地址:** https://github.com/caiopyz/Paste-Exploit
+
+---
+
 ## stonaderr/AppExploit-built
 
 **关键字** Exploit
@@ -2373,16 +2393,6 @@
 **介绍:** Vulnerabilidad NTLM (CVE-2025-24054) explotada para robo de hashes
 
 **地址:** https://github.com/moften/CVE-2025-24054
-
----
-
-## caffeinedoom/CVE-2021-38003
-
-**关键字** CVE
-
-**介绍:** Write Up & Exploitation For CVE-2021-38003
-
-**地址:** https://github.com/caffeinedoom/CVE-2021-38003
 
 ---
 
