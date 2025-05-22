@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## litsasuk/CVE-POC
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/litsasuk/CVE-POC
+
+---
+
 ## vanruin/Lbc-Exploit
 
 **关键字** Exploit
@@ -2353,36 +2363,6 @@
 **介绍:** None
 
 **地址:** https://github.com/Rickerd12/exploit-cve-2025-1974
-
----
-
-## qalvynn/CVE-2021-41773
-
-**关键字** CVE
-
-**介绍:** Proof of Concept for CVE-2021-41773: Apache path traversal exploit primarily used by Mirai botnets
-
-**地址:** https://github.com/qalvynn/CVE-2021-41773
-
----
-
-## Fv3R-Dizzy/burp
-
-**关键字** burp
-
-**介绍:** None
-
-**地址:** https://github.com/Fv3R-Dizzy/burp
-
----
-
-## santanamichigan/burp
-
-**关键字** burp
-
-**介绍:** None
-
-**地址:** https://github.com/santanamichigan/burp
 
 ---
 
