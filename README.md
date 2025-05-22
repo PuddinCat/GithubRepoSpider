@@ -2336,14 +2336,4 @@
 
 ---
 
-## chaimaegwwg/payload-encryptor-
-
-**关键字** shellcode
-
-**介绍:** C shellcode AES encryptor
-
-**地址:** https://github.com/chaimaegwwg/payload-encryptor-
-
----
-
 
