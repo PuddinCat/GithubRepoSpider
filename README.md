@@ -36,6 +36,16 @@
 
 ---
 
+## proohio/proohio-interpreter
+
+**关键字** RCE
+
+**介绍:** Luau bytecode interpreter for Luau forked https://github.com/rce-incorporated/Fiu
+
+**地址:** https://github.com/proohio/proohio-interpreter
+
+---
+
 ## onastroll4408/XDefiant-Exploit
 
 **关键字** Exploit
@@ -1406,6 +1416,26 @@
 
 ---
 
+## blue0x1/Remote-for-Windows-2024.15-RCE
+
+**关键字** RCE
+
+**介绍:** Remote for Windows 2024.15 - RCE Exploit
+
+**地址:** https://github.com/blue0x1/Remote-for-Windows-2024.15-RCE
+
+---
+
+## blue0x1/Remote-for-Windows-unauthenticated-rce
+
+**关键字** RCE
+
+**介绍:** The Remote for Windows helper service exposes unauthenticated RCE through the executeScript API endpoint. This allows SYSTEM-level command execution via crafted HTTP requests.
+
+**地址:** https://github.com/blue0x1/Remote-for-Windows-unauthenticated-rce
+
+---
+
 ## emmanueltb94/Edgar-Emmanuel-Tovar-B-rcenas
 
 **关键字** RCE
@@ -2383,16 +2413,6 @@
 **介绍:** Simulated penetration test of a fictional company, Rekall Corp. Conducted vulnerability scanning, exploitation, and reporting using tools like Nmap, Burp Suite, and Metasploit. Authored detailed findings and remediation recommendations as part of the PhantomSec team.
 
 **地址:** https://github.com/matteoverzi/Rekall-Penetration-Test-Project
-
----
-
-## shockingbonu/CVE-2024-4577-PHP-RCE
-
-**关键字** RCE
-
-**介绍:** PHP RCE PoC for CVE-2024-4577 written in bash, go, python and a nuclei template cve-2024-4577, pentest, php, poc, rce-exploit, redteam
-
-**地址:** https://github.com/shockingbonu/CVE-2024-4577-PHP-RCE
 
 ---
 
