@@ -26,6 +26,26 @@
 
 ---
 
+## animat-100qs/BF4-ExploitKit-wh
+
+**关键字** Exploit
+
+**介绍:** 2025 Windows BF4 Multiplayer Hack: Secure Download Now!🔥
+
+**地址:** https://github.com/animat-100qs/BF4-ExploitKit-wh
+
+---
+
+## AdityaBhatt3010/JWT-Authentication-Bypass-Exploiting-Unverified-Signature-for-Bug-Bounty
+
+**关键字** Exploit
+
+**介绍:** Exploit a critical JWT flaw to bypass authentication and gain admin access by tampering with an unsigned token payload.
+
+**地址:** https://github.com/AdityaBhatt3010/JWT-Authentication-Bypass-Exploiting-Unverified-Signature-for-Bug-Bounty
+
+---
+
 ## Saptaktdk/go-get-RCE
 
 **关键字** RCE
