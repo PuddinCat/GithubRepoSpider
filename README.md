@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## 9Insomnie/Cortin
+
+**关键字** 红队
+
+**介绍:** Cortin 是一款面向红队与安全研究人员设计的现代化 C2（Command and Control）平台，专注于隐蔽性与灵活性的完美结合。
+
+**地址:** https://github.com/9Insomnie/Cortin
+
+---
+
+## hackervegas001/burpsuite-latest-working-2025
+
+**关键字** burp
+
+**介绍:** Hi guys, in this repository, you will find the cracked version of Burp Suite Professional working properly.
+
+**地址:** https://github.com/hackervegas001/burpsuite-latest-working-2025
+
+---
+
 ## y7syeu/CVE
 
 **关键字** CVE
@@ -23,6 +43,16 @@
 **介绍:** None
 
 **地址:** https://github.com/ShenHao5201314/cve
+
+---
+
+## zzzzapi/ProactiveWeChatAI
+
+**关键字** 信息收集
+
+**介绍:** 🤖 主动型微信AI机器人 | 自主发起对话的智能聊天机器人  这是一个革命性的微信AI助手，核心特点是AI能主动发起对话而非仅被动回复。通过分析对话情境和用户行为，AI会在合适时机自主找话题聊天，创造真实自然的互动体验。  ✨ 三大核心功能： • 主动对话 - AI能自主判断何时发起交流，模拟真人聊天节奏 • 微信集成 - 完美对接微信，支持各类消息收发和社交功能 • AI大模型 - 通过zzzzapi.com调用先进语言模型，实现智能对话  🎭 附加功能：角色扮演系统让AI变身特定角色，创造独特的社交体验  🔍 场景应用：个人助理、情感陪伴、社交练习、客服自动化、教育辅导
+
+**地址:** https://github.com/zzzzapi/ProactiveWeChatAI
 
 ---
 
@@ -2463,36 +2493,6 @@
 **介绍:** None
 
 **地址:** https://github.com/apple-star18/sushiswap-exploit
-
----
-
-## CXeon/traefik_support
-
-**关键字** 护网
-
-**介绍:** 一个traefik网关支持服务，用于配置和维护dashboard和公共中间件
-
-**地址:** https://github.com/CXeon/traefik_support
-
----
-
-## HalfRain/NFCBridge
-
-**关键字** 网络安全
-
-**介绍:** NFC Bridge是一个创新的Android应用系统,实现了银行卡信息的无线读取、传输与模拟功能。该系统由两个主要组件构成:读卡端和模拟端,通过网络连接实现数据的安全传输。
-
-**地址:** https://github.com/HalfRain/NFCBridge
-
----
-
-## honestcorrupt/SQL-Injection-in-John-XXIII-College-Website-gallary.php-
-
-**关键字** CVE
-
-**介绍:** This repo is made for CVE requets and POC
-
-**地址:** https://github.com/honestcorrupt/SQL-Injection-in-John-XXIII-College-Website-gallary.php-
 
 ---
 
