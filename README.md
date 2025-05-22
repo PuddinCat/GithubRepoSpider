@@ -2386,14 +2386,4 @@
 
 ---
 
-## heAdz0r/toron_cvetochek_rupert
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/heAdz0r/toron_cvetochek_rupert
-
----
-
 
