@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## Riya7113/cvent
+
+**关键字** CVE
+
+**介绍:** this is the html test given 
+
+**地址:** https://github.com/Riya7113/cvent
+
+---
+
 ## 9Insomnie/Cortin
 
 **关键字** 红队
@@ -543,6 +553,16 @@
 **介绍:** None
 
 **地址:** https://github.com/pouriam23/CVE-2024-12583-
+
+---
+
+## DarkLovic/BlackBurnt
+
+**关键字** Exploit
+
+**介绍:** Exploits Framework 
+
+**地址:** https://github.com/DarkLovic/BlackBurnt
 
 ---
 
@@ -2463,36 +2483,6 @@
 **介绍:** CVE-2025-29813 – Visual Studio Privilege Escalation via Improper Pipeline Job Token Handling
 
 **地址:** https://github.com/Sratet/CVE-2025-29813-PE
-
----
-
-## reyzee0/rce-virtualize
-
-**关键字** RCE
-
-**介绍:** None
-
-**地址:** https://github.com/reyzee0/rce-virtualize
-
----
-
-## reyzee0/Rce-virtualize
-
-**关键字** RCE
-
-**介绍:** None
-
-**地址:** https://github.com/reyzee0/Rce-virtualize
-
----
-
-## apple-star18/sushiswap-exploit
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/apple-star18/sushiswap-exploit
 
 ---
 
