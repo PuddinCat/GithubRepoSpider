@@ -6,6 +6,36 @@
 
 ## 最新仓库
 
+## harish0x/CVE-2025-44108-SXSS
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/harish0x/CVE-2025-44108-SXSS
+
+---
+
+## l8BL/phpshell
+
+**关键字** RCE
+
+**介绍:** RCE test thru git clone
+
+**地址:** https://github.com/l8BL/phpshell
+
+---
+
+## mugh33ra/Reverse-Shells
+
+**关键字** RCE
+
+**介绍:** PHP Reverse Shells for RCE
+
+**地址:** https://github.com/mugh33ra/Reverse-Shells
+
+---
+
 ## dreamer-7744/RCEOC
 
 **关键字** RCE
@@ -53,6 +83,16 @@
 **介绍:** None
 
 **地址:** https://github.com/kitasahauser63/Burp-Suite-Professional-2025.4.3-Version
+
+---
+
+## Jester1010101/ZeroDaysExploit
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/Jester1010101/ZeroDaysExploit
 
 ---
 
@@ -313,6 +353,16 @@
 **介绍:** Ce github est pour la mise en place des TDs de mes cours d'OS
 
 **地址:** https://github.com/xchel-rico/TDs_Systemes_Exploitation-
+
+---
+
+## nevcat8834/Rainbow6-Exploit
+
+**关键字** Exploit
+
+**介绍:** New Rainbow Six Siege Cheat Download 2025 for Windows – Enhance Gameplay Now
+
+**地址:** https://github.com/nevcat8834/Rainbow6-Exploit
 
 ---
 
