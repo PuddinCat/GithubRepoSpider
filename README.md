@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## vanruin/Lbc-Exploit
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/vanruin/Lbc-Exploit
+
+---
+
 ## kkive/cve
 
 **关键字** CVE
@@ -2463,16 +2473,6 @@
 **介绍:** None
 
 **地址:** https://github.com/Malakaidaniel/exploits
-
----
-
-## sm0k3net/www-exploit-by
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/sm0k3net/www-exploit-by
 
 ---
 
