@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## kkive/cve
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/kkive/cve
+
+---
+
 ## Robert18RJ/Burp_suite_vs_Caido
 
 **关键字** burp
@@ -13,6 +23,36 @@
 **介绍:** None
 
 **地址:** https://github.com/Robert18RJ/Burp_suite_vs_Caido
+
+---
+
+## honestcorrupt/-CVE-Submission-CampCodes-Project-Management-System---Hardcoded-Credentials-Information-Disclosure
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/honestcorrupt/-CVE-Submission-CampCodes-Project-Management-System---Hardcoded-Credentials-Information-Disclosure
+
+---
+
+## Logan-codes-21/cve_to_attack_mapping_dissertation_project
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/Logan-codes-21/cve_to_attack_mapping_dissertation_project
+
+---
+
+## IronmanJay/CVECrawler
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/IronmanJay/CVECrawler
 
 ---
 
@@ -2433,16 +2473,6 @@
 **介绍:** None
 
 **地址:** https://github.com/sm0k3net/www-exploit-by
-
----
-
-## HWeiney/EnterpriseAttendenceManagementSystem
-
-**关键字** 权限提升
-
-**介绍:** 本系统涵盖丰富功能模块，考勤模块，企业员工可人脸识别签到，拥有三个用户的考勤统计图表；请假模块，员工提交申请，部门经理线上审批；系统管理模块，管理员管理用户、角色与权限。考勤统计方式多样，技术架构先进，后端用 MySQL、SpringBoot 等，前端基于 Vue、ElementUI 等。系统功能完善，极大提升企业考勤管理效率，助力企业管理迈向新高度。
-
-**地址:** https://github.com/HWeiney/EnterpriseAttendenceManagementSystem
 
 ---
 
