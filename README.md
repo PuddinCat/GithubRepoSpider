@@ -6,6 +6,36 @@
 
 ## 最新仓库
 
+## aur4sh/webshell-php
+
+**关键字** webshell
+
+**介绍:** webshell simples em PHP para leitura e listagem de arquivos no servidor via navegador
+
+**地址:** https://github.com/aur4sh/webshell-php
+
+---
+
+## grandpa94tage/Zenless-Exploit
+
+**关键字** Exploit
+
+**介绍:** Zenless Zone Zero Mod Hack: Safe Download for Windows in 2025🚀
+
+**地址:** https://github.com/grandpa94tage/Zenless-Exploit
+
+---
+
+## dulmaranbomjvatake/Palworld-Exploit
+
+**关键字** Exploit
+
+**介绍:** Get Free Palworld Mod Hacks Download for Windows Now: 2025 Update🌟
+
+**地址:** https://github.com/dulmaranbomjvatake/Palworld-Exploit
+
+---
+
 ## onastroll4408/XDefiant-Exploit
 
 **关键字** Exploit
@@ -2363,36 +2393,6 @@
 **介绍:** PHP RCE PoC for CVE-2024-4577 written in bash, go, python and a nuclei template cve-2024-4577, pentest, php, poc, rce-exploit, redteam
 
 **地址:** https://github.com/shockingbonu/CVE-2024-4577-PHP-RCE
-
----
-
-## Paulinhx/aegisflow
-
-**关键字** CVE
-
-**介绍:** AegisFlow is a threat-aware CI/CD pipeline that integrates real-time threat intelligence (AlienVault OTX), MITRE ATT&CK-based static analysis, and SBOM-driven CVE detection to automate secure software delivery.
-
-**地址:** https://github.com/Paulinhx/aegisflow
-
----
-
-## PathogenicKatt/PWN-Lab
-
-**关键字** Exploit
-
-**介绍:** Binary Exploitation playground
-
-**地址:** https://github.com/PathogenicKatt/PWN-Lab
-
----
-
-## moften/CVE-2025-24054
-
-**关键字** CVE
-
-**介绍:** Vulnerabilidad NTLM (CVE-2025-24054) explotada para robo de hashes
-
-**地址:** https://github.com/moften/CVE-2025-24054
 
 ---
 
