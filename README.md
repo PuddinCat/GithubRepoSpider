@@ -6,6 +6,66 @@
 
 ## 最新仓库
 
+## ridpath/talon
+
+**关键字** shellcode
+
+**介绍:** A red team–oriented scripting language for exploits, shellcode, fuzzing, and reverse engineering.
+
+**地址:** https://github.com/ridpath/talon
+
+---
+
+## hsmtskmw/hsm-4fik
+
+**关键字** 免杀
+
+**介绍:** 海杀免费加速器下载
+
+**地址:** https://github.com/hsmtskmw/hsm-4fik
+
+---
+
+## xplitter/CVE-2025-46801
+
+**关键字** CVE
+
+**介绍:** CVE-2025-46801 – Pgpool-II Authentication Bypass PoC
+
+**地址:** https://github.com/xplitter/CVE-2025-46801
+
+---
+
+## waheed-sep/cve-dashboard
+
+**关键字** CVE
+
+**介绍:** CVE Dashboard
+
+**地址:** https://github.com/waheed-sep/cve-dashboard
+
+---
+
+## kosmickaiju/cve-extension
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/kosmickaiju/cve-extension
+
+---
+
+## galletitaconpate/CVE-2025-24799
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/galletitaconpate/CVE-2025-24799
+
+---
+
 ## aur4sh/webshell-php
 
 **关键字** webshell
@@ -46,6 +106,26 @@
 
 ---
 
+## LineBergeron/recevoir-cve
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/LineBergeron/recevoir-cve
+
+---
+
+## karateboss/mcp_cve
+
+**关键字** CVE
+
+**介绍:** MCP for CVE database
+
+**地址:** https://github.com/karateboss/mcp_cve
+
+---
+
 ## onastroll4408/XDefiant-Exploit
 
 **关键字** Exploit
@@ -63,6 +143,16 @@
 **介绍:** codigo em JS que permite colar textos em redacoes no site Sala Do Futuro
 
 **地址:** https://github.com/caiopyz/Paste-Exploit
+
+---
+
+## slskopytko/cvekkeasax
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/slskopytko/cvekkeasax
 
 ---
 
@@ -96,6 +186,16 @@
 
 ---
 
+## jason-adams-eng/cve_search
+
+**关键字** CVE
+
+**介绍:** MSRC CVE Lookup Script
+
+**地址:** https://github.com/jason-adams-eng/cve_search
+
+---
+
 ## elnerd/tunnel
 
 **关键字** webshell
@@ -113,6 +213,16 @@
 **介绍:** 中文IT技术YouTube博主信息收集
 
 **地址:** https://github.com/Joseph19820124/json-20250523
+
+---
+
+## thierrybraga/open-cve-report
+
+**关键字** CVE
+
+**介绍:** A  tool to support IT and SI team management vulnerabilities
+
+**地址:** https://github.com/thierrybraga/open-cve-report
 
 ---
 
@@ -136,6 +246,16 @@
 
 ---
 
+## ethantrantalis/cve_database
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/ethantrantalis/cve_database
+
+---
+
 ## Matty1234321/TrackerExploit
 
 **关键字** Exploit
@@ -153,6 +273,26 @@
 **介绍:** This repository offers practical tools and scripts to enhance your use of Adobe Acrobat. Explore features like PDF manipulation and form creation to streamline your workflow. 🛠️📄
 
 **地址:** https://github.com/Faroukcr7/Adobe-Acrobat
+
+---
+
+## NightBloodz/CVE-2025-4123
+
+**关键字** CVE
+
+**介绍:** Script to exploit Grafana CVE-2025-4123: XSS and Full-Read SSRF
+
+**地址:** https://github.com/NightBloodz/CVE-2025-4123
+
+---
+
+## Yucaerin/CVE-2025-4322
+
+**关键字** CVE
+
+**介绍:** Motors <= 5.6.67 - Unauthenticated Privilege Escalation via Password Update/Account Takeover
+
+**地址:** https://github.com/Yucaerin/CVE-2025-4322
 
 ---
 
@@ -2323,36 +2463,6 @@
 **介绍:** This repo exists as a personal project for me to learn more about exploit development but also contribute to the wider community. Many PoCs avaliable on places like exploitdb and other websites often are written in outdated python2 or obscure langauges or borderline barley work.
 
 **地址:** https://github.com/ThatTotallyRealMyth/Exploits-CVEs
-
----
-
-## CarlosSapien03/CVExtra
-
-**关键字** CVE
-
-**介绍:** Curriculum Vitae para la materia de tópicos.
-
-**地址:** https://github.com/CarlosSapien03/CVExtra
-
----
-
-## alvieg/Web-exploit
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/alvieg/Web-exploit
-
----
-
-## 3nvz/cvegrep
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/3nvz/cvegrep
 
 ---
 
