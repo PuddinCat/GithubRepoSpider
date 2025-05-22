@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## Robert18RJ/Burp_suite_vs_Caido
+
+**关键字** burp
+
+**介绍:** None
+
+**地址:** https://github.com/Robert18RJ/Burp_suite_vs_Caido
+
+---
+
 ## SeanHeelan/o3_finds_cve-2025-37899
 
 **关键字** CVE
@@ -1616,6 +1626,16 @@
 
 ---
 
+## SecurityProgram/exploitability_analysis
+
+**关键字** Exploit
+
+**介绍:** exploitability_analysis
+
+**地址:** https://github.com/SecurityProgram/exploitability_analysis
+
+---
+
 ## Totunm/CVE-2025-4918
 
 **关键字** CVE
@@ -2423,86 +2443,6 @@
 **介绍:** 本系统涵盖丰富功能模块，考勤模块，企业员工可人脸识别签到，拥有三个用户的考勤统计图表；请假模块，员工提交申请，部门经理线上审批；系统管理模块，管理员管理用户、角色与权限。考勤统计方式多样，技术架构先进，后端用 MySQL、SpringBoot 等，前端基于 Vue、ElementUI 等。系统功能完善，极大提升企业考勤管理效率，助力企业管理迈向新高度。
 
 **地址:** https://github.com/HWeiney/EnterpriseAttendenceManagementSystem
-
----
-
-## ddddhm1234/clash-verge-rce
-
-**关键字** RCE
-
-**介绍:** None
-
-**地址:** https://github.com/ddddhm1234/clash-verge-rce
-
----
-
-## mikey2x2/Xworm-Reverse-shell-rce-
-
-**关键字** RCE
-
-**介绍:** 💻 Usage Guide Run the tool  Enter:  Xworm Key (from victim's client)  Target IP (your server IP)  Port (your listening port)  Payload URL (direct EXE/BAT download link)  When victim runs Xworm:  Your payload silently installs  RDP crashes (mstsc.exe killed)  You get full access
-
-**地址:** https://github.com/mikey2x2/Xworm-Reverse-shell-rce-
-
----
-
-## sbgumen/authorization-system
-
-**关键字** 提权
-
-**介绍:** 一个完整的授权码管理系统，支持多应用授权管理，用户授权验证，提供REST API供应用集成。
-
-**地址:** https://github.com/sbgumen/authorization-system
-
----
-
-## javiifu/dep-checker-bot
-
-**关键字** CVE
-
-**介绍:** A Python tool that analyzes dependency files (requirements.txt, pyproject.toml) to detect:      📦 Outdated dependencies      ⚠️ Known vulnerabilities (CVEs)      📄 Potentially problematic licenses  Integrates tools like pip-audit, safety, liccheck, and the GitHub API.
-
-**地址:** https://github.com/javiifu/dep-checker-bot
-
----
-
-## GY730/sichuan-app
-
-**关键字** 护网
-
-**介绍:** 非遗四川app，利用Android Studio工具设计并实现了一款专注于四川非物质 文化遗产的App。主要功能包括用户登录注册、侧滑菜单导航、首页资讯展示、名录查 询、词典查阅等。通过爬取非物质文化遗产保护中心网页数据，为用户提供了丰富的非 遗资讯和查询服务。
-
-**地址:** https://github.com/GY730/sichuan-app
-
----
-
-## Wi1L-Y/ppoc_cve_new
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/Wi1L-Y/ppoc_cve_new
-
----
-
-## RPL-Toolchain/rpl-book
-
-**关键字** CVE
-
-**介绍:** The RPL book.
-
-**地址:** https://github.com/RPL-Toolchain/rpl-book
-
----
-
-## ws6661/phishing_detector
-
-**关键字** 护网
-
-**介绍:** 银发卫士 - 老年人网络安全守护者
-
-**地址:** https://github.com/ws6661/phishing_detector
 
 ---
 
