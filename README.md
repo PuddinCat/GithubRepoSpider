@@ -6,6 +6,56 @@
 
 ## 最新仓库
 
+## dovkanner/kernel-exploit
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/dovkanner/kernel-exploit
+
+---
+
+## Joseph19820124/json-20250523
+
+**关键字** 信息收集
+
+**介绍:** 中文IT技术YouTube博主信息收集
+
+**地址:** https://github.com/Joseph19820124/json-20250523
+
+---
+
+## freak5243/Mordhau-Exploit
+
+**关键字** Exploit
+
+**介绍:** Top Mordhau Hacks for Download in 2025 on Windows – Updated Version! 🚀
+
+**地址:** https://github.com/freak5243/Mordhau-Exploit
+
+---
+
+## GlitchHunter1/StreamIO-HTB-Write-up
+
+**关键字** Exploit
+
+**介绍:** StreamIO is a Windows-based Active Directory lab on Hack The Box that showcases a full-stack exploitation chain combining web exploitation, SQL injection, LFI, RFI, reverse shell delivery, post-exploitation enumeration, and domain privilege escalation using ACL abuse and LAPS extraction.
+
+**地址:** https://github.com/GlitchHunter1/StreamIO-HTB-Write-up
+
+---
+
+## Matty1234321/TrackerExploit
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/Matty1234321/TrackerExploit
+
+---
+
 ## Faroukcr7/Adobe-Acrobat
 
 **关键字** RCE
@@ -2323,16 +2373,6 @@
 **介绍:** None
 
 **地址:** https://github.com/HExploited/CVE-2025-4919-Exploit
-
----
-
-## TW-D/CrEF
-
-**关键字** Exploit
-
-**介绍:** CrEF - Chromium Exploitation Framework
-
-**地址:** https://github.com/TW-D/CrEF
 
 ---
 
