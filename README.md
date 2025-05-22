@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## undefined-name12/SSTI-map-exploitation
+
+**关键字** Exploit
+
+**介绍:** Herramienta de detección automática de SSTI con interfaz interactiva
+
+**地址:** https://github.com/undefined-name12/SSTI-map-exploitation
+
+---
+
 ## litsasuk/CVE-POC
 
 **关键字** CVE
@@ -183,6 +193,16 @@
 **介绍:** 🤖 主动型微信AI机器人 | 自主发起对话的智能聊天机器人  这是一个革命性的微信AI助手，核心特点是AI能主动发起对话而非仅被动回复。通过分析对话情境和用户行为，AI会在合适时机自主找话题聊天，创造真实自然的互动体验。  ✨ 三大核心功能： • 主动对话 - AI能自主判断何时发起交流，模拟真人聊天节奏 • 微信集成 - 完美对接微信，支持各类消息收发和社交功能 • AI大模型 - 通过zzzzapi.com调用先进语言模型，实现智能对话  🎭 附加功能：角色扮演系统让AI变身特定角色，创造独特的社交体验  🔍 场景应用：个人助理、情感陪伴、社交练习、客服自动化、教育辅导
 
 **地址:** https://github.com/zzzzapi/ProactiveWeChatAI
+
+---
+
+## zzzzapi/WeChat-AI-Bot
+
+**关键字** 信息收集
+
+**介绍:** 🤖 主动型微信AI机器人 | 自主发起对话的智能聊天机器人  这是一个革命性的微信AI助手，核心特点是AI能主动发起对话而非仅被动回复。通过分析对话情境和用户行为，AI会在合适时机自主找话题聊天，创造真实自然的互动体验。  ✨ 三大核心功能： • 主动对话 - AI能自主判断何时发起交流，模拟真人聊天节奏 • 微信集成 - 完美对接微信，支持各类消息收发和社交功能 • AI大模型 - 通过zzzzapi.com调用先进语言模型，实现智能对话  🎭 附加功能：角色扮演系统让AI变身特定角色，创造独特的社交体验  🔍 场景应用：个人助理、情感陪伴、社交练习、客服自动化、教育辅导
+
+**地址:** https://github.com/zzzzapi/WeChat-AI-Bot
 
 ---
 
@@ -2333,36 +2353,6 @@
 **介绍:** None
 
 **地址:** https://github.com/markdrzy/exploit-tests
-
----
-
-## Vladimirlevin1189/Web_exploit
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/Vladimirlevin1189/Web_exploit
-
----
-
-## Housma/CVE-2019-9978-Social-Warfare-WordPress-Plugin-RCE
-
-**关键字** CVE
-
-**介绍:** The `swp_debug` parameter in `admin-post.php` allows remote attackers to include external files containing malicious PHP code, which are evaluated on the server. By supplying a crafted URL that hosts a reverse shell payload, an attacker can gain command execution.
-
-**地址:** https://github.com/Housma/CVE-2019-9978-Social-Warfare-WordPress-Plugin-RCE
-
----
-
-## Rickerd12/exploit-cve-2025-1974
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/Rickerd12/exploit-cve-2025-1974
 
 ---
 
