@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## lucifer1986-max/AI-News-Aggregator
+
+**关键字** 信息收集
+
+**介绍:** AI News Aggregator 是一个用于自动收集和整理全球最新热门AI内容的应用程序。该项目从多个来源（如 arXiv、GitHub、科技网站等）抓取最新的AI新闻，并提供翻译和总结功能，方便用户获取最新信息。
+
+**地址:** https://github.com/lucifer1986-max/AI-News-Aggregator
+
+---
+
 ## encrypter15/CVE-2025-30400
 
 **关键字** CVE
@@ -2723,66 +2733,6 @@
 **介绍:** 亲情是渗透在生活里的背景音。离家后才懂得妈妈唠叨里的配方，爸爸沉默中的温度。那些曾经想逃离的日常，后来都成了最奢侈的想念。
 
 **地址:** https://github.com/gaoqi9/64
-
----
-
-## ratnaker-gautam/cvefixessssssss
-
-**关键字** CVE
-
-**介绍:** afjnasjfnsajkfnjkafn
-
-**地址:** https://github.com/ratnaker-gautam/cvefixessssssss
-
----
-
-## ratnaker-gautam/cvefixes_file__level
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/ratnaker-gautam/cvefixes_file__level
-
----
-
-## hmode1122/ps4-exploit
-
-**关键字** Exploit
-
-**介绍:** ps4-exploit
-
-**地址:** https://github.com/hmode1122/ps4-exploit
-
----
-
-## ghxiao208/gh.verygood19.icu
-
-**关键字** 提权
-
-**介绍:** 极易机房直营店欢迎您访问本站，本站是机房直营，百分百一手，八年行业信誉，平台提供24小时自动发号，欢迎各大号商对接。 1. 请不要用作任何违法途径，或者用作不法犯罪活动，本站只有义务出售，但无法行使使用权，您拥有使用权以后，请您合法利用，切勿游走法律边缘！ 2. 本站所出售的账号主要用于游戏等合法用途。 3. 凡在本站购买的用户，一旦本站发现用于非法用途，本站将全力配合有关部门予以打击！ 4. 本人因在国外，所以按照北京时间每天早上8点左右补货，不要催！！ 5. 所有账号包售前违规，订单问题联系左边在线客服，提供订单号和问题，收到消息会第一时间回复，没回复就是在忙，不要催，一定会给您满意处理。
-
-**地址:** https://github.com/ghxiao208/gh.verygood19.icu
-
----
-
-## AdityaBhatt3010/Field-Enumeration-to-Full-Account-Takeover-with-NoSQL-Injection
-
-**关键字** Exploit
-
-**介绍:** Exploited a NoSQL injection flaw to enumerate hidden fields and extract a valid password reset token, leading to a seamless account takeover.
-
-**地址:** https://github.com/AdityaBhatt3010/Field-Enumeration-to-Full-Account-Takeover-with-NoSQL-Injection
-
----
-
-## shriya08903/agentless-windows-vulnerability-scanner
-
-**关键字** CVE
-
-**介绍:** A Python-based agentless scanner to detect vulnerabilities in Windows systems using WinRM, Nmap, and CVE lookups.
-
-**地址:** https://github.com/shriya08903/agentless-windows-vulnerability-scanner
 
 ---
 
