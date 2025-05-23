@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## encrypter15/CVE-2025-30400
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/encrypter15/CVE-2025-30400
+
+---
+
+## stridentivory/goframe-admin
+
+**关键字** 提权
+
+**介绍:** 基于 goframe2 和vue3 开发的全栈前后端分离的后台管理系统，集成gtoken鉴权，casbin鉴权，动态路由，动态菜单等功能，提供多种常用场景文件，让您把更多时间专注在业务开发上 go-admin, goframe, goframe-admin, pinia, tdesign-vue-next, vue3
+
+**地址:** https://github.com/stridentivory/goframe-admin
+
+---
+
 ## ionchad/StealthLoader
 
 **关键字** shellcode
@@ -1653,6 +1673,16 @@
 **介绍:** New Rainbow Six Siege Cheat Download 2025 for Windows – Enhance Gameplay Now
 
 **地址:** https://github.com/nevcat8834/Rainbow6-Exploit
+
+---
+
+## d0n601/CVE-2025-5058
+
+**关键字** CVE
+
+**介绍:** eMagicOne Store Manager for WooCommerce <= 1.2.5 - Unauthenticated Arbitrary File Upload via set_image Task
+
+**地址:** https://github.com/d0n601/CVE-2025-5058
 
 ---
 
