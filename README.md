@@ -16,6 +16,16 @@
 
 ---
 
+## k0ns0l/cve-research
+
+**关键字** CVE
+
+**介绍:** Learning resource for public CVE/GHSA
+
+**地址:** https://github.com/k0ns0l/cve-research
+
+---
+
 ## encrypter15/CVE-2025-30400
 
 **关键字** CVE
