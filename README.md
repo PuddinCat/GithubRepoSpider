@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## dact91/CVE-2019-25137-RCE
+
+**关键字** RCE
+
+**介绍:** CVE-2019-25137 is an Umbraco RCE vulnerability, the script within this repo is slightly altered
+
+**地址:** https://github.com/dact91/CVE-2019-25137-RCE
+
+---
+
 ## pouriam23/wordpress-CVE
 
 **关键字** CVE
@@ -2593,56 +2603,6 @@
 **介绍:** Burpsuite extensions
 
 **地址:** https://github.com/pwnpalace/burpsuite
-
----
-
-## skech9002/Axie-Exploit-Code
-
-**关键字** Exploit
-
-**介绍:** Free Axie Infinity Exploit: Secure Windows Download 2025 Now! 🔒
-
-**地址:** https://github.com/skech9002/Axie-Exploit-Code
-
----
-
-## elkkoresh1/XDefiant-Exploit
-
-**关键字** Exploit
-
-**介绍:** Download Free XDefiant Hack 2025 for Windows:Safe&Easy Guide🚀
-
-**地址:** https://github.com/elkkoresh1/XDefiant-Exploit
-
----
-
-## inkeyneobxodim/OW2-Exploit-Guide
-
-**关键字** Exploit
-
-**介绍:** Top OW2 Mods 2025: Simple Hack Download for Windows Gamers Today🔧
-
-**地址:** https://github.com/inkeyneobxodim/OW2-Exploit-Guide
-
----
-
-## akiraqwenty38/Dayz-Exploit-Pro
-
-**关键字** Exploit
-
-**介绍:** Top Dayz Mods and Hacks: Windows Download 2025 Edition 🌟
-
-**地址:** https://github.com/akiraqwenty38/Dayz-Exploit-Pro
-
----
-
-## gutsyheart3044/Vault76-Exploit
-
-**关键字** Exploit
-
-**介绍:** 2025 Fallout 76 Hack Free Download: Best Windows Tools and Cheats 🔥
-
-**地址:** https://github.com/gutsyheart3044/Vault76-Exploit
 
 ---
 
