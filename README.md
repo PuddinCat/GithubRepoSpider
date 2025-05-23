@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## taielab/ClearFeather
+
+**关键字** 网络安全
+
+**介绍:** 清羽(ClearFeather)是一款专为网络安全攻防演练设计的资产智能清洗与分类工具。它能够自动化处理攻防演练中的各类资产数据，包括IP、域名、URL等，通过结合DeepSeek API的大语言模型能力和精准的正则表达式处理，实现资产的高效识别、分类与整理。
+
+**地址:** https://github.com/taielab/ClearFeather
+
+---
+
 ## Mr-Un1k0d3r/DotnetNoVirtualProtectShellcodeLoader
 
 **关键字** shellcode
@@ -123,6 +133,16 @@
 **介绍:** CVE Dashboard
 
 **地址:** https://github.com/waheed-sep/cve-dashboard
+
+---
+
+## aprusek/EDAX_BURP
+
+**关键字** burp
+
+**介绍:** Data General Nova EDAX Burp Binaries
+
+**地址:** https://github.com/aprusek/EDAX_BURP
 
 ---
 
