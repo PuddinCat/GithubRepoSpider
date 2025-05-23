@@ -6,6 +6,46 @@
 
 ## 最新仓库
 
+## gxu-yuan/Webshell-back
+
+**关键字** webshell
+
+**介绍:** None
+
+**地址:** https://github.com/gxu-yuan/Webshell-back
+
+---
+
+## Eros-Adrian-Figueroa-Cortes/CVE-2023-48795
+
+**关键字** CVE
+
+**介绍:** Python tool to identify SSH servers potentially vulnerable to CVE-2023-48795 (Terrapin) by analyzing OpenSSH version banners via netcat. Useful for internal audits, penetration testing, and vulnerability assessments.
+
+**地址:** https://github.com/Eros-Adrian-Figueroa-Cortes/CVE-2023-48795
+
+---
+
+## Eros-Adrian-Figueroa-Cortes/CVE-2023-48795-
+
+**关键字** CVE
+
+**介绍:** Python tool to identify SSH servers potentially vulnerable to CVE-2023-48795 (Terrapin) by analyzing OpenSSH version banners via netcat. Useful for internal audits, penetration testing, and vulnerability assessments.
+
+**地址:** https://github.com/Eros-Adrian-Figueroa-Cortes/CVE-2023-48795-
+
+---
+
+## KaviDJ02/RCE-System
+
+**关键字** RCE
+
+**介绍:** None
+
+**地址:** https://github.com/KaviDJ02/RCE-System
+
+---
+
 ## acaaaangooo/Webshell
 
 **关键字** webshell
@@ -2593,46 +2633,6 @@
 **介绍:** Some CVEs I had Found in the Internet
 
 **地址:** https://github.com/Jacob-z691/CVE
-
----
-
-## proton4377/xworm-rce
-
-**关键字** RCE
-
-**介绍:** Allows execution of Powershell scripts and files on a XWorm C2. aka remote code execution on XWorm
-
-**地址:** https://github.com/proton4377/xworm-rce
-
----
-
-## gcfdeptq/gcf-ywt
-
-**关键字** 免杀
-
-**介绍:** 鸦杀免费加速器下载
-
-**地址:** https://github.com/gcfdeptq/gcf-ywt
-
----
-
-## p3test/kyocera-exploit-snmp
-
-**关键字** Exploit
-
-**介绍:** Exploit allows extracting accounts from the address book of some Kyocera MFPs via SNMP protocol
-
-**地址:** https://github.com/p3test/kyocera-exploit-snmp
-
----
-
-## vpxuser/flink-memshell
-
-**关键字** 注入
-
-**介绍:** apache flink 132和190版本内存码注入工具
-
-**地址:** https://github.com/vpxuser/flink-memshell
 
 ---
 
