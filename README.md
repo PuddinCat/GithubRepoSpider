@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## artlinecreations/webshell_bypass
+
+**关键字** webshell
+
+**介绍:** # webshell_bypassThis tool generates webshells that bypass security measures with ease. It currently supports PHP and will expand to other languages soon. 🛠️✨
+
+**地址:** https://github.com/artlinecreations/webshell_bypass
+
+---
+
 ## dact91/CVE-2019-25137-RCE
 
 **关键字** RCE
