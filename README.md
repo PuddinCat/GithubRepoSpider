@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## denclint86/cmd-android
+
+**关键字** 提权
+
+**介绍:** 基于 Kotlin 协程的 Android Shell 命令执行库，支持 User、Shizuku 和 Root 三种权限的命令行调用，提供统一易用的挂起式 API
+
+**地址:** https://github.com/denclint86/cmd-android
+
+---
+
+## pouriam23/CVE-2016-5180
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/pouriam23/CVE-2016-5180
+
+---
+
 ## marjinal06/Exploitler
 
 **关键字** Exploit
