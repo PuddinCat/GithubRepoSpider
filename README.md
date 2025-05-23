@@ -2686,24 +2686,4 @@
 
 ---
 
-## heartbreaker-2000/Defiant-Exploit-i1
-
-**关键字** Exploit
-
-**介绍:** Download XDefiant Hack 2025 for Windows – Ultimate Aimbot and Cheats
-
-**地址:** https://github.com/heartbreaker-2000/Defiant-Exploit-i1
-
----
-
-## ahmedgomaaa/SQLMapGUI-BurpExtension-Windows
-
-**关键字** burp
-
-**介绍:** None
-
-**地址:** https://github.com/ahmedgomaaa/SQLMapGUI-BurpExtension-Windows
-
----
-
 
