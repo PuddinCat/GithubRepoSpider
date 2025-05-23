@@ -46,6 +46,16 @@
 
 ---
 
+## BACMiao/PoC-MiniAGI-RCE
+
+**关键字** RCE
+
+**介绍:** None
+
+**地址:** https://github.com/BACMiao/PoC-MiniAGI-RCE
+
+---
+
 ## AdityaBhatt3010/JWT-Authentication-Bypass-via-kid-Header-Path-Traversal-A-Sneaky-Admin-Takeover
 
 **关键字** Exploit
@@ -2633,16 +2643,6 @@
 **介绍:** classroom12cversion2-dijkstra-two-stack-calculator-Dijkstra2StackTemplate created by GitHub Classroom
 
 **地址:** https://github.com/Computer-Science-and-Maths-KS3-To-KS5/classroom12cversion2-dijkstra-two-stack-calculator-Dijkstra2StackTemplate
-
----
-
-## Zedeldi/CVE-2025-47827
-
-**关键字** CVE
-
-**介绍:** PoC and vulnerability report for CVE-2025-47827.
-
-**地址:** https://github.com/Zedeldi/CVE-2025-47827
 
 ---
 
