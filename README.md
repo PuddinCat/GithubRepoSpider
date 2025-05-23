@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## jtkpd6qe/jtk-c3x3
+
+**关键字** 免杀
+
+**介绍:** 鸦杀免费加速器下载
+
+**地址:** https://github.com/jtkpd6qe/jtk-c3x3
+
+---
+
 ## ridpath/talon
 
 **关键字** shellcode
@@ -2453,16 +2463,6 @@
 **介绍:** Multi-agent LLM threat modeling framework using MAESTRO and OWASP COMPASS, with modular agents for security risk analysis, CVE mapping, and remediation recommendations.
 
 **地址:** https://github.com/emmanuelgjr/llm-threat-modeling-agents
-
----
-
-## ThatTotallyRealMyth/Exploits-CVEs
-
-**关键字** CVE
-
-**介绍:** This repo exists as a personal project for me to learn more about exploit development but also contribute to the wider community. Many PoCs avaliable on places like exploitdb and other websites often are written in outdated python2 or obscure langauges or borderline barley work.
-
-**地址:** https://github.com/ThatTotallyRealMyth/Exploits-CVEs
 
 ---
 
