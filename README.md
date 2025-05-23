@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## yatooimh/DeepExploitor
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/yatooimh/DeepExploitor
+
+---
+
+## sanek419/SheetExploit
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/sanek419/SheetExploit
+
+---
+
 ## denclint86/cmd-android
 
 **关键字** 提权
@@ -23,6 +43,26 @@
 **介绍:** None
 
 **地址:** https://github.com/pouriam23/CVE-2016-5180
+
+---
+
+## sanek419/WormExploit
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/sanek419/WormExploit
+
+---
+
+## ilyes84/exploit
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/ilyes84/exploit
 
 ---
 
@@ -2633,36 +2673,6 @@
 **介绍:** 🛡️ CVE Watcher – Automatisation de la veille sécurité par mot-clé
 
 **地址:** https://github.com/AlxxlaF/CVE_Watcher
-
----
-
-## laxmikumari615/Linux---Security---Detect-and-Mitigate-CVE-2024-3094
-
-**关键字** CVE
-
-**介绍:** It was determined that malicious code was discovered in the upstream tarballs of xz, starting with version 5.6.0. #    It was determined that only certain operating systems and operating system versions were affected by this vulnerability.
-
-**地址:** https://github.com/laxmikumari615/Linux---Security---Detect-and-Mitigate-CVE-2024-3094
-
----
-
-## Zearish/Hannah
-
-**关键字** Exploit
-
-**介绍:** exploit library
-
-**地址:** https://github.com/Zearish/Hannah
-
----
-
-## Computer-Science-and-Maths-KS3-To-KS5/classroom12cversion2-dijkstra-two-stack-calculator-Dijkstra2StackTemplate
-
-**关键字** CVE
-
-**介绍:** classroom12cversion2-dijkstra-two-stack-calculator-Dijkstra2StackTemplate created by GitHub Classroom
-
-**地址:** https://github.com/Computer-Science-and-Maths-KS3-To-KS5/classroom12cversion2-dijkstra-two-stack-calculator-Dijkstra2StackTemplate
 
 ---
 
