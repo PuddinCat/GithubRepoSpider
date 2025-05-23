@@ -6,6 +6,106 @@
 
 ## 最新仓库
 
+## Jeethesh-MSK/CVE-PROJECT
+
+**关键字** CVE
+
+**介绍:** A CVE Management System that aggregates, organizes, and displays vulnerability data from the National Vulnerability Database (NVD). This project includes:
+
+**地址:** https://github.com/Jeethesh-MSK/CVE-PROJECT
+
+---
+
+## moiz-2x/ExploitReproduction
+
+**关键字** Exploit
+
+**介绍:** Exploit Windows
+
+**地址:** https://github.com/moiz-2x/ExploitReproduction
+
+---
+
+## pouriam23/CVE-2024-12583
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/pouriam23/CVE-2024-12583
+
+---
+
+## Marco-Cricchio/cve-refactor
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/Marco-Cricchio/cve-refactor
+
+---
+
+## mcruz74/cveer
+
+**关键字** CVE
+
+**介绍:** Full-stack resume-building SaaS app
+
+**地址:** https://github.com/mcruz74/cveer
+
+---
+
+## kk12-30/CVE-2025-4123
+
+**关键字** CVE
+
+**介绍:** CVE-2025-4123
+
+**地址:** https://github.com/kk12-30/CVE-2025-4123
+
+---
+
+## Not-Here-Never-Was/X-Exploits-Data
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/Not-Here-Never-Was/X-Exploits-Data
+
+---
+
+## berhan744/AOV-Exploit-Pro
+
+**关键字** Exploit
+
+**介绍:** 2025 Arena of Valor Cheats: Safe and Secure Download for Windows Users🌟
+
+**地址:** https://github.com/berhan744/AOV-Exploit-Pro
+
+---
+
+## dodiorne/cve-2025-0133
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/dodiorne/cve-2025-0133
+
+---
+
+## sumerbraumd3/Thieves-Exploit
+
+**关键字** Exploit
+
+**介绍:** Download Sea of Thieves Hack 2025 for Windows-Free & Unlimited Access ⚓
+
+**地址:** https://github.com/sumerbraumd3/Thieves-Exploit
+
+---
+
 ## imi123cn/yinghuadongman
 
 **关键字** 注入
@@ -2653,36 +2753,6 @@
 **介绍:** exploitability_analysis
 
 **地址:** https://github.com/SecurityProgram/exploitability_analysis
-
----
-
-## Totunm/CVE-2025-4918
-
-**关键字** CVE
-
-**介绍:** CVE-2025-4918 – Out-of-Bounds Memory Corruption in Mozilla Firefox
-
-**地址:** https://github.com/Totunm/CVE-2025-4918
-
----
-
-## ggodaohang/mxdongman
-
-**关键字** 注入
-
-**介绍:** mx动漫官网，专注在线动漫的樱花动漫备用网站|网页版入口|下载
-
-**地址:** https://github.com/ggodaohang/mxdongman
-
----
-
-## herrymoot0/Thieves-Exploit-9x
-
-**关键字** Exploit
-
-**介绍:** Download Sea of Thieves Hack 2025 for Windows-Free & Unlimited Access ⚓
-
-**地址:** https://github.com/herrymoot0/Thieves-Exploit-9x
 
 ---
 
