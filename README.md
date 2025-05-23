@@ -6,6 +6,36 @@
 
 ## 最新仓库
 
+## pouriam23/wordpress-CVE
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/pouriam23/wordpress-CVE
+
+---
+
+## NARENDRA-642/trivy-cve
+
+**关键字** CVE
+
+**介绍:** trivy cve
+
+**地址:** https://github.com/NARENDRA-642/trivy-cve
+
+---
+
+## encrypter15/CVE-2025-47181
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/encrypter15/CVE-2025-47181
+
+---
+
 ## lucifer1986-max/AI-News-Aggregator
 
 **关键字** 信息收集
@@ -2613,26 +2643,6 @@
 **介绍:** 2025 Fallout 76 Hack Free Download: Best Windows Tools and Cheats 🔥
 
 **地址:** https://github.com/gutsyheart3044/Vault76-Exploit
-
----
-
-## hxlh/webshell
-
-**关键字** webshell
-
-**介绍:** None
-
-**地址:** https://github.com/hxlh/webshell
-
----
-
-## Apor/Vulnerabilities
-
-**关键字** CVE
-
-**介绍:** collection of CVEs
-
-**地址:** https://github.com/Apor/Vulnerabilities
 
 ---
 
