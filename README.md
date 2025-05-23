@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## Roundthe-clock/CVE-2024-3661VPN
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/Roundthe-clock/CVE-2024-3661VPN
+
+---
+
+## x6vrn/CVE-2025-4611-PoC
+
+**关键字** CVE
+
+**介绍:** PoC for CVE-2025-4611
+
+**地址:** https://github.com/x6vrn/CVE-2025-4611-PoC
+
+---
+
 ## szwei8023/Secure-Check-App
 
 **关键字** 红队
@@ -643,6 +663,16 @@
 **介绍:** None
 
 **地址:** https://github.com/Logan-codes-21/cve_to_attack_mapping_dissertation_project
+
+---
+
+## akaganeite/CVE4PP
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/akaganeite/CVE4PP
 
 ---
 
