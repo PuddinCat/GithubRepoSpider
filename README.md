@@ -46,6 +46,16 @@
 
 ---
 
+## yangrudan/collect_stack_draw
+
+**关键字** 信息收集
+
+**介绍:** 收集集群中的堆栈信息,绘制火焰图🔥
+
+**地址:** https://github.com/yangrudan/collect_stack_draw
+
+---
+
 ## Eros-Adrian-Figueroa-Cortes/CVE-2023-48795-
 
 **关键字** CVE
@@ -2643,16 +2653,6 @@
 **介绍:** None
 
 **地址:** https://github.com/LLSJinw/shodan_cve
-
----
-
-## Jacob-z691/CVE
-
-**关键字** CVE
-
-**介绍:** Some CVEs I had Found in the Internet
-
-**地址:** https://github.com/Jacob-z691/CVE
 
 ---
 
