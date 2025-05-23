@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## BushANQ/CVE-Hunter
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/BushANQ/CVE-Hunter
+
+---
+
 ## c0okB/Burp_fake
 
 **关键字** burp
@@ -13,6 +23,16 @@
 **介绍:** None
 
 **地址:** https://github.com/c0okB/Burp_fake
+
+---
+
+## sarryi/cve
+
+**关键字** CVE
+
+**介绍:** zzx的cve仓库
+
+**地址:** https://github.com/sarryi/cve
 
 ---
 
@@ -2603,56 +2623,6 @@
 **介绍:** None
 
 **地址:** https://github.com/Y4y17/CVE
-
----
-
-## Toba0z/Detecting-Remote-Code-Execution-RCE-
-
-**关键字** RCE
-
-**介绍:** None
-
-**地址:** https://github.com/Toba0z/Detecting-Remote-Code-Execution-RCE-
-
----
-
-## dobin/ShellcodeObfuscationLab
-
-**关键字** shellcode
-
-**介绍:** Test bench lab for Shellcode Obfuscation
-
-**地址:** https://github.com/dobin/ShellcodeObfuscationLab
-
----
-
-## Headcorvo/HTA-Exploit
-
-**关键字** CVE
-
-**介绍:** Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution
-
-**地址:** https://github.com/Headcorvo/HTA-Exploit
-
----
-
-## FouadCPC/Sakura-Windows-SmartScreen-Bypass-Chrome-Exe-Edge
-
-**关键字** bypass AntiVirus
-
-**介绍:** Crypters and FUD tools focus on obfuscation to bypass antivirus, SmartScreen, and Windows Defender. These tools encrypt payloads, create backdoors, and ensure stealthy execution on Windows systems while evading detection through advanced techniques.
-
-**地址:** https://github.com/FouadCPC/Sakura-Windows-SmartScreen-Bypass-Chrome-Exe-Edge
-
----
-
-## 521-baby/-Dark-Mode-Helper-Auto-Switch-Theme
-
-**关键字** 护网
-
-**介绍:** ✨ 定时自动切换夜间模式 | 4种主题切换（夜间1，暗色2，护眼3，白天4）|自定义当前模式|自定义昼夜时间| 网站白名单 | 护眼模式 🛡️👁️
-
-**地址:** https://github.com/521-baby/-Dark-Mode-Helper-Auto-Switch-Theme
 
 ---
 
