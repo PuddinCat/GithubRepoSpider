@@ -6,6 +6,46 @@
 
 ## 最新仓库
 
+## x4ut15m/x-vuln
+
+**关键字** 代码审计
+
+**介绍:** 针对JAVA项目的AI代码审计工具
+
+**地址:** https://github.com/x4ut15m/x-vuln
+
+---
+
+## namberino/cve
+
+**关键字** CVE
+
+**介绍:** My CVE Publications
+
+**地址:** https://github.com/namberino/cve
+
+---
+
+## calebjheo/cvevstudio-site
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/calebjheo/cvevstudio-site
+
+---
+
+## vineethreddy2000/CVE_KUBE
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/vineethreddy2000/CVE_KUBE
+
+---
+
 ## jtkpd6qe/jtk-c3x3
 
 **关键字** 免杀
@@ -13,6 +53,16 @@
 **介绍:** 鸦杀免费加速器下载
 
 **地址:** https://github.com/jtkpd6qe/jtk-c3x3
+
+---
+
+## 3ssiedoggy/RC2
+
+**关键字** Exploit
+
+**介绍:** RC2-Exploit
+
+**地址:** https://github.com/3ssiedoggy/RC2
 
 ---
 
@@ -46,6 +96,16 @@
 
 ---
 
+## femidavid1/Roblox-luna-exploit
+
+**关键字** Exploit
+
+**介绍:** Roblox-Luna-Exploit-2025:-The-Ultimate-Guide-to-Download,-Install-&-Use-Safely-for-Free
+
+**地址:** https://github.com/femidavid1/Roblox-luna-exploit
+
+---
+
 ## waheed-sep/cve-dashboard
 
 **关键字** CVE
@@ -73,6 +133,26 @@
 **介绍:** None
 
 **地址:** https://github.com/galletitaconpate/CVE-2025-24799
+
+---
+
+## firetix/vulnerability-intelligence-mcp-server
+
+**关键字** CVE
+
+**介绍:** Built for security professionals, developers, and DevSecOps teams who need reliable vulnerability intelligence integrated directly into their development workflow.
+
+**地址:** https://github.com/firetix/vulnerability-intelligence-mcp-server
+
+---
+
+## momo1239/CVE-2024-9463-Proof-of-Concept
+
+**关键字** CVE
+
+**介绍:** Proof of Concept for CVE-2024-9463 
+
+**地址:** https://github.com/momo1239/CVE-2024-9463-Proof-of-Concept
 
 ---
 
@@ -123,6 +203,26 @@
 **介绍:** None
 
 **地址:** https://github.com/LineBergeron/recevoir-cve
+
+---
+
+## achilles642/LostArk-Exploit
+
+**关键字** Exploit
+
+**介绍:** Exclusive Lost Ark Hack 2025 Download for Windows – Safe and Secure
+
+**地址:** https://github.com/achilles642/LostArk-Exploit
+
+---
+
+## nonamekronos853/StalCraft-Exploit
+
+**关键字** Exploit
+
+**介绍:** Get Best StalCraft Hacks for Windows in 2025 – Safe Download Now!
+
+**地址:** https://github.com/nonamekronos853/StalCraft-Exploit
 
 ---
 
@@ -206,6 +306,26 @@
 
 ---
 
+## cuddlies7267/Rivals-Exploit-Marvel
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/cuddlies7267/Rivals-Exploit-Marvel
+
+---
+
+## fromfighting/Ark-Exploit-Guide
+
+**关键字** Exploit
+
+**介绍:** Top Lost Ark Mods and Hacks: Download Now for Windows in 2025 🚀
+
+**地址:** https://github.com/fromfighting/Ark-Exploit-Guide
+
+---
+
 ## elnerd/tunnel
 
 **关键字** webshell
@@ -223,6 +343,16 @@
 **介绍:** 中文IT技术YouTube博主信息收集
 
 **地址:** https://github.com/Joseph19820124/json-20250523
+
+---
+
+## abrewer251/CVE-2024-21762_FortiNet_PoC
+
+**关键字** CVE
+
+**介绍:** Proof-of-concept scanner targeting CVE-2024-21762 in FortiOS SSL VPN’s /remote/hostcheck_validate endpoint with reverse shell payload delivery.
+
+**地址:** https://github.com/abrewer251/CVE-2024-21762_FortiNet_PoC
 
 ---
 
@@ -266,6 +396,16 @@
 
 ---
 
+## masterromafreeman/Arma3-Exploit
+
+**关键字** Exploit
+
+**介绍:** Arma 3 Hacks Free for Windows: Secure Download Options in 2025⚡
+
+**地址:** https://github.com/masterromafreeman/Arma3-Exploit
+
+---
+
 ## Matty1234321/TrackerExploit
 
 **关键字** Exploit
@@ -293,6 +433,16 @@
 **介绍:** Script to exploit Grafana CVE-2025-4123: XSS and Full-Read SSRF
 
 **地址:** https://github.com/NightBloodz/CVE-2025-4123
+
+---
+
+## enesyavuzarslannn/exploit-simulation-ui
+
+**关键字** Exploit
+
+**介绍:** 💥 Popüler yazılımlar üzerinde zafiyet taraması simülasyonu yapan, HTML-CSS-JavaScript ile geliştirilmiş şık bir eğitim projesi.
+
+**地址:** https://github.com/enesyavuzarslannn/exploit-simulation-ui
 
 ---
 
@@ -553,6 +703,16 @@
 **介绍:** None
 
 **地址:** https://github.com/Yveslawtox/CVE
+
+---
+
+## Hp-0420/SQL-Injection-Vulnerability-Exploitation
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/Hp-0420/SQL-Injection-Vulnerability-Exploitation
 
 ---
 
@@ -853,6 +1013,16 @@
 **介绍:** 海杀免费加速器下载
 
 **地址:** https://github.com/xfmbyejekc/xfm-6hs
+
+---
+
+## viper3644/Battlefield4-Exploit
+
+**关键字** Exploit
+
+**介绍:** Secure and Free: Battlefield 4 Hack 2025 Download for Windows
+
+**地址:** https://github.com/viper3644/Battlefield4-Exploit
 
 ---
 
@@ -1463,6 +1633,16 @@
 **介绍:** None
 
 **地址:** https://github.com/volodymyr-hladkyi-symphony/demo-cve-2022-21449
+
+---
+
+## Juliennnnnn/remote_Python_Flash_Exploit
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/Juliennnnnn/remote_Python_Flash_Exploit
 
 ---
 
@@ -2423,46 +2603,6 @@
 **介绍:** 海杀免费加速器下载
 
 **地址:** https://github.com/nf8rxx3b5rs/nf8-eh0
-
----
-
-## hzbb2221/linux-process-exporter
-
-**关键字** 信息收集
-
-**介绍:** 这是一个用Go语言编写的Prometheus exporter，用于收集Linux系统中所有进程的信息，包括PID、进程名称、CPU使用率和内存使用率。
-
-**地址:** https://github.com/hzbb2221/linux-process-exporter
-
----
-
-## yintao0303/InjectJS
-
-**关键字** 注入
-
-**介绍:** 强大的脚本注入插件，支持多语言，暗黑主题
-
-**地址:** https://github.com/yintao0303/InjectJS
-
----
-
-## bonyintegral/steampipe-plugin-shodan
-
-**关键字** Exploit
-
-**介绍:** Use SQL to instantly query host, DNS and exploit information using Shodan. Open source CLI. No DB required. backup, etl, hacktoberfest, postgres, postgres-fdw, postgresql, postgresql-fdw, shodan, shodan-plugin, sql, sqlite, steampipe, steampipe-community, steampipe-plugin, zero-etl
-
-**地址:** https://github.com/bonyintegral/steampipe-plugin-shodan
-
----
-
-## emmanuelgjr/llm-threat-modeling-agents
-
-**关键字** CVE
-
-**介绍:** Multi-agent LLM threat modeling framework using MAESTRO and OWASP COMPASS, with modular agents for security risk analysis, CVE mapping, and remediation recommendations.
-
-**地址:** https://github.com/emmanuelgjr/llm-threat-modeling-agents
 
 ---
 
