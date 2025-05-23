@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## imi123cn/yinghuadongman
+
+**关键字** 注入
+
+**介绍:** 樱花动漫官网，专注动漫的门户网站|网页版入口|下载
+
+**地址:** https://github.com/imi123cn/yinghuadongman
+
+---
+
+## CSpanias/mobile-mouse-rce
+
+**关键字** RCE
+
+**介绍:** Remote Code Execution (RCE) exploit for Mobile Mouse 3.6.0.4 – fully automated payload generation, upload, and execution with integrated HTTP server support.
+
+**地址:** https://github.com/CSpanias/mobile-mouse-rce
+
+---
+
 ## pootie85zl/BF4-ExploitKit
 
 **关键字** Exploit
@@ -53,6 +73,16 @@
 **介绍:** CVE-2025-4918 – Out-of-Bounds Memory Corruption in Mozilla Firefox
 
 **地址:** https://github.com/korden-c/CVE-2025-4918
+
+---
+
+## x0q21cAMUY/shellcode-
+
+**关键字** shellcode
+
+**介绍:** 银狐远控shellcode免杀 360 火绒 Windows defender @DDxiaoshui
+
+**地址:** https://github.com/x0q21cAMUY/shellcode-
 
 ---
 
@@ -2653,36 +2683,6 @@
 **介绍:** Download Sea of Thieves Hack 2025 for Windows-Free & Unlimited Access ⚓
 
 **地址:** https://github.com/herrymoot0/Thieves-Exploit-9x
-
----
-
-## SagarNegi10/Burp-it
-
-**关键字** burp
-
-**介绍:** None
-
-**地址:** https://github.com/SagarNegi10/Burp-it
-
----
-
-## Pratham2011/VAPT_Scanner
-
-**关键字** burp
-
-**介绍:** A Python-based tool that automates scanning of web apps and networks for vulnerabilities. It identifies OWASP Top 10 issues and generates detailed reports. Relevant for roles like VAPT Analyst and Security Analyst, showcasing skills in vulnerability assessment and penetration testing using tools like Nmap, ZAP, and Burp Suite.
-
-**地址:** https://github.com/Pratham2011/VAPT_Scanner
-
----
-
-## mandemadhu-1007j/BF4-ExploitKit-lu
-
-**关键字** Exploit
-
-**介绍:** 2025 Windows BF4 Multiplayer Hack: Secure Download Now!🔥
-
-**地址:** https://github.com/mandemadhu-1007j/BF4-ExploitKit-lu
 
 ---
 
