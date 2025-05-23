@@ -2716,34 +2716,4 @@
 
 ---
 
-## Alexs2256/Cybersecurity-Vulnerability-Exploits
-
-**关键字** Exploit
-
-**介绍:** A collection of cybersecurity vulnerability assessment and exploit development reports from academic projects. Demonstrates hands-on experience with identifying, exploiting, and mitigating common software vulnerabilities.
-
-**地址:** https://github.com/Alexs2256/Cybersecurity-Vulnerability-Exploits
-
----
-
-## punisher21maximum/rce
-
-**关键字** RCE
-
-**介绍:** None
-
-**地址:** https://github.com/punisher21maximum/rce
-
----
-
-## gaoqi9/64
-
-**关键字** 后渗透
-
-**介绍:** 亲情是渗透在生活里的背景音。离家后才懂得妈妈唠叨里的配方，爸爸沉默中的温度。那些曾经想逃离的日常，后来都成了最奢侈的想念。
-
-**地址:** https://github.com/gaoqi9/64
-
----
-
 
