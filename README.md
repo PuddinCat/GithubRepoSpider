@@ -6,6 +6,56 @@
 
 ## 最新仓库
 
+## marjinal06/Exploitler
+
+**关键字** Exploit
+
+**介绍:** None
+
+**地址:** https://github.com/marjinal06/Exploitler
+
+---
+
+## d3sca/CVE-2025-46822
+
+**关键字** CVE
+
+**介绍:**  Unauthenticated Arbitrary File Read via Absolute Path 
+
+**地址:** https://github.com/d3sca/CVE-2025-46822
+
+---
+
+## d3sca/-CVE-2025-46822-
+
+**关键字** CVE
+
+**介绍:**  Unauthenticated Arbitrary File Read via Absolute Path description
+
+**地址:** https://github.com/d3sca/-CVE-2025-46822-
+
+---
+
+## idreessyed1/graphql-burp-test
+
+**关键字** burp
+
+**介绍:** None
+
+**地址:** https://github.com/idreessyed1/graphql-burp-test
+
+---
+
+## AdityaBhatt3010/JWT-Authentication-Bypass-via-kid-Header-Path-Traversal-A-Sneaky-Admin-Takeover
+
+**关键字** Exploit
+
+**介绍:** JWT Authentication Bypass via kid Path Traversal — Exploiting insecure key loading to impersonate the admin and delete users with a null byte trick.
+
+**地址:** https://github.com/AdityaBhatt3010/JWT-Authentication-Bypass-via-kid-Header-Path-Traversal-A-Sneaky-Admin-Takeover
+
+---
+
 ## BushANQ/CVE-Hunter
 
 **关键字** CVE
@@ -56,6 +106,16 @@
 
 ---
 
+## Elliotepsteino/set-sequence-model
+
+**关键字** Exploit
+
+**介绍:** The Set-Sequence model exploits exchangeability in multivariate time series to efficiently capture joint cross-sectional dependencies
+
+**地址:** https://github.com/Elliotepsteino/set-sequence-model
+
+---
+
 ## x6vrn/CVE-2025-4611-PoC
 
 **关键字** CVE
@@ -63,6 +123,16 @@
 **介绍:** PoC for CVE-2025-4611
 
 **地址:** https://github.com/x6vrn/CVE-2025-4611-PoC
+
+---
+
+## NEWWORLDO/HANDAI
+
+**关键字** 漏洞利用
+
+**介绍:** MCP協議在區塊鏈套利領域的技術整合潛力，AI結合閃電貸、智能合約漏洞、多鏈互操作及AI策略等四大核心場景，通過實證分析與架構設計為用戶進行套利行為
+
+**地址:** https://github.com/NEWWORLDO/HANDAI
 
 ---
 
@@ -176,6 +246,16 @@
 
 ---
 
+## snakesec/phpsploit
+
+**关键字** Exploit
+
+**介绍:** PHP Post Exploitation framework for ANDRAX-NG
+
+**地址:** https://github.com/snakesec/phpsploit
+
+---
+
 ## namberino/cve
 
 **关键字** CVE
@@ -203,6 +283,16 @@
 **介绍:** None
 
 **地址:** https://github.com/vineethreddy2000/CVE_KUBE
+
+---
+
+## codelassey/admin-panel-sql-injection
+
+**关键字** Exploit
+
+**介绍:** I used SQL injection to access a website admin panel on DVWA. I attempted a login bypass with SQLMap (which failed), then successfully exploited an SQL injection vulnerability to extract and crack admin password hashes. This repo includes everything to secure web apps against SQL injection attacks. Great for learning web security.
+
+**地址:** https://github.com/codelassey/admin-panel-sql-injection
 
 ---
 
@@ -2553,76 +2643,6 @@
 **介绍:** PoC and vulnerability report for CVE-2025-47827.
 
 **地址:** https://github.com/Zedeldi/CVE-2025-47827
-
----
-
-## krcenov/BezGradskiApiExploit
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/krcenov/BezGradskiApiExploit
-
----
-
-## zzxx-1949/webshell
-
-**关键字** webshell
-
-**介绍:** webshell
-
-**地址:** https://github.com/zzxx-1949/webshell
-
----
-
-## RUTHER-DEV/Process-Hider
-
-**关键字** RCE
-
-**介绍:** Hide processes from Task Manager by manually mapping itself into it and hooking NtQuerySystemInformation
-
-**地址:** https://github.com/RUTHER-DEV/Process-Hider
-
----
-
-## BeyondMachines/ScoreRecon
-
-**关键字** CVE
-
-**介绍:** Collecting CVSS scores for multiple CVEs
-
-**地址:** https://github.com/BeyondMachines/ScoreRecon
-
----
-
-## cyruscostini/CVE-2025-4918-RCE
-
-**关键字** CVE
-
-**介绍:** CVE-2025-4918 is a memory corruption vulnerability in Mozilla Firefox, specifically affecting JavaScript `Promise` objects. An attacker can perform out-of-bounds memory reads or writes, leading to remote code execution and application crashes.
-
-**地址:** https://github.com/cyruscostini/CVE-2025-4918-RCE
-
----
-
-## RootHarpy/CVE-2025-47646
-
-**关键字** CVE
-
-**介绍:** PoC for CVE-2025-47646 - WordPress PSW Front-end Login Registration Plugin ≤ 1.12 Unauthenticated Privilege Escalation
-
-**地址:** https://github.com/RootHarpy/CVE-2025-47646
-
----
-
-## Y4y17/CVE
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/Y4y17/CVE
 
 ---
 
