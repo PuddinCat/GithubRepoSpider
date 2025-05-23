@@ -26,6 +26,16 @@
 
 ---
 
+## badmedic1ne/burp-extension
+
+**关键字** burp
+
+**介绍:** None
+
+**地址:** https://github.com/badmedic1ne/burp-extension
+
+---
+
 ## pouriam23/wordpress-CVE
 
 **关键字** CVE
@@ -2543,76 +2553,6 @@
 **介绍:** TJ 系统安全实验 网络扫描器设计
 
 **地址:** https://github.com/xiaozhang-yyds/PyNetScan
-
----
-
-## joinsime/Adobe-Acrobat
-
-**关键字** RCE
-
-**介绍:** Adobe Acrobat is a powerful PDF solution for creating, editing, managing, and securing documents
-
-**地址:** https://github.com/joinsime/Adobe-Acrobat
-
----
-
-## Medamine-creator/fluxus-exploit
-
-**关键字** Exploit
-
-**介绍:** Discovering the Fluxus Exploit: Latest Insights and Mitigations for Enhanced Security on GitHub
-
-**地址:** https://github.com/Medamine-creator/fluxus-exploit
-
----
-
-## nnonng/Roblox-luna-exploit
-
-**关键字** Exploit
-
-**介绍:** Discover the Latest Roblox Luna Exploit: Enhance Your Gameplay with Hacks and Tips for Ultimate Fun and Success
-
-**地址:** https://github.com/nnonng/Roblox-luna-exploit
-
----
-
-## ekkk849/Predicting-the-Exploit-Availability-for-CVEs
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/ekkk849/Predicting-the-Exploit-Availability-for-CVEs
-
----
-
-## windz3r0day/CVE-2025-24085
-
-**关键字** CVE
-
-**介绍:** report for CVE-2025-24085 Apple CoreMedia
-
-**地址:** https://github.com/windz3r0day/CVE-2025-24085
-
----
-
-## matthewwt7/Evil-PDF
-
-**关键字** shellcode
-
-**介绍:** A completely fake but fun PDF scanner that pretends to detect embedded threats like JavaScript and shellcode in documents. Perfect for terminal pranks or hacker vibes.
-
-**地址:** https://github.com/matthewwt7/Evil-PDF
-
----
-
-## Cristian23PC/burpextension_dnisgenerator
-
-**关键字** burp
-
-**介绍:** generador de ruts
-
-**地址:** https://github.com/Cristian23PC/burpextension_dnisgenerator
 
 ---
 
