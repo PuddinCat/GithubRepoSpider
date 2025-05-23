@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## szwei8023/Secure-Check-App
+
+**关键字** 红队
+
+**介绍:** SecureCheck 是一款适用于 macOS 系统的本地安全检测与清理工具，支持图形界面和命令行执行，具备中英文语言切换，适合开发者、红蓝队、企业终端合规自查。
+
+**地址:** https://github.com/szwei8023/Secure-Check-App
+
+---
+
+## l8BL/CVE-2025-44998
+
+**关键字** CVE
+
+**介绍:** TinyFileManger XSS Vulnerability
+
+**地址:** https://github.com/l8BL/CVE-2025-44998
+
+---
+
 ## gxu-yuan/Webshell-back
 
 **关键字** webshell
