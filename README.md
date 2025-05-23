@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## c0okB/Burp_fake
+
+**关键字** burp
+
+**介绍:** None
+
+**地址:** https://github.com/c0okB/Burp_fake
+
+---
+
+## biubiubiyabiu/lora-loader-keyword
+
+**关键字** 注入
+
+**介绍:** 这是一个为 [ComfyUI](https://github.com/comfyanonymous/ComfyUI) 设计的自定义节点，旨在简化使用多个 LoRA 模型及其特定触发关键词（trigger words）的工作流程。当您在项目中使用多个 LoRA 时，将每个 LoRA 的激活词手动添加到主提示文本中可能会变得混乱且容易出错。此节点允许您在加载每个 LoRA 的同时，为其指定独立的关键词，这些关键词会自动注入到正向提示（Positive Conditioning）中。
+
+**地址:** https://github.com/biubiubiyabiu/lora-loader-keyword
+
+---
+
 ## Roundthe-clock/CVE-2024-3661VPN
 
 **关键字** CVE
@@ -2653,36 +2673,6 @@
 **介绍:** CVE-2024-53677
 
 **地址:** https://github.com/WhoisBulud/CVE-2024-53677
-
----
-
-## koifish2021/viper
-
-**关键字** CVE
-
-**介绍:** 🛡️ VIPER: Stay ahead of threats with AI-driven vulnerability intelligence. Prioritize CVEs effectively using NVD, EPSS, CISA KEV, and Google Gemini insights, all on an interactive dashboard
-
-**地址:** https://github.com/koifish2021/viper
-
----
-
-## migros/migros-security-advisories
-
-**关键字** CVE
-
-**介绍:** Migros Security Advisories
-
-**地址:** https://github.com/migros/migros-security-advisories
-
----
-
-## LLSJinw/shodan_cve
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/LLSJinw/shodan_cve
 
 ---
 
