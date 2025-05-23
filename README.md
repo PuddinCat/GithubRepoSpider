@@ -2706,14 +2706,4 @@
 
 ---
 
-## Sratet/CVE-2025-46801
-
-**关键字** CVE
-
-**介绍:** CVE-2025-46801 – Pgpool-II Authentication Bypass PoC
-
-**地址:** https://github.com/Sratet/CVE-2025-46801
-
----
-
 
