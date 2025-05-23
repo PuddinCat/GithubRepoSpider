@@ -6,6 +6,66 @@
 
 ## 最新仓库
 
+## pootie85zl/BF4-ExploitKit
+
+**关键字** Exploit
+
+**介绍:** 2025 Windows BF4 Multiplayer Hack: Secure Download Now!🔥
+
+**地址:** https://github.com/pootie85zl/BF4-ExploitKit
+
+---
+
+## osnoe-1002p/Defiant-Exploit
+
+**关键字** Exploit
+
+**介绍:** Download XDefiant Hack 2025 for Windows – Ultimate Aimbot and Cheats
+
+**地址:** https://github.com/osnoe-1002p/Defiant-Exploit
+
+---
+
+## dinorah97/Divers2-Exploit
+
+**关键字** Exploit
+
+**介绍:** Helldivers 2 Ultimate Hack Pack: Download for Windows 2025 Edition 🌟
+
+**地址:** https://github.com/dinorah97/Divers2-Exploit
+
+---
+
+## korden-c/CVE-2025-46801
+
+**关键字** CVE
+
+**介绍:** CVE-2025-46801 – Pgpool-II Authentication Bypass PoC
+
+**地址:** https://github.com/korden-c/CVE-2025-46801
+
+---
+
+## korden-c/CVE-2025-4918
+
+**关键字** CVE
+
+**介绍:** CVE-2025-4918 – Out-of-Bounds Memory Corruption in Mozilla Firefox
+
+**地址:** https://github.com/korden-c/CVE-2025-4918
+
+---
+
+## MANIMARAN1412/CVE
+
+**关键字** CVE
+
+**介绍:** CVE
+
+**地址:** https://github.com/MANIMARAN1412/CVE
+
+---
+
 ## yatooimh/DeepExploitor
 
 **关键字** Exploit
@@ -2643,36 +2703,6 @@
 **介绍:** None
 
 **地址:** https://github.com/ahmedgomaaa/SQLMapGUI-BurpExtension-Windows
-
----
-
-## dico-Z/CVE
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/dico-Z/CVE
-
----
-
-## GeniusWang23/CVE
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/GeniusWang23/CVE
-
----
-
-## AlxxlaF/CVE_Watcher
-
-**关键字** CVE
-
-**介绍:** 🛡️ CVE Watcher – Automatisation de la veille sécurité par mot-clé
-
-**地址:** https://github.com/AlxxlaF/CVE_Watcher
 
 ---
 
