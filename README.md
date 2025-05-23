@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## ionchad/StealthLoader
+
+**关键字** shellcode
+
+**介绍:** NTAPI based stealth shellcode loader for Windows
+
+**地址:** https://github.com/ionchad/StealthLoader
+
+---
+
 ## Jeethesh-MSK/CVE-PROJECT
 
 **关键字** CVE
@@ -43,6 +53,16 @@
 **介绍:** None
 
 **地址:** https://github.com/Marco-Cricchio/cve-refactor
+
+---
+
+## shareven/parcel
+
+**关键字** 信息收集
+
+**介绍:** 这是一个免费、开源、无广告、不联网，追求简洁的app，不收集任何个人信息。  本app会自动解析收到的短信，并从中提取出地址和取件码信息，可以展示到桌面卡片上（支持暗色模式）。  您可以添加自定义规则来改进解析效果。  欢迎下载和使用！有问题或建议请提issue！
+
+**地址:** https://github.com/shareven/parcel
 
 ---
 
