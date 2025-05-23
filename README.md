@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## Mr-Un1k0d3r/DotnetNoVirtualProtectShellcodeLoader
+
+**关键字** shellcode
+
+**介绍:** load shellcode without P/D Invoke and VirtualProtect call.
+
+**地址:** https://github.com/Mr-Un1k0d3r/DotnetNoVirtualProtectShellcodeLoader
+
+---
+
 ## x4ut15m/x-vuln
 
 **关键字** 代码审计
