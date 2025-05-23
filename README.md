@@ -46,6 +46,16 @@
 
 ---
 
+## lllllxt/DynamicChunksPlugin
+
+**关键字** 注入
+
+**介绍:** hack：@vue/cli@4.x下，配置多页面和splitChunk导致静态资源注入失败问题hack
+
+**地址:** https://github.com/lllllxt/DynamicChunksPlugin
+
+---
+
 ## Marco-Cricchio/cve-refactor
 
 **关键字** CVE
@@ -2743,36 +2753,6 @@
 **介绍:** A Python-based agentless scanner to detect vulnerabilities in Windows systems using WinRM, Nmap, and CVE lookups.
 
 **地址:** https://github.com/shriya08903/agentless-windows-vulnerability-scanner
-
----
-
-## sasquatchchicken/ios-app-traffic-analysis-with-burp
-
-**关键字** burp
-
-**介绍:** None
-
-**地址:** https://github.com/sasquatchchicken/ios-app-traffic-analysis-with-burp
-
----
-
-## SagarNegi10/Burp-It
-
-**关键字** burp
-
-**介绍:** None
-
-**地址:** https://github.com/SagarNegi10/Burp-It
-
----
-
-## SecurityProgram/exploitability_analysis
-
-**关键字** Exploit
-
-**介绍:** exploitability_analysis
-
-**地址:** https://github.com/SecurityProgram/exploitability_analysis
 
 ---
 
