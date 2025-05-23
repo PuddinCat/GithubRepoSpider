@@ -452,7 +452,6 @@ KEYWORDS = [
     "Cobalt Strike",
     "Computer Forensics",
     "CVE",
-    "Exploit",
     "getshell",
     "RCE",
     "shellcode",
