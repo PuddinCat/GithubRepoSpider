@@ -16,6 +16,36 @@
 
 ---
 
+## CSpanias/usermin-rce.py
+
+**关键字** RCE
+
+**介绍:** None
+
+**地址:** https://github.com/CSpanias/usermin-rce.py
+
+---
+
+## divinelol/rceingskiuds
+
+**关键字** RCE
+
+**介绍:** None
+
+**地址:** https://github.com/divinelol/rceingskiuds
+
+---
+
+## BlackHatModed/GiftToHumanity
+
+**关键字** RCE
+
+**介绍:** The Official 2021 Synapse X RCE
+
+**地址:** https://github.com/BlackHatModed/GiftToHumanity
+
+---
+
 ## sho-AKH/Burpsuite-POV
 
 **关键字** burp
@@ -2063,16 +2093,6 @@
 **介绍:** Secure and Free: Battlefield 4 Hack 2025 Download for Windows
 
 **地址:** https://github.com/viper3644/Battlefield4-Exploit
-
----
-
-## lordland2808/Mordhau-Exploit
-
-**关键字** Exploit
-
-**介绍:** Essential Mordhau Mod Downloads for Windows Users in 2025
-
-**地址:** https://github.com/lordland2808/Mordhau-Exploit
 
 ---
 
