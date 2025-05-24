@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## chriszubiaga/parse_CVEListV5
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/chriszubiaga/parse_CVEListV5
+
+---
+
 ## adeljck/rce_receiver
 
 **关键字** RCE
@@ -2353,16 +2363,6 @@
 **介绍:** None
 
 **地址:** https://github.com/Logan-codes-21/cve_to_attack_mapping_project
-
----
-
-## sundayz-hunter/AI_Request_Analyzer
-
-**关键字** burp
-
-**介绍:** A Burp Suite extension for analyzing HTTP requests and responses with AI.
-
-**地址:** https://github.com/sundayz-hunter/AI_Request_Analyzer
 
 ---
 
