@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## sundayz-hunter/BB_User_Agent
+
+**关键字** burp
+
+**介绍:** A Burp Suite extension for managing User-Agent headers in bug bounty testing.
+
+**地址:** https://github.com/sundayz-hunter/BB_User_Agent
+
+---
+
+## glynzr/CVE-2023-50564
+
+**关键字** RCE
+
+**介绍:** Pluck v4.7.18 - Remote Code Execution (RCE)
+
+**地址:** https://github.com/glynzr/CVE-2023-50564
+
+---
+
 ## alexeyko76/ParseOracleCVE
 
 **关键字** CVE
@@ -13,6 +33,16 @@
 **介绍:** A Python tool that automates the extraction of Oracle security advisories. The script parses both current and archived Oracle security alerts pages to extract CVE information, filters duplicate entries, and generates formatted Excel reports. Features include automated data extraction, duplicate filtering, Excel formatting, and detailed logging.
 
 **地址:** https://github.com/alexeyko76/ParseOracleCVE
+
+---
+
+## akihi0342/Python-
+
+**关键字** 渗透测试
+
+**介绍:** 本项目致力于使用Python 3.9对常用渗透测试工具进行全面复现，是渗透测试与Python安全编程学习的优质资源。项目遵循"权衡工具与编程，实现最高效渗透测试"的理念，同时追求"不依赖工具，达到渗透测试最高境界"的目标。  所有工具和脚本均可直接用于实战环境，同时也是学习Python安全编程的理想范例。代码设计注重模块化与可扩展性，便于学习者理解渗透测试原理与Python编程技巧的结合。  ## 适用环境  - 
+
+**地址:** https://github.com/akihi0342/Python-
 
 ---
 
@@ -2153,86 +2183,6 @@
 **介绍:** Get Free Axie Infinity Hacking Mod Download on Windows 2025 Edition💻
 
 **地址:** https://github.com/regeneronius7461/Infinity-Exploit
-
----
-
-## pouriam23/CVE-2024-12583-
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/pouriam23/CVE-2024-12583-
-
----
-
-## DarkLovic/BlackBurnt
-
-**关键字** Exploit
-
-**介绍:** Exploits Framework 
-
-**地址:** https://github.com/DarkLovic/BlackBurnt
-
----
-
-## uffing5599/Eve-Exploit-Kit
-
-**关键字** Exploit
-
-**介绍:** Ultimate Eve Online Hacking Tools: Free Download for Windows in 2025
-
-**地址:** https://github.com/uffing5599/Eve-Exploit-Kit
-
----
-
-## wootprogibator6867/Sandstorm-Exploit
-
-**关键字** Exploit
-
-**介绍:** Free Insurgency Sandstorm Mods and Hacks Download for Windows 2025 Users🌟
-
-**地址:** https://github.com/wootprogibator6867/Sandstorm-Exploit
-
----
-
-## Daniel1234mata/vsftpd-backdoor-exploit
-
-**关键字** Exploit
-
-**介绍:** Hands-on exploitation of the VSFTPD 2.3.4 backdoor vulnerability using Metasploit to gain shell access, create users, modify logs, and attempt privilege escalation in a secure lab environment.
-
-**地址:** https://github.com/Daniel1234mata/vsftpd-backdoor-exploit
-
----
-
-## MuffinAestaragon/ExploitationClass
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/MuffinAestaragon/ExploitationClass
-
----
-
-## EDanilkov/sauna-na-cvetochnoy
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/EDanilkov/sauna-na-cvetochnoy
-
----
-
-## EDanilkov/sauna-na-cvetochnoy-backend
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/EDanilkov/sauna-na-cvetochnoy-backend
 
 ---
 
