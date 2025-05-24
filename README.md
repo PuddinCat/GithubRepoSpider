@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## fortnitemodder/XWorm-Patched
+
+**关键字** RCE
+
+**介绍:** Non-RCE XWorm V5.6
+
+**地址:** https://github.com/fortnitemodder/XWorm-Patched
+
+---
+
 ## xingsumingxun/cve
 
 **关键字** CVE
@@ -2503,46 +2513,6 @@
 **介绍:** None
 
 **地址:** https://github.com/Jackie1732/CVE
-
----
-
-## blue0x1/Remote-for-Windows-2024.15-RCE
-
-**关键字** RCE
-
-**介绍:** Remote for Windows 2024.15 - RCE Exploit
-
-**地址:** https://github.com/blue0x1/Remote-for-Windows-2024.15-RCE
-
----
-
-## blue0x1/Remote-for-Windows-unauthenticated-rce
-
-**关键字** RCE
-
-**介绍:** The Remote for Windows helper service exposes unauthenticated RCE through the executeScript API endpoint. This allows SYSTEM-level command execution via crafted HTTP requests.
-
-**地址:** https://github.com/blue0x1/Remote-for-Windows-unauthenticated-rce
-
----
-
-## emmanueltb94/Edgar-Emmanuel-Tovar-B-rcenas
-
-**关键字** RCE
-
-**介绍:** None
-
-**地址:** https://github.com/emmanueltb94/Edgar-Emmanuel-Tovar-B-rcenas
-
----
-
-## Regent8SH/PanOsExploitMultitool
-
-**关键字** CVE
-
-**介绍:** Exploitation and Post-Exploitation Multitool for Palo Alto PAN-OS Systems affected by vulnerabilities CVE-2024-0012 and CVE-2024-9474
-
-**地址:** https://github.com/Regent8SH/PanOsExploitMultitool
 
 ---
 
