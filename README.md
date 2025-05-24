@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## DaniTheHack3r/CVE-2024-42009-PoC
+
+**关键字** CVE
+
+**介绍:** CVE-2024-42009 Proof of Concept
+
+**地址:** https://github.com/DaniTheHack3r/CVE-2024-42009-PoC
+
+---
+
 ## binsec01/CVE_database
 
 **关键字** CVE
@@ -2073,26 +2083,6 @@
 **介绍:** 某日葵远程rce
 
 **地址:** https://github.com/villainoussk/sunlogin_rce_
-
----
-
-## xfmbyejekc/xfm-6hs
-
-**关键字** 免杀
-
-**介绍:** 海杀免费加速器下载
-
-**地址:** https://github.com/xfmbyejekc/xfm-6hs
-
----
-
-## viper3644/Battlefield4-Exploit
-
-**关键字** Exploit
-
-**介绍:** Secure and Free: Battlefield 4 Hack 2025 Download for Windows
-
-**地址:** https://github.com/viper3644/Battlefield4-Exploit
 
 ---
 
