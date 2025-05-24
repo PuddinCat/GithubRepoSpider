@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## cjz131/A-DWA-
+
+**关键字** 提权
+
+**介绍:** 针对传统人工巡检效率低、风险高，及普通路径规划算法全局最优与动态避障矛盾的问题，本项目提出改进的 A与 DWA 融合算法。优化 A算法，优化权启发式函数和转向惩罚项；改进 DWA 算法，结合运动学模型与轨迹预测 。二者融合后，通过固定采样分辨率等策略，确保算法稳定性与可靠性。经 20m×20m 栅格地图 Matlab 仿真，改进算法成功率达 91.00%（提升 20%），平均转折度数降低 41.44°，规划速度提升 2.46%，为电气设备巡检自动化、智能化提供技术支撑。欢迎交流
+
+**地址:** https://github.com/cjz131/A-DWA-
+
+---
+
 ## chriszubiaga/parse_CVEListV5
 
 **关键字** CVE
@@ -2333,36 +2343,6 @@
 **介绍:** Free XDefiant Aimbot Hack Download for 2025 – Boost Gameplay Instantly!
 
 **地址:** https://github.com/guisgoodidea9/Defiant-Exploit
-
----
-
-## sowaboubacar/cvenligne
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/sowaboubacar/cvenligne
-
----
-
-## RdBBB3/SHELL-POC-CVE-2022-46169
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/RdBBB3/SHELL-POC-CVE-2022-46169
-
----
-
-## Logan-codes-21/cve_to_attack_mapping_project
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/Logan-codes-21/cve_to_attack_mapping_project
 
 ---
 
