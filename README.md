@@ -6,6 +6,36 @@
 
 ## 最新仓库
 
+## stndO/-rceplugin
+
+**关键字** RCE
+
+**介绍:** None
+
+**地址:** https://github.com/stndO/-rceplugin
+
+---
+
+## CSpanias/vesta-rce-exploit
+
+**关键字** RCE
+
+**介绍:** Authenticated RCE to Root Exploit for VestaCP using mailbox injection + webshell (standalone version based on rekter0’s PoC)
+
+**地址:** https://github.com/CSpanias/vesta-rce-exploit
+
+---
+
+## Derrity/mysql-wrapper
+
+**关键字** 注入
+
+**介绍:** MySQLWrapper 是一个现代化的 C++ MySQL 数据库操作库，提供简洁、安全、高性能的数据库访问接口。相比传统的 MySQL Connector/C++，它提供了更符合现代 C++ 标准的 API 设计，内置连接池、自动防 SQL 注入、RAII 资源管理等特性
+
+**地址:** https://github.com/Derrity/mysql-wrapper
+
+---
+
 ## davidxbors/CVE-2025-25014
 
 **关键字** CVE
@@ -2203,76 +2233,6 @@
 **介绍:** WordPress Security Test Tool for RCE
 
 **地址:** https://github.com/random-robbie/wordpress-security-test-tool
-
----
-
-## Theinxm/Batch-Malware-Builder-FUD-Crypter-AV-UAC-Bypass
-
-**关键字** bypass av
-
-**介绍:** Crypter hides malware with encryption, often providing FUD features. Tools like crypter FUD or batch FUD ensure undetected execution. Obfuscation bypasses antivirus and Windows Defender. Batch malware, trojans, and stealers are built using specialized tools.
-
-**地址:** https://github.com/Theinxm/Batch-Malware-Builder-FUD-Crypter-AV-UAC-Bypass
-
----
-
-## Fadouse/rustransomware
-
-**关键字** bypass AntiVirus
-
-**介绍:** A Rust ransomware framework that bypasses some antivirus solutions e.g. ESET, Avast and Huorong.
-
-**地址:** https://github.com/Fadouse/rustransomware
-
----
-
-## wellcomescreamer68/ExploitUnturned
-
-**关键字** Exploit
-
-**介绍:** Download Unturned Hack 2025 for Windows: Free Cheats, Mods & Tools🎮
-
-**地址:** https://github.com/wellcomescreamer68/ExploitUnturned
-
----
-
-## skipgarnet/Mordhau-Exploit
-
-**关键字** Exploit
-
-**介绍:** Top Rated 2025 Mordhau Cheat Download: Windows Compatible🌐
-
-**地址:** https://github.com/skipgarnet/Mordhau-Exploit
-
----
-
-## freakmrgamefun6/ZoneZero-Exploit
-
-**关键字** Exploit
-
-**介绍:** Get the Latest Zenless Zone Zero Hack Download in 2025 for Windows 🌟
-
-**地址:** https://github.com/freakmrgamefun6/ZoneZero-Exploit
-
----
-
-## gromila38/Rivals-Exploit-Pro
-
-**关键字** Exploit
-
-**介绍:** Free Marvel Rivals Hack Tool Download – Windows Compatible 2025 Guide
-
-**地址:** https://github.com/gromila38/Rivals-Exploit-Pro
-
----
-
-## fladsey639/Metin2-Exploits
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/fladsey639/Metin2-Exploits
 
 ---
 
