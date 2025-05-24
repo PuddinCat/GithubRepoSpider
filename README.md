@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## alexeyko76/ParseOracleCVE
+
+**关键字** CVE
+
+**介绍:** A Python tool that automates the extraction of Oracle security advisories. The script parses both current and archived Oracle security alerts pages to extract CVE information, filters duplicate entries, and generates formatted Excel reports. Features include automated data extraction, duplicate filtering, Excel formatting, and detailed logging.
+
+**地址:** https://github.com/alexeyko76/ParseOracleCVE
+
+---
+
 ## stndO/-rceplugin
 
 **关键字** RCE
@@ -63,6 +73,16 @@
 **介绍:** 针对传统人工巡检效率低、风险高，及普通路径规划算法全局最优与动态避障矛盾的问题，本项目提出改进的 A与 DWA 融合算法。优化 A算法，优化权启发式函数和转向惩罚项；改进 DWA 算法，结合运动学模型与轨迹预测 。二者融合后，通过固定采样分辨率等策略，确保算法稳定性与可靠性。经 20m×20m 栅格地图 Matlab 仿真，改进算法成功率达 91.00%（提升 20%），平均转折度数降低 41.44°，规划速度提升 2.46%，为电气设备巡检自动化、智能化提供技术支撑。欢迎交流
 
 **地址:** https://github.com/cjz131/A-DWA-
+
+---
+
+## AmamiyaHotaru/BiliOBS-Bypass
+
+**关键字** 绕过
+
+**介绍:** 绕过B站的粉丝数量限制，强制显示第三方开播功能并获取推流码。无论你的账号是否达到官方要求的粉丝数量门槛，都可以使用OBS等第三方软件进行直播。
+
+**地址:** https://github.com/AmamiyaHotaru/BiliOBS-Bypass
 
 ---
 
@@ -2213,26 +2233,6 @@
 **介绍:** None
 
 **地址:** https://github.com/EDanilkov/sauna-na-cvetochnoy-backend
-
----
-
-## Laertharaz/Anydesk-Exploit-CVE-2025-12654-RCE-Builder
-
-**关键字** RCE
-
-**介绍:** Exploit development targets vulnerabilities using tools like exploitation frameworks. CVE databases list risks, while CVE-2025-44228 is an example of a flaw. AnyDesk exploits highlight security gaps.
-
-**地址:** https://github.com/Laertharaz/Anydesk-Exploit-CVE-2025-12654-RCE-Builder
-
----
-
-## random-robbie/wordpress-security-test-tool
-
-**关键字** RCE
-
-**介绍:** WordPress Security Test Tool for RCE
-
-**地址:** https://github.com/random-robbie/wordpress-security-test-tool
 
 ---
 
