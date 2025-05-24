@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## 0xWhoami35/CVE-2025-2294
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/0xWhoami35/CVE-2025-2294
+
+---
+
+## qeize/webshell
+
+**关键字** webshell
+
+**介绍:** None
+
+**地址:** https://github.com/qeize/webshell
+
+---
+
 ## Tianji-Server/RecipeBugFix
 
 **关键字** 注入
@@ -2453,26 +2473,6 @@
 **介绍:** FiveM External cheat, offers various features like aimbot, triggerbot, exploits, and customizable settings, enhancing the gameplay experience. It is completely undetectable.
 
 **地址:** https://github.com/nitishplay/FiveM-External-Cheat
-
----
-
-## volodymyr-hladkyi-symphony/demo-cve-2022-21449
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/volodymyr-hladkyi-symphony/demo-cve-2022-21449
-
----
-
-## Juliennnnnn/remote_Python_Flash_Exploit
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/Juliennnnnn/remote_Python_Flash_Exploit
 
 ---
 
