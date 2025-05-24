@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## zhzhdoai/LintSight
+
+**关键字** 漏洞扫描
+
+**介绍:** Joern通用漏洞扫描脚本及CheckMark
+
+**地址:** https://github.com/zhzhdoai/LintSight
+
+---
+
 ## fortnitemodder/XWorm-Patched
 
 **关键字** RCE
