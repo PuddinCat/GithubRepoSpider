@@ -2326,24 +2326,4 @@
 
 ---
 
-## xxKawa/xxkawa.github.io
-
-**关键字** 注入
-
-**介绍:** 可用于PS4 9.0 的 PSFree漏洞 中文在线注入网站
-
-**地址:** https://github.com/xxKawa/xxkawa.github.io
-
----
-
-## guisgoodidea9/Defiant-Exploit
-
-**关键字** Exploit
-
-**介绍:** Free XDefiant Aimbot Hack Download for 2025 – Boost Gameplay Instantly!
-
-**地址:** https://github.com/guisgoodidea9/Defiant-Exploit
-
----
-
 
