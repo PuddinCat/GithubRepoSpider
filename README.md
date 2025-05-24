@@ -56,6 +56,16 @@
 
 ---
 
+## virg736/The-Man-in-the-Middle
+
+**关键字** burp
+
+**介绍:** A  local audit toolkit to dectect proxy-based interception tools ( Burp Suite, Fiddler, MITMProxy...)
+
+**地址:** https://github.com/virg736/The-Man-in-the-Middle
+
+---
+
 ## Tianji-Server/RecipeBugFix
 
 **关键字** 注入
@@ -2353,26 +2363,6 @@
 **介绍:** A Burp Suite extension for analyzing HTTP requests and responses with AI.
 
 **地址:** https://github.com/sundayz-hunter/AI_Request_Analyzer
-
----
-
-## ssxywc54xcv/ssx-d6o
-
-**关键字** 免杀
-
-**介绍:** 杀手3免费加速器下载
-
-**地址:** https://github.com/ssxywc54xcv/ssx-d6o
-
----
-
-## jinshengsoul/Exploit-factory
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/jinshengsoul/Exploit-factory
 
 ---
 
