@@ -2496,24 +2496,4 @@
 
 ---
 
-## MetadataGitTesting/7TUYeCVE
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/MetadataGitTesting/7TUYeCVE
-
----
-
-## lisa-2905/CVE-2024-56429
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/lisa-2905/CVE-2024-56429
-
----
-
 
