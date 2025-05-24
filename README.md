@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## adeljck/rce_receiver
+
+**关键字** RCE
+
+**介绍:** use curl or wget to transfer command output
+
+**地址:** https://github.com/adeljck/rce_receiver
+
+---
+
+## g1an123/FscanViz
+
+**关键字** 漏洞扫描
+
+**介绍:** FscanViz 是一款专为安全工程师打造的可视化工具，用于解析和展示 fscan 扫描结果。通过直观的网络拓扑图和交互式漏洞报告，帮助您快速识别网络中的安全风险点。
+
+**地址:** https://github.com/g1an123/FscanViz
+
+---
+
 ## 0xWhoami35/CVE-2025-2294
 
 **关键字** CVE
