@@ -2046,34 +2046,4 @@
 
 ---
 
-## Xenonesis/cvent
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/Xenonesis/cvent
-
----
-
-## Fcvebf/ExporterBurpSuiteExtension
-
-**关键字** burp
-
-**介绍:** This Burp Suite extension allows the user to upload the identified security issues directly to Pwndoc or export them in various document formats.
-
-**地址:** https://github.com/Fcvebf/ExporterBurpSuiteExtension
-
----
-
-## stonaderr/AppExploiter
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/stonaderr/AppExploiter
-
----
-
 
