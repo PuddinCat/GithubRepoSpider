@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## securityscience/SecSci-Burp-Extensions
+
+**关键字** burp
+
+**介绍:** SecSci-Burp-Extensions is a collection of BurpSuite Extensions designed for PenTest Automation
+
+**地址:** https://github.com/securityscience/SecSci-Burp-Extensions
+
+---
+
 ## bumperbutt197/Burp-Suite-Downlod
 
 **关键字** burp
@@ -2003,26 +2013,6 @@
 **介绍:** ExploitFinder WAF is an advanced Web Application Firewall built with FastAPI. It protects web applications from a wide range of attacks using a hybrid detection approach: pattern matching with regular expressions and a machine learning classifier for unknown threats. 
 
 **地址:** https://github.com/EXPLOITFINDER/ExploitFinder-WAF
-
----
-
-## jonhny-santos/cve-search-privacy-policy
-
-**关键字** CVE
-
-**介绍:** cve-search-privacy-policy
-
-**地址:** https://github.com/jonhny-santos/cve-search-privacy-policy
-
----
-
-## maximo896/CVE-2025-4322
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/maximo896/CVE-2025-4322
 
 ---
 
