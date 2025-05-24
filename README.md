@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## casp3r0x0/LoaderGate
+
+**关键字** shellcode
+
+**介绍:** a C# implementation for a shellcode loader that capable to bypass Cortex XDR and Sophos EDR. 
+
+**地址:** https://github.com/casp3r0x0/LoaderGate
+
+---
+
 ## artlinecreations/webshell_bypass
 
 **关键字** webshell
@@ -2493,66 +2503,6 @@
 **介绍:** None
 
 **地址:** https://github.com/wzylky/CVE
-
----
-
-## officialchristheg/cpp-lua-rce
-
-**关键字** RCE
-
-**介绍:** None
-
-**地址:** https://github.com/officialchristheg/cpp-lua-rce
-
----
-
-## ShadowStrikeHQ/cve-codetokenizer
-
-**关键字** CVE
-
-**介绍:** A simple utility to tokenize source code and output a frequency analysis of keywords and operators. 
-
-**地址:** https://github.com/ShadowStrikeHQ/cve-codetokenizer
-
----
-
-## rubakpoptart/sea-of-thieves-exploit
-
-**关键字** Exploit
-
-**介绍:** Latest Sea of Thieves Cheats Free Download 2025
-
-**地址:** https://github.com/rubakpoptart/sea-of-thieves-exploit
-
----
-
-## medxpy/WpExploit
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/medxpy/WpExploit
-
----
-
-## windingacqui/bw-dump
-
-**关键字** CVE
-
-**介绍:** A proof-of-concept for (CVE-2023-38840) that extracts plaintext master passwords from a locked Bitwarden vault. forensics, password-manager, redteam, security, windows, windowsapi
-
-**地址:** https://github.com/windingacqui/bw-dump
-
----
-
-## xiaozhang-yyds/PyNetScan
-
-**关键字** 网络安全
-
-**介绍:** TJ 系统安全实验 网络扫描器设计
-
-**地址:** https://github.com/xiaozhang-yyds/PyNetScan
 
 ---
 
