@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## securityscience/SecSci-xBurp-xReport
+
+**关键字** burp
+
+**介绍:** None
+
+**地址:** https://github.com/securityscience/SecSci-xBurp-xReport
+
+---
+
 ## cjz131/A-DWA-
 
 **关键字** 提权
@@ -253,6 +263,16 @@
 **介绍:** None
 
 **地址:** https://github.com/pouriam23/wordpress-CVE
+
+---
+
+## Nouvexr/Wing-FTP-Server-7.4.4-RCE-Authenticated
+
+**关键字** RCE
+
+**介绍:** Wing FTP Server provides an administrative Lua scripting console accessible via its web interface. Authenticated administrators are able to execute arbitrary Lua code with insufficient sandboxing.
+
+**地址:** https://github.com/Nouvexr/Wing-FTP-Server-7.4.4-RCE-Authenticated
 
 ---
 
@@ -2253,76 +2273,6 @@
 **介绍:** Step-by-Step: Rainbow Six Siege Hack Installation for Windows 2025 📚
 
 **地址:** https://github.com/trappeykeyforloe6/Siege-Exploit
-
----
-
-## IG-04/PaulScans
-
-**关键字** CVE
-
-**介绍:** PaulScans is a simple tool that does TCP port scans, banner grabs, and CVE lookup using Vulners. 
-
-**地址:** https://github.com/IG-04/PaulScans
-
----
-
-## hendrewna/CVE-2025-4918
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/hendrewna/CVE-2025-4918
-
----
-
-## ateist392/SCP-ExploitPro
-
-**关键字** Exploit
-
-**介绍:** Ultimate SCP Hacking Download for Windows in 2025🔥
-
-**地址:** https://github.com/ateist392/SCP-ExploitPro
-
----
-
-## hendrewna/CVE-2025-46801
-
-**关键字** CVE
-
-**介绍:** CVE-2025-46801 – Pgpool-II Authentication Bypass PoC
-
-**地址:** https://github.com/hendrewna/CVE-2025-46801
-
----
-
-## marowslern548/GMod-Exploit
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/marowslern548/GMod-Exploit
-
----
-
-## numbbottle854/Zula-Exploit-Kit
-
-**关键字** Exploit
-
-**介绍:** Ultimate Guide to Zula Hack Downloads for 2025: Free Cheats and Tips for Windows 🚀
-
-**地址:** https://github.com/numbbottle854/Zula-Exploit-Kit
-
----
-
-## bambinanoangel/PunkExploit-Hack
-
-**关键字** Exploit
-
-**介绍:** Exclusive FragPunk Cheat Tool 2025 for Windows – Download Now! ⚡
-
-**地址:** https://github.com/bambinanoangel/PunkExploit-Hack
 
 ---
 
