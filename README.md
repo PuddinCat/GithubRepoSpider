@@ -2126,24 +2126,4 @@
 
 ---
 
-## d0n601/CVE-2025-5058
-
-**关键字** CVE
-
-**介绍:** eMagicOne Store Manager for WooCommerce <= 1.2.5 - Unauthenticated Arbitrary File Upload via set_image Task
-
-**地址:** https://github.com/d0n601/CVE-2025-5058
-
----
-
-## EXPLOITFINDER/ExploitFinder-MLWAF
-
-**关键字** Exploit
-
-**介绍:** Advanced Web Application Firewall combining regex-based pattern matching and machine learning to detect and block threats like SQLi, XSS, RFI, and more. Features deep payload decoding, IP blocking, logging, retraining, and FastAPI-powered API.
-
-**地址:** https://github.com/EXPLOITFINDER/ExploitFinder-MLWAF
-
----
-
 
