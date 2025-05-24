@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## Tianji-Server/RecipeBugFix
+
+**关键字** 注入
+
+**介绍:** 该插件会在玩家登入时发送一次 Bukkit 注册过的配方
+
+**地址:** https://github.com/Tianji-Server/RecipeBugFix
+
+---
+
 ## RCE-ZKZR/solid-pancake
 
 **关键字** RCE
@@ -23,6 +33,16 @@
 **介绍:** RCE XWORM
 
 **地址:** https://github.com/RCE-ZKZR/RCE-XWORM
+
+---
+
+## Crescent-MJ/CTF-Help
+
+**关键字** 攻防
+
+**介绍:** Web安全攻防工具与技巧速查表
+
+**地址:** https://github.com/Crescent-MJ/CTF-Help
 
 ---
 
