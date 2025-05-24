@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## CGG888/Iptv-web-Checker
+
+**关键字** 护网
+
+**介绍:** Iptv-web-Checker 是一款基于 Node.js + Express + ffprobe 的 IPTV 组播流检测与管理工具，提供现代化 Web 界面，支持批量检测、状态筛选、导出等功能，适用于 IPTV 网络环境下的组播流批量检测、维护和导出。
+
+**地址:** https://github.com/CGG888/Iptv-web-Checker
+
+---
+
 ## sundayz-hunter/BB_User_Agent
 
 **关键字** burp
@@ -2123,26 +2133,6 @@
 **介绍:** Advanced Web Application Firewall combining regex-based pattern matching and machine learning to detect and block threats like SQLi, XSS, RFI, and more. Features deep payload decoding, IP blocking, logging, retraining, and FastAPI-powered API.
 
 **地址:** https://github.com/EXPLOITFINDER/ExploitFinder-MLWAF
-
----
-
-## giorgio0s0codes/BurpPythonTesting
-
-**关键字** burp
-
-**介绍:** None
-
-**地址:** https://github.com/giorgio0s0codes/BurpPythonTesting
-
----
-
-## Cr4ntz/exploits
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/Cr4ntz/exploits
 
 ---
 
