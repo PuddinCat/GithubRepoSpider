@@ -6,6 +6,16 @@
 
 ## 最新仓库
 
+## xingsumingxun/cve
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/xingsumingxun/cve
+
+---
+
 ## casp3r0x0/LoaderGate
 
 **关键字** shellcode
@@ -16,6 +26,46 @@
 
 ---
 
+## WildWestCyberSecurity/CVE-2019-13288
+
+**关键字** CVE
+
+**介绍:** Replicated using afl fuzzer instrumentation! Shoutz to antonio-morales.
+
+**地址:** https://github.com/WildWestCyberSecurity/CVE-2019-13288
+
+---
+
+## webzzaa/CVE-
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/webzzaa/CVE-
+
+---
+
+## fatkz/CVE-2022-24112
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/fatkz/CVE-2022-24112
+
+---
+
+## cvergnani/CVERGNANI
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/cvergnani/CVERGNANI
+
+---
+
 ## artlinecreations/webshell_bypass
 
 **关键字** webshell
@@ -23,6 +73,16 @@
 **介绍:** # webshell_bypassThis tool generates webshells that bypass security measures with ease. It currently supports PHP and will expand to other languages soon. 🛠️✨
 
 **地址:** https://github.com/artlinecreations/webshell_bypass
+
+---
+
+## 0xgh057r3c0n/CVE-2025-31161
+
+**关键字** CVE
+
+**介绍:** 🛡️ CVE-2025-31161 - CrushFTP User Creation Authentication Bypass Exploit
+
+**地址:** https://github.com/0xgh057r3c0n/CVE-2025-31161
 
 ---
 
@@ -173,6 +233,16 @@
 **介绍:** hack：@vue/cli@4.x下，配置多页面和splitChunk导致静态资源注入失败问题hack
 
 **地址:** https://github.com/lllllxt/DynamicChunksPlugin
+
+---
+
+## thierrybraga/Open-cve-report-api
+
+**关键字** CVE
+
+**介绍:** A public API To sync CVE with NVD database
+
+**地址:** https://github.com/thierrybraga/Open-cve-report-api
 
 ---
 
@@ -2493,16 +2563,6 @@
 **介绍:** None
 
 **地址:** https://github.com/finn79426/CVE-2020-10199
-
----
-
-## wzylky/CVE
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/wzylky/CVE
 
 ---
 
