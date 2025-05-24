@@ -2006,14 +2006,4 @@
 
 ---
 
-## EXPLOITFINDER/ExploitFinder-WAF
-
-**关键字** Exploit
-
-**介绍:** ExploitFinder WAF is an advanced Web Application Firewall built with FastAPI. It protects web applications from a wide range of attacks using a hybrid detection approach: pattern matching with regular expressions and a machine learning classifier for unknown threats. 
-
-**地址:** https://github.com/EXPLOITFINDER/ExploitFinder-WAF
-
----
-
 
