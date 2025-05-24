@@ -2026,24 +2026,4 @@
 
 ---
 
-## AUSK1LL9/CVE-2021-34527
-
-**关键字** CVE
-
-**介绍:** CVE-2021-34527 is a critical remote code execution and local privilege escalation vulnerability dubbed "PrintNightmare."
-
-**地址:** https://github.com/AUSK1LL9/CVE-2021-34527
-
----
-
-## domino79/healthcare-vuln-agent
-
-**关键字** CVE
-
-**介绍:** AI-powered agent for scanning healthcare information systems for vulnerabilities and anomalies using CVEs and machine learning.
-
-**地址:** https://github.com/domino79/healthcare-vuln-agent
-
----
-
 
