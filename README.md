@@ -6,6 +6,26 @@
 
 ## 最新仓库
 
+## RCE-ZKZR/solid-pancake
+
+**关键字** RCE
+
+**介绍:** RCE XWORM
+
+**地址:** https://github.com/RCE-ZKZR/solid-pancake
+
+---
+
+## RCE-ZKZR/RCE-XWORM
+
+**关键字** RCE
+
+**介绍:** RCE XWORM
+
+**地址:** https://github.com/RCE-ZKZR/RCE-XWORM
+
+---
+
 ## zhzhdoai/LintSight
 
 **关键字** 漏洞扫描
@@ -2473,36 +2493,6 @@
 **介绍:** None
 
 **地址:** https://github.com/lisa-2905/CVE-2024-56429
-
----
-
-## strav1l/FiveM-External-Cheat
-
-**关键字** Exploit
-
-**介绍:** FiveM External cheat, offers various features like aimbot, triggerbot, exploits, and customizable settings, enhancing the gameplay experience. It is completely undetectable.
-
-**地址:** https://github.com/strav1l/FiveM-External-Cheat
-
----
-
-## AdityaBhatt3010/Bug-Bounty-Practical-Lab-Finding-and-Exploiting-an-Unused-API-Endpoint
-
-**关键字** Exploit
-
-**介绍:** Manipulate a hidden API endpoint to change product pricing using HTTP method tampering and JSON injection, exposing a critical authorization flaw.
-
-**地址:** https://github.com/AdityaBhatt3010/Bug-Bounty-Practical-Lab-Finding-and-Exploiting-an-Unused-API-Endpoint
-
----
-
-## 25S22/CVE-Watcher
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/25S22/CVE-Watcher
 
 ---
 
