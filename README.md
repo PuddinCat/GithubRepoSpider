@@ -796,6 +796,16 @@
 
 ---
 
+## AlexSvobo/nhi-zero-trust-bypass
+
+**关键字** CVE
+
+**介绍:** Demonstrates a real-world zero-trust bypass by exploiting BIND CVE-2025-40775 to disrupt DNS, break secret rotation, and expose static credentials in a cloud-native lab.
+
+**地址:** https://github.com/AlexSvobo/nhi-zero-trust-bypass
+
+---
+
 ## namberino/cve
 
 **关键字** CVE
@@ -2463,36 +2473,6 @@
 **介绍:** None
 
 **地址:** https://github.com/Juliennnnnn/remote_Python_Flash_Exploit
-
----
-
-## RS7325/cve
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/RS7325/cve
-
----
-
-## IgorDuino/BurpHistTabs
-
-**关键字** burp
-
-**介绍:** BurpSuite extension for tabs in http history 
-
-**地址:** https://github.com/IgorDuino/BurpHistTabs
-
----
-
-## lisa-2905/CVE-2024-56428
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/lisa-2905/CVE-2024-56428
 
 ---
 
