@@ -186,6 +186,26 @@
 
 ---
 
+## zebraoffersp/LineageOS_cve_tracker
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/zebraoffersp/LineageOS_cve_tracker
+
+---
+
+## pouriam23/final-CVE-2016-5180
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/pouriam23/final-CVE-2016-5180
+
+---
+
 ## cjz131/A-DWA-
 
 **关键字** 提权
@@ -453,6 +473,16 @@
 **介绍:** Wing FTP Server provides an administrative Lua scripting console accessible via its web interface. Authenticated administrators are able to execute arbitrary Lua code with insufficient sandboxing.
 
 **地址:** https://github.com/Nouvexr/Wing-FTP-Server-7.4.4-RCE-Authenticated
+
+---
+
+## poprahul/my-amazing-application
+
+**关键字** CVE
+
+**介绍:** Application Repository to test CVE Patching
+
+**地址:** https://github.com/poprahul/my-amazing-application
 
 ---
 
@@ -766,6 +796,16 @@
 
 ---
 
+## pouriam23/CVE-2016-5180-docker-
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/pouriam23/CVE-2016-5180-docker-
+
+---
+
 ## sanek419/SheetExploit
 
 **关键字** Exploit
@@ -803,6 +843,16 @@
 **介绍:** None
 
 **地址:** https://github.com/sanek419/WormExploit
+
+---
+
+## enochgitgamefied/NextJS-CVE-2025-29927-Docker-Lab
+
+**关键字** CVE
+
+**介绍:** None
+
+**地址:** https://github.com/enochgitgamefied/NextJS-CVE-2025-29927-Docker-Lab
 
 ---
 
@@ -853,6 +903,16 @@
 **介绍:** None
 
 **地址:** https://github.com/idreessyed1/graphql-burp-test
+
+---
+
+## tallperennial/CosmicRakp
+
+**关键字** CVE
+
+**介绍:** CVE-2013-4786 Go exploitation tool
+
+**地址:** https://github.com/tallperennial/CosmicRakp
 
 ---
 
@@ -1923,86 +1983,6 @@
 **介绍:** About Details of the vulnerability found in the dlink dcs5020l
 
 **地址:** https://github.com/xiaobor123/cve-dlink-dcs5020l
-
----
-
-## ReanimatingTheNew/lanhu-mcp
-
-**关键字** 蓝队
-
-**介绍:** 蓝湖MCP，革命性的设计转换工具，将设计师的创意无缝转化为Unity UGUI预制体，节省开发时间，提升团队效率。
-
-**地址:** https://github.com/ReanimatingTheNew/lanhu-mcp
-
----
-
-## ReanimatingTheNew/lanhumcp
-
-**关键字** 蓝队
-
-**介绍:** 蓝湖MCP，革命性的设计转换工具，将设计师的创意无缝转化为Unity UGUI预制体，节省开发时间，提升团队效率。
-
-**地址:** https://github.com/ReanimatingTheNew/lanhumcp
-
----
-
-## richard0day/Mihomo-RCE
-
-**关键字** RCE
-
-**介绍:** None
-
-**地址:** https://github.com/richard0day/Mihomo-RCE
-
----
-
-## wxwhhh/webshell_bypass
-
-**关键字** 免杀
-
-**介绍:** 一个一键生成免杀的webshell工具
-
-**地址:** https://github.com/wxwhhh/webshell_bypass
-
----
-
-## deeznutz2176826/Post-exploits
-
-**关键字** Exploit
-
-**介绍:** With this u can post ur roblox scripts exploits
-
-**地址:** https://github.com/deeznutz2176826/Post-exploits
-
----
-
-## TshentroTech/Anti-Exploit
-
-**关键字** Exploit
-
-**介绍:** None
-
-**地址:** https://github.com/TshentroTech/Anti-Exploit
-
----
-
-## MoshOfferman/CVENT
-
-**关键字** CVE
-
-**介绍:** None
-
-**地址:** https://github.com/MoshOfferman/CVENT
-
----
-
-## friendlyproo/honeypot
-
-**关键字** 网络安全
-
-**介绍:** Honeypot 蜜罐系统 基于Go语言开发的分布式蜜罐系统，用于网络安全监测、攻击行为捕获与分析。A distributed honeypot system developed in Go for network security monitoring, attack behavior capture and analysis.
-
-**地址:** https://github.com/friendlyproo/honeypot
 
 ---
 
